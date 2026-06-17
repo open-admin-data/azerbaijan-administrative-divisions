@@ -1,0 +1,494 @@
+# Jabrayil — Azerbaijan Administrative Divisions
+
+> 97 settlements
+> Code: AZ605
+> Coordinates: 39.354, 47.012
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əfəndilər (Afandilar)
+
+Code: AZ605005, Coordinates: 39.435, 47.049
+
+
+### Ağtəpə (Aghtepe)
+
+Code: AZ605014, Coordinates: 39.358, 47.027
+
+
+### Alıkeyxalı (Alikeykhali)
+
+Code: AZ605039, Coordinates: 39.238, 47.038
+
+
+### Əmirvarlı (Amirvarli)
+
+Code: AZ605034, Coordinates: 39.282, 47.082
+
+
+### Əsgərxanlı (Asgarkhanli)
+
+Code: AZ605089, Coordinates: 39.418, 46.898
+
+
+### Aşağı Maralyan (Ashaghi  Maralyan)
+
+Code: AZ605023, Coordinates: 39.347, 47.217
+
+
+### Aşağı Sirik (Ashaghi  Sirik)
+
+Code: AZ605079, Coordinates: 39.295, 46.884
+
+
+### Aşıq Məlikli (Ashig  Malikli)
+
+Code: AZ605087, Coordinates: 39.446, 46.922
+
+
+### Balyand
+
+Code: AZ605003, Coordinates: 39.468, 47.108
+
+
+### Böyük Mərcanlı (Boyuk  Marjanli)
+
+Code: AZ605024, Coordinates: 39.368, 47.253
+
+
+### Çaxırlı (Chakhirli)
+
+Code: AZ605025, Coordinates: 39.369, 47.268
+
+
+### Çələbilər (Chalabilar)
+
+Code: AZ605083, Coordinates: 39.388, 46.828
+
+
+### Çapand (Chapand)
+
+Code: AZ605092, Coordinates: 39.391, 47.118
+
+
+### Çərəkən (Charakan)
+
+Code: AZ605007, Coordinates: 39.41, 47.065
+
+
+### Çullu (Chullu)
+
+Code: AZ605043, Coordinates: 39.407, 46.713
+
+
+### Dağ Maşanlı (Dagh Mashanli)
+
+Code: AZ605042, Coordinates: 39.374, 46.739
+
+
+### Dağ Tumas (Dagh Tumas)
+
+Code: AZ605074, Coordinates: 39.388, 46.768
+
+
+### Dərzili (Darzili)
+
+Code: AZ605055, Coordinates: 39.168, 46.894
+
+
+### Daş Veysəlli (Dash Veysalli)
+
+Code: AZ605013, Coordinates: 39.37, 47.031
+
+
+### Daşkəsən (Dashkasan)
+
+Code: AZ605012, Coordinates: 39.43, 47.104
+
+
+### Dəjəl (Dazhal)
+
+Code: AZ605020, Coordinates: 39.347, 47.151
+
+
+### Doşulu (Doshulu)
+
+Code: AZ605063, Coordinates: 39.476, 47.081
+
+
+### Fuğanlı (Fughanli)
+
+Code: AZ605017, Coordinates: 39.358, 47.087
+
+
+### Qalacıq (Galajig)
+
+Code: AZ605048, Coordinates: 39.401, 46.901
+
+
+### Qaraağac (Garaaghaj)
+
+Code: AZ605082, Coordinates: 39.388, 46.808
+
+
+### Qaracallı (Garajalli)
+
+Code: AZ605002, Coordinates: 39.47, 47.091
+
+
+### Qərər (Garar)
+
+Code: AZ605091, Coordinates: 39.425, 46.977
+
+
+### Qazanzəmi (Gazanzami)
+
+Code: AZ605044, Coordinates: 39.427, 46.751
+
+
+### Qışlaq (Gishlag)
+
+Code: AZ605004, Coordinates: 39.472, 47.044
+
+
+### Qoşabulaq (Goshabulag)
+
+Code: AZ605096, Coordinates: 39.272, 46.954
+
+
+### Qovşudlu (Govshudlu)
+
+Code: AZ605058, Coordinates: 39.262, 46.874
+
+
+### Göyərçin Veysəlli (Goyerchin Veysalli)
+
+Code: AZ605062, Coordinates: 39.251, 46.991
+
+
+### Qumlaq (Gumlag)
+
+Code: AZ605057, Coordinates: 39.17, 46.927
+
+
+### Qumlaq (Gumlag)
+
+Code: AZ605097, Coordinates: 39.184, 46.928
+
+
+### Qurbantəpə (Gurbantepe)
+
+Code: AZ605070, Coordinates: 39.389, 47.035
+
+
+### Quşçular (Gushchular)
+
+Code: AZ605065, Coordinates: 39.447, 46.911
+
+
+### Quycaq (Guyjag)
+
+Code: AZ605010, Coordinates: 39.405, 47.156
+
+
+### Hacı İsaqlı (Haji Isagli)
+
+Code: AZ605078, Coordinates: 39.277, 46.95
+
+
+### Hacılı (Hajili)
+
+Code: AZ605072, Coordinates: 39.348, 47.05
+
+
+### Həsənqaydı (Hasangaydi)
+
+Code: AZ605018, Coordinates: 39.373, 47.082
+
+
+### Hasanlı (Hasanli)
+
+Code: AZ605041, Coordinates: 39.207, 47.046
+
+
+### Horovlu
+
+Code: AZ605009, Coordinates: 39.402, 47.094
+
+
+### Hovuslu
+
+Code: AZ605049, Coordinates: 39.377, 46.917
+
+
+### Hüseynalılar (Huseynalilar)
+
+Code: AZ605037, Coordinates: 39.324, 47.05
+
+
+### İmambağı (Imambaghi)
+
+Code: AZ605069, Coordinates: 39.355, 47.09
+
+
+### İsaqlı (Isagli)
+
+Code: AZ605047, Coordinates: 39.42, 46.872
+
+
+### CƏBRAYIL (JABRAYIL)
+
+Code: AZ605006, Coordinates: 39.4, 47.025
+
+
+### Cəfərabad (Jafarabad)
+
+Code: AZ605021, Coordinates: 39.341, 47.178
+
+
+### Cocuq Mərcanlı (Jojug Marjanli)
+
+Code: AZ605027, Coordinates: 39.393, 47.3
+
+
+### Karxulu (Karkhulu)
+
+Code: AZ605022, Coordinates: 39.342, 47.194
+
+
+### Kavdar
+
+Code: AZ605036, Coordinates: 39.308, 47.06
+
+
+### Keçəl Məmmədli (Kechal Mammadli)
+
+Code: AZ605077, Coordinates: 39.268, 47.004
+
+
+### Xələfli (Khalafli)
+
+Code: AZ605051, Coordinates: 39.425, 46.957
+
+
+### Xələfli (Khalafli)
+
+Code: AZ605076, Coordinates: 39.17, 47.006
+
+
+### Xanağabulaq (Khanaghabulag)
+
+Code: AZ605064, Coordinates: 39.421, 46.779
+
+
+### Xubyarlı (Khubyarli)
+
+Code: AZ605067, Coordinates: 39.409, 47.008
+
+
+### Xudafərin (Khudafarin)
+
+Code: AZ605086, Coordinates: 39.151, 46.942
+
+
+### Xudaverdili (Khudaverdili)
+
+Code: AZ605066, Coordinates: 39.369, 47.04
+
+
+### Xudayarlı (Khudayarli)
+
+Code: AZ605075, Coordinates: 39.16, 46.945
+
+
+### Kürdlər (Kurdlar)
+
+Code: AZ605052, Coordinates: 39.43, 46.946
+
+
+### Mahmudlu
+
+Code: AZ605030, Coordinates: 39.324, 47.166
+
+
+### Mahmudlu
+
+Code: AZ605094, Coordinates: 39.32, 47.149
+
+
+### Maşanlı (Mashanli)
+
+Code: AZ605040, Coordinates: 39.217, 47.039
+
+
+### Məstalıbəyli (Mastalibeyli)
+
+Code: AZ605056, Coordinates: 39.17, 46.918
+
+
+### Məzrə (Mazra)
+
+Code: AZ605085, Coordinates: 39.291, 47.083
+
+
+### Mehdili
+
+Code: AZ605026, Coordinates: 39.383, 47.278
+
+
+### Minbaşılı (Minbashili)
+
+Code: AZ605081, Coordinates: 39.343, 47.031
+
+
+### Mirək (Mirak)
+
+Code: AZ605035, Coordinates: 39.31, 47.07
+
+
+### Molla Həsənli (Molla Hasanli)
+
+Code: AZ605088, Coordinates: 39.425, 46.886
+
+
+### Niftalılar (Niftalilar)
+
+Code: AZ605093, Coordinates: 39.397, 46.901
+
+
+### Niyazqulular (Niyazgulular)
+
+Code: AZ605061, Coordinates: 39.257, 46.956
+
+
+### Nüsüs (Nusus)
+
+Code: AZ605090, Coordinates: 39.418, 46.923
+
+
+### Nüzgar (Nuzgar)
+
+Code: AZ605028, Coordinates: 39.413, 47.222
+
+
+### Papı (Papi)
+
+Code: AZ605008, Coordinates: 39.404, 47.076
+
+
+### Sədi (Sadi)
+
+Code: AZ605015, Coordinates: 39.352, 47.017
+
+
+### Safarşa (Safarsha)
+
+Code: AZ605019, Coordinates: 39.37, 47.133
+
+
+### Sarıcallı (Sarijalli)
+
+Code: AZ605033, Coordinates: 39.302, 47.103
+
+
+### Şahvələdli (Shahvaladli)
+
+Code: AZ605068, Coordinates: 39.419, 47.022
+
+
+### Şahvəlli (Shahvalli)
+
+Code: AZ605060, Coordinates: 39.283, 46.967
+
+
+### Şəybəy (Shaybey)
+
+Code: AZ605011, Coordinates: 39.392, 47.189
+
+
+### Şıxalıağalı (Shikhaliaghali)
+
+Code: AZ605032, Coordinates: 39.309, 47.121
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ605046, Coordinates: 39.44, 46.863
+
+
+### Şükürbəyli (Shukurbeyli)
+
+Code: AZ605031, Coordinates: 39.322, 47.146
+
+
+### Sirik
+
+Code: AZ605080, Coordinates: 39.475, 46.872
+
+
+### Sofulu
+
+Code: AZ605073, Coordinates: 39.372, 46.814
+
+
+### Soltanlı (Soltanli)
+
+Code: AZ605038, Coordinates: 39.259, 47.047
+
+
+### Söyüdlü (Soyudlu)
+
+Code: AZ605045, Coordinates: 39.424, 46.772
+
+
+### Süleymanlı (Suleymanli)
+
+Code: AZ605001, Coordinates: 39.465, 47.066
+
+
+### Tatar
+
+Code: AZ605054, Coordinates: 39.448, 46.93
+
+
+### Tinli
+
+Code: AZ605059, Coordinates: 39.26, 46.899
+
+
+### Tulus
+
+Code: AZ605016, Coordinates: 39.357, 47.066
+
+
+### Yanarxac (Yanarkhaj)
+
+Code: AZ605095, Coordinates: 39.266, 47.006
+
+
+### Yarəhmədli (Yarahmadli)
+
+Code: AZ605050, Coordinates: 39.378, 46.973
+
+
+### Yuxarı Məzrə (Yukhari  Mazra)
+
+Code: AZ605053, Coordinates: 39.459, 46.954
+
+
+### Yuxarı Nüsüs (Yukhari  Nusus)
+
+Code: AZ605071, Coordinates: 39.479, 46.899
+
+
+### Yuxarı Maralyan (Yukhari Maralyan)
+
+Code: AZ605029, Coordinates: 39.334, 47.196
+
+
+### Yuxarı Mərcanlı (Yukhari Marjanli)
+
+Code: AZ605084, Coordinates: 39.36, 47.23
+
+

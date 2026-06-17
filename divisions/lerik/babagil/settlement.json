@@ -1,0 +1,45 @@
+{
+  "id": "AZ803086",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Babagil",
+    "en": "Babagil",
+    "slug": "babagil"
+  },
+  "code": {
+    "id": "AZ803086",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.797",
+    "lon": "48.511"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ302115",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ağaşirinoba",
+    "en": "Aghashirinoba",
+    "slug": "aghashirinoba"
+  },
+  "code": {
+    "id": "AZ302115",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ302",
+    "level": 1,
+    "name": {
+      "local": "Xaçmaz",
+      "en": "Khachmaz",
+      "slug": "khachmaz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.519",
+    "lon": "48.682"
+  },
+  "metadata": {},
+  "source": {}
+}

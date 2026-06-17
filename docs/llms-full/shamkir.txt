@@ -1,0 +1,339 @@
+# Shamkir — Azerbaijan Administrative Divisions
+
+> 66 settlements
+> Code: AZ504
+> Coordinates: 40.813, 46.039
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abbaslı (Abbasli)
+
+Code: AZ504039, Coordinates: 40.759, 46.148
+
+
+### Ağlavaşlı (Aghlavashli)
+
+Code: AZ504048, Coordinates: 40.811, 46.262
+
+
+### Əhmədli (Ahmadli)
+
+Code: AZ504017, Coordinates: 40.779, 45.898
+
+
+### Ələsgərli (Alasgarli)
+
+Code: AZ504007, Coordinates: 40.816, 45.77
+
+
+### Əliyaqublu (Aliyagublu)
+
+Code: AZ504029, Coordinates: 40.834, 46.082
+
+
+### Aşağı Çaykənd (Ashaghi Chaykend)
+
+Code: AZ504053, Coordinates: 40.63, 45.949
+
+
+### Aşağı Seyfəli (Ashaghi Seyfali)
+
+Code: AZ504056, Coordinates: 40.747, 46.142
+
+
+### Atabəy (Atabey)
+
+Code: AZ504010, Coordinates: 40.751, 45.823
+
+
+### Barlıbağ (Barlibagh)
+
+Code: AZ504061, Coordinates: 40.812, 46.169
+
+
+### Bayramlı (Bayramli)
+
+Code: AZ504003, Coordinates: 40.933, 45.922
+
+
+### Çənlibel (Chanlibel)
+
+Code: AZ504015, Coordinates: 40.744, 45.88
+
+
+### Çaparlı (Chaparli)
+
+Code: AZ504030, Coordinates: 40.855, 46.093
+
+
+### Çaylı (Chayli)
+
+Code: AZ504041, Coordinates: 40.736, 46.057
+
+
+### Çinarlı (Chinarli)
+
+Code: AZ504059, Coordinates: 40.778, 46.12
+
+
+### Dağ Cəyir (Dagh Jayir)
+
+Code: AZ504012, Coordinates: 40.703, 45.926
+
+
+### Dəllər (Dallar)
+
+Code: AZ504033, Coordinates: 40.865, 46.039
+
+
+### Dəllər Daşbulaq (Dallar Dashbulag)
+
+Code: AZ504034, Coordinates: 40.903, 46.043
+
+
+### Dəllər Cəyir (Dallar Jayir)
+
+Code: AZ504032, Coordinates: 40.885, 46.036
+
+
+### Dəllər Cırdaxan (Dallar Jirdakhan)
+
+Code: AZ504035, Coordinates: 40.896, 46.076
+
+
+### Daşbulaq (Dashbulag)
+
+Code: AZ504009, Coordinates: 40.777, 45.812
+
+
+### Düyərli (Duyarli)
+
+Code: AZ504002, Coordinates: 40.915, 45.852
+
+
+### Düzqışlaq (Duzgishlag)
+
+Code: AZ504063, Coordinates: 40.838, 46.152
+
+
+### Füzuli (Fuzuli)
+
+Code: AZ504026, Coordinates: 40.823, 46.134
+
+
+### Qədimqala (Gadimgala)
+
+Code: AZ504028, Coordinates: 40.82, 46.105
+
+
+### Qapanlı (Gapanli)
+
+Code: AZ504050, Coordinates: 40.87, 46.215
+
+
+### Qarabağlar (Garabaghlar)
+
+Code: AZ504062, Coordinates: 40.811, 46.183
+
+
+### Qaraqocalı (Garagojali)
+
+Code: AZ504042, Coordinates: 40.714, 46.044
+
+
+### Qaraqoyunlu (Garagoyunlu)
+
+Code: AZ504014, Coordinates: 40.712, 45.971
+
+
+### Qaracəmirli (Garajamirli)
+
+Code: AZ504049, Coordinates: 40.844, 46.213
+
+
+### Qaralar (Garalar)
+
+Code: AZ504046, Coordinates: 40.8, 46.236
+
+
+### Qaranuy (Garanuy)
+
+Code: AZ504036, Coordinates: 40.918, 46.079
+
+
+### Qasımalılar (Gasimalilar)
+
+Code: AZ504020, Coordinates: 40.78, 45.957
+
+
+### Qılıncbəyli (Gilinjbeyli)
+
+Code: AZ504047, Coordinates: 40.817, 46.224
+
+
+### Göyməmmədli (Goymammadli)
+
+Code: AZ504019, Coordinates: 40.773, 45.956
+
+
+### Günəşli (Gunashli)
+
+Code: AZ504052, Coordinates: 40.669, 45.919
+
+
+### Hacıalılar (Hajialilar)
+
+Code: AZ504016, Coordinates: 40.779, 45.878
+
+
+### İrmaşlı (Irmashli)
+
+Code: AZ504064, Coordinates: 40.841, 45.885
+
+
+### İsgəndərli (Isgandarli)
+
+Code: AZ504057, Coordinates: 40.996, 46.156
+
+
+### Kamandar
+
+Code: AZ504008, Coordinates: 40.801, 45.734
+
+
+### Keçili (Kechili)
+
+Code: AZ504023, Coordinates: 40.859, 46.131
+
+
+### Xuluf (Khuluf)
+
+Code: AZ504066, Coordinates: 40.848, 46.121
+
+
+### Könüllü (Konullu)
+
+Code: AZ504045, Coordinates: 40.784, 46.242
+
+
+### Kür (Kur)
+
+Code: AZ504055, Coordinates: 40.907, 46.185
+
+
+### Mahmudlu
+
+Code: AZ504024, Coordinates: 40.854, 46.158
+
+
+### Məşədihüseynli (Mashadihuseynli)
+
+Code: AZ504031, Coordinates: 40.869, 46.102
+
+
+### Mehrili
+
+Code: AZ504043, Coordinates: 40.711, 46.05
+
+
+### Miskinli
+
+Code: AZ504027, Coordinates: 40.83, 46.119
+
+
+### Nərimanlı (Narimanli)
+
+Code: AZ504044, Coordinates: 40.684, 46.086
+
+
+### Sabirkənd (Sabirkend)
+
+Code: AZ504005, Coordinates: 40.898, 45.916
+
+
+### Səməd Vurğun (Samad Vurghun)
+
+Code: AZ504021, Coordinates: 40.923, 46.193
+
+
+### Sarıtəpə (Saritepe)
+
+Code: AZ504058, Coordinates: 40.902, 45.986
+
+
+### ŞƏMKİR (SHAMKIR)
+
+Code: AZ504037, Coordinates: 40.824, 46.025
+
+
+### Şeidlər (Sheidlar)
+
+Code: AZ504018, Coordinates: 40.778, 45.931
+
+
+### Şiştəpə (Shishtepe)
+
+Code: AZ504006, Coordinates: 40.847, 45.931
+
+
+### Talış (Talish)
+
+Code: AZ504051, Coordinates: 40.865, 46.271
+
+
+### Tatarlı (Tatarli)
+
+Code: AZ504065, Coordinates: 40.864, 45.754
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ504025, Coordinates: 40.834, 46.143
+
+
+### Varlı Həyat (Varli Hayat)
+
+Code: AZ504013, Coordinates: 40.696, 45.972
+
+
+### Yeni Göyçə (Yeni Goycha)
+
+Code: AZ504011, Coordinates: 40.673, 45.948
+
+
+### Yeni Həyat (Yeni Hayat)
+
+Code: AZ504038, Coordinates: 40.778, 46.1
+
+
+### Yeni yol
+
+Code: AZ504060, Coordinates: 40.821, 46.14
+
+
+### Yeniabad
+
+Code: AZ504022, Coordinates: 40.888, 46.168
+
+
+### Yuxarı Çaykənd (Yukhari Chaykend)
+
+Code: AZ504054, Coordinates: 40.643, 45.951
+
+
+### Yuxarı Seyfəli (Yukhari Seyfali)
+
+Code: AZ504040, Coordinates: 40.749, 46.088
+
+
+### Zəyəm (Zayam)
+
+Code: AZ504004, Coordinates: 40.901, 45.883
+
+
+### Zəyəm Cırdaxan (Zayam Jirdakhan)
+
+Code: AZ504001, Coordinates: 40.883, 45.818
+
+

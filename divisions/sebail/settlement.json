@@ -1,0 +1,92 @@
+[
+  {
+    "id": "AZ100502",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Badamdar",
+      "en": "Badamdar",
+      "slug": "badamdar"
+    },
+    "code": {
+      "id": "AZ100502",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1005",
+      "level": 1,
+      "name": {
+        "local": "Səbail",
+        "en": "Sebail",
+        "slug": "sebail"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1005",
+        "level": 1,
+        "name": {
+          "local": "Səbail",
+          "en": "Sebail",
+          "slug": "sebail"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.337",
+      "lon": "49.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100501",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibiheybət",
+      "en": "Bibiheybat",
+      "slug": "bibiheybat"
+    },
+    "code": {
+      "id": "AZ100501",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1005",
+      "level": 1,
+      "name": {
+        "local": "Səbail",
+        "en": "Sebail",
+        "slug": "sebail"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1005",
+        "level": 1,
+        "name": {
+          "local": "Səbail",
+          "en": "Sebail",
+          "slug": "sebail"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.305",
+      "lon": "49.822"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

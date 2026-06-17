@@ -1,0 +1,182 @@
+[
+  {
+    "id": "AZ101204",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çilov",
+      "en": "Chilov",
+      "slug": "chilov"
+    },
+    "code": {
+      "id": "AZ101204",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1012",
+      "level": 1,
+      "name": {
+        "local": "Pirallahı",
+        "en": "Pirallahi",
+        "slug": "pirallahi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1012",
+        "level": 1,
+        "name": {
+          "local": "Pirallahı",
+          "en": "Pirallahi",
+          "slug": "pirallahi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.316",
+      "lon": "50.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ101202",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gürgən",
+      "en": "Gurgan",
+      "slug": "gurgan"
+    },
+    "code": {
+      "id": "AZ101202",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1012",
+      "level": 1,
+      "name": {
+        "local": "Pirallahı",
+        "en": "Pirallahi",
+        "slug": "pirallahi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1012",
+        "level": 1,
+        "name": {
+          "local": "Pirallahı",
+          "en": "Pirallahi",
+          "slug": "pirallahi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.399",
+      "lon": "50.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ101203",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Neft Daşları",
+      "en": "Neft Dashlari",
+      "slug": "neft-dashlari"
+    },
+    "code": {
+      "id": "AZ101203",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1012",
+      "level": 1,
+      "name": {
+        "local": "Pirallahı",
+        "en": "Pirallahi",
+        "slug": "pirallahi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1012",
+        "level": 1,
+        "name": {
+          "local": "Pirallahı",
+          "en": "Pirallahi",
+          "slug": "pirallahi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.24",
+      "lon": "50.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ101201",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirallahı",
+      "en": "Pirallahi",
+      "slug": "pirallahi"
+    },
+    "code": {
+      "id": "AZ101201",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1012",
+      "level": 1,
+      "name": {
+        "local": "Pirallahı",
+        "en": "Pirallahi",
+        "slug": "pirallahi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1012",
+        "level": 1,
+        "name": {
+          "local": "Pirallahı",
+          "en": "Pirallahi",
+          "slug": "pirallahi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.47",
+      "lon": "50.328"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

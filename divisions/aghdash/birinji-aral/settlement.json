@@ -1,0 +1,45 @@
+{
+  "id": "AZ903062",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Birinci Aral",
+    "en": "Birinji Aral",
+    "slug": "birinji-aral"
+  },
+  "code": {
+    "id": "AZ903062",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.603",
+    "lon": "47.59"
+  },
+  "metadata": {},
+  "source": {}
+}

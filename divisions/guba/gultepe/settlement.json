@@ -1,0 +1,45 @@
+{
+  "id": "AZ303030",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Gültəpə",
+    "en": "Gultepe",
+    "slug": "gultepe"
+  },
+  "code": {
+    "id": "AZ303030",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.293",
+    "lon": "48.473"
+  },
+  "metadata": {},
+  "source": {}
+}

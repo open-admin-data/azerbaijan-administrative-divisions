@@ -1,0 +1,45 @@
+{
+  "id": "AZ703013",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarakənd",
+    "en": "Garakend",
+    "slug": "garakend"
+  },
+  "code": {
+    "id": "AZ703013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ703",
+    "level": 1,
+    "name": {
+      "local": "Xocavənd",
+      "en": "Khojavand",
+      "slug": "khojavand"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.846",
+    "lon": "47.024"
+  },
+  "metadata": {},
+  "source": {}
+}

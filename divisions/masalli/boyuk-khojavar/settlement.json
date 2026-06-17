@@ -1,0 +1,45 @@
+{
+  "id": "AZ805095",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Böyük Xocavar",
+    "en": "Boyuk Khojavar",
+    "slug": "boyuk-khojavar"
+  },
+  "code": {
+    "id": "AZ805095",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ805",
+    "level": 1,
+    "name": {
+      "local": "Masallı",
+      "en": "Masalli",
+      "slug": "masalli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.051",
+    "lon": "48.635"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ601095",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Damğalı",
+    "en": "Damghali",
+    "slug": "damghali"
+  },
+  "code": {
+    "id": "AZ601095",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ612",
+    "level": 1,
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.019",
+    "lon": "46.614"
+  },
+  "metadata": {},
+  "source": {}
+}

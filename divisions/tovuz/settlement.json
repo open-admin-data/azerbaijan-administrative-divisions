@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "AZ503077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abbasqulular",
+      "en": "Abbasgulular",
+      "slug": "abbasgulular"
+    },
+    "code": {
+      "id": "AZ503077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.679",
+      "lon": "45.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abulbəyli",
+      "en": "Abulbeyli",
+      "slug": "abulbeyli"
+    },
+    "code": {
+      "id": "AZ503049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.981",
+      "lon": "45.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağacqala",
+      "en": "Aghajgala",
+      "slug": "aghajgala"
+    },
+    "code": {
+      "id": "AZ503039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.798",
+      "lon": "45.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbaşlar",
+      "en": "Aghbashlar",
+      "slug": "aghbashlar"
+    },
+    "code": {
+      "id": "AZ503096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.649",
+      "lon": "45.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbulaq",
+      "en": "Aghbulag",
+      "slug": "aghbulag"
+    },
+    "code": {
+      "id": "AZ503027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.839",
+      "lon": "45.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    },
+    "code": {
+      "id": "AZ503010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.909",
+      "lon": "45.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    },
+    "code": {
+      "id": "AZ503084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.727",
+      "lon": "45.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədabad",
+      "en": "Ahmadabad",
+      "slug": "ahmadabad"
+    },
+    "code": {
+      "id": "AZ503057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.781",
+      "lon": "45.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alakol",
+      "en": "Alakol",
+      "slug": "alakol"
+    },
+    "code": {
+      "id": "AZ503020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.907",
+      "lon": "45.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlibəyli",
+      "en": "Alibeyli",
+      "slug": "alibeyli"
+    },
+    "code": {
+      "id": "AZ503006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.939",
+      "lon": "45.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlimərdanlı",
+      "en": "Alimardanli",
+      "slug": "alimardanli"
+    },
+    "code": {
+      "id": "AZ503043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.039",
+      "lon": "45.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Almalıtala",
+      "en": "Almalitala",
+      "slug": "almalitala"
+    },
+    "code": {
+      "id": "AZ503095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.665",
+      "lon": "45.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aran",
+      "en": "Aran",
+      "slug": "aran"
+    },
+    "code": {
+      "id": "AZ503101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.971",
+      "lon": "45.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Quşçu",
+      "en": "Ashaghi Gushchu",
+      "slug": "ashaghi-gushchu"
+    },
+    "code": {
+      "id": "AZ503016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.956",
+      "lon": "45.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Mülkülü",
+      "en": "Ashaghi Mulkulu",
+      "slug": "ashaghi-mulkulu"
+    },
+    "code": {
+      "id": "AZ503002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.049",
+      "lon": "45.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Öysüzlü",
+      "en": "Ashaghi Oysuzlu",
+      "slug": "ashaghi-oysuzlu"
+    },
+    "code": {
+      "id": "AZ503015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.971",
+      "lon": "45.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşırallar",
+      "en": "Ashirallar",
+      "slug": "ashirallar"
+    },
+    "code": {
+      "id": "AZ503048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.963",
+      "lon": "45.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşralar",
+      "en": "Ashralar",
+      "slug": "ashralar"
+    },
+    "code": {
+      "id": "AZ503086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.738",
+      "lon": "45.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əsrik Cırdaxan",
+      "en": "Asrik Jirdakhan",
+      "slug": "asrik-jirdakhan"
+    },
+    "code": {
+      "id": "AZ503026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.856",
+      "lon": "45.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avdal",
+      "en": "Avdal",
+      "slug": "avdal"
+    },
+    "code": {
+      "id": "AZ503040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.798",
+      "lon": "45.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əyyublu",
+      "en": "Ayyublu",
+      "slug": "ayyublu"
+    },
+    "code": {
+      "id": "AZ503019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.931",
+      "lon": "45.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azaflı",
+      "en": "Azafli",
+      "slug": "azafli"
+    },
+    "code": {
+      "id": "AZ503017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.926",
+      "lon": "45.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baqqallı",
+      "en": "Baggalli",
+      "slug": "baggalli"
+    },
+    "code": {
+      "id": "AZ503098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.736",
+      "lon": "45.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Şamlıq",
+      "en": "Bala Shamlig",
+      "slug": "bala-shamlig"
+    },
+    "code": {
+      "id": "AZ503080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.692",
+      "lon": "45.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayramlı",
+      "en": "Bayramli",
+      "slug": "bayramli"
+    },
+    "code": {
+      "id": "AZ503024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.902",
+      "lon": "45.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Qışlaq",
+      "en": "Boyuk  Gishlag",
+      "slug": "boyuk-gishlag"
+    },
+    "code": {
+      "id": "AZ503066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.711",
+      "lon": "45.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Xoşdarlı",
+      "en": "Boyuk Khoshdarli",
+      "slug": "boyuk-khoshdarli"
+    },
+    "code": {
+      "id": "AZ503103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.824",
+      "lon": "45.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Şamlıq",
+      "en": "Boyuk Shamlig",
+      "slug": "boyuk-shamlig"
+    },
+    "code": {
+      "id": "AZ503038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.704",
+      "lon": "45.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bozalqanlı",
+      "en": "Bozalganli",
+      "slug": "bozalganli"
+    },
+    "code": {
+      "id": "AZ503013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.994",
+      "lon": "45.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çatax",
+      "en": "Chatakh",
+      "slug": "chatakh"
+    },
+    "code": {
+      "id": "AZ503062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.721",
+      "lon": "45.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çeşməli",
+      "en": "Cheshmali",
+      "slug": "cheshmali"
+    },
+    "code": {
+      "id": "AZ503078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.688",
+      "lon": "45.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çobansığnaq",
+      "en": "Chobansighnag",
+      "slug": "chobansighnag"
+    },
+    "code": {
+      "id": "AZ503090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.751",
+      "lon": "45.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəlləkli",
+      "en": "Dallakli",
+      "slug": "dallakli"
+    },
+    "code": {
+      "id": "AZ503079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.688",
+      "lon": "45.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dondar Quşçu",
+      "en": "Dondar Gushchu",
+      "slug": "dondar-gushchu"
+    },
+    "code": {
+      "id": "AZ503012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.951",
+      "lon": "45.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dondarlı",
+      "en": "Dondarli",
+      "slug": "dondarli"
+    },
+    "code": {
+      "id": "AZ503093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.725",
+      "lon": "45.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dönük Qırıqlı",
+      "en": "Donuk Girigli",
+      "slug": "donuk-girigli"
+    },
+    "code": {
+      "id": "AZ503054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.934",
+      "lon": "45.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düz Qırıqlı",
+      "en": "Duz Girigli",
+      "slug": "duz-girigli"
+    },
+    "code": {
+      "id": "AZ503018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.943",
+      "lon": "45.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düz Cırdaxan",
+      "en": "Duz Jirdakhan",
+      "slug": "duz-jirdakhan"
+    },
+    "code": {
+      "id": "AZ503004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.018",
+      "lon": "45.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qədirli",
+      "en": "Gadirli",
+      "slug": "gadirli"
+    },
+    "code": {
+      "id": "AZ503042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.041",
+      "lon": "45.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalaboyun",
+      "en": "Galaboyun",
+      "slug": "galaboyun"
+    },
+    "code": {
+      "id": "AZ503034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.757",
+      "lon": "45.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qandalar",
+      "en": "Gandalar",
+      "slug": "gandalar"
+    },
+    "code": {
+      "id": "AZ503065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.706",
+      "lon": "45.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabağlılar",
+      "en": "Garabaghlilar",
+      "slug": "garabaghlilar"
+    },
+    "code": {
+      "id": "AZ503085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.729",
+      "lon": "45.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraboyunlar",
+      "en": "Garaboyunlar",
+      "slug": "garaboyunlar"
+    },
+    "code": {
+      "id": "AZ503089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.763",
+      "lon": "45.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradaş",
+      "en": "Garadash",
+      "slug": "garadash"
+    },
+    "code": {
+      "id": "AZ503008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.699",
+      "lon": "45.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarağatlı",
+      "en": "Garaghatli",
+      "slug": "garaghatli"
+    },
+    "code": {
+      "id": "AZ503099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.691",
+      "lon": "45.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraxanlı",
+      "en": "Garakhanli",
+      "slug": "garakhanli"
+    },
+    "code": {
+      "id": "AZ503050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.043",
+      "lon": "45.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaralar",
+      "en": "Garalar",
+      "slug": "garalar"
+    },
+    "code": {
+      "id": "AZ503007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.747",
+      "lon": "45.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəribli",
+      "en": "Garibli",
+      "slug": "garibli"
+    },
+    "code": {
+      "id": "AZ503081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.698",
+      "lon": "45.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qayadibi",
+      "en": "Gayadibi",
+      "slug": "gayadibi"
+    },
+    "code": {
+      "id": "AZ503037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.709",
+      "lon": "45.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazıqulu",
+      "en": "Gazigulu",
+      "slug": "gazigulu"
+    },
+    "code": {
+      "id": "AZ503047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.964",
+      "lon": "45.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoçdərə",
+      "en": "Gochdere",
+      "slug": "gochdere"
+    },
+    "code": {
+      "id": "AZ503088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.758",
+      "lon": "45.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qonaqlı",
+      "en": "Gonagli",
+      "slug": "gonagli"
+    },
+    "code": {
+      "id": "AZ503102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.721",
+      "lon": "45.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoşa",
+      "en": "Gosha",
+      "slug": "gosha"
+    },
+    "code": {
+      "id": "AZ503036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.776",
+      "lon": "45.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "QOVLAR",
+      "en": "GOVLAR",
+      "slug": "govlar"
+    },
+    "code": {
+      "id": "AZ503053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.949",
+      "lon": "45.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyəbaxan",
+      "en": "Goyabakhan",
+      "slug": "goyabakhan"
+    },
+    "code": {
+      "id": "AZ503071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.677",
+      "lon": "45.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qozdərə",
+      "en": "Gozdere",
+      "slug": "gozdere"
+    },
+    "code": {
+      "id": "AZ503051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.838",
+      "lon": "45.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güvəndik",
+      "en": "Guvandik",
+      "slug": "guvandik"
+    },
+    "code": {
+      "id": "AZ503075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.666",
+      "lon": "45.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıalılı",
+      "en": "Hajialili",
+      "slug": "hajialili"
+    },
+    "code": {
+      "id": "AZ503005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.957",
+      "lon": "45.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıhəsənli",
+      "en": "Hajihasanli",
+      "slug": "hajihasanli"
+    },
+    "code": {
+      "id": "AZ503029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.817",
+      "lon": "45.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacılar",
+      "en": "Hajilar",
+      "slug": "hajilar"
+    },
+    "code": {
+      "id": "AZ503060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.732",
+      "lon": "45.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənli",
+      "en": "Hasanli",
+      "slug": "hasanli"
+    },
+    "code": {
+      "id": "AZ503073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.675",
+      "lon": "45.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hətəmlər",
+      "en": "Hatamlar",
+      "slug": "hatamlar"
+    },
+    "code": {
+      "id": "AZ503083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.714",
+      "lon": "45.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hunanlar",
+      "en": "Hunanlar",
+      "slug": "hunanlar"
+    },
+    "code": {
+      "id": "AZ503001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.061",
+      "lon": "45.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynqulular",
+      "en": "Huseyngulular",
+      "slug": "huseyngulular"
+    },
+    "code": {
+      "id": "AZ503055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.674",
+      "lon": "45.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İbrahimhacılı",
+      "en": "Ibrahimhajili",
+      "slug": "ibrahimhajili"
+    },
+    "code": {
+      "id": "AZ503044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.904",
+      "lon": "45.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsakənd",
+      "en": "Isakend",
+      "slug": "isakend"
+    },
+    "code": {
+      "id": "AZ503056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.751",
+      "lon": "45.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəlilli",
+      "en": "Jalilli",
+      "slug": "jalilli"
+    },
+    "code": {
+      "id": "AZ503003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.037",
+      "lon": "45.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cilovdarlı",
+      "en": "Jilovdarli",
+      "slug": "jilovdarli"
+    },
+    "code": {
+      "id": "AZ503052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.05",
+      "lon": "45.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cirdək",
+      "en": "Jirdak",
+      "slug": "jirdak"
+    },
+    "code": {
+      "id": "AZ503061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.723",
+      "lon": "45.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəcavənd",
+      "en": "Kajavand",
+      "slug": "kajavand"
+    },
+    "code": {
+      "id": "AZ503041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.812",
+      "lon": "45.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kazımlı",
+      "en": "Kazimli",
+      "slug": "kazimli"
+    },
+    "code": {
+      "id": "AZ503064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.716",
+      "lon": "45.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xatıncan",
+      "en": "Khatinjan",
+      "slug": "khatinjan"
+    },
+    "code": {
+      "id": "AZ503033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.768",
+      "lon": "45.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xatınlı",
+      "en": "Khatinli",
+      "slug": "khatinli"
+    },
+    "code": {
+      "id": "AZ503100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.042",
+      "lon": "45.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xınnakirən",
+      "en": "Khinnakiran",
+      "slug": "khinnakiran"
+    },
+    "code": {
+      "id": "AZ503031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.795",
+      "lon": "45.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kirən",
+      "en": "Kiran",
+      "slug": "kiran"
+    },
+    "code": {
+      "id": "AZ503030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.8",
+      "lon": "45.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnəqala",
+      "en": "Kohnegala",
+      "slug": "kohnegala"
+    },
+    "code": {
+      "id": "AZ503021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.896",
+      "lon": "45.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koxanəbi",
+      "en": "Kokhanabi",
+      "slug": "kokhanabi"
+    },
+    "code": {
+      "id": "AZ503025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.871",
+      "lon": "45.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lazılar",
+      "en": "Lazilar",
+      "slug": "lazilar"
+    },
+    "code": {
+      "id": "AZ503094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.647",
+      "lon": "45.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədilər",
+      "en": "Mashadilar",
+      "slug": "mashadilar"
+    },
+    "code": {
+      "id": "AZ503023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.847",
+      "lon": "45.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədilər",
+      "en": "Mashadilar",
+      "slug": "mashadilar"
+    },
+    "code": {
+      "id": "AZ503045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.88",
+      "lon": "45.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədiqulular",
+      "en": "Mashadilgulular",
+      "slug": "mashadilgulular"
+    },
+    "code": {
+      "id": "AZ503072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.672",
+      "lon": "45.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədivəlilər",
+      "en": "Mashadivalilar",
+      "slug": "mashadivalilar"
+    },
+    "code": {
+      "id": "AZ503074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.687",
+      "lon": "45.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məsimlər",
+      "en": "Masimlar",
+      "slug": "masimlar"
+    },
+    "code": {
+      "id": "AZ503069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.695",
+      "lon": "45.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Molla Ayrım",
+      "en": "Molla Ayrim",
+      "slug": "molla-ayrim"
+    },
+    "code": {
+      "id": "AZ503028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.829",
+      "lon": "45.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollalar",
+      "en": "Mollalar",
+      "slug": "mollalar"
+    },
+    "code": {
+      "id": "AZ503067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.707",
+      "lon": "45.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mülkülü",
+      "en": "Mulkulu",
+      "slug": "mulkulu"
+    },
+    "code": {
+      "id": "AZ503046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.952",
+      "lon": "45.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muncuqlu",
+      "en": "Munjuglu",
+      "slug": "munjuglu"
+    },
+    "code": {
+      "id": "AZ503035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.797",
+      "lon": "45.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Namxoş",
+      "en": "Namkhosh",
+      "slug": "namkhosh"
+    },
+    "code": {
+      "id": "AZ503087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.738",
+      "lon": "45.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəsibli",
+      "en": "Nasibli",
+      "slug": "nasibli"
+    },
+    "code": {
+      "id": "AZ503070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.681",
+      "lon": "45.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Öskən",
+      "en": "Oskan",
+      "slug": "oskan"
+    },
+    "code": {
+      "id": "AZ503082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.708",
+      "lon": "45.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pələkli",
+      "en": "Palakli",
+      "slug": "palakli"
+    },
+    "code": {
+      "id": "AZ503058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.745",
+      "lon": "45.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Papaqçılar",
+      "en": "Papagchilar",
+      "slug": "papagchilar"
+    },
+    "code": {
+      "id": "AZ503076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.671",
+      "lon": "45.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sadıqlı",
+      "en": "Sadigli",
+      "slug": "sadigli"
+    },
+    "code": {
+      "id": "AZ503104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.813",
+      "lon": "45.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səfərli",
+      "en": "Safarli",
+      "slug": "safarli"
+    },
+    "code": {
+      "id": "AZ503068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.701",
+      "lon": "45.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saladınlı",
+      "en": "Saladinli",
+      "slug": "saladinli"
+    },
+    "code": {
+      "id": "AZ503097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.735",
+      "lon": "45.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıtala",
+      "en": "Saritala",
+      "slug": "saritala"
+    },
+    "code": {
+      "id": "AZ503092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.732",
+      "lon": "45.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şamlıq",
+      "en": "Shamlig",
+      "slug": "shamlig"
+    },
+    "code": {
+      "id": "AZ503063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.717",
+      "lon": "45.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxheybət",
+      "en": "Shikhheybat",
+      "slug": "shikhheybat"
+    },
+    "code": {
+      "id": "AZ503059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.74",
+      "lon": "45.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sofular",
+      "en": "Sofular",
+      "slug": "sofular"
+    },
+    "code": {
+      "id": "AZ503032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.78",
+      "lon": "45.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "TOVUZ",
+      "en": "TOVUZ",
+      "slug": "tovuz"
+    },
+    "code": {
+      "id": "AZ503014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.994",
+      "lon": "45.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vahidli",
+      "en": "Vahidli",
+      "slug": "vahidli"
+    },
+    "code": {
+      "id": "AZ503011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.928",
+      "lon": "45.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yanıqlı",
+      "en": "Yanigli",
+      "slug": "yanigli"
+    },
+    "code": {
+      "id": "AZ503022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.851",
+      "lon": "45.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yoğunbulaq",
+      "en": "Yoghunbulag",
+      "slug": "yoghunbulag"
+    },
+    "code": {
+      "id": "AZ503091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.746",
+      "lon": "45.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ503009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Öysüzlü",
+      "en": "Yukhari Oysuzlu",
+      "slug": "yukhari-oysuzlu"
+    },
+    "code": {
+      "id": "AZ503009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ503",
+        "level": 1,
+        "name": {
+          "local": "Tovuz",
+          "en": "Tovuz",
+          "slug": "tovuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.952",
+      "lon": "45.578"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

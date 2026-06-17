@@ -1,0 +1,45 @@
+{
+  "id": "AZ105020",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kolanı",
+    "en": "Kolani",
+    "slug": "kolani"
+  },
+  "code": {
+    "id": "AZ105020",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ105",
+    "level": 1,
+    "name": {
+      "local": "Şahbuz",
+      "en": "Shahbuz",
+      "slug": "shahbuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.455",
+    "lon": "45.685"
+  },
+  "metadata": {},
+  "source": {}
+}

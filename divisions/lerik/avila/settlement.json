@@ -1,0 +1,45 @@
+{
+  "id": "AZ803041",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əvilə",
+    "en": "Avila",
+    "slug": "avila"
+  },
+  "code": {
+    "id": "AZ803041",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.812",
+    "lon": "48.374"
+  },
+  "metadata": {},
+  "source": {}
+}

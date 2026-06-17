@@ -1,0 +1,45 @@
+{
+  "id": "AZ806010",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İnili",
+    "en": "Inili",
+    "slug": "inili"
+  },
+  "code": {
+    "id": "AZ806010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ806",
+    "level": 1,
+    "name": {
+      "local": "Cəlilabad",
+      "en": "Jalilabad",
+      "slug": "jalilabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.27",
+    "lon": "48.394"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ401022",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şərif",
+    "en": "Sharif",
+    "slug": "sharif"
+  },
+  "code": {
+    "id": "AZ401022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ401",
+    "level": 1,
+    "name": {
+      "local": "Balakən",
+      "en": "Balakan",
+      "slug": "balakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.729",
+    "lon": "46.243"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ602110",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qışlaq",
+    "en": "Gishlag",
+    "slug": "gishlag"
+  },
+  "code": {
+    "id": "AZ602110",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.607",
+    "lon": "46.707"
+  },
+  "metadata": {},
+  "source": {}
+}

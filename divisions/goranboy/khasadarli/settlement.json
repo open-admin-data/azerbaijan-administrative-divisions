@@ -1,0 +1,45 @@
+{
+  "id": "AZ509010",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xasadarlı",
+    "en": "Khasadarli",
+    "slug": "khasadarli"
+  },
+  "code": {
+    "id": "AZ509010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.698",
+    "lon": "46.688"
+  },
+  "metadata": {},
+  "source": {}
+}

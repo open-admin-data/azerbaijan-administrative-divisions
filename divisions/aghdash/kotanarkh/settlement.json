@@ -1,0 +1,45 @@
+{
+  "id": "AZ903039",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kotanarx",
+    "en": "Kotanarkh",
+    "slug": "kotanarkh"
+  },
+  "code": {
+    "id": "AZ903039",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.589",
+    "lon": "47.488"
+  },
+  "metadata": {},
+  "source": {}
+}

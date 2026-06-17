@@ -1,0 +1,45 @@
+{
+  "id": "AZ601071",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ağbulaq",
+    "en": "Aghbulag",
+    "slug": "aghbulag"
+  },
+  "code": {
+    "id": "AZ601071",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ601",
+    "level": 1,
+    "name": {
+      "local": "Kəlbəcər",
+      "en": "Kalbajar",
+      "slug": "kalbajar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.105",
+    "lon": "46.169"
+  },
+  "metadata": {},
+  "source": {}
+}

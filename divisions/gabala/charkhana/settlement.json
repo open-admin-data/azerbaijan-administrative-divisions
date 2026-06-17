@@ -1,0 +1,45 @@
+{
+  "id": "AZ406017",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çarxana",
+    "en": "Charkhana",
+    "slug": "charkhana"
+  },
+  "code": {
+    "id": "AZ406017",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ406",
+    "level": 1,
+    "name": {
+      "local": "Qəbələ",
+      "en": "Gabala",
+      "slug": "gabala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.837",
+    "lon": "47.707"
+  },
+  "metadata": {},
+  "source": {}
+}

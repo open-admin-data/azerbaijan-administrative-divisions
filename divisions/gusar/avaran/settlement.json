@@ -1,0 +1,45 @@
+{
+  "id": "AZ301022",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Avaran",
+    "en": "Avaran",
+    "slug": "avaran"
+  },
+  "code": {
+    "id": "AZ301022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.427",
+    "lon": "48.386"
+  },
+  "metadata": {},
+  "source": {}
+}

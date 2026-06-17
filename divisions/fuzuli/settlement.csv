@@ -1,0 +1,101 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+AZ606090,Ağbaşlı,Aghbashli,aghbashli,AZ606090,39.722,47.059
+AZ606048,Əhmədalılar,Ahmadalilar,ahmadalilar,AZ606048,39.43,47.331
+AZ606003,Əhmədbəyli,Ahmadbeyli,ahmadbeyli,AZ606003,39.566,47.553
+AZ606015,Ələsgərli,Alasgarli,alasgarli,AZ606015,39.596,47.21
+AZ606054,Alxanlı,Alkhanli,alkhanli,AZ606054,39.596,47.366
+AZ606051,Arayatlı,Arayatli,arayatli,AZ606051,39.475,47.37
+AZ606001,Araz Dilağarda,Araz Dilagharda,araz-dilagharda,AZ606001,39.562,47.606
+AZ606072,Araz Zərgər,Araz Zargar,araz-zargar,AZ606072,39.572,47.623
+AZ606030,Arış,Arish,arish,AZ606030,39.534,47.105
+AZ606056,Aşağı Kürdmahmudlu,Ashaghi  Kurdmahmudlu,ashaghi-kurdmahmudlu,AZ606056,39.59,47.473
+AZ606040,Aşağı Rəfədinli,Ashaghi  Rafadinli,ashaghi-rafadinli,AZ606040,39.48,47.134
+AZ606024,Aşağı Seyidəhmədli,Ashaghi  Seyidahmadli,ashaghi-seyidahmadli,AZ606024,39.574,47.309
+AZ606052,Aşağı Əbdürrəhmanlı,Ashaghi Abdurrahmanli,ashaghi-abdurrahmanli,AZ606052,39.525,47.268
+AZ606039,Aşağı Güzlək,Ashaghi Guzlak,ashaghi-guzlak,AZ606039,39.485,47.135
+AZ606064,Aşağı Veysəlli,Ashaghi Veysalli,ashaghi-veysalli,AZ606064,39.702,47.218
+AZ606058,Aşağı Yağlıvənd,Ashaghi Yaghlivand,ashaghi-yaghlivand,AZ606058,39.51,47.458
+AZ606068,Babı,Babi,babi,AZ606068,39.484,47.378
+AZ606073,Bala Bəhmənli,Bala Bahmanli,bala-bahmanli,AZ606073,39.554,47.575
+AZ606089,Beşinci  Zobucuq,Beshinji  Zobujug,beshinji-zobujug,AZ606089,39.577,47.407
+AZ606069,Birinci Mahmudlu,Birinji Mahmudlu,birinji-mahmudlu,AZ606069,39.543,47.559
+AZ606085,Birinci Zobucuq,Birinji Zobujug,birinji-zobujug,AZ606085,39.542,47.411
+AZ606059,Böyük Bəhmənli,Boyuk Bahmanli,boyuk-bahmanli,AZ606059,39.516,47.5
+AZ606066,Çimən,Chiman,chiman,AZ606066,39.567,47.094
+AZ606012,Dədəli,Dadali,dadali,AZ606012,39.582,47.163
+AZ606062,Dilağarda,Dilagharda,dilagharda,AZ606062,39.673,47.141
+AZ606061,Divanalılar,Divanalilar,divanalilar,AZ606061,39.668,47.085
+AZ606044,Dördçinar,Dordchinar,dordchinar,AZ606044,39.46,47.216
+AZ606098,Dördlər,Dordlar,dordlar,AZ606098,39.714,47.157
+AZ606088,Dördüncü Zobucuq,Dordunju Zobujug,dordunju-zobujug,AZ606088,39.567,47.411
+AZ606007,Dövlətyarlı,Dovlatyarli,dovlatyarli,AZ606007,39.619,47.15
+AZ606009,FÜZULİ,FUZULI,fuzuli,AZ606009,39.6,47.147
+AZ606004,Qacar,Gajar,gajar,AZ606004,39.65,47.056
+AZ606095,Qarabağ,Garabagh,garabagh,AZ606095,39.588,47.542
+AZ606034,Qaradağlı,Garadaghli,garadaghli,AZ606034,39.512,47.077
+AZ606022,Qaraxanbəyli,Garakhanbeyli,garakhanbeyli,AZ606022,39.604,47.276
+AZ606037,Qarakollu,Garakollu,garakollu,AZ606037,39.489,47.118
+AZ606006,Qaraməmmədli,Garamammadli,garamammadli,AZ606006,39.628,47.124
+AZ606027,Qarğabazar,Garghabazar,garghabazar,AZ606027,39.54,47.158
+AZ606019,Qərvənd,Garvand,garvand,AZ606019,39.633,47.228
+AZ606078,1 №li Qayıdış,Gayidish-1,gayidish-1,AZ606078,39.617,47.651
+AZ606083,10 №-li Qayıdış,Gayidish-10,gayidish-10,AZ606083,39.735,47.502
+AZ606084,11 №-li Qayıdış,Gayidish-11,gayidish-11,AZ606084,39.731,47.504
+AZ606077,2 №li Qayıdış,Gayidish-2,gayidish-2,AZ606077,39.628,47.632
+AZ606074,3 №li Qayıdış,Gayidish-3,gayidish-3,AZ606074,39.631,47.625
+AZ606076,4 №li Qayıdış,Gayidish-4,gayidish-4,AZ606076,39.636,47.617
+AZ606075,5 №li Qayıdış,Gayidish-5,gayidish-5,AZ606075,39.639,47.611
+AZ606079,6 №-li Qayıdış,Gayidish-6,gayidish-6,AZ606079,39.726,47.522
+AZ606080,7 №-li Qayıdış,Gayidish-7,gayidish-7,AZ606080,39.732,47.519
+AZ606081,8 №-li Qayıdış,Gayidish-8,gayidish-8,AZ606081,39.736,47.515
+AZ606082,9 №-li Qayıdış,Gayidish-9,gayidish-9,AZ606082,39.739,47.514
+AZ606047,Qazaxlar,Gazakhlar,gazakhlar,AZ606047,39.407,47.321
+AZ606014,Gecəgözlü,Gejagozlu,gejagozlu,AZ606014,39.579,47.194
+AZ606099,Qıyıqçı,Giyigchi,giyigchi,AZ606099,39.618,47.097
+AZ606100,Qızıl Qışlaq,Gizil Gishlag,gizil-gishlag,AZ606100,39.618,47.107
+AZ606063,Qobu Dilağarda,Gobu Dilagharda,gobu-dilagharda,AZ606063,39.68,47.177
+AZ606028,Qoçəhmədli,Gochahmadli,gochahmadli,AZ606028,39.533,47.132
+AZ606036,Gorazıllı,Gorazilli,gorazilli,AZ606036,39.492,47.087
+AZ606023,Qorqan,Gorgan,gorgan,AZ606023,39.559,47.28
+AZ606065,Govşatlı,Govshatli,govshatli,AZ606065,39.614,47.06
+AZ606045,Horadiz,Horadiz,horadiz,AZ606045,39.454,47.234
+AZ606049,HORADİZ,HORADIZ,horadiz,AZ606049,39.449,47.337
+AZ606094,Hüngütlü,Hungutlu,hungutlu,AZ606094,39.464,47.219
+AZ606093,Hüseynbəyli,Huseynbeyli,huseynbeyli,AZ606093,39.589,47.221
+AZ606002,İkinci Mahmudlu,Ikinji Mahmudlu,ikinji-mahmudlu,AZ606002,39.573,47.541
+AZ606086,İkinci Zobucuq,Ikinji Zobujug,ikinji-zobujug,AZ606086,39.547,47.391
+AZ606013,İşıqlı,Ishigli,ishigli,AZ606013,39.573,47.164
+AZ606032,Cuvarlı,Juvarli,juvarli,AZ606032,39.567,47.105
+AZ606057,Kərimbəyli,Karimbeyli,karimbeyli,AZ606057,39.508,47.418
+AZ606031,Xələfşə,Khalafsha,khalafsha,AZ606031,39.555,47.12
+AZ606033,Xatınbulaq,Khatinbulag,khatinbulag,AZ606033,39.513,47.105
+AZ606026,Kürdlər,Kurdlar,kurdlar,AZ606026,39.54,47.203
+AZ606041,Mandılı,Mandili,mandili,AZ606041,39.478,47.164
+AZ606021,Merdinli,Merdinli,merdinli,AZ606021,39.596,47.263
+AZ606017,Mirzəcamallı,Mirzajamalli,mirzajamalli,AZ606017,39.599,47.203
+AZ606046,Mirzənağılı,Mirzanaghili,mirzanaghili,AZ606046,39.398,47.313
+AZ606050,Mollaməhərrəmli,Mollamaharramli,mollamaharramli,AZ606050,39.466,47.363
+AZ606067,Mollavəli,Mollavali,mollavali,AZ606067,39.514,47.129
+AZ606096,Murtuzalılar,Murtuzalilar,murtuzalilar,AZ606096,39.559,47.548
+AZ606043,Musabəyli,Musabeyli,musabeyli,AZ606043,39.473,47.18
+AZ606042,Pirəhmədli,Pirahmadli,pirahmadli,AZ606042,39.474,47.162
+AZ606070,Saracıq,Sarajig,sarajig,AZ606070,39.491,47.11
+AZ606092,Sərdarlı,Sardarli,sardarli,AZ606092,39.528,47.149
+AZ606018,Seyidmahmudlu,Seyidmahmudlu,seyidmahmudlu,AZ606018,39.606,47.209
+AZ606010,Şəkərcik,Shakarjik,shakarjik,AZ606010,39.606,47.169
+AZ606091,Şıxımlı,Shikhimli,shikhimli,AZ606091,39.603,47.062
+AZ606097,Şıxlı,Shikhli,shikhli,AZ606097,39.59,47.176
+AZ606053,Şükürbəyli,Shukurbeyli,shukurbeyli,AZ606053,39.525,47.337
+AZ606071,Üçbulaq,Uchbulag,uchbulag,AZ606071,39.587,47.034
+AZ606016,Üçüncü Mahmudlu,Uchunju Mahmudlu,uchunju-mahmudlu,AZ606016,39.583,47.223
+AZ606087,Üçüncü Zobucuq,Uchunju Zobujug,uchunju-zobujug,AZ606087,39.568,47.398
+AZ606029,Yal Pirəhmədli,Yal Pirahmadli,yal-pirahmadli,AZ606029,39.533,47.155
+AZ606060,Yuxarı Veysəlli,Yukhari  Veysalli,yukhari-veysalli,AZ606060,39.738,47.094
+AZ606025,Yuxarı Əbdürrəhmanlı,Yukhari Abdurrahmanli,yukhari-abdurrahmanli,AZ606025,39.568,47.198
+AZ606011,Yuxarı Aybasanlı,Yukhari Aybasanli,yukhari-aybasanli,AZ606011,39.596,47.171
+AZ606035,Yuxarı Güzlək,Yukhari Guzlak,yukhari-guzlak,AZ606035,39.498,47.083
+AZ606055,Yuxarı Kürdmahmudlu,Yukhari Kurdmahmudlu,yukhari-kurdmahmudlu,AZ606055,39.602,47.452
+AZ606038,Yuxarı Rəfədinli,Yukhari Rafadinli,yukhari-rafadinli,AZ606038,39.482,47.122
+AZ606020,Yuxarı Seyidəhmədli,Yukhari Seyidahmadli,yukhari-seyidahmadli,AZ606020,39.58,47.262
+AZ606008,Yuxarı Yağlıvənd,Yukhari Yaghlivand,yukhari-yaghlivand,AZ606008,39.646,47.125
+AZ606005,Zərgər,Zargar,zargar,AZ606005,39.616,47.117

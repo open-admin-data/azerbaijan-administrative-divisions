@@ -1,0 +1,45 @@
+{
+  "id": "AZ506033",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Alaxançallı",
+    "en": "Alakhanchalli",
+    "slug": "alakhanchalli"
+  },
+  "code": {
+    "id": "AZ506033",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ506",
+    "level": 1,
+    "name": {
+      "local": "Daşkəsən",
+      "en": "Dashkasan",
+      "slug": "dashkasan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.383",
+    "lon": "46.095"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ503100",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xatınlı",
+    "en": "Khatinli",
+    "slug": "khatinli"
+  },
+  "code": {
+    "id": "AZ503100",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.042",
+    "lon": "45.649"
+  },
+  "metadata": {},
+  "source": {}
+}

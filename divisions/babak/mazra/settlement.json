@@ -1,0 +1,45 @@
+{
+  "id": "AZ103011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Məzrə",
+    "en": "Mazra",
+    "slug": "mazra"
+  },
+  "code": {
+    "id": "AZ103011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ103",
+    "level": 1,
+    "name": {
+      "local": "Babək",
+      "en": "Babak",
+      "slug": "babak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.309",
+    "lon": "45.459"
+  },
+  "metadata": {},
+  "source": {}
+}

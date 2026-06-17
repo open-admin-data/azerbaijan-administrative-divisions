@@ -1,0 +1,45 @@
+{
+  "id": "AZ104003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaraçuq",
+    "en": "Garachug",
+    "slug": "garachug"
+  },
+  "code": {
+    "id": "AZ104003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ104",
+    "level": 1,
+    "name": {
+      "local": "Naxçıvan",
+      "en": "Nakhchivan",
+      "slug": "nakhchivan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.19",
+    "lon": "45.376"
+  },
+  "metadata": {},
+  "source": {}
+}

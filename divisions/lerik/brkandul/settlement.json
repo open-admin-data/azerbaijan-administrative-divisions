@@ -1,0 +1,45 @@
+{
+  "id": "AZ803085",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Brkandul",
+    "en": "Brkandul",
+    "slug": "brkandul"
+  },
+  "code": {
+    "id": "AZ803085",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.814",
+    "lon": "48.506"
+  },
+  "metadata": {},
+  "source": {}
+}

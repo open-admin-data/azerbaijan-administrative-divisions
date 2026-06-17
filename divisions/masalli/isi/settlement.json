@@ -1,0 +1,45 @@
+{
+  "id": "AZ805045",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İsi",
+    "en": "Isi",
+    "slug": "isi"
+  },
+  "code": {
+    "id": "AZ805045",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ805",
+    "level": 1,
+    "name": {
+      "local": "Masallı",
+      "en": "Masalli",
+      "slug": "masalli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.99",
+    "lon": "48.582"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ601062",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Orta Qaraçanlı",
+    "en": "Orta Garachanli",
+    "slug": "orta-garachanli"
+  },
+  "code": {
+    "id": "AZ601062",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ601",
+    "level": 1,
+    "name": {
+      "local": "Kəlbəcər",
+      "en": "Kalbajar",
+      "slug": "kalbajar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.037",
+    "lon": "46.041"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ505062",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Samanlıq",
+    "en": "Samanlig",
+    "slug": "samanlig"
+  },
+  "code": {
+    "id": "AZ505062",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ505",
+    "level": 1,
+    "name": {
+      "local": "Gədəbəy",
+      "en": "Gadabey",
+      "slug": "gadabey"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.748",
+    "lon": "45.768"
+  },
+  "metadata": {},
+  "source": {}
+}

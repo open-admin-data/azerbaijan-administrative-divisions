@@ -1,0 +1,45 @@
+{
+  "id": "AZ507021",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaraağaclı",
+    "en": "Garaaghajli",
+    "slug": "garaaghajli"
+  },
+  "code": {
+    "id": "AZ507021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ507",
+    "level": 1,
+    "name": {
+      "local": "Samux",
+      "en": "Samukh",
+      "slug": "samukh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.939",
+    "lon": "46.374"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ107047",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şəhriyar",
+    "en": "Shahriyar",
+    "slug": "shahriyar"
+  },
+  "code": {
+    "id": "AZ107047",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ107",
+    "level": 1,
+    "name": {
+      "local": "Ordubad",
+      "en": "Ordubad",
+      "slug": "ordubad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.879",
+    "lon": "46.005"
+  },
+  "metadata": {},
+  "source": {}
+}

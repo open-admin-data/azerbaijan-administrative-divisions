@@ -1,0 +1,45 @@
+{
+  "id": "AZ904001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şahlıq",
+    "en": "Shahlig",
+    "slug": "shahlig"
+  },
+  "code": {
+    "id": "AZ904001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ904",
+    "level": 1,
+    "name": {
+      "local": "Ucar",
+      "en": "Ujar",
+      "slug": "ujar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.47",
+    "lon": "47.491"
+  },
+  "metadata": {},
+  "source": {}
+}

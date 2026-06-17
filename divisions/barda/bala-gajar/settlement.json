@@ -1,0 +1,45 @@
+{
+  "id": "AZ610070",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bala Qacar",
+    "en": "Bala Gajar",
+    "slug": "bala-gajar"
+  },
+  "code": {
+    "id": "AZ610070",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ610",
+    "level": 1,
+    "name": {
+      "local": "Bərdə",
+      "en": "Barda",
+      "slug": "barda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.325",
+    "lon": "47.143"
+  },
+  "metadata": {},
+  "source": {}
+}

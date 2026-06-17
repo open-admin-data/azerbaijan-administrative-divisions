@@ -1,0 +1,2972 @@
+[
+  {
+    "id": "AZ504039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abbaslı",
+      "en": "Abbasli",
+      "slug": "abbasli"
+    },
+    "code": {
+      "id": "AZ504039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.759",
+      "lon": "46.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağlavaşlı",
+      "en": "Aghlavashli",
+      "slug": "aghlavashli"
+    },
+    "code": {
+      "id": "AZ504048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.811",
+      "lon": "46.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədli",
+      "en": "Ahmadli",
+      "slug": "ahmadli"
+    },
+    "code": {
+      "id": "AZ504017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.779",
+      "lon": "45.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ələsgərli",
+      "en": "Alasgarli",
+      "slug": "alasgarli"
+    },
+    "code": {
+      "id": "AZ504007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.816",
+      "lon": "45.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliyaqublu",
+      "en": "Aliyagublu",
+      "slug": "aliyagublu"
+    },
+    "code": {
+      "id": "AZ504029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.834",
+      "lon": "46.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Çaykənd",
+      "en": "Ashaghi Chaykend",
+      "slug": "ashaghi-chaykend"
+    },
+    "code": {
+      "id": "AZ504053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.63",
+      "lon": "45.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Seyfəli",
+      "en": "Ashaghi Seyfali",
+      "slug": "ashaghi-seyfali"
+    },
+    "code": {
+      "id": "AZ504056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.747",
+      "lon": "46.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atabəy",
+      "en": "Atabey",
+      "slug": "atabey"
+    },
+    "code": {
+      "id": "AZ504010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.751",
+      "lon": "45.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Barlıbağ",
+      "en": "Barlibagh",
+      "slug": "barlibagh"
+    },
+    "code": {
+      "id": "AZ504061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.812",
+      "lon": "46.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayramlı",
+      "en": "Bayramli",
+      "slug": "bayramli"
+    },
+    "code": {
+      "id": "AZ504003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.933",
+      "lon": "45.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çənlibel",
+      "en": "Chanlibel",
+      "slug": "chanlibel"
+    },
+    "code": {
+      "id": "AZ504015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.744",
+      "lon": "45.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaparlı",
+      "en": "Chaparli",
+      "slug": "chaparli"
+    },
+    "code": {
+      "id": "AZ504030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.855",
+      "lon": "46.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaylı",
+      "en": "Chayli",
+      "slug": "chayli"
+    },
+    "code": {
+      "id": "AZ504041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.736",
+      "lon": "46.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çinarlı",
+      "en": "Chinarli",
+      "slug": "chinarli"
+    },
+    "code": {
+      "id": "AZ504059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.778",
+      "lon": "46.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağ Cəyir",
+      "en": "Dagh Jayir",
+      "slug": "dagh-jayir"
+    },
+    "code": {
+      "id": "AZ504012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.703",
+      "lon": "45.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəllər",
+      "en": "Dallar",
+      "slug": "dallar"
+    },
+    "code": {
+      "id": "AZ504033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.865",
+      "lon": "46.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəllər Daşbulaq",
+      "en": "Dallar Dashbulag",
+      "slug": "dallar-dashbulag"
+    },
+    "code": {
+      "id": "AZ504034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.903",
+      "lon": "46.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəllər Cəyir",
+      "en": "Dallar Jayir",
+      "slug": "dallar-jayir"
+    },
+    "code": {
+      "id": "AZ504032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.885",
+      "lon": "46.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəllər Cırdaxan",
+      "en": "Dallar Jirdakhan",
+      "slug": "dallar-jirdakhan"
+    },
+    "code": {
+      "id": "AZ504035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.896",
+      "lon": "46.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşbulaq",
+      "en": "Dashbulag",
+      "slug": "dashbulag"
+    },
+    "code": {
+      "id": "AZ504009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.777",
+      "lon": "45.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düyərli",
+      "en": "Duyarli",
+      "slug": "duyarli"
+    },
+    "code": {
+      "id": "AZ504002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.915",
+      "lon": "45.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düzqışlaq",
+      "en": "Duzgishlag",
+      "slug": "duzgishlag"
+    },
+    "code": {
+      "id": "AZ504063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.838",
+      "lon": "46.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    },
+    "code": {
+      "id": "AZ504026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.823",
+      "lon": "46.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qədimqala",
+      "en": "Gadimgala",
+      "slug": "gadimgala"
+    },
+    "code": {
+      "id": "AZ504028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.82",
+      "lon": "46.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qapanlı",
+      "en": "Gapanli",
+      "slug": "gapanli"
+    },
+    "code": {
+      "id": "AZ504050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.87",
+      "lon": "46.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabağlar",
+      "en": "Garabaghlar",
+      "slug": "garabaghlar"
+    },
+    "code": {
+      "id": "AZ504062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.811",
+      "lon": "46.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqocalı",
+      "en": "Garagojali",
+      "slug": "garagojali"
+    },
+    "code": {
+      "id": "AZ504042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.714",
+      "lon": "46.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqoyunlu",
+      "en": "Garagoyunlu",
+      "slug": "garagoyunlu"
+    },
+    "code": {
+      "id": "AZ504014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.712",
+      "lon": "45.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaracəmirli",
+      "en": "Garajamirli",
+      "slug": "garajamirli"
+    },
+    "code": {
+      "id": "AZ504049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.844",
+      "lon": "46.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaralar",
+      "en": "Garalar",
+      "slug": "garalar"
+    },
+    "code": {
+      "id": "AZ504046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.8",
+      "lon": "46.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaranuy",
+      "en": "Garanuy",
+      "slug": "garanuy"
+    },
+    "code": {
+      "id": "AZ504036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.918",
+      "lon": "46.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımalılar",
+      "en": "Gasimalilar",
+      "slug": "gasimalilar"
+    },
+    "code": {
+      "id": "AZ504020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.78",
+      "lon": "45.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qılıncbəyli",
+      "en": "Gilinjbeyli",
+      "slug": "gilinjbeyli"
+    },
+    "code": {
+      "id": "AZ504047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.817",
+      "lon": "46.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyməmmədli",
+      "en": "Goymammadli",
+      "slug": "goymammadli"
+    },
+    "code": {
+      "id": "AZ504019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.773",
+      "lon": "45.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ504052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.669",
+      "lon": "45.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıalılar",
+      "en": "Hajialilar",
+      "slug": "hajialilar"
+    },
+    "code": {
+      "id": "AZ504016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.779",
+      "lon": "45.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İrmaşlı",
+      "en": "Irmashli",
+      "slug": "irmashli"
+    },
+    "code": {
+      "id": "AZ504064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.841",
+      "lon": "45.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsgəndərli",
+      "en": "Isgandarli",
+      "slug": "isgandarli"
+    },
+    "code": {
+      "id": "AZ504057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.996",
+      "lon": "46.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kamandar",
+      "en": "Kamandar",
+      "slug": "kamandar"
+    },
+    "code": {
+      "id": "AZ504008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.801",
+      "lon": "45.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keçili",
+      "en": "Kechili",
+      "slug": "kechili"
+    },
+    "code": {
+      "id": "AZ504023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.859",
+      "lon": "46.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xuluf",
+      "en": "Khuluf",
+      "slug": "khuluf"
+    },
+    "code": {
+      "id": "AZ504066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.848",
+      "lon": "46.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Könüllü",
+      "en": "Konullu",
+      "slug": "konullu"
+    },
+    "code": {
+      "id": "AZ504045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.784",
+      "lon": "46.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kür",
+      "en": "Kur",
+      "slug": "kur"
+    },
+    "code": {
+      "id": "AZ504055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.907",
+      "lon": "46.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahmudlu",
+      "en": "Mahmudlu",
+      "slug": "mahmudlu"
+    },
+    "code": {
+      "id": "AZ504024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.854",
+      "lon": "46.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədihüseynli",
+      "en": "Mashadihuseynli",
+      "slug": "mashadihuseynli"
+    },
+    "code": {
+      "id": "AZ504031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.869",
+      "lon": "46.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehrili",
+      "en": "Mehrili",
+      "slug": "mehrili"
+    },
+    "code": {
+      "id": "AZ504043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.711",
+      "lon": "46.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Miskinli",
+      "en": "Miskinli",
+      "slug": "miskinli"
+    },
+    "code": {
+      "id": "AZ504027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.83",
+      "lon": "46.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nərimanlı",
+      "en": "Narimanli",
+      "slug": "narimanli"
+    },
+    "code": {
+      "id": "AZ504044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.684",
+      "lon": "46.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sabirkənd",
+      "en": "Sabirkend",
+      "slug": "sabirkend"
+    },
+    "code": {
+      "id": "AZ504005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.898",
+      "lon": "45.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səməd Vurğun",
+      "en": "Samad Vurghun",
+      "slug": "samad-vurghun"
+    },
+    "code": {
+      "id": "AZ504021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.923",
+      "lon": "46.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıtəpə",
+      "en": "Saritepe",
+      "slug": "saritepe"
+    },
+    "code": {
+      "id": "AZ504058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.902",
+      "lon": "45.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ŞƏMKİR",
+      "en": "SHAMKIR",
+      "slug": "shamkir"
+    },
+    "code": {
+      "id": "AZ504037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.824",
+      "lon": "46.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şeidlər",
+      "en": "Sheidlar",
+      "slug": "sheidlar"
+    },
+    "code": {
+      "id": "AZ504018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.778",
+      "lon": "45.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şiştəpə",
+      "en": "Shishtepe",
+      "slug": "shishtepe"
+    },
+    "code": {
+      "id": "AZ504006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.847",
+      "lon": "45.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talış",
+      "en": "Talish",
+      "slug": "talish"
+    },
+    "code": {
+      "id": "AZ504051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.865",
+      "lon": "46.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatarlı",
+      "en": "Tatarli",
+      "slug": "tatarli"
+    },
+    "code": {
+      "id": "AZ504065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.864",
+      "lon": "45.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ504025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.834",
+      "lon": "46.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Varlı Həyat",
+      "en": "Varli Hayat",
+      "slug": "varli-hayat"
+    },
+    "code": {
+      "id": "AZ504013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.696",
+      "lon": "45.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Göyçə",
+      "en": "Yeni Goycha",
+      "slug": "yeni-goycha"
+    },
+    "code": {
+      "id": "AZ504011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.673",
+      "lon": "45.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Həyat",
+      "en": "Yeni Hayat",
+      "slug": "yeni-hayat"
+    },
+    "code": {
+      "id": "AZ504038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.778",
+      "lon": "46.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni yol",
+      "en": "Yeni yol",
+      "slug": "yeni-yol"
+    },
+    "code": {
+      "id": "AZ504060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.821",
+      "lon": "46.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeniabad",
+      "en": "Yeniabad",
+      "slug": "yeniabad"
+    },
+    "code": {
+      "id": "AZ504022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.888",
+      "lon": "46.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Çaykənd",
+      "en": "Yukhari Chaykend",
+      "slug": "yukhari-chaykend"
+    },
+    "code": {
+      "id": "AZ504054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.643",
+      "lon": "45.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Seyfəli",
+      "en": "Yukhari Seyfali",
+      "slug": "yukhari-seyfali"
+    },
+    "code": {
+      "id": "AZ504040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.749",
+      "lon": "46.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəyəm",
+      "en": "Zayam",
+      "slug": "zayam"
+    },
+    "code": {
+      "id": "AZ504004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.901",
+      "lon": "45.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ504001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəyəm Cırdaxan",
+      "en": "Zayam Jirdakhan",
+      "slug": "zayam-jirdakhan"
+    },
+    "code": {
+      "id": "AZ504001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ504",
+        "level": 1,
+        "name": {
+          "local": "Şəmkir",
+          "en": "Shamkir",
+          "slug": "shamkir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.883",
+      "lon": "45.818"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

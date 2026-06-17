@@ -1,0 +1,45 @@
+{
+  "id": "AZ601083",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mərcimək",
+    "en": "Marjimak",
+    "slug": "marjimak"
+  },
+  "code": {
+    "id": "AZ601083",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ601",
+    "level": 1,
+    "name": {
+      "local": "Kəlbəcər",
+      "en": "Kalbajar",
+      "slug": "kalbajar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.081",
+    "lon": "46.336"
+  },
+  "metadata": {},
+  "source": {}
+}

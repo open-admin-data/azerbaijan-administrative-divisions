@@ -1,0 +1,45 @@
+{
+  "id": "AZ605050",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yarəhmədli",
+    "en": "Yarahmadli",
+    "slug": "yarahmadli"
+  },
+  "code": {
+    "id": "AZ605050",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ605",
+    "level": 1,
+    "name": {
+      "local": "Cəbrayıl",
+      "en": "Jabrayil",
+      "slug": "jabrayil"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.378",
+    "lon": "46.973"
+  },
+  "metadata": {},
+  "source": {}
+}

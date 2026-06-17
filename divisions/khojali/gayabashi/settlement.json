@@ -1,0 +1,45 @@
+{
+  "id": "AZ701037",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qayabaşı",
+    "en": "Gayabashi",
+    "slug": "gayabashi"
+  },
+  "code": {
+    "id": "AZ701037",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ701",
+    "level": 1,
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.896",
+    "lon": "46.701"
+  },
+  "metadata": {},
+  "source": {}
+}

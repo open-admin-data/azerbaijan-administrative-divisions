@@ -1,0 +1,45 @@
+{
+  "id": "AZ107019",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Azadkənd",
+    "en": "Azadkend",
+    "slug": "azadkend"
+  },
+  "code": {
+    "id": "AZ107019",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ107",
+    "level": 1,
+    "name": {
+      "local": "Ordubad",
+      "en": "Ordubad",
+      "slug": "ordubad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.918",
+    "lon": "45.822"
+  },
+  "metadata": {},
+  "source": {}
+}

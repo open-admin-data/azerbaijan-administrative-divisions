@@ -1,0 +1,45 @@
+{
+  "id": "AZ602043",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Katos",
+    "en": "Katos",
+    "slug": "katos"
+  },
+  "code": {
+    "id": "AZ602043",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.765",
+    "lon": "46.306"
+  },
+  "metadata": {},
+  "source": {}
+}

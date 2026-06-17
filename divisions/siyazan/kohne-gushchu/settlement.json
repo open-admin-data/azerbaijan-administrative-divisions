@@ -1,0 +1,45 @@
+{
+  "id": "AZ305007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Köhnə Quşçu",
+    "en": "Kohne Gushchu",
+    "slug": "kohne-gushchu"
+  },
+  "code": {
+    "id": "AZ305007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ305",
+    "level": 1,
+    "name": {
+      "local": "Siyəzən",
+      "en": "Siyazan",
+      "slug": "siyazan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.966",
+    "lon": "48.913"
+  },
+  "metadata": {},
+  "source": {}
+}

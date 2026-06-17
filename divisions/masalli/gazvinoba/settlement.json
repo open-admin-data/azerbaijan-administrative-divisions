@@ -1,0 +1,45 @@
+{
+  "id": "AZ805102",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qəzvinoba",
+    "en": "Gazvinoba",
+    "slug": "gazvinoba"
+  },
+  "code": {
+    "id": "AZ805102",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ805",
+    "level": 1,
+    "name": {
+      "local": "Masallı",
+      "en": "Masalli",
+      "slug": "masalli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.903",
+    "lon": "48.713"
+  },
+  "metadata": {},
+  "source": {}
+}

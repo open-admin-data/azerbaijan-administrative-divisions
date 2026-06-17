@@ -1,0 +1,33 @@
+{
+  "id": "AZ908",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Saatlı",
+    "en": "Saatli",
+    "slug": "saatli"
+  },
+  "code": {
+    "id": "AZ908",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.902",
+    "lon": "48.436"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/saatli/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

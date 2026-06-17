@@ -1,0 +1,264 @@
+# Imishli — Azerbaijan Administrative Divisions
+
+> 51 settlements
+> Code: AZ907
+> Coordinates: 39.858, 48.072
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağamalılar (Aghamalilar)
+
+Code: AZ907009, Coordinates: 40.096, 47.819
+
+
+### Ağaməmmədli (Aghamammadli)
+
+Code: AZ907005, Coordinates: 39.961, 47.99
+
+
+### Ağcüyür (Aghjuyur)
+
+Code: AZ907035, Coordinates: 39.914, 48.194
+
+
+### Əliqulular (Aligulular)
+
+Code: AZ907003, Coordinates: 39.908, 47.93
+
+
+### Allahmədətli (Allahmadatli)
+
+Code: AZ907046, Coordinates: 40.085, 48.111
+
+
+### Aranlı (Aranli)
+
+Code: AZ907043, Coordinates: 39.697, 48.102
+
+
+### Bəhrəmtəpə (Bahramtepe)
+
+Code: AZ907007, Coordinates: 39.738, 47.953
+
+
+### Bəcirəvan (Bajiravan)
+
+Code: AZ907034, Coordinates: 39.905, 48.174
+
+
+### Boşçalılar (Boshchalilar)
+
+Code: AZ907002, Coordinates: 39.814, 47.96
+
+
+### Çahar (Chahar)
+
+Code: AZ907021, Coordinates: 39.81, 48.064
+
+
+### Çaxırlı (Chakhirli)
+
+Code: AZ907017, Coordinates: 39.74, 48.011
+
+
+### Əlyetməzli (Elyetmazli)
+
+Code: AZ907045, Coordinates: 40.126, 48.032
+
+
+### Qaradonlu (Garadonlu)
+
+Code: AZ907019, Coordinates: 39.79, 48.042
+
+
+### Qaraqaşlı (Garagashli)
+
+Code: AZ907031, Coordinates: 39.876, 48.225
+
+
+### Qaragüvəndikli (Garaguvandikli)
+
+Code: AZ907008, Coordinates: 39.72, 47.91
+
+
+### Qaralar (Garalar)
+
+Code: AZ907032, Coordinates: 39.893, 48.124
+
+
+### Qaravəlili (Garavalili)
+
+Code: AZ907036, Coordinates: 39.909, 48.214
+
+
+### Qızılkənd (Gizilkend)
+
+Code: AZ907042, Coordinates: 39.717, 48.079
+
+
+### Göbəktala (Gobaktala)
+
+Code: AZ907049, Coordinates: 39.811, 48.009
+
+
+### Göhərli (Goharli)
+
+Code: AZ907020, Coordinates: 39.792, 48.062
+
+
+### Qulubəyli (Gulubeyli)
+
+Code: AZ907041, Coordinates: 39.775, 48.149
+
+
+### Hacıalmuradlı (Hajialmuradli)
+
+Code: AZ907040, Coordinates: 39.765, 48.216
+
+
+### Hacımustafalı (Hajimustafali)
+
+Code: AZ907051, Coordinates: 40.059, 48.233
+
+
+### Hacırüstəmli (Hajirustamli)
+
+Code: AZ907044, Coordinates: 39.677, 48.142
+
+
+### İMİŞLİ (IMISHLI)
+
+Code: AZ907013, Coordinates: 39.869, 48.061
+
+
+### Cəfərli (Jafarli)
+
+Code: AZ907012, Coordinates: 39.884, 48.02
+
+
+### Cavadxanlı (Javadkhanli)
+
+Code: AZ907033, Coordinates: 39.899, 48.147
+
+
+### Xəlfəli (Khalfali)
+
+Code: AZ907039, Coordinates: 39.784, 48.216
+
+
+### Xoşçobanlı (Khoshchobanli)
+
+Code: AZ907028, Coordinates: 39.854, 48.123
+
+
+### Xubyarlı (Khubyarli)
+
+Code: AZ907018, Coordinates: 39.767, 48.005
+
+
+### Kürdmahmudlu (Kurdmahmudlu)
+
+Code: AZ907038, Coordinates: 39.805, 48.21
+
+
+### Məhəmmədli (Mahammadli)
+
+Code: AZ907016, Coordinates: 39.828, 48.023
+
+
+### Məmmədli (Mammadli)
+
+Code: AZ907010, Coordinates: 40.089, 47.993
+
+
+### Məzrəli (Mazrali)
+
+Code: AZ907047, Coordinates: 39.772, 48.031
+
+
+### Mirili
+
+Code: AZ907037, Coordinates: 39.913, 48.232
+
+
+### Muradalılı (Muradalili)
+
+Code: AZ907026, Coordinates: 39.825, 48.108
+
+
+### Muradxanlı (Muradkhanli)
+
+Code: AZ907004, Coordinates: 39.929, 47.955
+
+
+### Murğuzalılı (Murghuzalili)
+
+Code: AZ907029, Coordinates: 39.863, 48.149
+
+
+### Mürsəlli (Mursalli)
+
+Code: AZ907030, Coordinates: 39.867, 48.198
+
+
+### Nurulu
+
+Code: AZ907024, Coordinates: 39.812, 48.119
+
+
+### Ölcələr (Oljalar)
+
+Code: AZ907023, Coordinates: 39.807, 48.088
+
+
+### Oruclu (Orujlu)
+
+Code: AZ907011, Coordinates: 39.937, 48.022
+
+
+### Otuziki
+
+Code: AZ907027, Coordinates: 39.845, 48.092
+
+
+### Rəsullu (Rasullu)
+
+Code: AZ907015, Coordinates: 39.835, 48.03
+
+
+### Sarıxanlı (Sarikhanli)
+
+Code: AZ907001, Coordinates: 39.819, 47.925
+
+
+### Şahverdili (Shahverdili)
+
+Code: AZ907006, Coordinates: 39.796, 47.989
+
+
+### Soltanmuradlı (Soltanmuradli)
+
+Code: AZ907022, Coordinates: 39.806, 48.073
+
+
+### Telişli (Telishli)
+
+Code: AZ907050, Coordinates: 40.125, 48.065
+
+
+### Vətəgə (Vataga)
+
+Code: AZ907048, Coordinates: 39.787, 47.932
+
+
+### Yalavac (Yalavaj)
+
+Code: AZ907014, Coordinates: 39.851, 48.034
+
+
+### Yuxarı Qaralar (Yukhari Garalar)
+
+Code: AZ907025, Coordinates: 39.827, 48.086
+
+

@@ -1,0 +1,3737 @@
+[
+  {
+    "id": "AZ703005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbulaq",
+      "en": "Aghbulag",
+      "slug": "aghbulag"
+    },
+    "code": {
+      "id": "AZ703005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.556",
+      "lon": "47.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbulaq",
+      "en": "Aghbulag",
+      "slug": "aghbulag"
+    },
+    "code": {
+      "id": "AZ703065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.746",
+      "lon": "46.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    },
+    "code": {
+      "id": "AZ703052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.556",
+      "lon": "46.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağcakənd",
+      "en": "Aghjakend",
+      "slug": "aghjakend"
+    },
+    "code": {
+      "id": "AZ703047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.499",
+      "lon": "46.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağkənd",
+      "en": "Aghkend",
+      "slug": "aghkend"
+    },
+    "code": {
+      "id": "AZ703072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.821",
+      "lon": "47.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axullu",
+      "en": "Akhullu",
+      "slug": "akhullu"
+    },
+    "code": {
+      "id": "AZ703004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.568",
+      "lon": "47.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmiranlar",
+      "en": "Amiranlar",
+      "slug": "amiranlar"
+    },
+    "code": {
+      "id": "AZ703041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.8",
+      "lon": "47.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arakül",
+      "en": "Arakul",
+      "slug": "arakul"
+    },
+    "code": {
+      "id": "AZ703036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.442",
+      "lon": "46.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arpadüzü",
+      "en": "Arpaduzu",
+      "slug": "arpaduzu"
+    },
+    "code": {
+      "id": "AZ703063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.752",
+      "lon": "46.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arpagədik",
+      "en": "Arpagadik",
+      "slug": "arpagadik"
+    },
+    "code": {
+      "id": "AZ703050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.559",
+      "lon": "46.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ataqut",
+      "en": "Atagut",
+      "slug": "atagut"
+    },
+    "code": {
+      "id": "AZ703031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.572",
+      "lon": "46.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avdur",
+      "en": "Avdur",
+      "slug": "avdur"
+    },
+    "code": {
+      "id": "AZ703028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.844",
+      "lon": "46.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azıx",
+      "en": "Azikh",
+      "slug": "azikh"
+    },
+    "code": {
+      "id": "AZ703055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.619",
+      "lon": "46.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binə",
+      "en": "Bina",
+      "slug": "bina"
+    },
+    "code": {
+      "id": "AZ703051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.586",
+      "lon": "46.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binədərəsi",
+      "en": "Binaderesi",
+      "slug": "binaderesi"
+    },
+    "code": {
+      "id": "AZ703045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.455",
+      "lon": "47.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Tağlar",
+      "en": "Boyuk Taghlar",
+      "slug": "boyuk-taghlar"
+    },
+    "code": {
+      "id": "AZ703057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.619",
+      "lon": "46.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bulutan",
+      "en": "Bulutan",
+      "slug": "bulutan"
+    },
+    "code": {
+      "id": "AZ703007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.537",
+      "lon": "47.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bünyadlı",
+      "en": "Bunyadli",
+      "slug": "bunyadli"
+    },
+    "code": {
+      "id": "AZ703035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.412",
+      "lon": "46.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çağadüz",
+      "en": "Chaghaduz",
+      "slug": "chaghaduz"
+    },
+    "code": {
+      "id": "AZ703058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.693",
+      "lon": "46.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaylaqqala",
+      "en": "Chaylaggala",
+      "slug": "chaylaggala"
+    },
+    "code": {
+      "id": "AZ703049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.546",
+      "lon": "46.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çinarlı",
+      "en": "Chinarli",
+      "slug": "chinarli"
+    },
+    "code": {
+      "id": "AZ703038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.511",
+      "lon": "47.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çiraquz",
+      "en": "Chiraguz",
+      "slug": "chiraguz"
+    },
+    "code": {
+      "id": "AZ703001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.577",
+      "lon": "47.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çörəkli",
+      "en": "Chorakli",
+      "slug": "chorakli"
+    },
+    "code": {
+      "id": "AZ703068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.845",
+      "lon": "46.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağdöşü",
+      "en": "Daghdoshu",
+      "slug": "daghdoshu"
+    },
+    "code": {
+      "id": "AZ703076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.507",
+      "lon": "47.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşbaşı",
+      "en": "Dashbashi",
+      "slug": "dashbashi"
+    },
+    "code": {
+      "id": "AZ703046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.464",
+      "lon": "46.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərəkənd",
+      "en": "Derekend",
+      "slug": "derekend"
+    },
+    "code": {
+      "id": "AZ703078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.498",
+      "lon": "46.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dolanlar",
+      "en": "Dolanlar",
+      "slug": "dolanlar"
+    },
+    "code": {
+      "id": "AZ703034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.446",
+      "lon": "46.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düdükçü",
+      "en": "Dudukchu",
+      "slug": "dudukchu"
+    },
+    "code": {
+      "id": "AZ703002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.576",
+      "lon": "47.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Edilli",
+      "en": "Edilli",
+      "slug": "edilli"
+    },
+    "code": {
+      "id": "AZ703003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.561",
+      "lon": "47.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Edişə",
+      "en": "Edisha",
+      "slug": "edisha"
+    },
+    "code": {
+      "id": "AZ703009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.525",
+      "lon": "47.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qağartsi",
+      "en": "Gaghartsi",
+      "slug": "gaghartsi"
+    },
+    "code": {
+      "id": "AZ703073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.817",
+      "lon": "46.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ703027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.797",
+      "lon": "46.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarakənd",
+      "en": "Garakend",
+      "slug": "garakend"
+    },
+    "code": {
+      "id": "AZ703013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.846",
+      "lon": "47.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarazəmi",
+      "en": "Garazami",
+      "slug": "garazami"
+    },
+    "code": {
+      "id": "AZ703062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.734",
+      "lon": "46.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarqar",
+      "en": "Gargar",
+      "slug": "gargar"
+    },
+    "code": {
+      "id": "AZ703042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.705",
+      "lon": "46.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarıtəpə",
+      "en": "Garitepe",
+      "slug": "garitepe"
+    },
+    "code": {
+      "id": "AZ703074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.813",
+      "lon": "46.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gavahın",
+      "en": "Gavahin",
+      "slug": "gavahin"
+    },
+    "code": {
+      "id": "AZ703064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.766",
+      "lon": "46.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırmızı Bazar",
+      "en": "Girmizi Bazar",
+      "slug": "girmizi-bazar"
+    },
+    "code": {
+      "id": "AZ703024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.678",
+      "lon": "46.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırmızıqaya",
+      "en": "Girmizigaya",
+      "slug": "girmizigaya"
+    },
+    "code": {
+      "id": "AZ703080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.54",
+      "lon": "47.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoçbəyli",
+      "en": "Gochbeyli",
+      "slug": "gochbeyli"
+    },
+    "code": {
+      "id": "AZ703081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.507",
+      "lon": "47.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ703012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.492",
+      "lon": "47.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güneyçartar",
+      "en": "Guneychartar",
+      "slug": "guneychartar"
+    },
+    "code": {
+      "id": "AZ703018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.757",
+      "lon": "47.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güneyxırman",
+      "en": "Guneykhirman",
+      "slug": "guneykhirman"
+    },
+    "code": {
+      "id": "AZ703019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.745",
+      "lon": "47.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçular",
+      "en": "Gushchular",
+      "slug": "gushchular"
+    },
+    "code": {
+      "id": "AZ703083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.495",
+      "lon": "47.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quzeyçartar",
+      "en": "Guzeychartar",
+      "slug": "guzeychartar"
+    },
+    "code": {
+      "id": "AZ703040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.746",
+      "lon": "47.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quzeyxırman",
+      "en": "Guzeykhirman",
+      "slug": "guzeykhirman"
+    },
+    "code": {
+      "id": "AZ703020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.737",
+      "lon": "47.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quzumkənd",
+      "en": "Guzumkend",
+      "slug": "guzumkend"
+    },
+    "code": {
+      "id": "AZ703061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.744",
+      "lon": "46.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hadrut",
+      "en": "Hadrut",
+      "slug": "hadrut"
+    },
+    "code": {
+      "id": "AZ703011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.52",
+      "lon": "47.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Heşan",
+      "en": "Heshan",
+      "slug": "heshan"
+    },
+    "code": {
+      "id": "AZ703070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.846",
+      "lon": "46.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hünərli",
+      "en": "Hunarli",
+      "slug": "hunarli"
+    },
+    "code": {
+      "id": "AZ703054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.57",
+      "lon": "46.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəmiyyət",
+      "en": "Jamiyyat",
+      "slug": "jamiyyat"
+    },
+    "code": {
+      "id": "AZ703066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.79",
+      "lon": "46.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cilən",
+      "en": "Jilan",
+      "slug": "jilan"
+    },
+    "code": {
+      "id": "AZ703037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.436",
+      "lon": "46.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cütcü",
+      "en": "Jutju",
+      "slug": "jutju"
+    },
+    "code": {
+      "id": "AZ703060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.697",
+      "lon": "47.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəndxurd",
+      "en": "Kendkhurd",
+      "slug": "kendkhurd"
+    },
+    "code": {
+      "id": "AZ703026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.78",
+      "lon": "46.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanoba",
+      "en": "Khanoba",
+      "slug": "khanoba"
+    },
+    "code": {
+      "id": "AZ703075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.765",
+      "lon": "47.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xərxan",
+      "en": "Kharkhan",
+      "slug": "kharkhan"
+    },
+    "code": {
+      "id": "AZ703044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.723",
+      "lon": "46.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xırmancıq",
+      "en": "Khirmanjig",
+      "slug": "khirmanjig"
+    },
+    "code": {
+      "id": "AZ703006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.544",
+      "lon": "47.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xocavənd",
+      "en": "Khojavand",
+      "slug": "khojavand"
+    },
+    "code": {
+      "id": "AZ703082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.79",
+      "lon": "47.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "XOCAVƏND",
+      "en": "KHOJAVAND",
+      "slug": "khojavand"
+    },
+    "code": {
+      "id": "AZ703015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.793",
+      "lon": "47.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiş",
+      "en": "Kish",
+      "slug": "kish"
+    },
+    "code": {
+      "id": "AZ703014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.777",
+      "lon": "47.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə Tağlar",
+      "en": "Kohne Taghlar",
+      "slug": "kohne-taghlar"
+    },
+    "code": {
+      "id": "AZ703048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.51",
+      "lon": "46.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kuropatkino",
+      "en": "Kuropatkino",
+      "slug": "kuropatkino"
+    },
+    "code": {
+      "id": "AZ703017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.837",
+      "lon": "47.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikcanlı",
+      "en": "Malikjanli",
+      "slug": "malikjanli"
+    },
+    "code": {
+      "id": "AZ703008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.528",
+      "lon": "47.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmməddərə",
+      "en": "Mammaddere",
+      "slug": "mammaddere"
+    },
+    "code": {
+      "id": "AZ703053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.574",
+      "lon": "47.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirikənd",
+      "en": "Mirikend",
+      "slug": "mirikend"
+    },
+    "code": {
+      "id": "AZ703067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.844",
+      "lon": "46.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ703016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.83",
+      "lon": "47.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mülküdərə",
+      "en": "Mulkudere",
+      "slug": "mulkudere"
+    },
+    "code": {
+      "id": "AZ703033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.474",
+      "lon": "46.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müşkapat",
+      "en": "Mushkapat",
+      "slug": "mushkapat"
+    },
+    "code": {
+      "id": "AZ703025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.771",
+      "lon": "46.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salakətin",
+      "en": "Salakatin",
+      "slug": "salakatin"
+    },
+    "code": {
+      "id": "AZ703030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.628",
+      "lon": "46.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahyeri",
+      "en": "Shahyeri",
+      "slug": "shahyeri"
+    },
+    "code": {
+      "id": "AZ703079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.514",
+      "lon": "46.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şexer",
+      "en": "Shekher",
+      "slug": "shekher"
+    },
+    "code": {
+      "id": "AZ703029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.647",
+      "lon": "46.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıx Dursun",
+      "en": "Shikh Dursun",
+      "slug": "shikh-dursun"
+    },
+    "code": {
+      "id": "AZ703059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.694",
+      "lon": "46.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sor",
+      "en": "Sor",
+      "slug": "sor"
+    },
+    "code": {
+      "id": "AZ703077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.489",
+      "lon": "47.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sos",
+      "en": "Sos",
+      "slug": "sos"
+    },
+    "code": {
+      "id": "AZ703021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.712",
+      "lon": "47.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Susanlıq",
+      "en": "Susanlig",
+      "slug": "susanlig"
+    },
+    "code": {
+      "id": "AZ703032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.57",
+      "lon": "46.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tağaser",
+      "en": "Taghaser",
+      "slug": "taghaser"
+    },
+    "code": {
+      "id": "AZ703010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.52",
+      "lon": "47.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tağaverd",
+      "en": "Taghavard",
+      "slug": "taghavard"
+    },
+    "code": {
+      "id": "AZ703023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.668",
+      "lon": "46.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tuğ",
+      "en": "Tugh",
+      "slug": "tugh"
+    },
+    "code": {
+      "id": "AZ703039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.587",
+      "lon": "46.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yemişcan",
+      "en": "Yemishjan",
+      "slug": "yemishjan"
+    },
+    "code": {
+      "id": "AZ703071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.831",
+      "lon": "47.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ703069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.85",
+      "lon": "46.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərdanaşen",
+      "en": "Zardanashen",
+      "slug": "zardanashen"
+    },
+    "code": {
+      "id": "AZ703022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.669",
+      "lon": "46.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zavadıx",
+      "en": "Zavadikh",
+      "slug": "zavadikh"
+    },
+    "code": {
+      "id": "AZ703043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.721",
+      "lon": "46.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ703056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zoğalbulaq",
+      "en": "Zoghalbulag",
+      "slug": "zoghalbulag"
+    },
+    "code": {
+      "id": "AZ703056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ703",
+        "level": 1,
+        "name": {
+          "local": "Xocavənd",
+          "en": "Khojavand",
+          "slug": "khojavand"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.626",
+      "lon": "47.002"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

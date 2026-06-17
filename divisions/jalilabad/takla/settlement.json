@@ -1,0 +1,45 @@
+{
+  "id": "AZ806035",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Təklə",
+    "en": "Takla",
+    "slug": "takla"
+  },
+  "code": {
+    "id": "AZ806035",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ806",
+    "level": 1,
+    "name": {
+      "local": "Cəlilabad",
+      "en": "Jalilabad",
+      "slug": "jalilabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.256",
+    "lon": "48.347"
+  },
+  "metadata": {},
+  "source": {}
+}

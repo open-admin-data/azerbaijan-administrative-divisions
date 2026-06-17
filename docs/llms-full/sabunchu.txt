@@ -1,0 +1,54 @@
+# Sabunchu — Azerbaijan Administrative Divisions
+
+> 9 settlements
+> Code: AZ1006
+> Coordinates: 40.509, 49.958
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Bakıxanov (Bakikhanov)
+
+Code: AZ100602, Coordinates: 40.422, 49.965
+
+
+### Balaxanı (Balakhani)
+
+Code: AZ100604, Coordinates: 40.46, 49.924
+
+
+### Bilgəh (Bilgah)
+
+Code: AZ100608, Coordinates: 40.564, 50.038
+
+
+### Kürdəxanı (Kurdakhani)
+
+Code: AZ100606, Coordinates: 40.551, 49.92
+
+
+### Maştağa (Mashtagha)
+
+Code: AZ100601, Coordinates: 40.535, 50.004
+
+
+### Nardaran
+
+Code: AZ100609, Coordinates: 40.564, 49.992
+
+
+### Pirşağı (Pirshaghi)
+
+Code: AZ100607, Coordinates: 40.564, 49.89
+
+
+### Sabunçu (Sabunchu)
+
+Code: AZ100603, Coordinates: 40.442, 49.939
+
+
+### Zabrat
+
+Code: AZ100605, Coordinates: 40.478, 49.949
+
+

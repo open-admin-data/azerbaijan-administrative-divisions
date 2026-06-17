@@ -1,0 +1,45 @@
+{
+  "id": "AZ307025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ərəbqədim",
+    "en": "Arabgadim",
+    "slug": "arabgadim"
+  },
+  "code": {
+    "id": "AZ307025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ307",
+    "level": 1,
+    "name": {
+      "local": "Qobustan",
+      "en": "Gobustan",
+      "slug": "gobustan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.426",
+    "lon": "48.967"
+  },
+  "metadata": {},
+  "source": {}
+}

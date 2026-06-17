@@ -1,0 +1,45 @@
+{
+  "id": "AZ408037",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kürdşaban",
+    "en": "Kurdshaban",
+    "slug": "kurdshaban"
+  },
+  "code": {
+    "id": "AZ408037",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ408",
+    "level": 1,
+    "name": {
+      "local": "Göyçay",
+      "en": "Goychay",
+      "slug": "goychay"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.531",
+    "lon": "47.753"
+  },
+  "metadata": {},
+  "source": {}
+}

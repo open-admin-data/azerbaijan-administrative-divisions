@@ -1,0 +1,45 @@
+{
+  "id": "AZ606085",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Birinci Zobucuq",
+    "en": "Birinji Zobujug",
+    "slug": "birinji-zobujug"
+  },
+  "code": {
+    "id": "AZ606085",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.542",
+    "lon": "47.411"
+  },
+  "metadata": {},
+  "source": {}
+}

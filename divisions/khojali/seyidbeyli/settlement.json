@@ -1,0 +1,45 @@
+{
+  "id": "AZ701048",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Seyidbəyli",
+    "en": "Seyidbeyli",
+    "slug": "seyidbeyli"
+  },
+  "code": {
+    "id": "AZ701048",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ701",
+    "level": 1,
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.986",
+    "lon": "46.696"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ406027",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeni Dizaxlı",
+    "en": "Yeni Dizakhli",
+    "slug": "yeni-dizakhli"
+  },
+  "code": {
+    "id": "AZ406027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ406",
+    "level": 1,
+    "name": {
+      "local": "Qəbələ",
+      "en": "Gabala",
+      "slug": "gabala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.858",
+    "lon": "47.677"
+  },
+  "metadata": {},
+  "source": {}
+}

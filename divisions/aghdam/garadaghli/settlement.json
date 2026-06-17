@@ -1,0 +1,45 @@
+{
+  "id": "AZ609089",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaradağlı",
+    "en": "Garadaghli",
+    "slug": "garadaghli"
+  },
+  "code": {
+    "id": "AZ609089",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ609",
+    "level": 1,
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.025",
+    "lon": "47.067"
+  },
+  "metadata": {},
+  "source": {}
+}

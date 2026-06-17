@@ -1,0 +1,45 @@
+{
+  "id": "AZ809031",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Alçalı",
+    "en": "Alchali",
+    "slug": "alchali"
+  },
+  "code": {
+    "id": "AZ809031",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.523",
+    "lon": "48.923"
+  },
+  "metadata": {},
+  "source": {}
+}

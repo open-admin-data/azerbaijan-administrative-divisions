@@ -1,0 +1,45 @@
+{
+  "id": "AZ604071",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarqulu",
+    "en": "Gargulu",
+    "slug": "gargulu"
+  },
+  "code": {
+    "id": "AZ604071",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ604",
+    "level": 1,
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.976",
+    "lon": "46.641"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ907011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Oruclu",
+    "en": "Orujlu",
+    "slug": "orujlu"
+  },
+  "code": {
+    "id": "AZ907011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.937",
+    "lon": "48.022"
+  },
+  "metadata": {},
+  "source": {}
+}

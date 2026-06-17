@@ -1,0 +1,45 @@
+{
+  "id": "AZ404055",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dərəcənnət",
+    "en": "Derejannat",
+    "slug": "derejannat"
+  },
+  "code": {
+    "id": "AZ404055",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.979",
+    "lon": "47.178"
+  },
+  "metadata": {},
+  "source": {}
+}

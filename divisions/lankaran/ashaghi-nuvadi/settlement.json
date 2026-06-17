@@ -1,0 +1,45 @@
+{
+  "id": "AZ802048",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Nüvədi",
+    "en": "Ashaghi Nuvadi",
+    "slug": "ashaghi-nuvadi"
+  },
+  "code": {
+    "id": "AZ802048",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ802",
+    "level": 1,
+    "name": {
+      "local": "Lənkəran",
+      "en": "Lankaran",
+      "slug": "lankaran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.715",
+    "lon": "48.86"
+  },
+  "metadata": {},
+  "source": {}
+}

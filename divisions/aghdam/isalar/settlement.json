@@ -1,0 +1,45 @@
+{
+  "id": "AZ609092",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İsalar",
+    "en": "Isalar",
+    "slug": "isalar"
+  },
+  "code": {
+    "id": "AZ609092",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ609",
+    "level": 1,
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.013",
+    "lon": "47.095"
+  },
+  "metadata": {},
+  "source": {}
+}

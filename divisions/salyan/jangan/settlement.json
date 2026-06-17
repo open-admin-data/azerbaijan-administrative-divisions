@@ -1,0 +1,45 @@
+{
+  "id": "AZ809043",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Cəngan",
+    "en": "Jangan",
+    "slug": "jangan"
+  },
+  "code": {
+    "id": "AZ809043",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.555",
+    "lon": "49.012"
+  },
+  "metadata": {},
+  "source": {}
+}

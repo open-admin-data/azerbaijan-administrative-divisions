@@ -1,0 +1,7292 @@
+[
+  {
+    "id": "AZ803157",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "40-cı kilometr",
+      "en": "40-ji kilometr",
+      "slug": "40-ji-kilometr"
+    },
+    "code": {
+      "id": "AZ803157",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.8",
+      "lon": "48.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803141",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağqışlaq",
+      "en": "Aghgishlag",
+      "slug": "aghgishlag"
+    },
+    "code": {
+      "id": "AZ803141",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.908",
+      "lon": "48.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803147",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axunahiran",
+      "en": "Akhunahiran",
+      "slug": "akhunahiran"
+    },
+    "code": {
+      "id": "AZ803147",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.681",
+      "lon": "48.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803131",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akuşəpeştə",
+      "en": "Akushapeshta",
+      "slug": "akushapeshta"
+    },
+    "code": {
+      "id": "AZ803131",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.66",
+      "lon": "48.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliabad",
+      "en": "Aliabad",
+      "slug": "aliabad"
+    },
+    "code": {
+      "id": "AZ803016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.839",
+      "lon": "48.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Almu",
+      "en": "Almu",
+      "slug": "almu"
+    },
+    "code": {
+      "id": "AZ803092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.751",
+      "lon": "48.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ambu",
+      "en": "Ambu",
+      "slug": "ambu"
+    },
+    "code": {
+      "id": "AZ803050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.748",
+      "lon": "48.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andurma",
+      "en": "Andurma",
+      "slug": "andurma"
+    },
+    "code": {
+      "id": "AZ803066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.711",
+      "lon": "48.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803108",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancəqov",
+      "en": "Anjagov",
+      "slug": "anjagov"
+    },
+    "code": {
+      "id": "AZ803108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.673",
+      "lon": "48.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Anzolu",
+      "en": "Anzolu",
+      "slug": "anzolu"
+    },
+    "code": {
+      "id": "AZ803070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.69",
+      "lon": "48.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aran",
+      "en": "Aran",
+      "slug": "aran"
+    },
+    "code": {
+      "id": "AZ803005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.886",
+      "lon": "48.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərdəbilə",
+      "en": "Ardabila",
+      "slug": "ardabila"
+    },
+    "code": {
+      "id": "AZ803013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.859",
+      "lon": "48.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arta",
+      "en": "Arta",
+      "slug": "arta"
+    },
+    "code": {
+      "id": "AZ803031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.877",
+      "lon": "48.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803114",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Amburdərə",
+      "en": "Ashaghi Amburdere",
+      "slug": "ashaghi-amburdere"
+    },
+    "code": {
+      "id": "AZ803114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.661",
+      "lon": "48.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əvilə",
+      "en": "Avila",
+      "slug": "avila"
+    },
+    "code": {
+      "id": "AZ803041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.812",
+      "lon": "48.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babagil",
+      "en": "Babagil",
+      "slug": "babagil"
+    },
+    "code": {
+      "id": "AZ803086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.797",
+      "lon": "48.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babakücə",
+      "en": "Babakuja",
+      "slug": "babakuja"
+    },
+    "code": {
+      "id": "AZ803100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.675",
+      "lon": "48.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Barzavu",
+      "en": "Barzavu",
+      "slug": "barzavu"
+    },
+    "code": {
+      "id": "AZ803049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.753",
+      "lon": "48.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibiyani",
+      "en": "Bibiyani",
+      "slug": "bibiyani"
+    },
+    "code": {
+      "id": "AZ803093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.743",
+      "lon": "48.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biləvər",
+      "en": "Bilavar",
+      "slug": "bilavar"
+    },
+    "code": {
+      "id": "AZ803038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.84",
+      "lon": "48.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803162",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilnə",
+      "en": "Bilna",
+      "slug": "bilna"
+    },
+    "code": {
+      "id": "AZ803162",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.814",
+      "lon": "48.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Blaband",
+      "en": "Blaband",
+      "slug": "blaband"
+    },
+    "code": {
+      "id": "AZ803052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.737",
+      "lon": "48.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803107",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bobla",
+      "en": "Bobla",
+      "slug": "bobla"
+    },
+    "code": {
+      "id": "AZ803107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.685",
+      "lon": "48.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boykəndil",
+      "en": "Boykandil",
+      "slug": "boykandil"
+    },
+    "code": {
+      "id": "AZ803007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.884",
+      "lon": "48.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803128",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bradi",
+      "en": "Bradi",
+      "slug": "bradi"
+    },
+    "code": {
+      "id": "AZ803128",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.648",
+      "lon": "48.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Brkandul",
+      "en": "Brkandul",
+      "slug": "brkandul"
+    },
+    "code": {
+      "id": "AZ803085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.814",
+      "lon": "48.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bülüdül",
+      "en": "Buludul",
+      "slug": "buludul"
+    },
+    "code": {
+      "id": "AZ803035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.838",
+      "lon": "48.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803132",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bürsülüm",
+      "en": "Bursulum",
+      "slug": "bursulum"
+    },
+    "code": {
+      "id": "AZ803132",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.662",
+      "lon": "48.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Buruq",
+      "en": "Burug",
+      "slug": "burug"
+    },
+    "code": {
+      "id": "AZ803003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.906",
+      "lon": "48.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Büzeyir",
+      "en": "Buzeyir",
+      "slug": "buzeyir"
+    },
+    "code": {
+      "id": "AZ803062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.726",
+      "lon": "48.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çayrud",
+      "en": "Chayrud",
+      "slug": "chayrud"
+    },
+    "code": {
+      "id": "AZ803068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.715",
+      "lon": "48.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çeşman",
+      "en": "Cheshman",
+      "slug": "cheshman"
+    },
+    "code": {
+      "id": "AZ803030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.86",
+      "lon": "48.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803153",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çökərə",
+      "en": "Chokara",
+      "slug": "chokara"
+    },
+    "code": {
+      "id": "AZ803153",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.701",
+      "lon": "48.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803129",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəstər",
+      "en": "Dastar",
+      "slug": "dastar"
+    },
+    "code": {
+      "id": "AZ803129",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.641",
+      "lon": "48.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Davıdonu",
+      "en": "Davidonu",
+      "slug": "davidonu"
+    },
+    "code": {
+      "id": "AZ803002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.933",
+      "lon": "48.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Davradibi",
+      "en": "Davradibi",
+      "slug": "davradibi"
+    },
+    "code": {
+      "id": "AZ803095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.712",
+      "lon": "48.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803152",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digah",
+      "en": "Digah",
+      "slug": "digah"
+    },
+    "code": {
+      "id": "AZ803152",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.705",
+      "lon": "48.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803123",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digov",
+      "en": "Digov",
+      "slug": "digov"
+    },
+    "code": {
+      "id": "AZ803123",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.642",
+      "lon": "48.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803125",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digovdərə",
+      "en": "Digovdere",
+      "slug": "digovdere"
+    },
+    "code": {
+      "id": "AZ803125",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.639",
+      "lon": "48.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dico",
+      "en": "Dijo",
+      "slug": "dijo"
+    },
+    "code": {
+      "id": "AZ803096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.708",
+      "lon": "48.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divağac",
+      "en": "Divaghaj",
+      "slug": "divaghaj"
+    },
+    "code": {
+      "id": "AZ803080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.689",
+      "lon": "48.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803130",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dızdipok",
+      "en": "Dizdipok",
+      "slug": "dizdipok"
+    },
+    "code": {
+      "id": "AZ803130",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.655",
+      "lon": "48.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Durğan",
+      "en": "Durghan",
+      "slug": "durghan"
+    },
+    "code": {
+      "id": "AZ803021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.839",
+      "lon": "48.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qədimkücə",
+      "en": "Gadimkuja",
+      "slug": "gadimkuja"
+    },
+    "code": {
+      "id": "AZ803023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.823",
+      "lon": "48.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qələbin",
+      "en": "Galabin",
+      "slug": "galabin"
+    },
+    "code": {
+      "id": "AZ803103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.69",
+      "lon": "48.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qələsər",
+      "en": "Galasar",
+      "slug": "galasar"
+    },
+    "code": {
+      "id": "AZ803077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.688",
+      "lon": "48.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəndov",
+      "en": "Gandov",
+      "slug": "gandov"
+    },
+    "code": {
+      "id": "AZ803034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.851",
+      "lon": "48.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803139",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəvoy",
+      "en": "Gavoy",
+      "slug": "gavoy"
+    },
+    "code": {
+      "id": "AZ803139",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.602",
+      "lon": "48.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Geskon",
+      "en": "Geskon",
+      "slug": "geskon"
+    },
+    "code": {
+      "id": "AZ803039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.833",
+      "lon": "48.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803143",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qılqılov",
+      "en": "Gilgilov",
+      "slug": "gilgilov"
+    },
+    "code": {
+      "id": "AZ803143",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.673",
+      "lon": "48.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803109",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qışlaq",
+      "en": "Gishlag",
+      "slug": "gishlag"
+    },
+    "code": {
+      "id": "AZ803109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.691",
+      "lon": "48.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803145",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qışlaq",
+      "en": "Gishlag",
+      "slug": "gishlag"
+    },
+    "code": {
+      "id": "AZ803145",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.627",
+      "lon": "48.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803155",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qışlaq",
+      "en": "Gishlag",
+      "slug": "gishlag"
+    },
+    "code": {
+      "id": "AZ803155",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.681",
+      "lon": "48.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qosmalıan",
+      "en": "Gosmalian",
+      "slug": "gosmalian"
+    },
+    "code": {
+      "id": "AZ803079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.672",
+      "lon": "48.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803119",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göydərə",
+      "en": "Goydere",
+      "slug": "goydere"
+    },
+    "code": {
+      "id": "AZ803119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.626",
+      "lon": "48.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ803044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.791",
+      "lon": "48.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gürdəsər",
+      "en": "Gurdasar",
+      "slug": "gurdasar"
+    },
+    "code": {
+      "id": "AZ803012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.863",
+      "lon": "48.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Haftonu",
+      "en": "Haftonu",
+      "slug": "haftonu"
+    },
+    "code": {
+      "id": "AZ803001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.923",
+      "lon": "48.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803154",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Halabın",
+      "en": "Halabin",
+      "slug": "halabin"
+    },
+    "code": {
+      "id": "AZ803154",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.669",
+      "lon": "48.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803127",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hamarat",
+      "en": "Hamarat",
+      "slug": "hamarat"
+    },
+    "code": {
+      "id": "AZ803127",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.647",
+      "lon": "48.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803149",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hamarmeşə",
+      "en": "Hamarmesha",
+      "slug": "hamarmesha"
+    },
+    "code": {
+      "id": "AZ803149",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.759",
+      "lon": "48.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803156",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Haran",
+      "en": "Haran",
+      "slug": "haran"
+    },
+    "code": {
+      "id": "AZ803156",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.769",
+      "lon": "48.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həzovi",
+      "en": "Hazovi",
+      "slug": "hazovi"
+    },
+    "code": {
+      "id": "AZ803072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.697",
+      "lon": "48.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hilədərə",
+      "en": "Hiladere",
+      "slug": "hiladere"
+    },
+    "code": {
+      "id": "AZ803082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.7",
+      "lon": "48.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hıramo",
+      "en": "Hiramo",
+      "slug": "hiramo"
+    },
+    "code": {
+      "id": "AZ803043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.794",
+      "lon": "48.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hiveri",
+      "en": "Hiveri",
+      "slug": "hiveri"
+    },
+    "code": {
+      "id": "AZ803075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.667",
+      "lon": "48.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hoveri",
+      "en": "Hoveri",
+      "slug": "hoveri"
+    },
+    "code": {
+      "id": "AZ803078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.704",
+      "lon": "48.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803142",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hovil",
+      "en": "Hovil",
+      "slug": "hovil"
+    },
+    "code": {
+      "id": "AZ803142",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.663",
+      "lon": "48.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803146",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hübi",
+      "en": "Hubi",
+      "slug": "hubi"
+    },
+    "code": {
+      "id": "AZ803146",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.589",
+      "lon": "48.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hücü",
+      "en": "Huju",
+      "slug": "huju"
+    },
+    "code": {
+      "id": "AZ803094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.734",
+      "lon": "48.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803117",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynabad",
+      "en": "Huseynabad",
+      "slug": "huseynabad"
+    },
+    "code": {
+      "id": "AZ803117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.633",
+      "lon": "48.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Camaşəir",
+      "en": "Jamashair",
+      "slug": "jamashair"
+    },
+    "code": {
+      "id": "AZ803015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.845",
+      "lon": "48.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəngəmiran",
+      "en": "Jangamiran",
+      "slug": "jangamiran"
+    },
+    "code": {
+      "id": "AZ803047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.759",
+      "lon": "48.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəngənəvud",
+      "en": "Janganavud",
+      "slug": "janganavud"
+    },
+    "code": {
+      "id": "AZ803089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.773",
+      "lon": "48.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803126",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Conu",
+      "en": "Jonu",
+      "slug": "jonu"
+    },
+    "code": {
+      "id": "AZ803126",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.617",
+      "lon": "48.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803116",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kələxan",
+      "en": "Kalakhan",
+      "slug": "kalakhan"
+    },
+    "code": {
+      "id": "AZ803116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.649",
+      "lon": "48.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803118",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəlvəz",
+      "en": "Kalvaz",
+      "slug": "kalvaz"
+    },
+    "code": {
+      "id": "AZ803118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.64",
+      "lon": "48.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kekonu",
+      "en": "Kekonu",
+      "slug": "kekonu"
+    },
+    "code": {
+      "id": "AZ803055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.797",
+      "lon": "48.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlifəhoni",
+      "en": "Khalifahoni",
+      "slug": "khalifahoni"
+    },
+    "code": {
+      "id": "AZ803105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.668",
+      "lon": "48.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803121",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlifəkənd",
+      "en": "Khalifakend",
+      "slug": "khalifakend"
+    },
+    "code": {
+      "id": "AZ803121",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.653",
+      "lon": "48.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlifəkücə",
+      "en": "Khalifakuja",
+      "slug": "khalifakuja"
+    },
+    "code": {
+      "id": "AZ803051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.745",
+      "lon": "48.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanəgah",
+      "en": "Khanagah",
+      "slug": "khanagah"
+    },
+    "code": {
+      "id": "AZ803036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.838",
+      "lon": "48.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803112",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xocadoy",
+      "en": "Khojadoy",
+      "slug": "khojadoy"
+    },
+    "code": {
+      "id": "AZ803112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.664",
+      "lon": "48.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kıncıvo",
+      "en": "Kinjivo",
+      "slug": "kinjivo"
+    },
+    "code": {
+      "id": "AZ803090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.763",
+      "lon": "48.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kirəvud",
+      "en": "Kiravud",
+      "slug": "kiravud"
+    },
+    "code": {
+      "id": "AZ803009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.877",
+      "lon": "48.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə Orand",
+      "en": "Kohne Orand",
+      "slug": "kohne-orand"
+    },
+    "code": {
+      "id": "AZ803058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.761",
+      "lon": "48.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kornədi",
+      "en": "Kornadi",
+      "slug": "kornadi"
+    },
+    "code": {
+      "id": "AZ803091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.762",
+      "lon": "48.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küman",
+      "en": "Kuman",
+      "slug": "kuman"
+    },
+    "code": {
+      "id": "AZ803008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.871",
+      "lon": "48.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küsəkəran",
+      "en": "Kusakaran",
+      "slug": "kusakaran"
+    },
+    "code": {
+      "id": "AZ803101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.685",
+      "lon": "48.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803133",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləkər",
+      "en": "Lakar",
+      "slug": "lakar"
+    },
+    "code": {
+      "id": "AZ803133",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.653",
+      "lon": "48.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lələdulan",
+      "en": "Laladulan",
+      "slug": "laladulan"
+    },
+    "code": {
+      "id": "AZ803004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.89",
+      "lon": "48.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lələhiran",
+      "en": "Lalahiran",
+      "slug": "lalahiran"
+    },
+    "code": {
+      "id": "AZ803081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.687",
+      "lon": "48.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Laman",
+      "en": "Laman",
+      "slug": "laman"
+    },
+    "code": {
+      "id": "AZ803014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.859",
+      "lon": "48.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lərmərud",
+      "en": "Larmarud",
+      "slug": "larmarud"
+    },
+    "code": {
+      "id": "AZ803011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.894",
+      "lon": "48.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "LERİK",
+      "en": "LERIK",
+      "slug": "lerik"
+    },
+    "code": {
+      "id": "AZ803045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.772",
+      "lon": "48.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Livədirqə",
+      "en": "Livadirga",
+      "slug": "livadirga"
+    },
+    "code": {
+      "id": "AZ803040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.818",
+      "lon": "48.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803138",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Loda",
+      "en": "Loda",
+      "slug": "loda"
+    },
+    "code": {
+      "id": "AZ803138",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.597",
+      "lon": "48.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lüləkəran",
+      "en": "Lulakaran",
+      "slug": "lulakaran"
+    },
+    "code": {
+      "id": "AZ803054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.742",
+      "lon": "48.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803115",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məhləabad",
+      "en": "Mahlaabad",
+      "slug": "mahlaabad"
+    },
+    "code": {
+      "id": "AZ803115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.66",
+      "lon": "48.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mastail",
+      "en": "Mastail",
+      "slug": "mastail"
+    },
+    "code": {
+      "id": "AZ803046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.79",
+      "lon": "48.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803122",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mistan",
+      "en": "Mistan",
+      "slug": "mistan"
+    },
+    "code": {
+      "id": "AZ803122",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.645",
+      "lon": "48.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Molalan",
+      "en": "Molalan",
+      "slug": "molalan"
+    },
+    "code": {
+      "id": "AZ803020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.848",
+      "lon": "48.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Monidigah",
+      "en": "Monidigah",
+      "slug": "monidigah"
+    },
+    "code": {
+      "id": "AZ803064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.725",
+      "lon": "48.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Murya",
+      "en": "Murya",
+      "slug": "murya"
+    },
+    "code": {
+      "id": "AZ803022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.833",
+      "lon": "48.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Musavar",
+      "en": "Musavar",
+      "slug": "musavar"
+    },
+    "code": {
+      "id": "AZ803006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.881",
+      "lon": "48.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nisli",
+      "en": "Nisli",
+      "slug": "nisli"
+    },
+    "code": {
+      "id": "AZ803073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.704",
+      "lon": "48.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803159",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nıso",
+      "en": "Niso",
+      "slug": "niso"
+    },
+    "code": {
+      "id": "AZ803159",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.702",
+      "lon": "48.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Noda",
+      "en": "Noda",
+      "slug": "noda"
+    },
+    "code": {
+      "id": "AZ803025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.808",
+      "lon": "48.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803136",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nosovyədi",
+      "en": "Nosovyadi",
+      "slug": "nosovyadi"
+    },
+    "code": {
+      "id": "AZ803136",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.628",
+      "lon": "48.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nücü",
+      "en": "Nuju",
+      "slug": "nuju"
+    },
+    "code": {
+      "id": "AZ803084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.903",
+      "lon": "48.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nuravud",
+      "en": "Nuravud",
+      "slug": "nuravud"
+    },
+    "code": {
+      "id": "AZ803057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.773",
+      "lon": "48.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nüsomurya",
+      "en": "Nusomurya",
+      "slug": "nusomurya"
+    },
+    "code": {
+      "id": "AZ803024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.821",
+      "lon": "48.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nüvədi",
+      "en": "Nuvadi",
+      "slug": "nuvadi"
+    },
+    "code": {
+      "id": "AZ803028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.825",
+      "lon": "48.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orand",
+      "en": "Orand",
+      "slug": "orand"
+    },
+    "code": {
+      "id": "AZ803060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.747",
+      "lon": "48.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ordahal",
+      "en": "Ordahal",
+      "slug": "ordahal"
+    },
+    "code": {
+      "id": "AZ803010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.881",
+      "lon": "48.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Osnağakücə",
+      "en": "Osnaghakuja",
+      "slug": "osnaghakuja"
+    },
+    "code": {
+      "id": "AZ803053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.747",
+      "lon": "48.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803140",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Osyodərə",
+      "en": "Osyodere",
+      "slug": "osyodere"
+    },
+    "code": {
+      "id": "AZ803140",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.851",
+      "lon": "48.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pendi",
+      "en": "Pendi",
+      "slug": "pendi"
+    },
+    "code": {
+      "id": "AZ803065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.722",
+      "lon": "48.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803150",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Peştətük",
+      "en": "Peshtatuk",
+      "slug": "peshtatuk"
+    },
+    "code": {
+      "id": "AZ803150",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.787",
+      "lon": "48.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803160",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Piran",
+      "en": "Piran",
+      "slug": "piran"
+    },
+    "code": {
+      "id": "AZ803160",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.733",
+      "lon": "48.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəsora",
+      "en": "Pirasora",
+      "slug": "pirasora"
+    },
+    "code": {
+      "id": "AZ803061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.72",
+      "lon": "48.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803124",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəsora",
+      "en": "Pirasora",
+      "slug": "pirasora"
+    },
+    "code": {
+      "id": "AZ803124",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.642",
+      "lon": "48.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirzəkücə",
+      "en": "Pirzakuja",
+      "slug": "pirzakuja"
+    },
+    "code": {
+      "id": "AZ803048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.757",
+      "lon": "48.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Piyəkücə",
+      "en": "Piyakuja",
+      "slug": "piyakuja"
+    },
+    "code": {
+      "id": "AZ803067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.709",
+      "lon": "48.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəzəvül",
+      "en": "Razavul",
+      "slug": "razavul"
+    },
+    "code": {
+      "id": "AZ803027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.827",
+      "lon": "48.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəzgov",
+      "en": "Razgov",
+      "slug": "razgov"
+    },
+    "code": {
+      "id": "AZ803074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.673",
+      "lon": "48.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rvarud",
+      "en": "Rvarud",
+      "slug": "rvarud"
+    },
+    "code": {
+      "id": "AZ803069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.695",
+      "lon": "48.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şinəbənd",
+      "en": "Shinaband",
+      "slug": "shinaband"
+    },
+    "code": {
+      "id": "AZ803059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.758",
+      "lon": "48.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şingədulan",
+      "en": "Shingadulan",
+      "slug": "shingadulan"
+    },
+    "code": {
+      "id": "AZ803018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.86",
+      "lon": "48.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şivlə",
+      "en": "Shivla",
+      "slug": "shivla"
+    },
+    "code": {
+      "id": "AZ803037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.843",
+      "lon": "48.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şonaçola",
+      "en": "Shonachola",
+      "slug": "shonachola"
+    },
+    "code": {
+      "id": "AZ803076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.69",
+      "lon": "48.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sipyəreqon",
+      "en": "Sipyaregon",
+      "slug": "sipyaregon"
+    },
+    "code": {
+      "id": "AZ803087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.783",
+      "lon": "48.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803111",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sivəkəran",
+      "en": "Sivakaran",
+      "slug": "sivakaran"
+    },
+    "code": {
+      "id": "AZ803111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.754",
+      "lon": "48.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siyov",
+      "en": "Siyov",
+      "slug": "siyov"
+    },
+    "code": {
+      "id": "AZ803104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.669",
+      "lon": "48.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sors",
+      "en": "Sors",
+      "slug": "sors"
+    },
+    "code": {
+      "id": "AZ803019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.858",
+      "lon": "48.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803158",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sorsçay",
+      "en": "Sorschay",
+      "slug": "sorschay"
+    },
+    "code": {
+      "id": "AZ803158",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.788",
+      "lon": "48.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soru",
+      "en": "Soru",
+      "slug": "soru"
+    },
+    "code": {
+      "id": "AZ803017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.846",
+      "lon": "48.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803151",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təbrizli",
+      "en": "Tabrizli",
+      "slug": "tabrizli"
+    },
+    "code": {
+      "id": "AZ803151",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.775",
+      "lon": "48.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təndul",
+      "en": "Tandul",
+      "slug": "tandul"
+    },
+    "code": {
+      "id": "AZ803097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.693",
+      "lon": "48.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təngəbin",
+      "en": "Tangabin",
+      "slug": "tangabin"
+    },
+    "code": {
+      "id": "AZ803071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.687",
+      "lon": "48.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803120",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatoni",
+      "en": "Tatoni",
+      "slug": "tatoni"
+    },
+    "code": {
+      "id": "AZ803120",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.658",
+      "lon": "48.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tikəband",
+      "en": "Tikaband",
+      "slug": "tikaband"
+    },
+    "code": {
+      "id": "AZ803098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.709",
+      "lon": "48.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803137",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tülü",
+      "en": "Tulu",
+      "slug": "tulu"
+    },
+    "code": {
+      "id": "AZ803137",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.6",
+      "lon": "48.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vamazğon",
+      "en": "Vamazghon",
+      "slug": "vamazghon"
+    },
+    "code": {
+      "id": "AZ803083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.93",
+      "lon": "48.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803135",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vənədi",
+      "en": "Vanadi",
+      "slug": "vanadi"
+    },
+    "code": {
+      "id": "AZ803135",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.631",
+      "lon": "48.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803148",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Veri",
+      "en": "Veri",
+      "slug": "veri"
+    },
+    "code": {
+      "id": "AZ803148",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.671",
+      "lon": "48.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Veri Əliabadı",
+      "en": "Veri Aliabadi",
+      "slug": "veri-aliabadi"
+    },
+    "code": {
+      "id": "AZ803102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.679",
+      "lon": "48.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803161",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vılık",
+      "en": "Vilik",
+      "slug": "vilik"
+    },
+    "code": {
+      "id": "AZ803161",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.583",
+      "lon": "48.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vistən",
+      "en": "Vistan",
+      "slug": "vistan"
+    },
+    "code": {
+      "id": "AZ803026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.822",
+      "lon": "48.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vizəzəmin",
+      "en": "Vizazamin",
+      "slug": "vizazamin"
+    },
+    "code": {
+      "id": "AZ803088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.771",
+      "lon": "48.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803144",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vijaker",
+      "en": "Vizhaker",
+      "slug": "vizhaker"
+    },
+    "code": {
+      "id": "AZ803144",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.617",
+      "lon": "48.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803134",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vov",
+      "en": "Vov",
+      "slug": "vov"
+    },
+    "code": {
+      "id": "AZ803134",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.633",
+      "lon": "48.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803113",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Amburdərə",
+      "en": "Yukhari Amburdere",
+      "slug": "yukhari-amburdere"
+    },
+    "code": {
+      "id": "AZ803113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.654",
+      "lon": "48.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Bilnə",
+      "en": "Yukhari Bilna",
+      "slug": "yukhari-bilna"
+    },
+    "code": {
+      "id": "AZ803042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.808",
+      "lon": "48.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərdəbərə",
+      "en": "Zardabara",
+      "slug": "zardabara"
+    },
+    "code": {
+      "id": "AZ803056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.778",
+      "lon": "48.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zardoni",
+      "en": "Zardoni",
+      "slug": "zardoni"
+    },
+    "code": {
+      "id": "AZ803099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.722",
+      "lon": "48.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803110",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərigümaco",
+      "en": "Zarigumajo",
+      "slug": "zarigumajo"
+    },
+    "code": {
+      "id": "AZ803110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.698",
+      "lon": "48.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zenoni",
+      "en": "Zenoni",
+      "slug": "zenoni"
+    },
+    "code": {
+      "id": "AZ803029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.882",
+      "lon": "48.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zeynəko",
+      "en": "Zeynako",
+      "slug": "zeynako"
+    },
+    "code": {
+      "id": "AZ803106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.68",
+      "lon": "48.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Jindi",
+      "en": "Zhindi",
+      "slug": "zhindi"
+    },
+    "code": {
+      "id": "AZ803063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.73",
+      "lon": "48.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zövnə",
+      "en": "Zovna",
+      "slug": "zovna"
+    },
+    "code": {
+      "id": "AZ803033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.865",
+      "lon": "48.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ803032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Züvüc",
+      "en": "Zuvuj",
+      "slug": "zuvuj"
+    },
+    "code": {
+      "id": "AZ803032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ803",
+        "level": 1,
+        "name": {
+          "local": "Lerik",
+          "en": "Lerik",
+          "slug": "lerik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.864",
+      "lon": "48.336"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

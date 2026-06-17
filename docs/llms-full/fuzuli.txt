@@ -1,0 +1,509 @@
+# Fuzuli — Azerbaijan Administrative Divisions
+
+> 100 settlements
+> Code: AZ606
+> Coordinates: 39.573, 47.279
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağbaşlı (Aghbashli)
+
+Code: AZ606090, Coordinates: 39.722, 47.059
+
+
+### Əhmədalılar (Ahmadalilar)
+
+Code: AZ606048, Coordinates: 39.43, 47.331
+
+
+### Əhmədbəyli (Ahmadbeyli)
+
+Code: AZ606003, Coordinates: 39.566, 47.553
+
+
+### Ələsgərli (Alasgarli)
+
+Code: AZ606015, Coordinates: 39.596, 47.21
+
+
+### Alxanlı (Alkhanli)
+
+Code: AZ606054, Coordinates: 39.596, 47.366
+
+
+### Arayatlı (Arayatli)
+
+Code: AZ606051, Coordinates: 39.475, 47.37
+
+
+### Araz Dilağarda (Araz Dilagharda)
+
+Code: AZ606001, Coordinates: 39.562, 47.606
+
+
+### Araz Zərgər (Araz Zargar)
+
+Code: AZ606072, Coordinates: 39.572, 47.623
+
+
+### Arış (Arish)
+
+Code: AZ606030, Coordinates: 39.534, 47.105
+
+
+### Aşağı Kürdmahmudlu (Ashaghi  Kurdmahmudlu)
+
+Code: AZ606056, Coordinates: 39.59, 47.473
+
+
+### Aşağı Rəfədinli (Ashaghi  Rafadinli)
+
+Code: AZ606040, Coordinates: 39.48, 47.134
+
+
+### Aşağı Seyidəhmədli (Ashaghi  Seyidahmadli)
+
+Code: AZ606024, Coordinates: 39.574, 47.309
+
+
+### Aşağı Əbdürrəhmanlı (Ashaghi Abdurrahmanli)
+
+Code: AZ606052, Coordinates: 39.525, 47.268
+
+
+### Aşağı Güzlək (Ashaghi Guzlak)
+
+Code: AZ606039, Coordinates: 39.485, 47.135
+
+
+### Aşağı Veysəlli (Ashaghi Veysalli)
+
+Code: AZ606064, Coordinates: 39.702, 47.218
+
+
+### Aşağı Yağlıvənd (Ashaghi Yaghlivand)
+
+Code: AZ606058, Coordinates: 39.51, 47.458
+
+
+### Babı (Babi)
+
+Code: AZ606068, Coordinates: 39.484, 47.378
+
+
+### Bala Bəhmənli (Bala Bahmanli)
+
+Code: AZ606073, Coordinates: 39.554, 47.575
+
+
+### Beşinci  Zobucuq (Beshinji  Zobujug)
+
+Code: AZ606089, Coordinates: 39.577, 47.407
+
+
+### Birinci Mahmudlu (Birinji Mahmudlu)
+
+Code: AZ606069, Coordinates: 39.543, 47.559
+
+
+### Birinci Zobucuq (Birinji Zobujug)
+
+Code: AZ606085, Coordinates: 39.542, 47.411
+
+
+### Böyük Bəhmənli (Boyuk Bahmanli)
+
+Code: AZ606059, Coordinates: 39.516, 47.5
+
+
+### Çimən (Chiman)
+
+Code: AZ606066, Coordinates: 39.567, 47.094
+
+
+### Dədəli (Dadali)
+
+Code: AZ606012, Coordinates: 39.582, 47.163
+
+
+### Dilağarda (Dilagharda)
+
+Code: AZ606062, Coordinates: 39.673, 47.141
+
+
+### Divanalılar (Divanalilar)
+
+Code: AZ606061, Coordinates: 39.668, 47.085
+
+
+### Dördçinar (Dordchinar)
+
+Code: AZ606044, Coordinates: 39.46, 47.216
+
+
+### Dördlər (Dordlar)
+
+Code: AZ606098, Coordinates: 39.714, 47.157
+
+
+### Dördüncü Zobucuq (Dordunju Zobujug)
+
+Code: AZ606088, Coordinates: 39.567, 47.411
+
+
+### Dövlətyarlı (Dovlatyarli)
+
+Code: AZ606007, Coordinates: 39.619, 47.15
+
+
+### FÜZULİ (FUZULI)
+
+Code: AZ606009, Coordinates: 39.6, 47.147
+
+
+### Qacar (Gajar)
+
+Code: AZ606004, Coordinates: 39.65, 47.056
+
+
+### Qarabağ (Garabagh)
+
+Code: AZ606095, Coordinates: 39.588, 47.542
+
+
+### Qaradağlı (Garadaghli)
+
+Code: AZ606034, Coordinates: 39.512, 47.077
+
+
+### Qaraxanbəyli (Garakhanbeyli)
+
+Code: AZ606022, Coordinates: 39.604, 47.276
+
+
+### Qarakollu (Garakollu)
+
+Code: AZ606037, Coordinates: 39.489, 47.118
+
+
+### Qaraməmmədli (Garamammadli)
+
+Code: AZ606006, Coordinates: 39.628, 47.124
+
+
+### Qarğabazar (Garghabazar)
+
+Code: AZ606027, Coordinates: 39.54, 47.158
+
+
+### Qərvənd (Garvand)
+
+Code: AZ606019, Coordinates: 39.633, 47.228
+
+
+### 1 №li Qayıdış (Gayidish-1)
+
+Code: AZ606078, Coordinates: 39.617, 47.651
+
+
+### 10 №-li Qayıdış (Gayidish-10)
+
+Code: AZ606083, Coordinates: 39.735, 47.502
+
+
+### 11 №-li Qayıdış (Gayidish-11)
+
+Code: AZ606084, Coordinates: 39.731, 47.504
+
+
+### 2 №li Qayıdış (Gayidish-2)
+
+Code: AZ606077, Coordinates: 39.628, 47.632
+
+
+### 3 №li Qayıdış (Gayidish-3)
+
+Code: AZ606074, Coordinates: 39.631, 47.625
+
+
+### 4 №li Qayıdış (Gayidish-4)
+
+Code: AZ606076, Coordinates: 39.636, 47.617
+
+
+### 5 №li Qayıdış (Gayidish-5)
+
+Code: AZ606075, Coordinates: 39.639, 47.611
+
+
+### 6 №-li Qayıdış (Gayidish-6)
+
+Code: AZ606079, Coordinates: 39.726, 47.522
+
+
+### 7 №-li Qayıdış (Gayidish-7)
+
+Code: AZ606080, Coordinates: 39.732, 47.519
+
+
+### 8 №-li Qayıdış (Gayidish-8)
+
+Code: AZ606081, Coordinates: 39.736, 47.515
+
+
+### 9 №-li Qayıdış (Gayidish-9)
+
+Code: AZ606082, Coordinates: 39.739, 47.514
+
+
+### Qazaxlar (Gazakhlar)
+
+Code: AZ606047, Coordinates: 39.407, 47.321
+
+
+### Gecəgözlü (Gejagozlu)
+
+Code: AZ606014, Coordinates: 39.579, 47.194
+
+
+### Qıyıqçı (Giyigchi)
+
+Code: AZ606099, Coordinates: 39.618, 47.097
+
+
+### Qızıl Qışlaq (Gizil Gishlag)
+
+Code: AZ606100, Coordinates: 39.618, 47.107
+
+
+### Qobu Dilağarda (Gobu Dilagharda)
+
+Code: AZ606063, Coordinates: 39.68, 47.177
+
+
+### Qoçəhmədli (Gochahmadli)
+
+Code: AZ606028, Coordinates: 39.533, 47.132
+
+
+### Gorazıllı (Gorazilli)
+
+Code: AZ606036, Coordinates: 39.492, 47.087
+
+
+### Qorqan (Gorgan)
+
+Code: AZ606023, Coordinates: 39.559, 47.28
+
+
+### Govşatlı (Govshatli)
+
+Code: AZ606065, Coordinates: 39.614, 47.06
+
+
+### Horadiz
+
+Code: AZ606045, Coordinates: 39.454, 47.234
+
+
+### HORADİZ (HORADIZ)
+
+Code: AZ606049, Coordinates: 39.449, 47.337
+
+
+### Hüngütlü (Hungutlu)
+
+Code: AZ606094, Coordinates: 39.464, 47.219
+
+
+### Hüseynbəyli (Huseynbeyli)
+
+Code: AZ606093, Coordinates: 39.589, 47.221
+
+
+### İkinci Mahmudlu (Ikinji Mahmudlu)
+
+Code: AZ606002, Coordinates: 39.573, 47.541
+
+
+### İkinci Zobucuq (Ikinji Zobujug)
+
+Code: AZ606086, Coordinates: 39.547, 47.391
+
+
+### İşıqlı (Ishigli)
+
+Code: AZ606013, Coordinates: 39.573, 47.164
+
+
+### Cuvarlı (Juvarli)
+
+Code: AZ606032, Coordinates: 39.567, 47.105
+
+
+### Kərimbəyli (Karimbeyli)
+
+Code: AZ606057, Coordinates: 39.508, 47.418
+
+
+### Xələfşə (Khalafsha)
+
+Code: AZ606031, Coordinates: 39.555, 47.12
+
+
+### Xatınbulaq (Khatinbulag)
+
+Code: AZ606033, Coordinates: 39.513, 47.105
+
+
+### Kürdlər (Kurdlar)
+
+Code: AZ606026, Coordinates: 39.54, 47.203
+
+
+### Mandılı (Mandili)
+
+Code: AZ606041, Coordinates: 39.478, 47.164
+
+
+### Merdinli
+
+Code: AZ606021, Coordinates: 39.596, 47.263
+
+
+### Mirzəcamallı (Mirzajamalli)
+
+Code: AZ606017, Coordinates: 39.599, 47.203
+
+
+### Mirzənağılı (Mirzanaghili)
+
+Code: AZ606046, Coordinates: 39.398, 47.313
+
+
+### Mollaməhərrəmli (Mollamaharramli)
+
+Code: AZ606050, Coordinates: 39.466, 47.363
+
+
+### Mollavəli (Mollavali)
+
+Code: AZ606067, Coordinates: 39.514, 47.129
+
+
+### Murtuzalılar (Murtuzalilar)
+
+Code: AZ606096, Coordinates: 39.559, 47.548
+
+
+### Musabəyli (Musabeyli)
+
+Code: AZ606043, Coordinates: 39.473, 47.18
+
+
+### Pirəhmədli (Pirahmadli)
+
+Code: AZ606042, Coordinates: 39.474, 47.162
+
+
+### Saracıq (Sarajig)
+
+Code: AZ606070, Coordinates: 39.491, 47.11
+
+
+### Sərdarlı (Sardarli)
+
+Code: AZ606092, Coordinates: 39.528, 47.149
+
+
+### Seyidmahmudlu
+
+Code: AZ606018, Coordinates: 39.606, 47.209
+
+
+### Şəkərcik (Shakarjik)
+
+Code: AZ606010, Coordinates: 39.606, 47.169
+
+
+### Şıxımlı (Shikhimli)
+
+Code: AZ606091, Coordinates: 39.603, 47.062
+
+
+### Şıxlı (Shikhli)
+
+Code: AZ606097, Coordinates: 39.59, 47.176
+
+
+### Şükürbəyli (Shukurbeyli)
+
+Code: AZ606053, Coordinates: 39.525, 47.337
+
+
+### Üçbulaq (Uchbulag)
+
+Code: AZ606071, Coordinates: 39.587, 47.034
+
+
+### Üçüncü Mahmudlu (Uchunju Mahmudlu)
+
+Code: AZ606016, Coordinates: 39.583, 47.223
+
+
+### Üçüncü Zobucuq (Uchunju Zobujug)
+
+Code: AZ606087, Coordinates: 39.568, 47.398
+
+
+### Yal Pirəhmədli (Yal Pirahmadli)
+
+Code: AZ606029, Coordinates: 39.533, 47.155
+
+
+### Yuxarı Veysəlli (Yukhari  Veysalli)
+
+Code: AZ606060, Coordinates: 39.738, 47.094
+
+
+### Yuxarı Əbdürrəhmanlı (Yukhari Abdurrahmanli)
+
+Code: AZ606025, Coordinates: 39.568, 47.198
+
+
+### Yuxarı Aybasanlı (Yukhari Aybasanli)
+
+Code: AZ606011, Coordinates: 39.596, 47.171
+
+
+### Yuxarı Güzlək (Yukhari Guzlak)
+
+Code: AZ606035, Coordinates: 39.498, 47.083
+
+
+### Yuxarı Kürdmahmudlu (Yukhari Kurdmahmudlu)
+
+Code: AZ606055, Coordinates: 39.602, 47.452
+
+
+### Yuxarı Rəfədinli (Yukhari Rafadinli)
+
+Code: AZ606038, Coordinates: 39.482, 47.122
+
+
+### Yuxarı Seyidəhmədli (Yukhari Seyidahmadli)
+
+Code: AZ606020, Coordinates: 39.58, 47.262
+
+
+### Yuxarı Yağlıvənd (Yukhari Yaghlivand)
+
+Code: AZ606008, Coordinates: 39.646, 47.125
+
+
+### Zərgər (Zargar)
+
+Code: AZ606005, Coordinates: 39.616, 47.117
+
+

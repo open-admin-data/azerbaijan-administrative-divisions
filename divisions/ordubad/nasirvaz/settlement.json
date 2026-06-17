@@ -1,0 +1,45 @@
+{
+  "id": "AZ107015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Nəsirvaz",
+    "en": "Nasirvaz",
+    "slug": "nasirvaz"
+  },
+  "code": {
+    "id": "AZ107015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ107",
+    "level": 1,
+    "name": {
+      "local": "Ordubad",
+      "en": "Ordubad",
+      "slug": "ordubad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.169",
+    "lon": "45.925"
+  },
+  "metadata": {},
+  "source": {}
+}

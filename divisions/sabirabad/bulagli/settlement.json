@@ -1,0 +1,45 @@
+{
+  "id": "AZ909069",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bulaqlı",
+    "en": "Bulagli",
+    "slug": "bulagli"
+  },
+  "code": {
+    "id": "AZ909069",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ909",
+    "level": 1,
+    "name": {
+      "local": "Sabirabad",
+      "en": "Sabirabad",
+      "slug": "sabirabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.974",
+    "lon": "48.513"
+  },
+  "metadata": {},
+  "source": {}
+}

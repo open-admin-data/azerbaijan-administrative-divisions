@@ -1,0 +1,45 @@
+{
+  "id": "AZ100609",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Nardaran",
+    "en": "Nardaran",
+    "slug": "nardaran"
+  },
+  "code": {
+    "id": "AZ100609",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1006",
+    "level": 1,
+    "name": {
+      "local": "Sabunçu",
+      "en": "Sabunchu",
+      "slug": "sabunchu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1006",
+      "level": 1,
+      "name": {
+        "local": "Sabunçu",
+        "en": "Sabunchu",
+        "slug": "sabunchu"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.564",
+    "lon": "49.992"
+  },
+  "metadata": {},
+  "source": {}
+}

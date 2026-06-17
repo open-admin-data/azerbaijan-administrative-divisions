@@ -1,0 +1,45 @@
+{
+  "id": "AZ904008",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Alpout",
+    "en": "Alpout",
+    "slug": "alpout"
+  },
+  "code": {
+    "id": "AZ904008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ904",
+    "level": 1,
+    "name": {
+      "local": "Ucar",
+      "en": "Ujar",
+      "slug": "ujar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.478",
+    "lon": "47.619"
+  },
+  "metadata": {},
+  "source": {}
+}

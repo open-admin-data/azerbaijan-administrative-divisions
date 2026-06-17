@@ -1,0 +1,45 @@
+{
+  "id": "AZ508007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qırıqlı",
+    "en": "Girigli",
+    "slug": "girigli"
+  },
+  "code": {
+    "id": "AZ508007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.661",
+    "lon": "46.259"
+  },
+  "metadata": {},
+  "source": {}
+}

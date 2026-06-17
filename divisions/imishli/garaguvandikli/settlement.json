@@ -1,0 +1,45 @@
+{
+  "id": "AZ907008",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaragüvəndikli",
+    "en": "Garaguvandikli",
+    "slug": "garaguvandikli"
+  },
+  "code": {
+    "id": "AZ907008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.72",
+    "lon": "47.91"
+  },
+  "metadata": {},
+  "source": {}
+}

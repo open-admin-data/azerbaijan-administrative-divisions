@@ -1,0 +1,45 @@
+{
+  "id": "AZ901032",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "YEVLAX",
+    "en": "YEVLAKH",
+    "slug": "yevlakh"
+  },
+  "code": {
+    "id": "AZ901032",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ901",
+    "level": 1,
+    "name": {
+      "local": "Yevlax",
+      "en": "Yevlakh",
+      "slug": "yevlakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.612",
+    "lon": "47.145"
+  },
+  "metadata": {},
+  "source": {}
+}

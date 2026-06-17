@@ -1,0 +1,189 @@
+# Babak — Azerbaijan Administrative Divisions
+
+> 36 settlements
+> Code: AZ103
+> Coordinates: 39.28, 45.464
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Araz
+
+Code: AZ103035, Coordinates: 39.112, 45.421
+
+
+### Aşağı Buzqov (Ashaghi Buzgov)
+
+Code: AZ103006, Coordinates: 39.515, 45.404
+
+
+### Aşağı Uzunoba (Ashaghi Uzunoba)
+
+Code: AZ103016, Coordinates: 39.276, 45.442
+
+
+### BABƏK (BABAK)
+
+Code: AZ103027, Coordinates: 39.164, 45.441
+
+
+### Badaşqan (Badashgan)
+
+Code: AZ103023, Coordinates: 39.214, 45.442
+
+
+### Çeşməbasar (Cheshmabasar)
+
+Code: AZ103033, Coordinates: 39.127, 45.521
+
+
+### Didivar
+
+Code: AZ103010, Coordinates: 39.305, 45.434
+
+
+### Qahab (Gahab)
+
+Code: AZ103030, Coordinates: 39.252, 45.516
+
+
+### Qaraqala (Garagala)
+
+Code: AZ103013, Coordinates: 39.292, 45.473
+
+
+### Gərməçataq (Garmachatag)
+
+Code: AZ103005, Coordinates: 39.493, 45.434
+
+
+### Göynük (Goynuk)
+
+Code: AZ103026, Coordinates: 39.292, 45.66
+
+
+### Gülşənabad (Gulshanabad)
+
+Code: AZ103002, Coordinates: 39.372, 45.396
+
+
+### Güznüt (Guznut)
+
+Code: AZ103034, Coordinates: 39.131, 45.536
+
+
+### Hacıvar (Hajivar)
+
+Code: AZ103024, Coordinates: 39.207, 45.448
+
+
+### Cəhri (Jahri)
+
+Code: AZ103001, Coordinates: 39.351, 45.416
+
+
+### Kalbaoruc Dizə (Kalbaoruj Diza)
+
+Code: AZ103012, Coordinates: 39.297, 45.472
+
+
+### Kərimbəyli (Karimbeyli)
+
+Code: AZ103019, Coordinates: 39.255, 45.456
+
+
+### Xəlilli (Khalilli)
+
+Code: AZ103018, Coordinates: 39.261, 45.44
+
+
+### Xalxal (Khalkhal)
+
+Code: AZ103008, Coordinates: 39.334, 45.459
+
+
+### Kültəpə (Kultepe)
+
+Code: AZ103017, Coordinates: 39.271, 45.454
+
+
+### Məmmədrza Dizə (Mammadrza Diza)
+
+Code: AZ103014, Coordinates: 39.29, 45.46
+
+
+### Məzrə (Mazra)
+
+Code: AZ103011, Coordinates: 39.309, 45.459
+
+
+### Nəhəcir (Nahajir)
+
+Code: AZ103032, Coordinates: 39.255, 45.615
+
+
+### Nəcəfəlidizə (Najafalidiza)
+
+Code: AZ103031, Coordinates: 39.23, 45.536
+
+
+### Naxışnərgiz (Nakhishnargiz)
+
+Code: AZ103036, Coordinates: 39.259, 45.513
+
+
+### Nəzərabad (Nazarabad)
+
+Code: AZ103009, Coordinates: 39.312, 45.433
+
+
+### Nehrəm (Nehram)
+
+Code: AZ103028, Coordinates: 39.117, 45.467
+
+
+### Payız (Payiz)
+
+Code: AZ103003, Coordinates: 39.409, 45.386
+
+
+### Şəkərabad (Shakarabad)
+
+Code: AZ103025, Coordinates: 39.193, 45.438
+
+
+### Şıxmahmud (Shikhmahmud)
+
+Code: AZ103021, Coordinates: 39.253, 45.428
+
+
+### Sirab
+
+Code: AZ103029, Coordinates: 39.294, 45.511
+
+
+### Vayxır (Vaykhir)
+
+Code: AZ103004, Coordinates: 39.351, 45.465
+
+
+### Yarımca (Yarimja)
+
+Code: AZ103022, Coordinates: 39.23, 45.449
+
+
+### Yuxarı Buzqov (Yukhari Buzgov)
+
+Code: AZ103007, Coordinates: 39.524, 45.364
+
+
+### Yuxarı Uzunoba (Yukhari Uzunoba)
+
+Code: AZ103015, Coordinates: 39.291, 45.444
+
+
+### Zeynəddin (Zeynaddin)
+
+Code: AZ103020, Coordinates: 39.251, 45.471
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "AZ404024",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Orta Zəyzid",
+    "en": "Orta Zayzid",
+    "slug": "orta-zayzid"
+  },
+  "code": {
+    "id": "AZ404024",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.169",
+    "lon": "47.248"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ505023",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Pirbulaq",
+    "en": "Pirbulag",
+    "slug": "pirbulag"
+  },
+  "code": {
+    "id": "AZ505023",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ505",
+    "level": 1,
+    "name": {
+      "local": "Gədəbəy",
+      "en": "Gadabey",
+      "slug": "gadabey"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.611",
+    "lon": "45.898"
+  },
+  "metadata": {},
+  "source": {}
+}

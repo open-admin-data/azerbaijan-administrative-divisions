@@ -1,0 +1,45 @@
+{
+  "id": "AZ409074",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Rəhimağalı",
+    "en": "Rahimaghali",
+    "slug": "rahimaghali"
+  },
+  "code": {
+    "id": "AZ409074",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ409",
+    "level": 1,
+    "name": {
+      "local": "Ağsu",
+      "en": "Aghsu",
+      "slug": "aghsu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.501",
+    "lon": "48.485"
+  },
+  "metadata": {},
+  "source": {}
+}

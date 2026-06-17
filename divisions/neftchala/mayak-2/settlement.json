@@ -1,0 +1,45 @@
+{
+  "id": "AZ807050",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "2 N-li Mayak",
+    "en": "Mayak 2",
+    "slug": "mayak-2"
+  },
+  "code": {
+    "id": "AZ807050",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ807",
+    "level": 1,
+    "name": {
+      "local": "Neftçala",
+      "en": "Neftchala",
+      "slug": "neftchala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.362",
+    "lon": "49.338"
+  },
+  "metadata": {},
+  "source": {}
+}

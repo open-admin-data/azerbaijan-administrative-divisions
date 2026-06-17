@@ -1,0 +1,45 @@
+{
+  "id": "AZ502006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Soyuqbulaq",
+    "en": "Soyugbulag",
+    "slug": "soyugbulag"
+  },
+  "code": {
+    "id": "AZ502006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ502",
+    "level": 1,
+    "name": {
+      "local": "Ağstafa",
+      "en": "Aghstafa",
+      "slug": "aghstafa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.322",
+    "lon": "45.269"
+  },
+  "metadata": {},
+  "source": {}
+}

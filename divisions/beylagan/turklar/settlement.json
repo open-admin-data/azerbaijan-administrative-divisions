@@ -1,0 +1,45 @@
+{
+  "id": "AZ607007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Türklər",
+    "en": "Turklar",
+    "slug": "turklar"
+  },
+  "code": {
+    "id": "AZ607007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ607",
+    "level": 1,
+    "name": {
+      "local": "Beyləqan",
+      "en": "Beylagan",
+      "slug": "beylagan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.805",
+    "lon": "47.79"
+  },
+  "metadata": {},
+  "source": {}
+}

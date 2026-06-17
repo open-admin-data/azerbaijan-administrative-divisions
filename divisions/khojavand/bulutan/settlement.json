@@ -1,0 +1,45 @@
+{
+  "id": "AZ703007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bulutan",
+    "en": "Bulutan",
+    "slug": "bulutan"
+  },
+  "code": {
+    "id": "AZ703007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ703",
+    "level": 1,
+    "name": {
+      "local": "Xocavənd",
+      "en": "Khojavand",
+      "slug": "khojavand"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.537",
+    "lon": "47.083"
+  },
+  "metadata": {},
+  "source": {}
+}

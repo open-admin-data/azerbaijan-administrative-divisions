@@ -1,0 +1,45 @@
+{
+  "id": "AZ106011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bənəniyar",
+    "en": "Bananiyar",
+    "slug": "bananiyar"
+  },
+  "code": {
+    "id": "AZ106011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ106",
+    "level": 1,
+    "name": {
+      "local": "Culfa",
+      "en": "Julfa",
+      "slug": "julfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.148",
+    "lon": "45.65"
+  },
+  "metadata": {},
+  "source": {}
+}

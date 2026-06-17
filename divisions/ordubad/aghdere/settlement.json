@@ -1,0 +1,45 @@
+{
+  "id": "AZ107012",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ağdərə",
+    "en": "Aghdere",
+    "slug": "aghdere"
+  },
+  "code": {
+    "id": "AZ107012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ107",
+    "level": 1,
+    "name": {
+      "local": "Ordubad",
+      "en": "Ordubad",
+      "slug": "ordubad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.11",
+    "lon": "45.916"
+  },
+  "metadata": {},
+  "source": {}
+}

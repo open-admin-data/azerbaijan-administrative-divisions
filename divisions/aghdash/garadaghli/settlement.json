@@ -1,0 +1,45 @@
+{
+  "id": "AZ903048",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaradağlı",
+    "en": "Garadaghli",
+    "slug": "garadaghli"
+  },
+  "code": {
+    "id": "AZ903048",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.628",
+    "lon": "47.446"
+  },
+  "metadata": {},
+  "source": {}
+}

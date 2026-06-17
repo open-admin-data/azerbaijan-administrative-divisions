@@ -1,0 +1,33 @@
+{
+  "id": "AZ1004",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xətai",
+    "en": "Khatai",
+    "slug": "khatai"
+  },
+  "code": {
+    "id": "AZ1004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.373",
+    "lon": "49.957"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/khatai/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

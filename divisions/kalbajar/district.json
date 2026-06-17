@@ -1,0 +1,33 @@
+{
+  "id": "AZ601",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kəlbəcər",
+    "en": "Kalbajar",
+    "slug": "kalbajar"
+  },
+  "code": {
+    "id": "AZ601",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 126
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.1",
+    "lon": "46.122"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/kalbajar/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

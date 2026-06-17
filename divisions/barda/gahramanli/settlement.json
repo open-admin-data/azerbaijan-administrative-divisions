@@ -1,0 +1,45 @@
+{
+  "id": "AZ610009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qəhrəmanlı",
+    "en": "Gahramanli",
+    "slug": "gahramanli"
+  },
+  "code": {
+    "id": "AZ610009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ610",
+    "level": 1,
+    "name": {
+      "local": "Bərdə",
+      "en": "Barda",
+      "slug": "barda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.458",
+    "lon": "47.08"
+  },
+  "metadata": {},
+  "source": {}
+}

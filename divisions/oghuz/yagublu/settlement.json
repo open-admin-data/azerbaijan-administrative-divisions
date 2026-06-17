@@ -1,0 +1,45 @@
+{
+  "id": "AZ405017",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yaqublu",
+    "en": "Yagublu",
+    "slug": "yagublu"
+  },
+  "code": {
+    "id": "AZ405017",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ405",
+    "level": 1,
+    "name": {
+      "local": "Oğuz",
+      "en": "Oghuz",
+      "slug": "oghuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.924",
+    "lon": "47.461"
+  },
+  "metadata": {},
+  "source": {}
+}

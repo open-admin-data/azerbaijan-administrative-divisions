@@ -1,0 +1,289 @@
+# Goychay — Azerbaijan Administrative Divisions
+
+> 56 settlements
+> Code: AZ408
+> Coordinates: 40.583, 47.798
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Alıkənd (Alikend)
+
+Code: AZ408026, Coordinates: 40.546, 47.867
+
+
+### Alxasava (Alkhasava)
+
+Code: AZ408033, Coordinates: 40.579, 47.951
+
+
+### Alpout
+
+Code: AZ408047, Coordinates: 40.473, 47.937
+
+
+### Ərəbşahverdi (Arabshahverdi)
+
+Code: AZ408044, Coordinates: 40.602, 47.65
+
+
+### Aşağı Qaraməryəm (Ashaghi Garamaryam)
+
+Code: AZ408031, Coordinates: 40.574, 47.985
+
+
+### Bəydövül (Beydovul)
+
+Code: AZ408034, Coordinates: 40.512, 47.891
+
+
+### Bığır (Bighir)
+
+Code: AZ408017, Coordinates: 40.606, 47.85
+
+
+### Birinci Ərəbcəbirli (Birinji  Arabjabirli)
+
+Code: AZ408002, Coordinates: 40.655, 47.729
+
+
+### Çaxırlı (Chakhirli)
+
+Code: AZ408001, Coordinates: 40.503, 47.848
+
+
+### Çərəcə (Charaja)
+
+Code: AZ408053, Coordinates: 40.547, 47.716
+
+
+### Çərəkə (Charaka)
+
+Code: AZ408039, Coordinates: 40.563, 47.689
+
+
+### Çayarxı (Chayarkhi)
+
+Code: AZ408014, Coordinates: 40.623, 47.771
+
+
+### Dövranlı (Dovranli)
+
+Code: AZ408056, Coordinates: 40.567, 47.967
+
+
+### Qəbələ Müskürlü (Gabala Muskurlu)
+
+Code: AZ408045, Coordinates: 40.559, 47.617
+
+
+### Qarabaqqal (Garabaggal)
+
+Code: AZ408015, Coordinates: 40.624, 47.798
+
+
+### Qarabağlar (Garabaghlar)
+
+Code: AZ408007, Coordinates: 40.634, 47.697
+
+
+### Qaraxıdır (Garakhidir)
+
+Code: AZ408024, Coordinates: 40.574, 47.839
+
+
+### Qaraman (Garaman)
+
+Code: AZ408018, Coordinates: 40.596, 47.835
+
+
+### Qaraməryəm (Garamaryam)
+
+Code: AZ408048, Coordinates: 40.615, 48.021
+
+
+### Qarayazı (Garayazi)
+
+Code: AZ408030, Coordinates: 40.629, 47.98
+
+
+### Qızılağac (Gizilaghaj)
+
+Code: AZ408035, Coordinates: 40.571, 47.75
+
+
+### GÖYÇAY (GOYCHAY)
+
+Code: AZ408005, Coordinates: 40.65, 47.749
+
+
+### Qubadlı Şıxlı (Gubadli Shikhli)
+
+Code: AZ408013, Coordinates: 40.599, 47.76
+
+
+### Hacalıkənd (Hajalikend)
+
+Code: AZ408016, Coordinates: 40.632, 47.804
+
+
+### Hacıağabəyli (Hajiaghabeyli)
+
+Code: AZ408042, Coordinates: 40.577, 47.648
+
+
+### İkinci Ərəbcəbirli (Ikinji  Arabjabirli)
+
+Code: AZ408003, Coordinates: 40.649, 47.688
+
+
+### İnçə (Incha)
+
+Code: AZ408032, Coordinates: 40.554, 47.974
+
+
+### Cəyirli (Jayirli)
+
+Code: AZ408010, Coordinates: 40.621, 47.758
+
+
+### Cırqurd (Jirgurd)
+
+Code: AZ408029, Coordinates: 40.58, 47.897
+
+
+### Xəlitli (Khalitli)
+
+Code: AZ408040, Coordinates: 40.581, 47.688
+
+
+### Kürd (Kurd)
+
+Code: AZ408004, Coordinates: 40.637, 47.733
+
+
+### Kürdəmiş (Kurdamish)
+
+Code: AZ408021, Coordinates: 40.587, 47.773
+
+
+### Kürdşaban (Kurdshaban)
+
+Code: AZ408037, Coordinates: 40.531, 47.753
+
+
+### Ləkçılpaq (Lakchilpag)
+
+Code: AZ408019, Coordinates: 40.59, 47.803
+
+
+### Məlikkənd (Malikkend)
+
+Code: AZ408052, Coordinates: 40.532, 47.792
+
+
+### Mallı Şıxlı (Malli Shikhli)
+
+Code: AZ408043, Coordinates: 40.595, 47.678
+
+
+### Mırtı (Mirti)
+
+Code: AZ408025, Coordinates: 40.561, 47.86
+
+
+### Mirzəhüseynli (Mirzahuseynli)
+
+Code: AZ408006, Coordinates: 40.653, 47.654
+
+
+### Mollahacılı (Mollahajili)
+
+Code: AZ408051, Coordinates: 40.541, 47.77
+
+
+### Müskürlü (Muskurlu)
+
+Code: AZ408046, Coordinates: 40.549, 47.655
+
+
+### Potu
+
+Code: AZ408009, Coordinates: 40.62, 47.738
+
+
+### Şəhadət (Shahadat)
+
+Code: AZ408008, Coordinates: 40.629, 47.708
+
+
+### Şahsoltanlı (Shahsoltanli)
+
+Code: AZ408050, Coordinates: 40.62, 48.05
+
+
+### Şəkər (Shakar)
+
+Code: AZ408027, Coordinates: 40.569, 47.881
+
+
+### Şəkili (Shakili)
+
+Code: AZ408036, Coordinates: 40.55, 47.738
+
+
+### Şıxəmir (Shikhamir)
+
+Code: AZ408055, Coordinates: 40.516, 47.792
+
+
+### Şıxbəy (Shikhbey)
+
+Code: AZ408023, Coordinates: 40.553, 47.798
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ408038, Coordinates: 40.569, 47.716
+
+
+### Türkmən (Turkman)
+
+Code: AZ408020, Coordinates: 40.61, 47.768
+
+
+### Ulaşlı Şıxlı (Ulashli Shikhli)
+
+Code: AZ408012, Coordinates: 40.599, 47.74
+
+
+### Üngütlü (Ungutlu)
+
+Code: AZ408011, Coordinates: 40.601, 47.716
+
+
+### Veysəlli (Veysalli)
+
+Code: AZ408028, Coordinates: 40.548, 47.907
+
+
+### Yalman
+
+Code: AZ408022, Coordinates: 40.567, 47.812
+
+
+### Yekəxana (Yekakhana)
+
+Code: AZ408049, Coordinates: 40.623, 48.043
+
+
+### Yeniarx (Yeniarkh)
+
+Code: AZ408041, Coordinates: 40.572, 47.668
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ408054, Coordinates: 40.515, 47.766
+
+

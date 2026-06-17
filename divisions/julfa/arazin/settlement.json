@@ -1,0 +1,45 @@
+{
+  "id": "AZ106015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ərəzin",
+    "en": "Arazin",
+    "slug": "arazin"
+  },
+  "code": {
+    "id": "AZ106015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ106",
+    "level": 1,
+    "name": {
+      "local": "Culfa",
+      "en": "Julfa",
+      "slug": "julfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.112",
+    "lon": "45.582"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ605018",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Həsənqaydı",
+    "en": "Hasangaydi",
+    "slug": "hasangaydi"
+  },
+  "code": {
+    "id": "AZ605018",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ605",
+    "level": 1,
+    "name": {
+      "local": "Cəbrayıl",
+      "en": "Jabrayil",
+      "slug": "jabrayil"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.373",
+    "lon": "47.082"
+  },
+  "metadata": {},
+  "source": {}
+}

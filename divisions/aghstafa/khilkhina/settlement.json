@@ -1,0 +1,45 @@
+{
+  "id": "AZ502014",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xılxına",
+    "en": "Khilkhina",
+    "slug": "khilkhina"
+  },
+  "code": {
+    "id": "AZ502014",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ502",
+    "level": 1,
+    "name": {
+      "local": "Ağstafa",
+      "en": "Aghstafa",
+      "slug": "aghstafa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.173",
+    "lon": "45.416"
+  },
+  "metadata": {},
+  "source": {}
+}

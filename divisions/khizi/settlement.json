@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "AZ306017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    },
+    "code": {
+      "id": "AZ306017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.692",
+      "lon": "49.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Altıağac",
+      "en": "Altiaghaj",
+      "slug": "altiaghaj"
+    },
+    "code": {
+      "id": "AZ306001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.856",
+      "lon": "48.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmbizlər",
+      "en": "Ambizlar",
+      "slug": "ambizlar"
+    },
+    "code": {
+      "id": "AZ306015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.79",
+      "lon": "49.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əngilan",
+      "en": "Angilan",
+      "slug": "angilan"
+    },
+    "code": {
+      "id": "AZ306029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.907",
+      "lon": "49.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baxışlı",
+      "en": "Bakhishli",
+      "slug": "bakhishli"
+    },
+    "code": {
+      "id": "AZ306002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.901",
+      "lon": "48.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəyəhmədyurd",
+      "en": "Beyahmadyurd",
+      "slug": "beyahmadyurd"
+    },
+    "code": {
+      "id": "AZ306003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.914",
+      "lon": "48.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dizəvər",
+      "en": "Dizavar",
+      "slug": "dizavar"
+    },
+    "code": {
+      "id": "AZ306026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.805",
+      "lon": "49.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fındığan",
+      "en": "Findighan",
+      "slug": "findighan"
+    },
+    "code": {
+      "id": "AZ306008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.957",
+      "lon": "49.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabulaq",
+      "en": "Garabulag",
+      "slug": "garabulag"
+    },
+    "code": {
+      "id": "AZ306027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.834",
+      "lon": "49.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qars",
+      "en": "Gars",
+      "slug": "gars"
+    },
+    "code": {
+      "id": "AZ306014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.86",
+      "lon": "49.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımkənd",
+      "en": "Gasimkend",
+      "slug": "gasimkend"
+    },
+    "code": {
+      "id": "AZ306022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.752",
+      "lon": "49.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Giləzi",
+      "en": "Gilazi",
+      "slug": "gilazi"
+    },
+    "code": {
+      "id": "AZ306007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.873",
+      "lon": "49.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılqazma",
+      "en": "Gizilgazma",
+      "slug": "gizilgazma"
+    },
+    "code": {
+      "id": "AZ306012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.88",
+      "lon": "49.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güneyqışlaq",
+      "en": "Guneygishlag",
+      "slug": "guneygishlag"
+    },
+    "code": {
+      "id": "AZ306024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.919",
+      "lon": "49.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xələnc",
+      "en": "Khalanj",
+      "slug": "khalanj"
+    },
+    "code": {
+      "id": "AZ306009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.912",
+      "lon": "49.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "XIZI",
+      "en": "KHIZI",
+      "slug": "khizi"
+    },
+    "code": {
+      "id": "AZ306011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.91",
+      "lon": "49.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədi Həsən",
+      "en": "Mashadi Hasan",
+      "slug": "mashadi-hasan"
+    },
+    "code": {
+      "id": "AZ306021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.823",
+      "lon": "49.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Safbulaq",
+      "en": "Safbulag",
+      "slug": "safbulag"
+    },
+    "code": {
+      "id": "AZ306020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.816",
+      "lon": "48.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şorabad",
+      "en": "Shorabad",
+      "slug": "shorabad"
+    },
+    "code": {
+      "id": "AZ306006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.818",
+      "lon": "49.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sitalçay",
+      "en": "Sitalchay",
+      "slug": "sitalchay"
+    },
+    "code": {
+      "id": "AZ306005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.787",
+      "lon": "49.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ306018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.887",
+      "lon": "49.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tıxlı",
+      "en": "Tikhli",
+      "slug": "tikhli"
+    },
+    "code": {
+      "id": "AZ306010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.915",
+      "lon": "49.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tudar",
+      "en": "Tudar",
+      "slug": "tudar"
+    },
+    "code": {
+      "id": "AZ306016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.736",
+      "lon": "49.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkoba",
+      "en": "Turkoba",
+      "slug": "turkoba"
+    },
+    "code": {
+      "id": "AZ306028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.795",
+      "lon": "49.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vərdah",
+      "en": "Vardah",
+      "slug": "vardah"
+    },
+    "code": {
+      "id": "AZ306023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.897",
+      "lon": "48.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yarımca",
+      "en": "Yarimja",
+      "slug": "yarimja"
+    },
+    "code": {
+      "id": "AZ306013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.864",
+      "lon": "49.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yaşma",
+      "en": "Yashma",
+      "slug": "yashma"
+    },
+    "code": {
+      "id": "AZ306004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.707",
+      "lon": "49.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Yaşma",
+      "en": "Yeni Yashma",
+      "slug": "yeni-yashma"
+    },
+    "code": {
+      "id": "AZ306019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.756",
+      "lon": "49.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ306025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Əngilan",
+      "en": "Yukhari Angilan",
+      "slug": "yukhari-angilan"
+    },
+    "code": {
+      "id": "AZ306025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ306",
+        "level": 1,
+        "name": {
+          "local": "Xızı",
+          "en": "Khizi",
+          "slug": "khizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.826",
+      "lon": "49.028"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "AZ909041",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əsgərbəyli",
+    "en": "Asgarbeyli",
+    "slug": "asgarbeyli"
+  },
+  "code": {
+    "id": "AZ909041",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ909",
+    "level": 1,
+    "name": {
+      "local": "Sabirabad",
+      "en": "Sabirabad",
+      "slug": "sabirabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.029",
+    "lon": "48.391"
+  },
+  "metadata": {},
+  "source": {}
+}

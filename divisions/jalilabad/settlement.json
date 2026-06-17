@@ -1,0 +1,5447 @@
+[
+  {
+    "id": "AZ806038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abazallı",
+      "en": "Abazalli",
+      "slug": "abazalli"
+    },
+    "code": {
+      "id": "AZ806038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.278",
+      "lon": "48.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abdullu",
+      "en": "Abdullu",
+      "slug": "abdullu"
+    },
+    "code": {
+      "id": "AZ806062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.202",
+      "lon": "48.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abışabad",
+      "en": "Abishabad",
+      "slug": "abishabad"
+    },
+    "code": {
+      "id": "AZ806039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.257",
+      "lon": "48.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adnalı",
+      "en": "Adnali",
+      "slug": "adnali"
+    },
+    "code": {
+      "id": "AZ806009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.29",
+      "lon": "48.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbulaq",
+      "en": "Aghbulag",
+      "slug": "aghbulag"
+    },
+    "code": {
+      "id": "AZ806084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.1",
+      "lon": "48.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    },
+    "code": {
+      "id": "AZ806085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.118",
+      "lon": "48.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağusəm",
+      "en": "Aghusam",
+      "slug": "aghusam"
+    },
+    "code": {
+      "id": "AZ806046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.2",
+      "lon": "48.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axtaxana",
+      "en": "Akhtakhana",
+      "slug": "akhtakhana"
+    },
+    "code": {
+      "id": "AZ806098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.105",
+      "lon": "48.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alar",
+      "en": "Alar",
+      "slug": "alar"
+    },
+    "code": {
+      "id": "AZ806099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.316",
+      "lon": "48.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806113",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alaşar",
+      "en": "Alashar",
+      "slug": "alashar"
+    },
+    "code": {
+      "id": "AZ806113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.028",
+      "lon": "48.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Albalan",
+      "en": "Albalan",
+      "slug": "albalan"
+    },
+    "code": {
+      "id": "AZ806076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.148",
+      "lon": "48.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliabad",
+      "en": "Aliabad",
+      "slug": "aliabad"
+    },
+    "code": {
+      "id": "AZ806069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.234",
+      "lon": "48.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliqasımlı",
+      "en": "Aligasimli",
+      "slug": "aligasimli"
+    },
+    "code": {
+      "id": "AZ806006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.286",
+      "lon": "48.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Allahverənli",
+      "en": "Allahveranli",
+      "slug": "allahveranli"
+    },
+    "code": {
+      "id": "AZ806059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.165",
+      "lon": "48.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əsədli",
+      "en": "Asadli",
+      "slug": "asadli"
+    },
+    "code": {
+      "id": "AZ806090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.111",
+      "lon": "48.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Astanlı",
+      "en": "Astanli",
+      "slug": "astanli"
+    },
+    "code": {
+      "id": "AZ806057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.195",
+      "lon": "48.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ətcələr",
+      "en": "Atjalar",
+      "slug": "atjalar"
+    },
+    "code": {
+      "id": "AZ806013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.305",
+      "lon": "48.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babaxanlı",
+      "en": "Babakhanli",
+      "slug": "babakhanli"
+    },
+    "code": {
+      "id": "AZ806011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.304",
+      "lon": "48.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babalı",
+      "en": "Babali",
+      "slug": "babali"
+    },
+    "code": {
+      "id": "AZ806034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.245",
+      "lon": "48.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806118",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Badamağac",
+      "en": "Badamaghaj",
+      "slug": "badamaghaj"
+    },
+    "code": {
+      "id": "AZ806118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.075",
+      "lon": "48.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bədirli",
+      "en": "Badirli",
+      "slug": "badirli"
+    },
+    "code": {
+      "id": "AZ806004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.303",
+      "lon": "48.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806107",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəcirəvan",
+      "en": "Bajiravan",
+      "slug": "bajiravan"
+    },
+    "code": {
+      "id": "AZ806107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.087",
+      "lon": "48.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boyxanlı",
+      "en": "Boykhanli",
+      "slug": "boykhanli"
+    },
+    "code": {
+      "id": "AZ806020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.258",
+      "lon": "48.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Buravar",
+      "en": "Buravar",
+      "slug": "buravar"
+    },
+    "code": {
+      "id": "AZ806097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.07",
+      "lon": "48.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çəmənli",
+      "en": "Chamanli",
+      "slug": "chamanli"
+    },
+    "code": {
+      "id": "AZ806029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.217",
+      "lon": "48.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çinar",
+      "en": "Chinar",
+      "slug": "chinar"
+    },
+    "code": {
+      "id": "AZ806050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.169",
+      "lon": "48.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çünəxanlı",
+      "en": "Chunakhanli",
+      "slug": "chunakhanli"
+    },
+    "code": {
+      "id": "AZ806054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.19",
+      "lon": "48.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çünzəli",
+      "en": "Chunzeli",
+      "slug": "chunzeli"
+    },
+    "code": {
+      "id": "AZ806081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.142",
+      "lon": "48.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dələli",
+      "en": "Dalali",
+      "slug": "dalali"
+    },
+    "code": {
+      "id": "AZ806001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.338",
+      "lon": "48.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Darılıq",
+      "en": "Darilig",
+      "slug": "darilig"
+    },
+    "code": {
+      "id": "AZ806083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.112",
+      "lon": "48.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dostallı",
+      "en": "Dostalli",
+      "slug": "dostalli"
+    },
+    "code": {
+      "id": "AZ806025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.216",
+      "lon": "48.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dövlətalıbəyli",
+      "en": "Dovlatalibayli",
+      "slug": "dovlatalibayli"
+    },
+    "code": {
+      "id": "AZ806073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.206",
+      "lon": "48.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eçara",
+      "en": "Echara",
+      "slug": "echara"
+    },
+    "code": {
+      "id": "AZ806044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.215",
+      "lon": "48.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Edişə",
+      "en": "Edisha",
+      "slug": "edisha"
+    },
+    "code": {
+      "id": "AZ806096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.175",
+      "lon": "48.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fərəcullalı",
+      "en": "Farajullali",
+      "slug": "farajullali"
+    },
+    "code": {
+      "id": "AZ806049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.179",
+      "lon": "48.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fərzili",
+      "en": "Farzili",
+      "slug": "farzili"
+    },
+    "code": {
+      "id": "AZ806063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.196",
+      "lon": "48.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fətullaqışlaq",
+      "en": "Fatullagishlag",
+      "slug": "fatullagishlag"
+    },
+    "code": {
+      "id": "AZ806088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.066",
+      "lon": "48.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qamışlıgöl",
+      "en": "Gamishligol",
+      "slug": "gamishligol"
+    },
+    "code": {
+      "id": "AZ806078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.136",
+      "lon": "48.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraağac",
+      "en": "Garaaghaj",
+      "slug": "garaaghaj"
+    },
+    "code": {
+      "id": "AZ806080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.147",
+      "lon": "48.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarakazımlı",
+      "en": "Garakazimli",
+      "slug": "garakazimli"
+    },
+    "code": {
+      "id": "AZ806017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.306",
+      "lon": "48.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806119",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarazəncir",
+      "en": "Garazanjir",
+      "slug": "garazanjir"
+    },
+    "code": {
+      "id": "AZ806119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.265",
+      "lon": "48.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarğılı",
+      "en": "Garghili",
+      "slug": "garghili"
+    },
+    "code": {
+      "id": "AZ806023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.21",
+      "lon": "48.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımbəyli",
+      "en": "Gasimbeyli",
+      "slug": "gasimbeyli"
+    },
+    "code": {
+      "id": "AZ806041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.244",
+      "lon": "48.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806111",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "GÖYTƏPƏ",
+      "en": "GOYTEPE",
+      "slug": "goytepe"
+    },
+    "code": {
+      "id": "AZ806111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.119",
+      "lon": "48.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülməmmədli",
+      "en": "Gulmammadli",
+      "slug": "gulmammadli"
+    },
+    "code": {
+      "id": "AZ806014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.322",
+      "lon": "48.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ806100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.289",
+      "lon": "48.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güneyli",
+      "en": "Guneyli",
+      "slug": "guneyli"
+    },
+    "code": {
+      "id": "AZ806082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.141",
+      "lon": "48.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıismayıllı",
+      "en": "Hajiismayilli",
+      "slug": "hajiismayilli"
+    },
+    "code": {
+      "id": "AZ806058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.18",
+      "lon": "48.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıcavadlı",
+      "en": "Hajijavadli",
+      "slug": "hajijavadli"
+    },
+    "code": {
+      "id": "AZ806106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.117",
+      "lon": "48.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıməmmədli",
+      "en": "Hajimammadli",
+      "slug": "hajimammadli"
+    },
+    "code": {
+      "id": "AZ806042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.234",
+      "lon": "48.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hamarqışlaq",
+      "en": "Hamargishlag",
+      "slug": "hamargishlag"
+    },
+    "code": {
+      "id": "AZ806065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.17",
+      "lon": "48.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənli",
+      "en": "Hasanli",
+      "slug": "hasanli"
+    },
+    "code": {
+      "id": "AZ806053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.185",
+      "lon": "48.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hasıllı",
+      "en": "Hasilli",
+      "slug": "hasilli"
+    },
+    "code": {
+      "id": "AZ806064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.188",
+      "lon": "48.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806110",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həziabad",
+      "en": "Haziabad",
+      "slug": "haziabad"
+    },
+    "code": {
+      "id": "AZ806110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.068",
+      "lon": "48.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İnili",
+      "en": "Inili",
+      "slug": "inili"
+    },
+    "code": {
+      "id": "AZ806010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.27",
+      "lon": "48.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İncilli",
+      "en": "Injilli",
+      "slug": "injilli"
+    },
+    "code": {
+      "id": "AZ806077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.138",
+      "lon": "48.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəfərxanlı",
+      "en": "Jafarkhanli",
+      "slug": "jafarkhanli"
+    },
+    "code": {
+      "id": "AZ806003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.333",
+      "lon": "48.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəfərli",
+      "en": "Jafarli",
+      "slug": "jafarli"
+    },
+    "code": {
+      "id": "AZ806056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.19",
+      "lon": "48.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəlayir",
+      "en": "Jalayir",
+      "slug": "jalayir"
+    },
+    "code": {
+      "id": "AZ806030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.227",
+      "lon": "48.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "CƏLİLABAD",
+      "en": "JALILABAD",
+      "slug": "jalilabad"
+    },
+    "code": {
+      "id": "AZ806067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.21",
+      "lon": "48.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəngan",
+      "en": "Jangan",
+      "slug": "jangan"
+    },
+    "code": {
+      "id": "AZ806048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.181",
+      "lon": "48.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806112",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kazımabad",
+      "en": "Kazimabad",
+      "slug": "kazimabad"
+    },
+    "code": {
+      "id": "AZ806112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.134",
+      "lon": "48.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlilabad",
+      "en": "Khalilabad",
+      "slug": "khalilabad"
+    },
+    "code": {
+      "id": "AZ806066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.153",
+      "lon": "48.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlilli",
+      "en": "Khalilli",
+      "slug": "khalilli"
+    },
+    "code": {
+      "id": "AZ806060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.158",
+      "lon": "48.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanəgah",
+      "en": "Khanagah",
+      "slug": "khanagah"
+    },
+    "code": {
+      "id": "AZ806024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.205",
+      "lon": "48.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanılı",
+      "en": "Khanili",
+      "slug": "khanili"
+    },
+    "code": {
+      "id": "AZ806045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.205",
+      "lon": "48.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806108",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Komanlı",
+      "en": "Komanli",
+      "slug": "komanli"
+    },
+    "code": {
+      "id": "AZ806108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.084",
+      "lon": "48.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kövüzbulaq",
+      "en": "Kovuzbulag",
+      "slug": "kovuzbulag"
+    },
+    "code": {
+      "id": "AZ806094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.156",
+      "lon": "48.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdlər",
+      "en": "Kurdlar",
+      "slug": "kurdlar"
+    },
+    "code": {
+      "id": "AZ806071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.216",
+      "lon": "48.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləkin",
+      "en": "Lakin",
+      "slug": "lakin"
+    },
+    "code": {
+      "id": "AZ806091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.125",
+      "lon": "48.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lallar",
+      "en": "Lallar",
+      "slug": "lallar"
+    },
+    "code": {
+      "id": "AZ806027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.197",
+      "lon": "48.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləzran",
+      "en": "Lazran",
+      "slug": "lazran"
+    },
+    "code": {
+      "id": "AZ806052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.19",
+      "lon": "48.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mədətli",
+      "en": "Madatli",
+      "slug": "madatli"
+    },
+    "code": {
+      "id": "AZ806037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.259",
+      "lon": "48.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikqasımlı",
+      "en": "Malikgasimli",
+      "slug": "malikgasimli"
+    },
+    "code": {
+      "id": "AZ806021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.23",
+      "lon": "48.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədcanlı",
+      "en": "Mammadjanli",
+      "slug": "mammadjanli"
+    },
+    "code": {
+      "id": "AZ806012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.299",
+      "lon": "48.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədrzalı",
+      "en": "Mammadrzali",
+      "slug": "mammadrzali"
+    },
+    "code": {
+      "id": "AZ806031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.238",
+      "lon": "48.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədi Hüseynli",
+      "en": "Mashadi Huseynli",
+      "slug": "mashadi-huseynli"
+    },
+    "code": {
+      "id": "AZ806051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.174",
+      "lon": "48.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədilər",
+      "en": "Mashadilar",
+      "slug": "mashadilar"
+    },
+    "code": {
+      "id": "AZ806026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.22",
+      "lon": "48.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806117",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədivəlli",
+      "en": "Mashadivalli",
+      "slug": "mashadivalli"
+    },
+    "code": {
+      "id": "AZ806117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.243",
+      "lon": "48.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maşlıq",
+      "en": "Mashlig",
+      "slug": "mashlig"
+    },
+    "code": {
+      "id": "AZ806102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.184",
+      "lon": "48.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikayıllı",
+      "en": "Mikayilli",
+      "slug": "mikayilli"
+    },
+    "code": {
+      "id": "AZ806022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.196",
+      "lon": "48.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirtəhməzli",
+      "en": "Mirtahmazli",
+      "slug": "mirtahmazli"
+    },
+    "code": {
+      "id": "AZ806043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.232",
+      "lon": "48.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəli",
+      "en": "Mirzali",
+      "slug": "mirzali"
+    },
+    "code": {
+      "id": "AZ806075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.227",
+      "lon": "48.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollalı",
+      "en": "Mollali",
+      "slug": "mollali"
+    },
+    "code": {
+      "id": "AZ806072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.213",
+      "lon": "48.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moranlı",
+      "en": "Moranli",
+      "slug": "moranli"
+    },
+    "code": {
+      "id": "AZ806019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.281",
+      "lon": "48.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğan",
+      "en": "Mughan",
+      "slug": "mughan"
+    },
+    "code": {
+      "id": "AZ806103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.161",
+      "lon": "48.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Musalı",
+      "en": "Musali",
+      "slug": "musali"
+    },
+    "code": {
+      "id": "AZ806092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.14",
+      "lon": "48.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806116",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Novoqolovka",
+      "en": "Novogolovka",
+      "slug": "novogolovka"
+    },
+    "code": {
+      "id": "AZ806116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.23",
+      "lon": "48.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Novruzallı",
+      "en": "Novruzalli",
+      "slug": "novruzalli"
+    },
+    "code": {
+      "id": "AZ806032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.246",
+      "lon": "48.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oğrubulaq",
+      "en": "Oghrubulag",
+      "slug": "oghrubulag"
+    },
+    "code": {
+      "id": "AZ806087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.067",
+      "lon": "48.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ocaqlı",
+      "en": "Ojagli",
+      "slug": "ojagli"
+    },
+    "code": {
+      "id": "AZ806007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.26",
+      "lon": "48.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pərdi",
+      "en": "Pardi",
+      "slug": "pardi"
+    },
+    "code": {
+      "id": "AZ806028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.183",
+      "lon": "48.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Porsava",
+      "en": "Porsava",
+      "slug": "porsava"
+    },
+    "code": {
+      "id": "AZ806074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.199",
+      "lon": "48.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Privolnoye",
+      "en": "Privolnoye",
+      "slug": "privolnoye"
+    },
+    "code": {
+      "id": "AZ806105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.13",
+      "lon": "48.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806114",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sabirabad",
+      "en": "Sabirabad",
+      "slug": "sabirabad"
+    },
+    "code": {
+      "id": "AZ806114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.262",
+      "lon": "48.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sadatlı",
+      "en": "Sadatli",
+      "slug": "sadatli"
+    },
+    "code": {
+      "id": "AZ806079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.129",
+      "lon": "48.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərhədabad",
+      "en": "Sarhadabad",
+      "slug": "sarhadabad"
+    },
+    "code": {
+      "id": "AZ806068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.238",
+      "lon": "48.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarxanlı",
+      "en": "Sarkhanli",
+      "slug": "sarkhanli"
+    },
+    "code": {
+      "id": "AZ806018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.305",
+      "lon": "48.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidbazar",
+      "en": "Seyidbazar",
+      "slug": "seyidbazar"
+    },
+    "code": {
+      "id": "AZ806061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.168",
+      "lon": "48.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şabanlı",
+      "en": "Shabanli",
+      "slug": "shabanli"
+    },
+    "code": {
+      "id": "AZ806040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.246",
+      "lon": "48.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şatırlı",
+      "en": "Shatirli",
+      "slug": "shatirli"
+    },
+    "code": {
+      "id": "AZ806089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.087",
+      "lon": "48.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806109",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ806109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.09",
+      "lon": "48.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şiləvəngə",
+      "en": "Shilavanga",
+      "slug": "shilavanga"
+    },
+    "code": {
+      "id": "AZ806008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.262",
+      "lon": "48.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şorbaçı",
+      "en": "Shorbachi",
+      "slug": "shorbachi"
+    },
+    "code": {
+      "id": "AZ806036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.257",
+      "lon": "48.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şötüklü",
+      "en": "Shotuklu",
+      "slug": "shotuklu"
+    },
+    "code": {
+      "id": "AZ806033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.225",
+      "lon": "48.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şükürlü",
+      "en": "Shukurlu",
+      "slug": "shukurlu"
+    },
+    "code": {
+      "id": "AZ806015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.327",
+      "lon": "48.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soltankənd",
+      "en": "Soltankend",
+      "slug": "soltankend"
+    },
+    "code": {
+      "id": "AZ806095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.163",
+      "lon": "48.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Söyüdlü",
+      "en": "Soyudlu",
+      "slug": "soyudlu"
+    },
+    "code": {
+      "id": "AZ806104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.157",
+      "lon": "48.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806121",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soyuqbulaq",
+      "en": "Soyugbulag",
+      "slug": "soyugbulag"
+    },
+    "code": {
+      "id": "AZ806121",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.127",
+      "lon": "48.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suluçeşmə",
+      "en": "Sulucheshma",
+      "slug": "sulucheshma"
+    },
+    "code": {
+      "id": "AZ806070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.215",
+      "lon": "48.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tahirli",
+      "en": "Tahirli",
+      "slug": "tahirli"
+    },
+    "code": {
+      "id": "AZ806047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.183",
+      "lon": "48.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təklə",
+      "en": "Takla",
+      "slug": "takla"
+    },
+    "code": {
+      "id": "AZ806035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.256",
+      "lon": "48.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ806005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.32",
+      "lon": "48.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806120",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkelli",
+      "en": "Turkelli",
+      "slug": "turkelli"
+    },
+    "code": {
+      "id": "AZ806120",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.203",
+      "lon": "48.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçtəpə",
+      "en": "Uchtepe",
+      "slug": "uchtepe"
+    },
+    "code": {
+      "id": "AZ806002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.335",
+      "lon": "48.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uzuntəpə",
+      "en": "Uzuntepe",
+      "slug": "uzuntepe"
+    },
+    "code": {
+      "id": "AZ806101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.22",
+      "lon": "48.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vənlik",
+      "en": "Vanlik",
+      "slug": "vanlik"
+    },
+    "code": {
+      "id": "AZ806086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.089",
+      "lon": "48.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806115",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yusifli",
+      "en": "Yusifli",
+      "slug": "yusifli"
+    },
+    "code": {
+      "id": "AZ806115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.221",
+      "lon": "48.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəhmətabad",
+      "en": "Zahmatabad",
+      "slug": "zahmatabad"
+    },
+    "code": {
+      "id": "AZ806093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.145",
+      "lon": "48.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərbəli",
+      "en": "Zarbali",
+      "slug": "zarbali"
+    },
+    "code": {
+      "id": "AZ806016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.313",
+      "lon": "48.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ806055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zopun",
+      "en": "Zopun",
+      "slug": "zopun"
+    },
+    "code": {
+      "id": "AZ806055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ806",
+        "level": 1,
+        "name": {
+          "local": "Cəlilabad",
+          "en": "Jalilabad",
+          "slug": "jalilabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.18",
+      "lon": "48.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

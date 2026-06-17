@@ -1,0 +1,45 @@
+{
+  "id": "AZ804088",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeni Abdinli",
+    "en": "Yeni Abdinli",
+    "slug": "yeni-abdinli"
+  },
+  "code": {
+    "id": "AZ804088",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ804",
+    "level": 1,
+    "name": {
+      "local": "Yardımlı",
+      "en": "Yardimli",
+      "slug": "yardimli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.928",
+    "lon": "48.151"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ303091",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xucbala",
+    "en": "Khujbala",
+    "slug": "khujbala"
+  },
+  "code": {
+    "id": "AZ303091",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.415",
+    "lon": "48.465"
+  },
+  "metadata": {},
+  "source": {}
+}

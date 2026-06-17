@@ -1,0 +1,33 @@
+{
+  "id": "AZ901",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Yevlax",
+    "en": "Yevlakh",
+    "slug": "yevlakh"
+  },
+  "code": {
+    "id": "AZ901",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 50
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.637",
+    "lon": "47.105"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/yevlakh/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

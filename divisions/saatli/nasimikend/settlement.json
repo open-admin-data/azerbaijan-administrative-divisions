@@ -1,0 +1,45 @@
+{
+  "id": "AZ908029",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Nəsimikənd",
+    "en": "Nasimikend",
+    "slug": "nasimikend"
+  },
+  "code": {
+    "id": "AZ908029",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ908",
+    "level": 1,
+    "name": {
+      "local": "Saatlı",
+      "en": "Saatli",
+      "slug": "saatli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.837",
+    "lon": "48.613"
+  },
+  "metadata": {},
+  "source": {}
+}

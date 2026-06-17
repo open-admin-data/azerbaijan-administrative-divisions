@@ -1,0 +1,45 @@
+{
+  "id": "AZ611061",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Rəcəbli",
+    "en": "Rajabli",
+    "slug": "rajabli"
+  },
+  "code": {
+    "id": "AZ611061",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ611",
+    "level": 1,
+    "name": {
+      "local": "Tərtər",
+      "en": "Tartar",
+      "slug": "tartar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.454",
+    "lon": "46.92"
+  },
+  "metadata": {},
+  "source": {}
+}

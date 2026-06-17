@@ -1,0 +1,45 @@
+{
+  "id": "AZ601045",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ağdaş",
+    "en": "Aghdash",
+    "slug": "aghdash"
+  },
+  "code": {
+    "id": "AZ601045",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ601",
+    "level": 1,
+    "name": {
+      "local": "Kəlbəcər",
+      "en": "Kalbajar",
+      "slug": "kalbajar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.168",
+    "lon": "46.086"
+  },
+  "metadata": {},
+  "source": {}
+}

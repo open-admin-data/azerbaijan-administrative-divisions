@@ -1,0 +1,45 @@
+{
+  "id": "AZ606086",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İkinci Zobucuq",
+    "en": "Ikinji Zobujug",
+    "slug": "ikinji-zobujug"
+  },
+  "code": {
+    "id": "AZ606086",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.547",
+    "lon": "47.391"
+  },
+  "metadata": {},
+  "source": {}
+}

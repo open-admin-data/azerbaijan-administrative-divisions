@@ -1,0 +1,45 @@
+{
+  "id": "AZ601142",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Pirilər",
+    "en": "Pirilar",
+    "slug": "pirilar"
+  },
+  "code": {
+    "id": "AZ601142",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ601",
+    "level": 1,
+    "name": {
+      "local": "Kəlbəcər",
+      "en": "Kalbajar",
+      "slug": "kalbajar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.167",
+    "lon": "46.187"
+  },
+  "metadata": {},
+  "source": {}
+}

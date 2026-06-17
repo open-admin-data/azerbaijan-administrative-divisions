@@ -1,0 +1,45 @@
+{
+  "id": "AZ803029",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Zenoni",
+    "en": "Zenoni",
+    "slug": "zenoni"
+  },
+  "code": {
+    "id": "AZ803029",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.882",
+    "lon": "48.394"
+  },
+  "metadata": {},
+  "source": {}
+}

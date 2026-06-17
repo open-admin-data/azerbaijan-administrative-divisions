@@ -1,0 +1,174 @@
+# Gobustan — Azerbaijan Administrative Divisions
+
+> 33 settlements
+> Code: AZ307
+> Coordinates: 40.534, 48.909
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ərəbqədim (Arabgadim)
+
+Code: AZ307025, Coordinates: 40.426, 48.967
+
+
+### Ərəbşahverdi (Arabshahverdi)
+
+Code: AZ307013, Coordinates: 40.562, 48.972
+
+
+### Ərəbşalbaş (Arabshalbash)
+
+Code: AZ307005, Coordinates: 40.618, 48.763
+
+
+### Bədəlli (Badalli)
+
+Code: AZ307031, Coordinates: 40.507, 48.812
+
+
+### Bəklə (Bakla)
+
+Code: AZ307015, Coordinates: 40.609, 48.9
+
+
+### Çay Qurbançı (Chay Gurbanchi)
+
+Code: AZ307029, Coordinates: 40.609, 49
+
+
+### Çelov (Chelov)
+
+Code: AZ307016, Coordinates: 40.57, 48.877
+
+
+### Çuxanlı (Chukhanli)
+
+Code: AZ307020, Coordinates: 40.603, 48.793
+
+
+### Dağ Kolanı (Dagh Kolani)
+
+Code: AZ307033, Coordinates: 40.373, 48.795
+
+
+### Damlamaca (Damlamaja)
+
+Code: AZ307009, Coordinates: 40.496, 48.92
+
+
+### Dərəkənd (Derekend)
+
+Code: AZ307008, Coordinates: 40.5, 48.938
+
+
+### Qaracüzlü (Garajuzlu)
+
+Code: AZ307004, Coordinates: 40.576, 49.08
+
+
+### QOBUSTAN (GOBUSTAN)
+
+Code: AZ307012, Coordinates: 40.533, 48.928
+
+
+### Göydərə (Goydere)
+
+Code: AZ307024, Coordinates: 40.416, 48.941
+
+
+### Qurbançı (Gurbanchi)
+
+Code: AZ307014, Coordinates: 40.567, 48.96
+
+
+### İlanlı (Ilanli)
+
+Code: AZ307003, Coordinates: 40.479, 49.029
+
+
+### Cəmcəmli (Jamjamli)
+
+Code: AZ307010, Coordinates: 40.468, 48.898
+
+
+### Cəngi (Jangi)
+
+Code: AZ307007, Coordinates: 40.504, 49.268
+
+
+### Cəyirli (Jayirli)
+
+Code: AZ307017, Coordinates: 40.578, 48.864
+
+
+### Ceyrankeçməz (Jeyrankechmaz)
+
+Code: AZ307001, Coordinates: 40.484, 49.059
+
+
+### Xilmilli (Khilmilli)
+
+Code: AZ307027, Coordinates: 40.692, 48.863
+
+
+### Nabur
+
+Code: AZ307019, Coordinates: 40.632, 48.92
+
+
+### Nardaran
+
+Code: AZ307030, Coordinates: 40.39, 49.047
+
+
+### Poladlı (Poladli)
+
+Code: AZ307023, Coordinates: 40.417, 48.822
+
+
+### Sədəfli (Sadafli)
+
+Code: AZ307011, Coordinates: 40.489, 48.854
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ307028, Coordinates: 40.728, 48.923
+
+
+### Şıxzahırlı (Shikhzahirli)
+
+Code: AZ307002, Coordinates: 40.475, 49.026
+
+
+### Sündü (Sundu)
+
+Code: AZ307018, Coordinates: 40.626, 48.828
+
+
+### Təklə (Takla)
+
+Code: AZ307021, Coordinates: 40.591, 48.779
+
+
+### Təklə Mirzəbaba (Takla Mirzababa)
+
+Code: AZ307006, Coordinates: 40.625, 48.785
+
+
+### Təsi (Tesi)
+
+Code: AZ307026, Coordinates: 40.491, 48.762
+
+
+### Üzümçü (Uzumchu)
+
+Code: AZ307032, Coordinates: 40.509, 48.817
+
+
+### Yekəxana (Yekakhana)
+
+Code: AZ307022, Coordinates: 40.473, 48.791
+
+

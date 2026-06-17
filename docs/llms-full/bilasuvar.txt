@@ -1,0 +1,139 @@
+# Bilasuvar — Azerbaijan Administrative Divisions
+
+> 26 settlements
+> Code: AZ808
+> Coordinates: 39.462, 48.528
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağalıkənd (Aghalikend)
+
+Code: AZ808019, Coordinates: 39.374, 48.58
+
+
+### Ağayrı (Aghayri)
+
+Code: AZ808006, Coordinates: 39.524, 48.494
+
+
+### Əliabad (Aliabad)
+
+Code: AZ808011, Coordinates: 39.471, 48.603
+
+
+### Amankənd (Amankend)
+
+Code: AZ808018, Coordinates: 39.382, 48.594
+
+
+### Aranlı (Aranli)
+
+Code: AZ808026, Coordinates: 39.509, 48.563
+
+
+### Arazbarı (Arazbari)
+
+Code: AZ808022, Coordinates: 39.579, 48.265
+
+
+### Əsgərabad (Asgarabad)
+
+Code: AZ808015, Coordinates: 39.429, 48.567
+
+
+### Aşağı Cürəli (Ashaghi Jurali)
+
+Code: AZ808016, Coordinates: 39.414, 48.572
+
+
+### Bağbanlar (Baghbanlar)
+
+Code: AZ808010, Coordinates: 39.492, 48.558
+
+
+### Bəydili (Beydili)
+
+Code: AZ808024, Coordinates: 39.459, 48.581
+
+
+### BİLƏSUVAR (BILASUVAR)
+
+Code: AZ808013, Coordinates: 39.456, 48.547
+
+
+### Çaylı (Chayli)
+
+Code: AZ808008, Coordinates: 39.496, 48.518
+
+
+### Çinarlı (Chinarli)
+
+Code: AZ808009, Coordinates: 39.502, 48.586
+
+
+### Dərvişli (Darvishli)
+
+Code: AZ808017, Coordinates: 39.402, 48.58
+
+
+### Günəşli (Gunashli)
+
+Code: AZ808007, Coordinates: 39.518, 48.503
+
+
+### İsmətli (Ismatli)
+
+Code: AZ808005, Coordinates: 39.53, 48.531
+
+
+### Xırmandalı (Khirmandali)
+
+Code: AZ808014, Coordinates: 39.451, 48.605
+
+
+### Muğan (Mughan)
+
+Code: AZ808023, Coordinates: 39.434, 48.499
+
+
+### Nərimankənd (Narimankend)
+
+Code: AZ808002, Coordinates: 39.532, 48.4
+
+
+### Nəsimi (Nasimi)
+
+Code: AZ808003, Coordinates: 39.534, 48.448
+
+
+### Ovçubərə (Ovchubara)
+
+Code: AZ808021, Coordinates: 39.363, 48.63
+
+
+### Səmədabad (Samadabad)
+
+Code: AZ808001, Coordinates: 39.542, 48.322
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ808025, Coordinates: 39.356, 48.587
+
+
+### Yuxarı Ağalı (Yukhari Aghali)
+
+Code: AZ808004, Coordinates: 39.425, 48.451
+
+
+### Yuxarı Cürəli (Yukhari Jurali)
+
+Code: AZ808020, Coordinates: 39.365, 48.573
+
+
+### Zəhmətabad (Zahmatabad)
+
+Code: AZ808012, Coordinates: 39.473, 48.575
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "AZ406041",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Tüntül",
+    "en": "Tuntul",
+    "slug": "tuntul"
+  },
+  "code": {
+    "id": "AZ406041",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ406",
+    "level": 1,
+    "name": {
+      "local": "Qəbələ",
+      "en": "Gabala",
+      "slug": "gabala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.918",
+    "lon": "47.876"
+  },
+  "metadata": {},
+  "source": {}
+}

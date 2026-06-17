@@ -1,0 +1,45 @@
+{
+  "id": "AZ801076",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sipiyəpart",
+    "en": "Sipiyapart",
+    "slug": "sipiyapart"
+  },
+  "code": {
+    "id": "AZ801076",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ801",
+    "level": 1,
+    "name": {
+      "local": "Astara",
+      "en": "Astara",
+      "slug": "astara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.535",
+    "lon": "48.715"
+  },
+  "metadata": {},
+  "source": {}
+}

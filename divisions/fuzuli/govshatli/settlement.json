@@ -1,0 +1,45 @@
+{
+  "id": "AZ606065",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Govşatlı",
+    "en": "Govshatli",
+    "slug": "govshatli"
+  },
+  "code": {
+    "id": "AZ606065",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.614",
+    "lon": "47.06"
+  },
+  "metadata": {},
+  "source": {}
+}

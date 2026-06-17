@@ -1,0 +1,45 @@
+{
+  "id": "AZ503076",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Papaqçılar",
+    "en": "Papagchilar",
+    "slug": "papagchilar"
+  },
+  "code": {
+    "id": "AZ503076",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.671",
+    "lon": "45.577"
+  },
+  "metadata": {},
+  "source": {}
+}

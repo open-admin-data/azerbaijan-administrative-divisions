@@ -1,0 +1,45 @@
+{
+  "id": "AZ801025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Lobir",
+    "en": "Lobir",
+    "slug": "lobir"
+  },
+  "code": {
+    "id": "AZ801025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ801",
+    "level": 1,
+    "name": {
+      "local": "Astara",
+      "en": "Astara",
+      "slug": "astara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.58",
+    "lon": "48.744"
+  },
+  "metadata": {},
+  "source": {}
+}

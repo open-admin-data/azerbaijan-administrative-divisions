@@ -1,0 +1,45 @@
+{
+  "id": "AZ505011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Göyəlli",
+    "en": "Goyalli",
+    "slug": "goyalli"
+  },
+  "code": {
+    "id": "AZ505011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ505",
+    "level": 1,
+    "name": {
+      "local": "Gədəbəy",
+      "en": "Gadabey",
+      "slug": "gadabey"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.695",
+    "lon": "45.424"
+  },
+  "metadata": {},
+  "source": {}
+}

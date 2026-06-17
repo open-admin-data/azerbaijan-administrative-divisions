@@ -1,0 +1,45 @@
+{
+  "id": "AZ405020",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kərimli",
+    "en": "Karimli",
+    "slug": "karimli"
+  },
+  "code": {
+    "id": "AZ405020",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ405",
+    "level": 1,
+    "name": {
+      "local": "Oğuz",
+      "en": "Oghuz",
+      "slug": "oghuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.975",
+    "lon": "47.483"
+  },
+  "metadata": {},
+  "source": {}
+}

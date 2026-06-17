@@ -1,0 +1,45 @@
+{
+  "id": "AZ102032",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Oğlanqala",
+    "en": "Oghlangala",
+    "slug": "oghlangala"
+  },
+  "code": {
+    "id": "AZ102032",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ102",
+    "level": 1,
+    "name": {
+      "local": "Şərur",
+      "en": "Sharur",
+      "slug": "sharur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.589",
+    "lon": "45.048"
+  },
+  "metadata": {},
+  "source": {}
+}

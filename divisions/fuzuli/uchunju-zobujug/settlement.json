@@ -1,0 +1,45 @@
+{
+  "id": "AZ606087",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Üçüncü Zobucuq",
+    "en": "Uchunju Zobujug",
+    "slug": "uchunju-zobujug"
+  },
+  "code": {
+    "id": "AZ606087",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.568",
+    "lon": "47.398"
+  },
+  "metadata": {},
+  "source": {}
+}

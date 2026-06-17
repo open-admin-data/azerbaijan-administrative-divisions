@@ -1,0 +1,45 @@
+{
+  "id": "AZ701021",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Fərrux",
+    "en": "Farrukh",
+    "slug": "farrukh"
+  },
+  "code": {
+    "id": "AZ701021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ701",
+    "level": 1,
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.017",
+    "lon": "46.802"
+  },
+  "metadata": {},
+  "source": {}
+}

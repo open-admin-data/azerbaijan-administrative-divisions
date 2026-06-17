@@ -1,0 +1,4907 @@
+[
+  {
+    "id": "AZ505051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlinağılar",
+      "en": "Alinaghilar",
+      "slug": "alinaghilar"
+    },
+    "code": {
+      "id": "AZ505051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.488",
+      "lon": "45.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alnabat",
+      "en": "Alnabat",
+      "slug": "alnabat"
+    },
+    "code": {
+      "id": "AZ505075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.525",
+      "lon": "45.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmir",
+      "en": "Amir",
+      "slug": "amir"
+    },
+    "code": {
+      "id": "AZ505090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.577",
+      "lon": "45.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmiraslanlı",
+      "en": "Amiraslanli",
+      "slug": "amiraslanli"
+    },
+    "code": {
+      "id": "AZ505085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.578",
+      "lon": "45.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arabaçı",
+      "en": "Arabachi",
+      "slug": "arabachi"
+    },
+    "code": {
+      "id": "AZ505017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.646",
+      "lon": "45.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arıqdam",
+      "en": "Arigdam",
+      "slug": "arigdam"
+    },
+    "code": {
+      "id": "AZ505035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.596",
+      "lon": "45.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arıqıran",
+      "en": "Arigiran",
+      "slug": "arigiran"
+    },
+    "code": {
+      "id": "AZ505074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.536",
+      "lon": "45.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arısu",
+      "en": "Arisu",
+      "slug": "arisu"
+    },
+    "code": {
+      "id": "AZ505050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.492",
+      "lon": "45.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərtəpə",
+      "en": "Artepe",
+      "slug": "artepe"
+    },
+    "code": {
+      "id": "AZ505041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.646",
+      "lon": "45.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ataxal",
+      "en": "Atakhal",
+      "slug": "atakhal"
+    },
+    "code": {
+      "id": "AZ505097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.588",
+      "lon": "45.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əyridərə",
+      "en": "Ayridere",
+      "slug": "ayridere"
+    },
+    "code": {
+      "id": "AZ505003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.712",
+      "lon": "45.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əyrivəng",
+      "en": "Ayrivang",
+      "slug": "ayrivang"
+    },
+    "code": {
+      "id": "AZ505073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.536",
+      "lon": "45.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aytala",
+      "en": "Aytala",
+      "slug": "aytala"
+    },
+    "code": {
+      "id": "AZ505032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.544",
+      "lon": "45.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəydəmirli",
+      "en": "Beydamirli",
+      "slug": "beydamirli"
+    },
+    "code": {
+      "id": "AZ505006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.69",
+      "lon": "45.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Qaramurad",
+      "en": "Boyuk  Garamurad",
+      "slug": "boyuk-garamurad"
+    },
+    "code": {
+      "id": "AZ505101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.57",
+      "lon": "45.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çalburun",
+      "en": "Chalburun",
+      "slug": "chalburun"
+    },
+    "code": {
+      "id": "AZ505049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.512",
+      "lon": "45.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaldaş",
+      "en": "Chaldash",
+      "slug": "chaldash"
+    },
+    "code": {
+      "id": "AZ505047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.511",
+      "lon": "45.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çanaqçı",
+      "en": "Chanagchi",
+      "slug": "chanagchi"
+    },
+    "code": {
+      "id": "AZ505066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.687",
+      "lon": "45.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çay Rəsullu",
+      "en": "Chay Rasullu",
+      "slug": "chay-rasullu"
+    },
+    "code": {
+      "id": "AZ505007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.682",
+      "lon": "45.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505108",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaykənd",
+      "en": "Chaykend",
+      "slug": "chaykend"
+    },
+    "code": {
+      "id": "AZ505108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.575",
+      "lon": "45.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çiçəkli",
+      "en": "Chichakli",
+      "slug": "chichakli"
+    },
+    "code": {
+      "id": "AZ505071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.547",
+      "lon": "45.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çobankənd",
+      "en": "Chobankend",
+      "slug": "chobankend"
+    },
+    "code": {
+      "id": "AZ505069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.559",
+      "lon": "45.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daryurd",
+      "en": "Daryurd",
+      "slug": "daryurd"
+    },
+    "code": {
+      "id": "AZ505076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.534",
+      "lon": "45.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşbulaq",
+      "en": "Dashbulag",
+      "slug": "dashbulag"
+    },
+    "code": {
+      "id": "AZ505038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.633",
+      "lon": "45.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəyəqarabulaq",
+      "en": "Dayagarabulag",
+      "slug": "dayagarabulag"
+    },
+    "code": {
+      "id": "AZ505045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.51",
+      "lon": "45.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəyirmandağ",
+      "en": "Dayirmandagh",
+      "slug": "dayirmandagh"
+    },
+    "code": {
+      "id": "AZ505083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.557",
+      "lon": "45.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dördlər",
+      "en": "Dordlar",
+      "slug": "dordlar"
+    },
+    "code": {
+      "id": "AZ505020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.619",
+      "lon": "45.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düz Rəsullu",
+      "en": "Duz Rasullu",
+      "slug": "duz-rasullu"
+    },
+    "code": {
+      "id": "AZ505015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.659",
+      "lon": "45.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düzyurd",
+      "en": "Duzyurd",
+      "slug": "duzyurd"
+    },
+    "code": {
+      "id": "AZ505031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.552",
+      "lon": "45.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fərzalı",
+      "en": "Farzali",
+      "slug": "farzali"
+    },
+    "code": {
+      "id": "AZ505018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.64",
+      "lon": "45.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "GƏDƏBƏY",
+      "en": "GADABEY",
+      "slug": "gadabey"
+    },
+    "code": {
+      "id": "AZ505034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.572",
+      "lon": "45.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalakənd",
+      "en": "Galakend",
+      "slug": "galakend"
+    },
+    "code": {
+      "id": "AZ505052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.488",
+      "lon": "45.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabulaq",
+      "en": "Garabulag",
+      "slug": "garabulag"
+    },
+    "code": {
+      "id": "AZ505013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.69",
+      "lon": "45.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağ",
+      "en": "Garadagh",
+      "slug": "garadagh"
+    },
+    "code": {
+      "id": "AZ505037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.608",
+      "lon": "45.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraməmmədli",
+      "en": "Garamammadli",
+      "slug": "garamammadli"
+    },
+    "code": {
+      "id": "AZ505099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.608",
+      "lon": "45.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaravəlilər",
+      "en": "Garavalilar",
+      "slug": "garavalilar"
+    },
+    "code": {
+      "id": "AZ505001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.727",
+      "lon": "45.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarovultomba",
+      "en": "Garavultomba",
+      "slug": "garavultomba"
+    },
+    "code": {
+      "id": "AZ505026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.53",
+      "lon": "45.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gərgər",
+      "en": "Gargar",
+      "slug": "gargar"
+    },
+    "code": {
+      "id": "AZ505084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.568",
+      "lon": "45.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarıkənd",
+      "en": "Garikend",
+      "slug": "garikend"
+    },
+    "code": {
+      "id": "AZ505103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.555",
+      "lon": "45.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gərməşöylü",
+      "en": "Garmashoylu",
+      "slug": "garmashoylu"
+    },
+    "code": {
+      "id": "AZ505008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.674",
+      "lon": "45.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımağalı",
+      "en": "Gasimaghali",
+      "slug": "gasimaghali"
+    },
+    "code": {
+      "id": "AZ505021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.612",
+      "lon": "45.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımlı",
+      "en": "Gasimli",
+      "slug": "gasimli"
+    },
+    "code": {
+      "id": "AZ505095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.561",
+      "lon": "45.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılqaya",
+      "en": "Gizilgaya",
+      "slug": "gizilgaya"
+    },
+    "code": {
+      "id": "AZ505068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.575",
+      "lon": "45.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızıltorpaq",
+      "en": "Giziltorpag",
+      "slug": "giziltorpag"
+    },
+    "code": {
+      "id": "AZ505100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.62",
+      "lon": "45.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gödəkdərə",
+      "en": "Godakdere",
+      "slug": "godakdere"
+    },
+    "code": {
+      "id": "AZ505028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.594",
+      "lon": "45.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoşabulaq",
+      "en": "Goshabulag",
+      "slug": "goshabulag"
+    },
+    "code": {
+      "id": "AZ505061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.76",
+      "lon": "45.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyəlli",
+      "en": "Goyalli",
+      "slug": "goyalli"
+    },
+    "code": {
+      "id": "AZ505011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.695",
+      "lon": "45.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyəmli",
+      "en": "Goyamli",
+      "slug": "goyamli"
+    },
+    "code": {
+      "id": "AZ505058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.667",
+      "lon": "45.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qozqaralı",
+      "en": "Gozgarali",
+      "slug": "gozgarali"
+    },
+    "code": {
+      "id": "AZ505086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.584",
+      "lon": "45.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülallı",
+      "en": "Gulalli",
+      "slug": "gulalli"
+    },
+    "code": {
+      "id": "AZ505106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.582",
+      "lon": "45.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ505043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.525",
+      "lon": "45.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qurudərə",
+      "en": "Gurudere",
+      "slug": "gurudere"
+    },
+    "code": {
+      "id": "AZ505082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.56",
+      "lon": "45.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505107",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıələkbərli",
+      "en": "Hajialakbarli",
+      "slug": "hajialakbarli"
+    },
+    "code": {
+      "id": "AZ505107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.551",
+      "lon": "45.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıalılar",
+      "en": "Hajialilar",
+      "slug": "hajialilar"
+    },
+    "code": {
+      "id": "AZ505091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.575",
+      "lon": "45.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacılar",
+      "en": "Hajilar",
+      "slug": "hajilar"
+    },
+    "code": {
+      "id": "AZ505004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.709",
+      "lon": "45.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Heriknaz",
+      "en": "Heriknaz",
+      "slug": "heriknaz"
+    },
+    "code": {
+      "id": "AZ505088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.599",
+      "lon": "45.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Heydərli",
+      "en": "Heydarli",
+      "slug": "heydarli"
+    },
+    "code": {
+      "id": "AZ505087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.595",
+      "lon": "45.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505109",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynqulular",
+      "en": "Huseyngulular",
+      "slug": "huseyngulular"
+    },
+    "code": {
+      "id": "AZ505109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.656",
+      "lon": "45.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İnəkboğan",
+      "en": "Inekboghan",
+      "slug": "inekboghan"
+    },
+    "code": {
+      "id": "AZ505094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.558",
+      "lon": "45.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsalı",
+      "en": "Isali",
+      "slug": "isali"
+    },
+    "code": {
+      "id": "AZ505019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.632",
+      "lon": "45.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəfərli",
+      "en": "Jafarli",
+      "slug": "jafarli"
+    },
+    "code": {
+      "id": "AZ505077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.546",
+      "lon": "45.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cücanlı",
+      "en": "Jujanli",
+      "slug": "jujanli"
+    },
+    "code": {
+      "id": "AZ505054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.626",
+      "lon": "45.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kələman",
+      "en": "Kalaman",
+      "slug": "kalaman"
+    },
+    "code": {
+      "id": "AZ505089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.585",
+      "lon": "45.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərimli",
+      "en": "Karimli",
+      "slug": "karimli"
+    },
+    "code": {
+      "id": "AZ505093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.553",
+      "lon": "45.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəsəmən",
+      "en": "Kasaman",
+      "slug": "kasaman"
+    },
+    "code": {
+      "id": "AZ505098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.604",
+      "lon": "45.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xarxar",
+      "en": "Kharkhar",
+      "slug": "kharkhar"
+    },
+    "code": {
+      "id": "AZ505012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.706",
+      "lon": "45.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiçik Qaramurad",
+      "en": "Kichik Garamurad",
+      "slug": "kichik-garamurad"
+    },
+    "code": {
+      "id": "AZ505079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.554",
+      "lon": "45.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnəqışlaq",
+      "en": "Kohnegishlag",
+      "slug": "kohnegishlag"
+    },
+    "code": {
+      "id": "AZ505102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.577",
+      "lon": "45.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnəkənd",
+      "en": "Kohnekend",
+      "slug": "kohnekend"
+    },
+    "code": {
+      "id": "AZ505080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.544",
+      "lon": "45.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kollu",
+      "en": "Kollu",
+      "slug": "kollu"
+    },
+    "code": {
+      "id": "AZ505010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.68",
+      "lon": "45.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leşkər",
+      "en": "Lashkar",
+      "slug": "lashkar"
+    },
+    "code": {
+      "id": "AZ505024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.544",
+      "lon": "45.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maarif",
+      "en": "Maarif",
+      "slug": "maarif"
+    },
+    "code": {
+      "id": "AZ505039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.636",
+      "lon": "45.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədcəfərli",
+      "en": "Mammadjafarli",
+      "slug": "mammadjafarli"
+    },
+    "code": {
+      "id": "AZ505002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.716",
+      "lon": "45.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Miskinli",
+      "en": "Miskinli",
+      "slug": "miskinli"
+    },
+    "code": {
+      "id": "AZ505046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.504",
+      "lon": "45.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mormor",
+      "en": "Mormor",
+      "slug": "mormor"
+    },
+    "code": {
+      "id": "AZ505056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.632",
+      "lon": "45.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moruxlu",
+      "en": "Morukhlu",
+      "slug": "morukhlu"
+    },
+    "code": {
+      "id": "AZ505064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.727",
+      "lon": "45.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Motudərə",
+      "en": "Motudere",
+      "slug": "motudere"
+    },
+    "code": {
+      "id": "AZ505022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.61",
+      "lon": "45.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Musayal",
+      "en": "Musayal",
+      "slug": "musayal"
+    },
+    "code": {
+      "id": "AZ505044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.516",
+      "lon": "45.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nağılar",
+      "en": "Naghilar",
+      "slug": "naghilar"
+    },
+    "code": {
+      "id": "AZ505078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.553",
+      "lon": "45.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nərimankənd",
+      "en": "Narimankend",
+      "slug": "narimankend"
+    },
+    "code": {
+      "id": "AZ505065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.713",
+      "lon": "45.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Novoivanovka",
+      "en": "Novoivanovka",
+      "slug": "novoivanovka"
+    },
+    "code": {
+      "id": "AZ505070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.562",
+      "lon": "45.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Novosaratovka",
+      "en": "Novosaratovka",
+      "slug": "novosaratovka"
+    },
+    "code": {
+      "id": "AZ505067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.599",
+      "lon": "45.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Parakənd",
+      "en": "Parakend",
+      "slug": "parakend"
+    },
+    "code": {
+      "id": "AZ505025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.535",
+      "lon": "45.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pərizamanlı",
+      "en": "Parizamanli",
+      "slug": "parizamanli"
+    },
+    "code": {
+      "id": "AZ505060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.766",
+      "lon": "45.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirbulaq",
+      "en": "Pirbulag",
+      "slug": "pirbulag"
+    },
+    "code": {
+      "id": "AZ505023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.611",
+      "lon": "45.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Plankənd",
+      "en": "Plankend",
+      "slug": "plankend"
+    },
+    "code": {
+      "id": "AZ505053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.499",
+      "lon": "45.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poladlı",
+      "en": "Poladli",
+      "slug": "poladli"
+    },
+    "code": {
+      "id": "AZ505092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.573",
+      "lon": "45.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəhimli",
+      "en": "Rahimli",
+      "slug": "rahimli"
+    },
+    "code": {
+      "id": "AZ505057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.659",
+      "lon": "45.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəmə",
+      "en": "Rama",
+      "slug": "rama"
+    },
+    "code": {
+      "id": "AZ505059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.763",
+      "lon": "45.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səbətkeçməz",
+      "en": "Sabatkechmaz",
+      "slug": "sabatkechmaz"
+    },
+    "code": {
+      "id": "AZ505048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.508",
+      "lon": "45.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Samanlıq",
+      "en": "Samanlig",
+      "slug": "samanlig"
+    },
+    "code": {
+      "id": "AZ505062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.748",
+      "lon": "45.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıhəsənli",
+      "en": "Sarihasanli",
+      "slug": "sarihasanli"
+    },
+    "code": {
+      "id": "AZ505027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.591",
+      "lon": "45.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıköynək",
+      "en": "Sarikoynak",
+      "slug": "sarikoynak"
+    },
+    "code": {
+      "id": "AZ505081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.552",
+      "lon": "45.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahdağ",
+      "en": "Shahdagh",
+      "slug": "shahdagh"
+    },
+    "code": {
+      "id": "AZ505072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.543",
+      "lon": "45.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəkərbəy",
+      "en": "Shakarbey",
+      "slug": "shakarbey"
+    },
+    "code": {
+      "id": "AZ505030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.606",
+      "lon": "45.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şınıx",
+      "en": "Shinikh",
+      "slug": "shinikh"
+    },
+    "code": {
+      "id": "AZ505009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.677",
+      "lon": "45.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Slavyanka",
+      "en": "Slavyanka",
+      "slug": "slavyanka"
+    },
+    "code": {
+      "id": "AZ505040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.657",
+      "lon": "45.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sonalar",
+      "en": "Sonalar",
+      "slug": "sonalar"
+    },
+    "code": {
+      "id": "AZ505055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.707",
+      "lon": "45.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Söyüdlü",
+      "en": "Soyudlu",
+      "slug": "soyudlu"
+    },
+    "code": {
+      "id": "AZ505036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.601",
+      "lon": "45.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soyuqbulaq",
+      "en": "Soyugbulag",
+      "slug": "soyugbulag"
+    },
+    "code": {
+      "id": "AZ505042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.598",
+      "lon": "45.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təkyemişan",
+      "en": "Takyemishan",
+      "slug": "takyemishan"
+    },
+    "code": {
+      "id": "AZ505105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.662",
+      "lon": "45.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tərs yer",
+      "en": "Tars yer",
+      "slug": "tars-yer"
+    },
+    "code": {
+      "id": "AZ505104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.933",
+      "lon": "45.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toplar",
+      "en": "Toplar",
+      "slug": "toplar"
+    },
+    "code": {
+      "id": "AZ505096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.573",
+      "lon": "45.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Totuqlu",
+      "en": "Totuglu",
+      "slug": "totuglu"
+    },
+    "code": {
+      "id": "AZ505063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.743",
+      "lon": "45.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Turşsu",
+      "en": "Turshsu",
+      "slug": "turshsu"
+    },
+    "code": {
+      "id": "AZ505005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.701",
+      "lon": "45.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yaqublu",
+      "en": "Yagublu",
+      "slug": "yagublu"
+    },
+    "code": {
+      "id": "AZ505029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.602",
+      "lon": "45.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ505033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.558",
+      "lon": "45.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəhmətkənd",
+      "en": "Zahmatkend",
+      "slug": "zahmatkend"
+    },
+    "code": {
+      "id": "AZ505014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.681",
+      "lon": "45.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ505016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zamanlı",
+      "en": "Zamanli",
+      "slug": "zamanli"
+    },
+    "code": {
+      "id": "AZ505016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ505",
+        "level": 1,
+        "name": {
+          "local": "Gədəbəy",
+          "en": "Gadabey",
+          "slug": "gadabey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.651",
+      "lon": "45.433"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

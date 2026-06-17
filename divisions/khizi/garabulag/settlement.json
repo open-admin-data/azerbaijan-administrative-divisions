@@ -1,0 +1,45 @@
+{
+  "id": "AZ306027",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarabulaq",
+    "en": "Garabulag",
+    "slug": "garabulag"
+  },
+  "code": {
+    "id": "AZ306027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ306",
+    "level": 1,
+    "name": {
+      "local": "Xızı",
+      "en": "Khizi",
+      "slug": "khizi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.834",
+    "lon": "49.095"
+  },
+  "metadata": {},
+  "source": {}
+}

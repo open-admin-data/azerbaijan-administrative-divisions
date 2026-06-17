@@ -1,0 +1,45 @@
+{
+  "id": "AZ304012",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Məliklər",
+    "en": "Maliklar",
+    "slug": "maliklar"
+  },
+  "code": {
+    "id": "AZ304012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ304",
+    "level": 1,
+    "name": {
+      "local": "Şabran",
+      "en": "Shabran",
+      "slug": "shabran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.279",
+    "lon": "48.924"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ306015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əmbizlər",
+    "en": "Ambizlar",
+    "slug": "ambizlar"
+  },
+  "code": {
+    "id": "AZ306015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ306",
+    "level": 1,
+    "name": {
+      "local": "Xızı",
+      "en": "Khizi",
+      "slug": "khizi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.79",
+    "lon": "49.057"
+  },
+  "metadata": {},
+  "source": {}
+}

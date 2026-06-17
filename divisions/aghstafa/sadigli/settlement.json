@@ -1,0 +1,45 @@
+{
+  "id": "AZ502035",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sadıqlı",
+    "en": "Sadigli",
+    "slug": "sadigli"
+  },
+  "code": {
+    "id": "AZ502035",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ502",
+    "level": 1,
+    "name": {
+      "local": "Ağstafa",
+      "en": "Aghstafa",
+      "slug": "aghstafa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.37",
+    "lon": "45.141"
+  },
+  "metadata": {},
+  "source": {}
+}

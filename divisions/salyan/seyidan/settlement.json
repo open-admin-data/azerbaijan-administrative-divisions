@@ -1,0 +1,45 @@
+{
+  "id": "AZ809003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Seyidan",
+    "en": "Seyidan",
+    "slug": "seyidan"
+  },
+  "code": {
+    "id": "AZ809003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.73",
+    "lon": "48.957"
+  },
+  "metadata": {},
+  "source": {}
+}

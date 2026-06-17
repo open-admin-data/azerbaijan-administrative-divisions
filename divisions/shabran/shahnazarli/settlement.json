@@ -1,0 +1,45 @@
+{
+  "id": "AZ304016",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şahnəzərli",
+    "en": "Shahnazarli",
+    "slug": "shahnazarli"
+  },
+  "code": {
+    "id": "AZ304016",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ304",
+    "level": 1,
+    "name": {
+      "local": "Şabran",
+      "en": "Shabran",
+      "slug": "shabran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.287",
+    "lon": "48.877"
+  },
+  "metadata": {},
+  "source": {}
+}

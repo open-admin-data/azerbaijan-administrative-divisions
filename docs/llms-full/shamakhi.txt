@@ -1,0 +1,324 @@
+# Shamakhi — Azerbaijan Administrative Divisions
+
+> 63 settlements
+> Code: AZ410
+> Coordinates: 40.644, 48.629
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Adnalı (Adnali)
+
+Code: AZ410009, Coordinates: 40.571, 48.619
+
+
+### Əhmədli (Ahmadli)
+
+Code: AZ410050, Coordinates: 40.737, 48.701
+
+
+### Acıdərə (Ajidere)
+
+Code: AZ410062, Coordinates: 40.526, 48.743
+
+
+### Əngəxaran (Angakharan)
+
+Code: AZ410036, Coordinates: 40.671, 48.652
+
+
+### Ərçiman (Archiman)
+
+Code: AZ410053, Coordinates: 40.819, 48.618
+
+
+### Aşkar (Ashkar)
+
+Code: AZ410027, Coordinates: 40.465, 48.74
+
+
+### Avaxıl (Avakhil)
+
+Code: AZ410052, Coordinates: 40.797, 48.564
+
+
+### Bağırlı (Baghirli)
+
+Code: AZ410031, Coordinates: 40.457, 48.598
+
+
+### Birinci Çağan (Birinji Chaghan)
+
+Code: AZ410041, Coordinates: 40.725, 48.563
+
+
+### Birinci Çaylı (Birinji Chayli)
+
+Code: AZ410026, Coordinates: 40.466, 48.71
+
+
+### Böyük Xınıslı (Boyuk Khinisli)
+
+Code: AZ410019, Coordinates: 40.655, 48.611
+
+
+### Çarhan (Charhan)
+
+Code: AZ410010, Coordinates: 40.552, 48.647
+
+
+### Çıraqlı (Chiragli)
+
+Code: AZ410014, Coordinates: 40.546, 48.718
+
+
+### Çöl Göylər (Chol Goylar)
+
+Code: AZ410028, Coordinates: 40.423, 48.613
+
+
+### Çuxuryurd (Chukhuryurd)
+
+Code: AZ410039, Coordinates: 40.713, 48.632
+
+
+### Dədəgünəş (Dadagunash)
+
+Code: AZ410040, Coordinates: 40.712, 48.573
+
+
+### Dağ Bağırlı (Dagh Baghirli)
+
+Code: AZ410023, Coordinates: 40.506, 48.66
+
+
+### Dəmirçi (Damirchi)
+
+Code: AZ410054, Coordinates: 40.839, 48.561
+
+
+### Qaladərəsi (Galaderesi)
+
+Code: AZ410045, Coordinates: 40.757, 48.545
+
+
+### Qaleybuğurd (Galeybughurd)
+
+Code: AZ410044, Coordinates: 40.755, 48.566
+
+
+### Qaravəlli (Garavalli)
+
+Code: AZ410005, Coordinates: 40.632, 48.548
+
+
+### Qızmeydan (Gizmeydan)
+
+Code: AZ410056, Coordinates: 40.773, 48.745
+
+
+### Qonaqkənd (Gonagkend)
+
+Code: AZ410038, Coordinates: 40.692, 48.708
+
+
+### Göylər Dağ (Goylar  Dagh)
+
+Code: AZ410025, Coordinates: 40.491, 48.679
+
+
+### Günəşli (Gunashli)
+
+Code: AZ410032, Coordinates: 40.636, 48.495
+
+
+### Qurdtəpə (Gurdtepe)
+
+Code: AZ410034, Coordinates: 40.676, 48.553
+
+
+### Quşçu (Gushchu)
+
+Code: AZ410061, Coordinates: 40.44, 48.733
+
+
+### Hacıqədirli (Hajigadirli)
+
+Code: AZ410029, Coordinates: 40.413, 48.566
+
+
+### Hacılı (Hajili)
+
+Code: AZ410051, Coordinates: 40.737, 48.72
+
+
+### Həmyəli (Hamyali)
+
+Code: AZ410021, Coordinates: 40.661, 48.724
+
+
+### İkinci Çaylı (Ikinji  Chayli)
+
+Code: AZ410022, Coordinates: 40.653, 48.73
+
+
+### İkinci Çağan (Ikinji Chaghan)
+
+Code: AZ410042, Coordinates: 40.724, 48.555
+
+
+### İkinci Cabanı (Ikinji Jabani)
+
+Code: AZ410020, Coordinates: 40.662, 48.698
+
+
+### Cabanı (Jabani)
+
+Code: AZ410037, Coordinates: 40.669, 48.708
+
+
+### Kələxana (Kalakhana)
+
+Code: AZ410007, Coordinates: 40.591, 48.607
+
+
+### Kərkənc (Karkanj)
+
+Code: AZ410008, Coordinates: 40.583, 48.558
+
+
+### Keçməddin (Kechmaddin)
+
+Code: AZ410043, Coordinates: 40.748, 48.557
+
+
+### Laləzar (Lalazar)
+
+Code: AZ410060, Coordinates: 40.454, 48.733
+
+
+### Mədrəsə (Madrasa)
+
+Code: AZ410006, Coordinates: 40.613, 48.562
+
+
+### Məlhəm (Malham)
+
+Code: AZ410035, Coordinates: 40.691, 48.63
+
+
+### Məlikçobanlı (Malikchobanli)
+
+Code: AZ410013, Coordinates: 40.54, 48.683
+
+
+### Məlcək (Maljak)
+
+Code: AZ410004, Coordinates: 40.636, 48.56
+
+
+### Mərzəndiyə (Marzandiya)
+
+Code: AZ410015, Coordinates: 40.59, 48.735
+
+
+### Meysəri (Meysari)
+
+Code: AZ410018, Coordinates: 40.665, 48.584
+
+
+### Mirikənd (Mirikend)
+
+Code: AZ410003, Coordinates: 40.646, 48.544
+
+
+### Muğanlı (Mughanli)
+
+Code: AZ410002, Coordinates: 40.665, 48.528
+
+
+### Nağaraxana (Nagharakhana)
+
+Code: AZ410047, Coordinates: 40.745, 48.633
+
+
+### Nüydi (Nuydi)
+
+Code: AZ410012, Coordinates: 40.528, 48.636
+
+
+### Ovçulu (Ovchulu)
+
+Code: AZ410030, Coordinates: 40.448, 48.602
+
+
+### Pirbəyli (Pirbeyli)
+
+Code: AZ410058, Coordinates: 40.835, 48.741
+
+
+### Sabir
+
+Code: AZ410016, Coordinates: 40.586, 48.706
+
+
+### Sabirli
+
+Code: AZ410011, Coordinates: 40.552, 48.611
+
+
+### Səfalı (Safali)
+
+Code: AZ410055, Coordinates: 40.848, 48.573
+
+
+### Şəhriyar (Shahriyar)
+
+Code: AZ410063, Coordinates: 40.611, 48.641
+
+
+### ŞAMAXI (SHAMAKHI)
+
+Code: AZ410017, Coordinates: 40.636, 48.641
+
+
+### Şərədil (Sharadil)
+
+Code: AZ410033, Coordinates: 40.62, 48.474
+
+
+### Şirvan (Shirvan)
+
+Code: AZ410001, Coordinates: 40.652, 48.513
+
+
+### Sis
+
+Code: AZ410046, Coordinates: 40.763, 48.58
+
+
+### Talışnuru (Talishnuru)
+
+Code: AZ410048, Coordinates: 40.77, 48.662
+
+
+### Yeni Qızmeydan (Yeni Gizmeydan)
+
+Code: AZ410057, Coordinates: 40.786, 48.705
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ410024, Coordinates: 40.504, 48.667
+
+
+### Yusif Məmmədəliyev (Yusif Mammadaliyev)
+
+Code: AZ410049, Coordinates: 40.785, 48.595
+
+
+### Zarat Xeybəri (Zarat Kheybari)
+
+Code: AZ410059, Coordinates: 40.904, 48.548
+
+

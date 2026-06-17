@@ -1,0 +1,45 @@
+{
+  "id": "AZ505074",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Arıqıran",
+    "en": "Arigiran",
+    "slug": "arigiran"
+  },
+  "code": {
+    "id": "AZ505074",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ505",
+    "level": 1,
+    "name": {
+      "local": "Gədəbəy",
+      "en": "Gadabey",
+      "slug": "gadabey"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.536",
+    "lon": "45.612"
+  },
+  "metadata": {},
+  "source": {}
+}

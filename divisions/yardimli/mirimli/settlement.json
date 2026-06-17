@@ -1,0 +1,45 @@
+{
+  "id": "AZ804020",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mirimli",
+    "en": "Mirimli",
+    "slug": "mirimli"
+  },
+  "code": {
+    "id": "AZ804020",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ804",
+    "level": 1,
+    "name": {
+      "local": "Yardımlı",
+      "en": "Yardimli",
+      "slug": "yardimli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.962",
+    "lon": "48.32"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ608032",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şahsevən",
+    "en": "Shahsevan",
+    "slug": "shahsevan"
+  },
+  "code": {
+    "id": "AZ608032",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ608",
+    "level": 1,
+    "name": {
+      "local": "Ağcabədi",
+      "en": "Aghjabadi",
+      "slug": "aghjabadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.018",
+    "lon": "47.259"
+  },
+  "metadata": {},
+  "source": {}
+}

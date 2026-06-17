@@ -1,0 +1,45 @@
+{
+  "id": "AZ100710",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ramana",
+    "en": "Ramana",
+    "slug": "ramana"
+  },
+  "code": {
+    "id": "AZ100710",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1007",
+    "level": 1,
+    "name": {
+      "local": "Suraxanı",
+      "en": "Surakhani",
+      "slug": "surakhani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.455",
+    "lon": "49.986"
+  },
+  "metadata": {},
+  "source": {}
+}

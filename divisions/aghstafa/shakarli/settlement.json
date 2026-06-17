@@ -1,0 +1,45 @@
+{
+  "id": "AZ502034",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şəkərli",
+    "en": "Shakarli",
+    "slug": "shakarli"
+  },
+  "code": {
+    "id": "AZ502034",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ502",
+    "level": 1,
+    "name": {
+      "local": "Ağstafa",
+      "en": "Aghstafa",
+      "slug": "aghstafa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.171",
+    "lon": "45.463"
+  },
+  "metadata": {},
+  "source": {}
+}

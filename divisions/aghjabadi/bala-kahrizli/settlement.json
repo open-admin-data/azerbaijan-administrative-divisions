@@ -1,0 +1,45 @@
+{
+  "id": "AZ608015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bala Kəhrizli",
+    "en": "Bala Kahrizli",
+    "slug": "bala-kahrizli"
+  },
+  "code": {
+    "id": "AZ608015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ608",
+    "level": 1,
+    "name": {
+      "local": "Ağcabədi",
+      "en": "Aghjabadi",
+      "slug": "aghjabadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.02",
+    "lon": "47.175"
+  },
+  "metadata": {},
+  "source": {}
+}

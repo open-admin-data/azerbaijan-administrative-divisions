@@ -1,0 +1,45 @@
+{
+  "id": "AZ604026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Orta Yeməzli",
+    "en": "Orta Yemazli",
+    "slug": "orta-yemazli"
+  },
+  "code": {
+    "id": "AZ604026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ604",
+    "level": 1,
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.196",
+    "lon": "46.594"
+  },
+  "metadata": {},
+  "source": {}
+}

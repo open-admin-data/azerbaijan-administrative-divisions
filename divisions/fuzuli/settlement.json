@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "AZ606090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbaşlı",
+      "en": "Aghbashli",
+      "slug": "aghbashli"
+    },
+    "code": {
+      "id": "AZ606090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.722",
+      "lon": "47.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədalılar",
+      "en": "Ahmadalilar",
+      "slug": "ahmadalilar"
+    },
+    "code": {
+      "id": "AZ606048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.43",
+      "lon": "47.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədbəyli",
+      "en": "Ahmadbeyli",
+      "slug": "ahmadbeyli"
+    },
+    "code": {
+      "id": "AZ606003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.566",
+      "lon": "47.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ələsgərli",
+      "en": "Alasgarli",
+      "slug": "alasgarli"
+    },
+    "code": {
+      "id": "AZ606015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.596",
+      "lon": "47.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alxanlı",
+      "en": "Alkhanli",
+      "slug": "alkhanli"
+    },
+    "code": {
+      "id": "AZ606054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.596",
+      "lon": "47.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arayatlı",
+      "en": "Arayatli",
+      "slug": "arayatli"
+    },
+    "code": {
+      "id": "AZ606051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.475",
+      "lon": "47.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Araz Dilağarda",
+      "en": "Araz Dilagharda",
+      "slug": "araz-dilagharda"
+    },
+    "code": {
+      "id": "AZ606001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.562",
+      "lon": "47.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Araz Zərgər",
+      "en": "Araz Zargar",
+      "slug": "araz-zargar"
+    },
+    "code": {
+      "id": "AZ606072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.572",
+      "lon": "47.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arış",
+      "en": "Arish",
+      "slug": "arish"
+    },
+    "code": {
+      "id": "AZ606030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.534",
+      "lon": "47.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Kürdmahmudlu",
+      "en": "Ashaghi  Kurdmahmudlu",
+      "slug": "ashaghi-kurdmahmudlu"
+    },
+    "code": {
+      "id": "AZ606056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.59",
+      "lon": "47.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Rəfədinli",
+      "en": "Ashaghi  Rafadinli",
+      "slug": "ashaghi-rafadinli"
+    },
+    "code": {
+      "id": "AZ606040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.48",
+      "lon": "47.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Seyidəhmədli",
+      "en": "Ashaghi  Seyidahmadli",
+      "slug": "ashaghi-seyidahmadli"
+    },
+    "code": {
+      "id": "AZ606024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.574",
+      "lon": "47.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Əbdürrəhmanlı",
+      "en": "Ashaghi Abdurrahmanli",
+      "slug": "ashaghi-abdurrahmanli"
+    },
+    "code": {
+      "id": "AZ606052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.525",
+      "lon": "47.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Güzlək",
+      "en": "Ashaghi Guzlak",
+      "slug": "ashaghi-guzlak"
+    },
+    "code": {
+      "id": "AZ606039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.485",
+      "lon": "47.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Veysəlli",
+      "en": "Ashaghi Veysalli",
+      "slug": "ashaghi-veysalli"
+    },
+    "code": {
+      "id": "AZ606064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.702",
+      "lon": "47.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Yağlıvənd",
+      "en": "Ashaghi Yaghlivand",
+      "slug": "ashaghi-yaghlivand"
+    },
+    "code": {
+      "id": "AZ606058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.51",
+      "lon": "47.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babı",
+      "en": "Babi",
+      "slug": "babi"
+    },
+    "code": {
+      "id": "AZ606068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.484",
+      "lon": "47.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Bəhmənli",
+      "en": "Bala Bahmanli",
+      "slug": "bala-bahmanli"
+    },
+    "code": {
+      "id": "AZ606073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.554",
+      "lon": "47.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beşinci  Zobucuq",
+      "en": "Beshinji  Zobujug",
+      "slug": "beshinji-zobujug"
+    },
+    "code": {
+      "id": "AZ606089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.577",
+      "lon": "47.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Mahmudlu",
+      "en": "Birinji Mahmudlu",
+      "slug": "birinji-mahmudlu"
+    },
+    "code": {
+      "id": "AZ606069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.543",
+      "lon": "47.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Zobucuq",
+      "en": "Birinji Zobujug",
+      "slug": "birinji-zobujug"
+    },
+    "code": {
+      "id": "AZ606085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.542",
+      "lon": "47.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Bəhmənli",
+      "en": "Boyuk Bahmanli",
+      "slug": "boyuk-bahmanli"
+    },
+    "code": {
+      "id": "AZ606059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.516",
+      "lon": "47.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çimən",
+      "en": "Chiman",
+      "slug": "chiman"
+    },
+    "code": {
+      "id": "AZ606066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.567",
+      "lon": "47.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dədəli",
+      "en": "Dadali",
+      "slug": "dadali"
+    },
+    "code": {
+      "id": "AZ606012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.582",
+      "lon": "47.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dilağarda",
+      "en": "Dilagharda",
+      "slug": "dilagharda"
+    },
+    "code": {
+      "id": "AZ606062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.673",
+      "lon": "47.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divanalılar",
+      "en": "Divanalilar",
+      "slug": "divanalilar"
+    },
+    "code": {
+      "id": "AZ606061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.668",
+      "lon": "47.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dördçinar",
+      "en": "Dordchinar",
+      "slug": "dordchinar"
+    },
+    "code": {
+      "id": "AZ606044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.46",
+      "lon": "47.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dördlər",
+      "en": "Dordlar",
+      "slug": "dordlar"
+    },
+    "code": {
+      "id": "AZ606098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.714",
+      "lon": "47.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dördüncü Zobucuq",
+      "en": "Dordunju Zobujug",
+      "slug": "dordunju-zobujug"
+    },
+    "code": {
+      "id": "AZ606088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.567",
+      "lon": "47.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dövlətyarlı",
+      "en": "Dovlatyarli",
+      "slug": "dovlatyarli"
+    },
+    "code": {
+      "id": "AZ606007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.619",
+      "lon": "47.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "FÜZULİ",
+      "en": "FUZULI",
+      "slug": "fuzuli"
+    },
+    "code": {
+      "id": "AZ606009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.6",
+      "lon": "47.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qacar",
+      "en": "Gajar",
+      "slug": "gajar"
+    },
+    "code": {
+      "id": "AZ606004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.65",
+      "lon": "47.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabağ",
+      "en": "Garabagh",
+      "slug": "garabagh"
+    },
+    "code": {
+      "id": "AZ606095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.588",
+      "lon": "47.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ606034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.512",
+      "lon": "47.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraxanbəyli",
+      "en": "Garakhanbeyli",
+      "slug": "garakhanbeyli"
+    },
+    "code": {
+      "id": "AZ606022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.604",
+      "lon": "47.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarakollu",
+      "en": "Garakollu",
+      "slug": "garakollu"
+    },
+    "code": {
+      "id": "AZ606037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.489",
+      "lon": "47.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraməmmədli",
+      "en": "Garamammadli",
+      "slug": "garamammadli"
+    },
+    "code": {
+      "id": "AZ606006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.628",
+      "lon": "47.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarğabazar",
+      "en": "Garghabazar",
+      "slug": "garghabazar"
+    },
+    "code": {
+      "id": "AZ606027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.54",
+      "lon": "47.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qərvənd",
+      "en": "Garvand",
+      "slug": "garvand"
+    },
+    "code": {
+      "id": "AZ606019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.633",
+      "lon": "47.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "1 №li Qayıdış",
+      "en": "Gayidish-1",
+      "slug": "gayidish-1"
+    },
+    "code": {
+      "id": "AZ606078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.617",
+      "lon": "47.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "10 №-li Qayıdış",
+      "en": "Gayidish-10",
+      "slug": "gayidish-10"
+    },
+    "code": {
+      "id": "AZ606083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.735",
+      "lon": "47.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "11 №-li Qayıdış",
+      "en": "Gayidish-11",
+      "slug": "gayidish-11"
+    },
+    "code": {
+      "id": "AZ606084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.731",
+      "lon": "47.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "2 №li Qayıdış",
+      "en": "Gayidish-2",
+      "slug": "gayidish-2"
+    },
+    "code": {
+      "id": "AZ606077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.628",
+      "lon": "47.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "3 №li Qayıdış",
+      "en": "Gayidish-3",
+      "slug": "gayidish-3"
+    },
+    "code": {
+      "id": "AZ606074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.631",
+      "lon": "47.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "4 №li Qayıdış",
+      "en": "Gayidish-4",
+      "slug": "gayidish-4"
+    },
+    "code": {
+      "id": "AZ606076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.636",
+      "lon": "47.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "5 №li Qayıdış",
+      "en": "Gayidish-5",
+      "slug": "gayidish-5"
+    },
+    "code": {
+      "id": "AZ606075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.639",
+      "lon": "47.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "6 №-li Qayıdış",
+      "en": "Gayidish-6",
+      "slug": "gayidish-6"
+    },
+    "code": {
+      "id": "AZ606079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.726",
+      "lon": "47.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "7 №-li Qayıdış",
+      "en": "Gayidish-7",
+      "slug": "gayidish-7"
+    },
+    "code": {
+      "id": "AZ606080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.732",
+      "lon": "47.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "8 №-li Qayıdış",
+      "en": "Gayidish-8",
+      "slug": "gayidish-8"
+    },
+    "code": {
+      "id": "AZ606081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.736",
+      "lon": "47.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "9 №-li Qayıdış",
+      "en": "Gayidish-9",
+      "slug": "gayidish-9"
+    },
+    "code": {
+      "id": "AZ606082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.739",
+      "lon": "47.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazaxlar",
+      "en": "Gazakhlar",
+      "slug": "gazakhlar"
+    },
+    "code": {
+      "id": "AZ606047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.407",
+      "lon": "47.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gecəgözlü",
+      "en": "Gejagozlu",
+      "slug": "gejagozlu"
+    },
+    "code": {
+      "id": "AZ606014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.579",
+      "lon": "47.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qıyıqçı",
+      "en": "Giyigchi",
+      "slug": "giyigchi"
+    },
+    "code": {
+      "id": "AZ606099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.618",
+      "lon": "47.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızıl Qışlaq",
+      "en": "Gizil Gishlag",
+      "slug": "gizil-gishlag"
+    },
+    "code": {
+      "id": "AZ606100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.618",
+      "lon": "47.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qobu Dilağarda",
+      "en": "Gobu Dilagharda",
+      "slug": "gobu-dilagharda"
+    },
+    "code": {
+      "id": "AZ606063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.68",
+      "lon": "47.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoçəhmədli",
+      "en": "Gochahmadli",
+      "slug": "gochahmadli"
+    },
+    "code": {
+      "id": "AZ606028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.533",
+      "lon": "47.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gorazıllı",
+      "en": "Gorazilli",
+      "slug": "gorazilli"
+    },
+    "code": {
+      "id": "AZ606036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.492",
+      "lon": "47.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qorqan",
+      "en": "Gorgan",
+      "slug": "gorgan"
+    },
+    "code": {
+      "id": "AZ606023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.559",
+      "lon": "47.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Govşatlı",
+      "en": "Govshatli",
+      "slug": "govshatli"
+    },
+    "code": {
+      "id": "AZ606065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.614",
+      "lon": "47.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Horadiz",
+      "en": "Horadiz",
+      "slug": "horadiz"
+    },
+    "code": {
+      "id": "AZ606045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.454",
+      "lon": "47.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "HORADİZ",
+      "en": "HORADIZ",
+      "slug": "horadiz"
+    },
+    "code": {
+      "id": "AZ606049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.449",
+      "lon": "47.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüngütlü",
+      "en": "Hungutlu",
+      "slug": "hungutlu"
+    },
+    "code": {
+      "id": "AZ606094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.464",
+      "lon": "47.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynbəyli",
+      "en": "Huseynbeyli",
+      "slug": "huseynbeyli"
+    },
+    "code": {
+      "id": "AZ606093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.589",
+      "lon": "47.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Mahmudlu",
+      "en": "Ikinji Mahmudlu",
+      "slug": "ikinji-mahmudlu"
+    },
+    "code": {
+      "id": "AZ606002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.573",
+      "lon": "47.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Zobucuq",
+      "en": "Ikinji Zobujug",
+      "slug": "ikinji-zobujug"
+    },
+    "code": {
+      "id": "AZ606086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.547",
+      "lon": "47.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İşıqlı",
+      "en": "Ishigli",
+      "slug": "ishigli"
+    },
+    "code": {
+      "id": "AZ606013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.573",
+      "lon": "47.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cuvarlı",
+      "en": "Juvarli",
+      "slug": "juvarli"
+    },
+    "code": {
+      "id": "AZ606032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.567",
+      "lon": "47.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərimbəyli",
+      "en": "Karimbeyli",
+      "slug": "karimbeyli"
+    },
+    "code": {
+      "id": "AZ606057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.508",
+      "lon": "47.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xələfşə",
+      "en": "Khalafsha",
+      "slug": "khalafsha"
+    },
+    "code": {
+      "id": "AZ606031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.555",
+      "lon": "47.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xatınbulaq",
+      "en": "Khatinbulag",
+      "slug": "khatinbulag"
+    },
+    "code": {
+      "id": "AZ606033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.513",
+      "lon": "47.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdlər",
+      "en": "Kurdlar",
+      "slug": "kurdlar"
+    },
+    "code": {
+      "id": "AZ606026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.54",
+      "lon": "47.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandılı",
+      "en": "Mandili",
+      "slug": "mandili"
+    },
+    "code": {
+      "id": "AZ606041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.478",
+      "lon": "47.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Merdinli",
+      "en": "Merdinli",
+      "slug": "merdinli"
+    },
+    "code": {
+      "id": "AZ606021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.596",
+      "lon": "47.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəcamallı",
+      "en": "Mirzajamalli",
+      "slug": "mirzajamalli"
+    },
+    "code": {
+      "id": "AZ606017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.599",
+      "lon": "47.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzənağılı",
+      "en": "Mirzanaghili",
+      "slug": "mirzanaghili"
+    },
+    "code": {
+      "id": "AZ606046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.398",
+      "lon": "47.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollaməhərrəmli",
+      "en": "Mollamaharramli",
+      "slug": "mollamaharramli"
+    },
+    "code": {
+      "id": "AZ606050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.466",
+      "lon": "47.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollavəli",
+      "en": "Mollavali",
+      "slug": "mollavali"
+    },
+    "code": {
+      "id": "AZ606067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.514",
+      "lon": "47.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Murtuzalılar",
+      "en": "Murtuzalilar",
+      "slug": "murtuzalilar"
+    },
+    "code": {
+      "id": "AZ606096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.559",
+      "lon": "47.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Musabəyli",
+      "en": "Musabeyli",
+      "slug": "musabeyli"
+    },
+    "code": {
+      "id": "AZ606043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.473",
+      "lon": "47.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəhmədli",
+      "en": "Pirahmadli",
+      "slug": "pirahmadli"
+    },
+    "code": {
+      "id": "AZ606042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.474",
+      "lon": "47.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saracıq",
+      "en": "Sarajig",
+      "slug": "sarajig"
+    },
+    "code": {
+      "id": "AZ606070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.491",
+      "lon": "47.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərdarlı",
+      "en": "Sardarli",
+      "slug": "sardarli"
+    },
+    "code": {
+      "id": "AZ606092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.528",
+      "lon": "47.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidmahmudlu",
+      "en": "Seyidmahmudlu",
+      "slug": "seyidmahmudlu"
+    },
+    "code": {
+      "id": "AZ606018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.606",
+      "lon": "47.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəkərcik",
+      "en": "Shakarjik",
+      "slug": "shakarjik"
+    },
+    "code": {
+      "id": "AZ606010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.606",
+      "lon": "47.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxımlı",
+      "en": "Shikhimli",
+      "slug": "shikhimli"
+    },
+    "code": {
+      "id": "AZ606091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.603",
+      "lon": "47.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlı",
+      "en": "Shikhli",
+      "slug": "shikhli"
+    },
+    "code": {
+      "id": "AZ606097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.59",
+      "lon": "47.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şükürbəyli",
+      "en": "Shukurbeyli",
+      "slug": "shukurbeyli"
+    },
+    "code": {
+      "id": "AZ606053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.525",
+      "lon": "47.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçbulaq",
+      "en": "Uchbulag",
+      "slug": "uchbulag"
+    },
+    "code": {
+      "id": "AZ606071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.587",
+      "lon": "47.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçüncü Mahmudlu",
+      "en": "Uchunju Mahmudlu",
+      "slug": "uchunju-mahmudlu"
+    },
+    "code": {
+      "id": "AZ606016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.583",
+      "lon": "47.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçüncü Zobucuq",
+      "en": "Uchunju Zobujug",
+      "slug": "uchunju-zobujug"
+    },
+    "code": {
+      "id": "AZ606087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.568",
+      "lon": "47.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yal Pirəhmədli",
+      "en": "Yal Pirahmadli",
+      "slug": "yal-pirahmadli"
+    },
+    "code": {
+      "id": "AZ606029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.533",
+      "lon": "47.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Veysəlli",
+      "en": "Yukhari  Veysalli",
+      "slug": "yukhari-veysalli"
+    },
+    "code": {
+      "id": "AZ606060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.738",
+      "lon": "47.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Əbdürrəhmanlı",
+      "en": "Yukhari Abdurrahmanli",
+      "slug": "yukhari-abdurrahmanli"
+    },
+    "code": {
+      "id": "AZ606025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.568",
+      "lon": "47.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Aybasanlı",
+      "en": "Yukhari Aybasanli",
+      "slug": "yukhari-aybasanli"
+    },
+    "code": {
+      "id": "AZ606011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.596",
+      "lon": "47.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Güzlək",
+      "en": "Yukhari Guzlak",
+      "slug": "yukhari-guzlak"
+    },
+    "code": {
+      "id": "AZ606035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.498",
+      "lon": "47.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Kürdmahmudlu",
+      "en": "Yukhari Kurdmahmudlu",
+      "slug": "yukhari-kurdmahmudlu"
+    },
+    "code": {
+      "id": "AZ606055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.602",
+      "lon": "47.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Rəfədinli",
+      "en": "Yukhari Rafadinli",
+      "slug": "yukhari-rafadinli"
+    },
+    "code": {
+      "id": "AZ606038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.482",
+      "lon": "47.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Seyidəhmədli",
+      "en": "Yukhari Seyidahmadli",
+      "slug": "yukhari-seyidahmadli"
+    },
+    "code": {
+      "id": "AZ606020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.58",
+      "lon": "47.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Yağlıvənd",
+      "en": "Yukhari Yaghlivand",
+      "slug": "yukhari-yaghlivand"
+    },
+    "code": {
+      "id": "AZ606008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.646",
+      "lon": "47.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ606005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərgər",
+      "en": "Zargar",
+      "slug": "zargar"
+    },
+    "code": {
+      "id": "AZ606005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ606",
+        "level": 1,
+        "name": {
+          "local": "Füzuli",
+          "en": "Fuzuli",
+          "slug": "fuzuli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.616",
+      "lon": "47.117"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

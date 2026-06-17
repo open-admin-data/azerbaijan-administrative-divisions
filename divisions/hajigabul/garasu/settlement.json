@@ -1,0 +1,45 @@
+{
+  "id": "AZ910015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarasu",
+    "en": "Garasu",
+    "slug": "garasu"
+  },
+  "code": {
+    "id": "AZ910015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ910",
+    "level": 1,
+    "name": {
+      "local": "Hacıqabul",
+      "en": "Hajigabul",
+      "slug": "hajigabul"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.159",
+    "lon": "48.685"
+  },
+  "metadata": {},
+  "source": {}
+}

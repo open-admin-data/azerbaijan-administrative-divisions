@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "AZ910005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abdulabad",
+      "en": "Abdulabad",
+      "slug": "abdulabad"
+    },
+    "code": {
+      "id": "AZ910005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.095",
+      "lon": "48.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağacanlı",
+      "en": "Aghajanli",
+      "slug": "aghajanli"
+    },
+    "code": {
+      "id": "AZ910001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.982",
+      "lon": "48.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axtaçı Şirvan",
+      "en": "Akhtachi Shirvan",
+      "slug": "akhtachi-shirvan"
+    },
+    "code": {
+      "id": "AZ910009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.043",
+      "lon": "48.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ələtli",
+      "en": "Alatli",
+      "slug": "alatli"
+    },
+    "code": {
+      "id": "AZ910012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.01",
+      "lon": "48.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atbulaq",
+      "en": "Atbulag",
+      "slug": "atbulag"
+    },
+    "code": {
+      "id": "AZ910003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.976",
+      "lon": "49.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balıqçı",
+      "en": "Baligchi",
+      "slug": "baligchi"
+    },
+    "code": {
+      "id": "AZ910030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.977",
+      "lon": "48.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Meyniman",
+      "en": "Birinji Meyniman",
+      "slug": "birinji-meyniman"
+    },
+    "code": {
+      "id": "AZ910010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.03",
+      "lon": "48.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Paşalı",
+      "en": "Birinji Pashali",
+      "slug": "birinji-pashali"
+    },
+    "code": {
+      "id": "AZ910023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.223",
+      "lon": "48.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Udullu",
+      "en": "Birinji Udullu",
+      "slug": "birinji-udullu"
+    },
+    "code": {
+      "id": "AZ910020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.265",
+      "lon": "48.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bürvənd",
+      "en": "Burvand",
+      "slug": "burvand"
+    },
+    "code": {
+      "id": "AZ910011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.005",
+      "lon": "48.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarasu",
+      "en": "Garasu",
+      "slug": "garasu"
+    },
+    "code": {
+      "id": "AZ910015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.159",
+      "lon": "48.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılburun",
+      "en": "Gizilburun",
+      "slug": "gizilburun"
+    },
+    "code": {
+      "id": "AZ910002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.996",
+      "lon": "49.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qubalı",
+      "en": "Gubali",
+      "slug": "gubali"
+    },
+    "code": {
+      "id": "AZ910017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.326",
+      "lon": "48.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qubalıbalaoğlan",
+      "en": "Gubalibalaoghlan",
+      "slug": "gubalibalaoghlan"
+    },
+    "code": {
+      "id": "AZ910024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.127",
+      "lon": "49.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "HACIQABUL",
+      "en": "HAJIGABUL",
+      "slug": "hajigabul"
+    },
+    "code": {
+      "id": "AZ910013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.044",
+      "lon": "48.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Meyniman",
+      "en": "Ikinji  Meyniman",
+      "slug": "ikinji-meyniman"
+    },
+    "code": {
+      "id": "AZ910008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.044",
+      "lon": "48.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Paşalı",
+      "en": "Ikinji  Pashali",
+      "slug": "ikinji-pashali"
+    },
+    "code": {
+      "id": "AZ910021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.242",
+      "lon": "48.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Udullu",
+      "en": "Ikinji  Udullu",
+      "slug": "ikinji-udullu"
+    },
+    "code": {
+      "id": "AZ910018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.309",
+      "lon": "48.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolanı",
+      "en": "Kolani",
+      "slug": "kolani"
+    },
+    "code": {
+      "id": "AZ910006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.076",
+      "lon": "48.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdçü",
+      "en": "Kurdchu",
+      "slug": "kurdchu"
+    },
+    "code": {
+      "id": "AZ910004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.963",
+      "lon": "49.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meyniman",
+      "en": "Meyniman",
+      "slug": "meyniman"
+    },
+    "code": {
+      "id": "AZ910028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.032",
+      "lon": "48.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğan",
+      "en": "Mughan",
+      "slug": "mughan"
+    },
+    "code": {
+      "id": "AZ910014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.093",
+      "lon": "48.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Navahı",
+      "en": "Navahi",
+      "slug": "navahi"
+    },
+    "code": {
+      "id": "AZ910026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.04",
+      "lon": "49.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Navahı",
+      "en": "Navahi",
+      "slug": "navahi"
+    },
+    "code": {
+      "id": "AZ910031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.015",
+      "lon": "49.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Padar",
+      "en": "Padar",
+      "slug": "padar"
+    },
+    "code": {
+      "id": "AZ910016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.215",
+      "lon": "48.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirsaat",
+      "en": "Pirsaat",
+      "slug": "pirsaat"
+    },
+    "code": {
+      "id": "AZ910027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.048",
+      "lon": "49.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirsaatçay",
+      "en": "Pirsaatchay",
+      "slug": "pirsaatchay"
+    },
+    "code": {
+      "id": "AZ910029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.149",
+      "lon": "49.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəncbər",
+      "en": "Ranjbar",
+      "slug": "ranjbar"
+    },
+    "code": {
+      "id": "AZ910025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.092",
+      "lon": "49.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şorbaçı",
+      "en": "Shorbachi",
+      "slug": "shorbachi"
+    },
+    "code": {
+      "id": "AZ910022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.229",
+      "lon": "48.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tağılı",
+      "en": "Taghili",
+      "slug": "taghili"
+    },
+    "code": {
+      "id": "AZ910019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.283",
+      "lon": "48.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ910007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talış",
+      "en": "Talish",
+      "slug": "talish"
+    },
+    "code": {
+      "id": "AZ910007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ910",
+        "level": 1,
+        "name": {
+          "local": "Hacıqabul",
+          "en": "Hajigabul",
+          "slug": "hajigabul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.052",
+      "lon": "48.694"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

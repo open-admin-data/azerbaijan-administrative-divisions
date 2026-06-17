@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "AZ408026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alıkənd",
+      "en": "Alikend",
+      "slug": "alikend"
+    },
+    "code": {
+      "id": "AZ408026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.546",
+      "lon": "47.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alxasava",
+      "en": "Alkhasava",
+      "slug": "alkhasava"
+    },
+    "code": {
+      "id": "AZ408033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.579",
+      "lon": "47.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alpout",
+      "en": "Alpout",
+      "slug": "alpout"
+    },
+    "code": {
+      "id": "AZ408047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.473",
+      "lon": "47.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbşahverdi",
+      "en": "Arabshahverdi",
+      "slug": "arabshahverdi"
+    },
+    "code": {
+      "id": "AZ408044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.602",
+      "lon": "47.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Qaraməryəm",
+      "en": "Ashaghi Garamaryam",
+      "slug": "ashaghi-garamaryam"
+    },
+    "code": {
+      "id": "AZ408031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.574",
+      "lon": "47.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəydövül",
+      "en": "Beydovul",
+      "slug": "beydovul"
+    },
+    "code": {
+      "id": "AZ408034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.512",
+      "lon": "47.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bığır",
+      "en": "Bighir",
+      "slug": "bighir"
+    },
+    "code": {
+      "id": "AZ408017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.606",
+      "lon": "47.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Ərəbcəbirli",
+      "en": "Birinji  Arabjabirli",
+      "slug": "birinji-arabjabirli"
+    },
+    "code": {
+      "id": "AZ408002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.655",
+      "lon": "47.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaxırlı",
+      "en": "Chakhirli",
+      "slug": "chakhirli"
+    },
+    "code": {
+      "id": "AZ408001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.503",
+      "lon": "47.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çərəcə",
+      "en": "Charaja",
+      "slug": "charaja"
+    },
+    "code": {
+      "id": "AZ408053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.547",
+      "lon": "47.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çərəkə",
+      "en": "Charaka",
+      "slug": "charaka"
+    },
+    "code": {
+      "id": "AZ408039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.563",
+      "lon": "47.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çayarxı",
+      "en": "Chayarkhi",
+      "slug": "chayarkhi"
+    },
+    "code": {
+      "id": "AZ408014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.623",
+      "lon": "47.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dövranlı",
+      "en": "Dovranli",
+      "slug": "dovranli"
+    },
+    "code": {
+      "id": "AZ408056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.567",
+      "lon": "47.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəbələ Müskürlü",
+      "en": "Gabala Muskurlu",
+      "slug": "gabala-muskurlu"
+    },
+    "code": {
+      "id": "AZ408045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.559",
+      "lon": "47.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabaqqal",
+      "en": "Garabaggal",
+      "slug": "garabaggal"
+    },
+    "code": {
+      "id": "AZ408015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.624",
+      "lon": "47.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabağlar",
+      "en": "Garabaghlar",
+      "slug": "garabaghlar"
+    },
+    "code": {
+      "id": "AZ408007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.634",
+      "lon": "47.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraxıdır",
+      "en": "Garakhidir",
+      "slug": "garakhidir"
+    },
+    "code": {
+      "id": "AZ408024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.574",
+      "lon": "47.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraman",
+      "en": "Garaman",
+      "slug": "garaman"
+    },
+    "code": {
+      "id": "AZ408018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.596",
+      "lon": "47.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraməryəm",
+      "en": "Garamaryam",
+      "slug": "garamaryam"
+    },
+    "code": {
+      "id": "AZ408048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.615",
+      "lon": "48.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarayazı",
+      "en": "Garayazi",
+      "slug": "garayazi"
+    },
+    "code": {
+      "id": "AZ408030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.629",
+      "lon": "47.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılağac",
+      "en": "Gizilaghaj",
+      "slug": "gizilaghaj"
+    },
+    "code": {
+      "id": "AZ408035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.571",
+      "lon": "47.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "GÖYÇAY",
+      "en": "GOYCHAY",
+      "slug": "goychay"
+    },
+    "code": {
+      "id": "AZ408005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.65",
+      "lon": "47.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qubadlı Şıxlı",
+      "en": "Gubadli Shikhli",
+      "slug": "gubadli-shikhli"
+    },
+    "code": {
+      "id": "AZ408013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.599",
+      "lon": "47.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacalıkənd",
+      "en": "Hajalikend",
+      "slug": "hajalikend"
+    },
+    "code": {
+      "id": "AZ408016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.632",
+      "lon": "47.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıağabəyli",
+      "en": "Hajiaghabeyli",
+      "slug": "hajiaghabeyli"
+    },
+    "code": {
+      "id": "AZ408042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.577",
+      "lon": "47.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Ərəbcəbirli",
+      "en": "Ikinji  Arabjabirli",
+      "slug": "ikinji-arabjabirli"
+    },
+    "code": {
+      "id": "AZ408003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.649",
+      "lon": "47.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İnçə",
+      "en": "Incha",
+      "slug": "incha"
+    },
+    "code": {
+      "id": "AZ408032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.554",
+      "lon": "47.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəyirli",
+      "en": "Jayirli",
+      "slug": "jayirli"
+    },
+    "code": {
+      "id": "AZ408010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.621",
+      "lon": "47.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cırqurd",
+      "en": "Jirgurd",
+      "slug": "jirgurd"
+    },
+    "code": {
+      "id": "AZ408029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.58",
+      "lon": "47.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlitli",
+      "en": "Khalitli",
+      "slug": "khalitli"
+    },
+    "code": {
+      "id": "AZ408040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.581",
+      "lon": "47.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürd",
+      "en": "Kurd",
+      "slug": "kurd"
+    },
+    "code": {
+      "id": "AZ408004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.637",
+      "lon": "47.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdəmiş",
+      "en": "Kurdamish",
+      "slug": "kurdamish"
+    },
+    "code": {
+      "id": "AZ408021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.587",
+      "lon": "47.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdşaban",
+      "en": "Kurdshaban",
+      "slug": "kurdshaban"
+    },
+    "code": {
+      "id": "AZ408037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.531",
+      "lon": "47.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləkçılpaq",
+      "en": "Lakchilpag",
+      "slug": "lakchilpag"
+    },
+    "code": {
+      "id": "AZ408019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.59",
+      "lon": "47.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikkənd",
+      "en": "Malikkend",
+      "slug": "malikkend"
+    },
+    "code": {
+      "id": "AZ408052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.532",
+      "lon": "47.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mallı Şıxlı",
+      "en": "Malli Shikhli",
+      "slug": "malli-shikhli"
+    },
+    "code": {
+      "id": "AZ408043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.595",
+      "lon": "47.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mırtı",
+      "en": "Mirti",
+      "slug": "mirti"
+    },
+    "code": {
+      "id": "AZ408025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.561",
+      "lon": "47.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəhüseynli",
+      "en": "Mirzahuseynli",
+      "slug": "mirzahuseynli"
+    },
+    "code": {
+      "id": "AZ408006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.653",
+      "lon": "47.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollahacılı",
+      "en": "Mollahajili",
+      "slug": "mollahajili"
+    },
+    "code": {
+      "id": "AZ408051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.541",
+      "lon": "47.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müskürlü",
+      "en": "Muskurlu",
+      "slug": "muskurlu"
+    },
+    "code": {
+      "id": "AZ408046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.549",
+      "lon": "47.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Potu",
+      "en": "Potu",
+      "slug": "potu"
+    },
+    "code": {
+      "id": "AZ408009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.62",
+      "lon": "47.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəhadət",
+      "en": "Shahadat",
+      "slug": "shahadat"
+    },
+    "code": {
+      "id": "AZ408008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.629",
+      "lon": "47.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahsoltanlı",
+      "en": "Shahsoltanli",
+      "slug": "shahsoltanli"
+    },
+    "code": {
+      "id": "AZ408050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.62",
+      "lon": "48.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəkər",
+      "en": "Shakar",
+      "slug": "shakar"
+    },
+    "code": {
+      "id": "AZ408027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.569",
+      "lon": "47.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəkili",
+      "en": "Shakili",
+      "slug": "shakili"
+    },
+    "code": {
+      "id": "AZ408036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.55",
+      "lon": "47.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxəmir",
+      "en": "Shikhamir",
+      "slug": "shikhamir"
+    },
+    "code": {
+      "id": "AZ408055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.516",
+      "lon": "47.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxbəy",
+      "en": "Shikhbey",
+      "slug": "shikhbey"
+    },
+    "code": {
+      "id": "AZ408023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.553",
+      "lon": "47.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ408038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.569",
+      "lon": "47.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkmən",
+      "en": "Turkman",
+      "slug": "turkman"
+    },
+    "code": {
+      "id": "AZ408020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.61",
+      "lon": "47.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ulaşlı Şıxlı",
+      "en": "Ulashli Shikhli",
+      "slug": "ulashli-shikhli"
+    },
+    "code": {
+      "id": "AZ408012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.599",
+      "lon": "47.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üngütlü",
+      "en": "Ungutlu",
+      "slug": "ungutlu"
+    },
+    "code": {
+      "id": "AZ408011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.601",
+      "lon": "47.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Veysəlli",
+      "en": "Veysalli",
+      "slug": "veysalli"
+    },
+    "code": {
+      "id": "AZ408028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.548",
+      "lon": "47.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yalman",
+      "en": "Yalman",
+      "slug": "yalman"
+    },
+    "code": {
+      "id": "AZ408022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.567",
+      "lon": "47.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yekəxana",
+      "en": "Yekakhana",
+      "slug": "yekakhana"
+    },
+    "code": {
+      "id": "AZ408049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.623",
+      "lon": "48.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeniarx",
+      "en": "Yeniarkh",
+      "slug": "yeniarkh"
+    },
+    "code": {
+      "id": "AZ408041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.572",
+      "lon": "47.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ408054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ408054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ408",
+        "level": 1,
+        "name": {
+          "local": "Göyçay",
+          "en": "Goychay",
+          "slug": "goychay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.515",
+      "lon": "47.766"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

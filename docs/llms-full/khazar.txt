@@ -1,0 +1,49 @@
+# Khazar — Azerbaijan Administrative Divisions
+
+> 8 settlements
+> Code: AZ1003
+> Coordinates: 40.451, 50.17
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Binə (Bina)
+
+Code: AZ100304, Coordinates: 40.444, 50.102
+
+
+### Buzovna
+
+Code: AZ100303, Coordinates: 40.52, 50.103
+
+
+### Qala (Gala)
+
+Code: AZ100306, Coordinates: 40.444, 50.187
+
+
+### Mərdəkan (Mardakan)
+
+Code: AZ100302, Coordinates: 40.483, 50.146
+
+
+### Şağan (Shaghan)
+
+Code: AZ100308, Coordinates: 40.497, 50.122
+
+
+### Şüvəlan (Shuvalan)
+
+Code: AZ100301, Coordinates: 40.489, 50.197
+
+
+### Türkan (Turkan)
+
+Code: AZ100305, Coordinates: 40.364, 50.216
+
+
+### Zirə (Zira)
+
+Code: AZ100307, Coordinates: 40.37, 50.286
+
+

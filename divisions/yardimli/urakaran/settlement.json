@@ -1,0 +1,45 @@
+{
+  "id": "AZ804050",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Urakəran",
+    "en": "Urakaran",
+    "slug": "urakaran"
+  },
+  "code": {
+    "id": "AZ804050",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ804",
+    "level": 1,
+    "name": {
+      "local": "Yardımlı",
+      "en": "Yardimli",
+      "slug": "yardimli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.881",
+    "lon": "48.215"
+  },
+  "metadata": {},
+  "source": {}
+}

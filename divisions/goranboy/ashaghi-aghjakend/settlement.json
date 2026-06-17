@@ -1,0 +1,45 @@
+{
+  "id": "AZ509067",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Ağcakənd",
+    "en": "Ashaghi Aghjakend",
+    "slug": "ashaghi-aghjakend"
+  },
+  "code": {
+    "id": "AZ509067",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.42",
+    "lon": "46.568"
+  },
+  "metadata": {},
+  "source": {}
+}

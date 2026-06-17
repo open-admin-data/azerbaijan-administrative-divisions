@@ -1,0 +1,45 @@
+{
+  "id": "AZ510002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "NAFTALAN",
+    "en": "NAFTALAN",
+    "slug": "naftalan"
+  },
+  "code": {
+    "id": "AZ510002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ510",
+    "level": 1,
+    "name": {
+      "local": "Naftalan",
+      "en": "Naftalan",
+      "slug": "naftalan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ510",
+      "level": 1,
+      "name": {
+        "local": "Naftalan",
+        "en": "Naftalan",
+        "slug": "naftalan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.507",
+    "lon": "46.823"
+  },
+  "metadata": {},
+  "source": {}
+}

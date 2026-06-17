@@ -1,0 +1,45 @@
+{
+  "id": "AZ409079",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Binəcik",
+    "en": "Binajik",
+    "slug": "binajik"
+  },
+  "code": {
+    "id": "AZ409079",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ409",
+    "level": 1,
+    "name": {
+      "local": "Ağsu",
+      "en": "Aghsu",
+      "slug": "aghsu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.582",
+    "lon": "48.31"
+  },
+  "metadata": {},
+  "source": {}
+}

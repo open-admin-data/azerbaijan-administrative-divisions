@@ -1,0 +1,45 @@
+{
+  "id": "AZ507003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarabağlı",
+    "en": "Garabaghli",
+    "slug": "garabaghli"
+  },
+  "code": {
+    "id": "AZ507003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ507",
+    "level": 1,
+    "name": {
+      "local": "Samux",
+      "en": "Samukh",
+      "slug": "samukh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.136",
+    "lon": "46.283"
+  },
+  "metadata": {},
+  "source": {}
+}

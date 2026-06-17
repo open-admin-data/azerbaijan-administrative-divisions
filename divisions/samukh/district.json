@@ -1,0 +1,33 @@
+{
+  "id": "AZ507",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Samux",
+    "en": "Samukh",
+    "slug": "samukh"
+  },
+  "code": {
+    "id": "AZ507",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.839",
+    "lon": "46.383"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/samukh/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

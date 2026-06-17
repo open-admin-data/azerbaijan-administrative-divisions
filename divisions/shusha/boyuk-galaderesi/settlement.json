@@ -1,0 +1,45 @@
+{
+  "id": "AZ702017",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Böyük Qaladərəsi",
+    "en": "Boyuk Galaderesi",
+    "slug": "boyuk-galaderesi"
+  },
+  "code": {
+    "id": "AZ702017",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ702",
+    "level": 1,
+    "name": {
+      "local": "Şuşa",
+      "en": "Shusha",
+      "slug": "shusha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.659",
+    "lon": "46.596"
+  },
+  "metadata": {},
+  "source": {}
+}

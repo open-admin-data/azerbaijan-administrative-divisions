@@ -1,0 +1,45 @@
+{
+  "id": "AZ805059",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Məmmədoba",
+    "en": "Mammadoba",
+    "slug": "mammadoba"
+  },
+  "code": {
+    "id": "AZ805059",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ805",
+    "level": 1,
+    "name": {
+      "local": "Masallı",
+      "en": "Masalli",
+      "slug": "masalli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.926",
+    "lon": "48.645"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ808014",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xırmandalı",
+    "en": "Khirmandali",
+    "slug": "khirmandali"
+  },
+  "code": {
+    "id": "AZ808014",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ808",
+    "level": 1,
+    "name": {
+      "local": "Biləsuvar",
+      "en": "Bilasuvar",
+      "slug": "bilasuvar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.451",
+    "lon": "48.605"
+  },
+  "metadata": {},
+  "source": {}
+}

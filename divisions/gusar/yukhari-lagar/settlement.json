@@ -1,0 +1,45 @@
+{
+  "id": "AZ301018",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Ləgər",
+    "en": "Yukhari Lagar",
+    "slug": "yukhari-lagar"
+  },
+  "code": {
+    "id": "AZ301018",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.358",
+    "lon": "48.274"
+  },
+  "metadata": {},
+  "source": {}
+}

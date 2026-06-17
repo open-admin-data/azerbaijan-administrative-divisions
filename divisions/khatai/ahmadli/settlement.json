@@ -1,0 +1,45 @@
+{
+  "id": "AZ100401",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əhmədli",
+    "en": "Ahmadli",
+    "slug": "ahmadli"
+  },
+  "code": {
+    "id": "AZ100401",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1004",
+    "level": 1,
+    "name": {
+      "local": "Xətai",
+      "en": "Khatai",
+      "slug": "khatai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1004",
+      "level": 1,
+      "name": {
+        "local": "Xətai",
+        "en": "Khatai",
+        "slug": "khatai"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.373",
+    "lon": "49.957"
+  },
+  "metadata": {},
+  "source": {}
+}

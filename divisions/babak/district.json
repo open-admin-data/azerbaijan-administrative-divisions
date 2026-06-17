@@ -1,0 +1,33 @@
+{
+  "id": "AZ103",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Babək",
+    "en": "Babak",
+    "slug": "babak"
+  },
+  "code": {
+    "id": "AZ103",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.28",
+    "lon": "45.464"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/babak/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

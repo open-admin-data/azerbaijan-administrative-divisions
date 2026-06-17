@@ -1,0 +1,88 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+AZ509062,Abbasqulular,Abbasgulular,abbasgulular,AZ509062,40.571,46.784
+AZ509019,Əhmədabad,Ahmadabad,ahmadabad,AZ509019,40.712,46.655
+AZ509087,Əlirzalı,Alirzali,alirzali,AZ509087,40.51,46.944
+AZ509028,Alpout,Alpout,alpout,AZ509028,40.751,46.538
+AZ509057,Aşağı Ballıqaya,Ashaghi  Balligaya,ashaghi-balligaya,AZ509057,40.565,46.877
+AZ509067,Aşağı Ağcakənd,Ashaghi Aghjakend,ashaghi-aghjakend,AZ509067,40.42,46.568
+AZ509001,Azad,Azad,azad,AZ509001,40.695,46.512
+AZ509029,Bağçakürd,Baghchakurd,baghchakurd,AZ509029,40.735,46.51
+AZ509055,Balakürd,Balakurd,balakurd,AZ509055,40.589,46.839
+AZ509032,Baş Qışlaq,Bash Gishlag,bash-gishlag,AZ509032,40.385,46.414
+AZ509021,Bəşirli,Bashirli,bashirli,AZ509021,40.723,46.624
+AZ509051,Boluslu,Boluslu,boluslu,AZ509051,40.632,46.858
+AZ509045,Borsunlu,Borsunlu,borsunlu,AZ509045,40.648,46.663
+AZ509066,Börü,Boru,boru,AZ509066,40.448,46.556
+AZ509033,Buzluq,Buzlug,buzlug,AZ509033,40.418,46.439
+AZ509003,Dəliməmmədli,DALIMAMMADLI,dalimammadli,AZ509003,40.695,46.571
+AZ509002,Dəyirmanlar,Dayirmanlar,dayirmanlar,AZ509002,40.709,46.511
+AZ509030,Düzqışlaq,Duzgishlag,duzgishlag,AZ509030,40.717,46.53
+AZ509035,Erkeç,Erkech,erkech,AZ509035,40.463,46.473
+AZ509082,Eyvazlılar,Eyvazlilar,eyvazlilar,AZ509082,40.616,46.878
+AZ509027,Fəxralı,Fakhrali,fakhrali,AZ509027,40.746,46.559
+AZ509072,Qaxtut,Gakhtut,gakhtut,AZ509072,40.446,46.631
+AZ509070,Qaraçinar,Garachinar,garachinar,AZ509070,40.44,46.638
+AZ509040,Qaradağlı,Garadaghli,garadaghli,AZ509040,40.653,46.552
+AZ509076,Qarqucaq,Garagujag,garagujag,AZ509076,40.491,46.722
+AZ509015,Qaramusalı,Garamusali,garamusali,AZ509015,40.729,46.749
+AZ509012,Qarapirimli,Garapirimli,garapirimli,AZ509012,40.7,46.758
+AZ509024,Qarasuçu,Garasuchu,garasuchu,AZ509024,40.752,46.673
+AZ509059,Qarasüleymanlı,Garasuleymanli,garasuleymanli,AZ509059,40.606,46.776
+AZ509046,Qazaxlar,Gazakhlar,gazakhlar,AZ509046,40.661,46.679
+AZ509047,Qazanbulaq,Gazanbulag,gazanbulag,AZ509047,40.619,46.655
+AZ509009,Qazançı,Gazanchi,gazanchi,AZ509009,40.673,46.718
+AZ509013,Qırıqlı,Girigli,girigli,AZ509013,40.708,46.752
+AZ509056,Qızılhacılı,Gizilhajili,gizilhajili,AZ509056,40.573,46.848
+AZ509050,Goran,Goran,goran,AZ509050,40.653,46.851
+AZ509060,GORANBOY,GORANBOY,goranboy,AZ509060,40.61,46.795
+AZ509008,Goranlı,Goranli,goranli,AZ509008,40.68,46.7
+AZ509023,Göynüyən,Goynuyan,goynuyan,AZ509023,40.742,46.633
+AZ509011,Gülməmmədli,Gulmammadli,gulmammadli,AZ509011,40.7,46.732
+AZ509079,Gülüstan,Gulustan,gulustan,AZ509079,40.357,46.583
+AZ509031,Qurbanzadə,Gurbanzada,gurbanzada,AZ509031,40.764,46.568
+AZ509080,Gürzallar,Gurzallar,gurzallar,AZ509080,40.497,46.55
+AZ509004,Quşçular,Gushchular,gushchular,AZ509004,40.712,46.56
+AZ509075,Hacallı,Hajalli,hajalli,AZ509075,40.483,46.741
+AZ509014,Həmənli,Hamanli,hamanli,AZ509014,40.714,46.799
+AZ509022,Hazırəhmədli,Hazirahmadli,hazirahmadli,AZ509022,40.733,46.641
+AZ509058,İrəvanlı,Iravanli,iravanli,AZ509058,40.633,46.821
+AZ509053,Cinli Zeynallı,Jinli Zeynalli,jinli-zeynalli,AZ509053,40.603,46.824
+AZ509006,Kəhrizli,Kahrizli,kahrizli,AZ509006,40.695,46.632
+AZ509018,Kələk,Kalak,kalak,AZ509018,40.729,46.685
+AZ509077,Xan Qərvənd,Khan Garvand,khan-garvand,AZ509077,40.493,46.909
+AZ509010,Xasadarlı,Khasadarli,khasadarli,AZ509010,40.698,46.688
+AZ509016,Xınalı,Khinali,khinali,AZ509016,40.726,46.721
+AZ509041,Xoylu,Khoylu,khoylu,AZ509041,40.647,46.531
+AZ509081,Kürəkçay,Kurakchay,kurakchay,AZ509081,40.668,46.724
+AZ509034,Mənəşli,Manashli,manashli,AZ509034,40.443,46.449
+AZ509052,Məşədiqaralar,Mashadigaralar,mashadigaralar,AZ509052,40.617,46.86
+AZ509068,Meşəli,Meshali,meshali,AZ509068,40.434,46.621
+AZ509005,Muzdurlar,Muzdurlar,muzdurlar,AZ509005,40.699,46.607
+AZ509044,Nadirkənd,Nadirkend,nadirkend,AZ509044,40.654,46.634
+AZ509054,Nərimanlı,Narimanli,narimanli,AZ509054,40.599,46.835
+AZ509039,Nizami,Nizami,nizami,AZ509039,40.664,46.522
+AZ509049,Rəhimli,Rahimli,rahimli,AZ509049,40.584,46.748
+AZ509065,Rus Borisi,Rus Borisi,rus-borisi,AZ509065,40.437,46.51
+AZ509063,Səfikürd,Safikurd,safikurd,AZ509063,40.538,46.772
+AZ509007,Səmədabad,Samadabad,samadabad,AZ509007,40.682,46.652
+AZ509026,Sarov,Sarov,sarov,AZ509026,40.725,46.591
+AZ509085,Sarovlu,Sarovlu,sarovlu,AZ509085,40.69,46.556
+AZ509043,Şadılı,Shadili,shadili,AZ509043,40.647,46.573
+AZ509071,Şəfəq,Shafag,shafag,AZ509071,40.453,46.647
+AZ509074,Şəfibəyli,Shafibeyli,shafibeyli,AZ509074,40.479,46.71
+AZ509061,Şahməmmədli,Shahmammadli,shahmammadli,AZ509061,40.598,46.763
+AZ509017,Şıxlar,Shikhlar,shikhlar,AZ509017,40.715,46.697
+AZ509064,Təklə,Takla,takla,AZ509064,40.527,46.867
+AZ509083,Tap,Tap,tap,AZ509083,40.424,46.778
+AZ509078,Tap Qaraqoyunlu,Tap Garagoyunlu,tap-garagoyunlu,AZ509078,40.431,46.77
+AZ509086,Tatarlı,Tatarli,tatarli,AZ509086,40.511,46.758
+AZ509036,Todan,Todan,todan,AZ509036,40.473,46.452
+AZ509048,Veyisli,Veyisli,veyisli,AZ509048,40.585,46.722
+AZ509025,Yəhərçi Qazaxlar,Yaharchi Gazakhlar,yaharchi-gazakhlar,AZ509025,40.754,46.605
+AZ509084,Yeni yol,Yeni yol,yeni-yol,AZ509084,40.508,46.877
+AZ509069,Yenikənd,Yenikend,yenikend,AZ509069,40.443,46.646
+AZ509042,Yolqulular,Yolgulular,yolgulular,AZ509042,40.624,46.517
+AZ509020,Yolpaq,Yolpag,yolpag,AZ509020,40.713,46.623
+AZ509038,Yuxarı Ballıqaya,Yukhari  Balligaya,yukhari-balligaya,AZ509038,40.369,46.473
+AZ509037,Yuxarı Ağcakənd,Yukhari Aghjakend,yukhari-aghjakend,AZ509037,40.397,46.495
+AZ509073,Zeyvə,Zeyva,zeyva,AZ509073,40.46,46.682

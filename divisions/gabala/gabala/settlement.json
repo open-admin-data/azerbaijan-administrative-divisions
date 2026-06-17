@@ -1,0 +1,45 @@
+{
+  "id": "AZ406039",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "QƏBƏLƏ",
+    "en": "GABALA",
+    "slug": "gabala"
+  },
+  "code": {
+    "id": "AZ406039",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ406",
+    "level": 1,
+    "name": {
+      "local": "Qəbələ",
+      "en": "Gabala",
+      "slug": "gabala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.982",
+    "lon": "47.849"
+  },
+  "metadata": {},
+  "source": {}
+}

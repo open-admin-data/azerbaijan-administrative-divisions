@@ -1,0 +1,45 @@
+{
+  "id": "AZ607006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dünyamalılar",
+    "en": "Dunyamalilar",
+    "slug": "dunyamalilar"
+  },
+  "code": {
+    "id": "AZ607006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ607",
+    "level": 1,
+    "name": {
+      "local": "Beyləqan",
+      "en": "Beylagan",
+      "slug": "beylagan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.771",
+    "lon": "47.762"
+  },
+  "metadata": {},
+  "source": {}
+}

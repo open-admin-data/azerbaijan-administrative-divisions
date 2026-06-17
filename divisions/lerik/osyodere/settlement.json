@@ -1,0 +1,45 @@
+{
+  "id": "AZ803140",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Osyodərə",
+    "en": "Osyodere",
+    "slug": "osyodere"
+  },
+  "code": {
+    "id": "AZ803140",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.851",
+    "lon": "48.328"
+  },
+  "metadata": {},
+  "source": {}
+}

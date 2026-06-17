@@ -1,0 +1,45 @@
+{
+  "id": "AZ105017",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Nursu",
+    "en": "Nursu",
+    "slug": "nursu"
+  },
+  "code": {
+    "id": "AZ105017",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ105",
+    "level": 1,
+    "name": {
+      "local": "Şahbuz",
+      "en": "Shahbuz",
+      "slug": "shahbuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.398",
+    "lon": "45.672"
+  },
+  "metadata": {},
+  "source": {}
+}

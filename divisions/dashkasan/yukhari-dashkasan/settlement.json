@@ -1,0 +1,45 @@
+{
+  "id": "AZ506021",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Daşkəsən",
+    "en": "Yukhari Dashkasan",
+    "slug": "yukhari-dashkasan"
+  },
+  "code": {
+    "id": "AZ506021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ506",
+    "level": 1,
+    "name": {
+      "local": "Daşkəsən",
+      "en": "Dashkasan",
+      "slug": "dashkasan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.493",
+    "lon": "46.072"
+  },
+  "metadata": {},
+  "source": {}
+}

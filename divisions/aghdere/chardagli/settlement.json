@@ -1,0 +1,45 @@
+{
+  "id": "AZ611073",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çardaqlı",
+    "en": "Chardagli",
+    "slug": "chardagli"
+  },
+  "code": {
+    "id": "AZ611073",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ612",
+    "level": 1,
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.249",
+    "lon": "46.72"
+  },
+  "metadata": {},
+  "source": {}
+}

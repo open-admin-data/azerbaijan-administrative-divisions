@@ -1,0 +1,45 @@
+{
+  "id": "AZ602050",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bozlu",
+    "en": "Bozlu",
+    "slug": "bozlu"
+  },
+  "code": {
+    "id": "AZ602050",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.696",
+    "lon": "46.332"
+  },
+  "metadata": {},
+  "source": {}
+}

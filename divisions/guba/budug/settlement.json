@@ -1,0 +1,45 @@
+{
+  "id": "AZ303141",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Buduq",
+    "en": "Budug",
+    "slug": "budug"
+  },
+  "code": {
+    "id": "AZ303141",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.183",
+    "lon": "48.37"
+  },
+  "metadata": {},
+  "source": {}
+}

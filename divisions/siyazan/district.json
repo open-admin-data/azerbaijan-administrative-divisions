@@ -1,0 +1,33 @@
+{
+  "id": "AZ305",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Siyəzən",
+    "en": "Siyazan",
+    "slug": "siyazan"
+  },
+  "code": {
+    "id": "AZ305",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.039",
+    "lon": "49.054"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/siyazan/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

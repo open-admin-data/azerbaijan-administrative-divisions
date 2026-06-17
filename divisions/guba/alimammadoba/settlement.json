@@ -1,0 +1,45 @@
+{
+  "id": "AZ303112",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əliməmmədoba",
+    "en": "Alimammadoba",
+    "slug": "alimammadoba"
+  },
+  "code": {
+    "id": "AZ303112",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.451",
+    "lon": "48.674"
+  },
+  "metadata": {},
+  "source": {}
+}

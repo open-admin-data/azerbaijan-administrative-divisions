@@ -1,0 +1,45 @@
+{
+  "id": "AZ907048",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Vətəgə",
+    "en": "Vataga",
+    "slug": "vataga"
+  },
+  "code": {
+    "id": "AZ907048",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.787",
+    "lon": "47.932"
+  },
+  "metadata": {},
+  "source": {}
+}

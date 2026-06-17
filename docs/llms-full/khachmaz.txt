@@ -1,0 +1,764 @@
+# Khachmaz — Azerbaijan Administrative Divisions
+
+> 151 settlements
+> Code: AZ302
+> Coordinates: 41.541, 48.751
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əbilyataq (Abilyatag)
+
+Code: AZ302065, Coordinates: 41.541, 48.885
+
+
+### Ağarəhimoba (Agharahimoba)
+
+Code: AZ302032, Coordinates: 41.495, 48.719
+
+
+### Ağaşirinoba (Aghashirinoba)
+
+Code: AZ302115, Coordinates: 41.519, 48.682
+
+
+### Ağaverdioba (Aghaverdioba)
+
+Code: AZ302100, Coordinates: 41.605, 48.691
+
+
+### Ağçay (Aghchay)
+
+Code: AZ302059, Coordinates: 41.481, 48.919
+
+
+### Ağtala (Aghtala)
+
+Code: AZ302109, Coordinates: 41.539, 48.762
+
+
+### Ağyazı Buduq (Aghyazi Budug)
+
+Code: AZ302009, Coordinates: 41.397, 48.73
+
+
+### Əhmədoba (Ahmadoba)
+
+Code: AZ302070, Coordinates: 41.516, 48.814
+
+
+### Alıcqışlaq (Alijgishlag)
+
+Code: AZ302008, Coordinates: 41.382, 48.73
+
+
+### Ərəb (Arab)
+
+Code: AZ302054, Coordinates: 41.42, 48.95
+
+
+### Armudpadar
+
+Code: AZ302024, Coordinates: 41.44, 48.768
+
+
+### Arzu
+
+Code: AZ302006, Coordinates: 41.4, 48.705
+
+
+### Aşağı Zeyid (Ashaghi  Zeyid)
+
+Code: AZ302018, Coordinates: 41.382, 48.788
+
+
+### Aşağı Ləgər (Ashaghi Lagar)
+
+Code: AZ302014, Coordinates: 41.599, 48.602
+
+
+### Aşağıoba (Ashaghioba)
+
+Code: AZ302120, Coordinates: 41.721, 48.731
+
+
+### Aslanoba
+
+Code: AZ302121, Coordinates: 41.719, 48.718
+
+
+### Əzizli (Azizli)
+
+Code: AZ302144, Coordinates: 41.505, 48.822
+
+
+### Bəbəli (Babali)
+
+Code: AZ302069, Coordinates: 41.515, 48.86
+
+
+### Balaqusarqışlaq (Balagusargishlag)
+
+Code: AZ302099, Coordinates: 41.593, 48.646
+
+
+### Baraxum (Barakhum)
+
+Code: AZ302084, Coordinates: 41.597, 48.83
+
+
+### Bayoba
+
+Code: AZ302004, Coordinates: 41.422, 48.71
+
+
+### Bəyqışlaq (Beygishlag)
+
+Code: AZ302043, Coordinates: 41.43, 48.82
+
+
+### Bostançı (Bostanchi)
+
+Code: AZ302117, Coordinates: 41.605, 48.738
+
+
+### Çaxçaxlı (Chakhchakhli)
+
+Code: AZ302089, Coordinates: 41.653, 48.702
+
+
+### Çaxmaqlı (Chakhmagli)
+
+Code: AZ302046, Coordinates: 41.443, 48.861
+
+
+### Çarxı (Charkhi)
+
+Code: AZ302037, Coordinates: 41.392, 48.869
+
+
+### Çaykənarı (Chaykanari)
+
+Code: AZ302031, Coordinates: 41.495, 48.67
+
+
+### Çiləgir (Chilagir)
+
+Code: AZ302108, Coordinates: 41.524, 48.782
+
+
+### Çılğır (Chilghir)
+
+Code: AZ302015, Coordinates: 41.364, 48.814
+
+
+### Çinartala (Chinartala)
+
+Code: AZ302111, Coordinates: 41.547, 48.721
+
+
+### Çuxuroba (Chukhuroba)
+
+Code: AZ302028, Coordinates: 41.464, 48.733
+
+
+### Dədəli (Dadali)
+
+Code: AZ302080, Coordinates: 41.573, 48.762
+
+
+### Dalğalı (Dalghali)
+
+Code: AZ302124, Coordinates: 41.751, 48.707
+
+
+### Digahoba
+
+Code: AZ302097, Coordinates: 41.606, 48.628
+
+
+### Düztahiroba (Duztahiroba)
+
+Code: AZ302131, Coordinates: 41.737, 48.55
+
+
+### Fərzəlioba (Farzalioba)
+
+Code: AZ302094, Coordinates: 41.64, 48.628
+
+
+### Qadaşoba (Gadashoba)
+
+Code: AZ302033, Coordinates: 41.497, 48.738
+
+
+### Qədmalıqışlaq (Gadmaligishlag)
+
+Code: AZ302016, Coordinates: 41.366, 48.769
+
+
+### Qalağan (Galaghan)
+
+Code: AZ302055, Coordinates: 41.418, 48.882
+
+
+### Gəncəli (Ganjali)
+
+Code: AZ302068, Coordinates: 41.51, 48.85
+
+
+### Qarabağlı (Garabaghli)
+
+Code: AZ302062, Coordinates: 41.48, 48.871
+
+
+### Qaraçaycek (Garachayjek)
+
+Code: AZ302019, Coordinates: 41.389, 48.772
+
+
+### Qaraçı (Garachi)
+
+Code: AZ302047, Coordinates: 41.444, 48.835
+
+
+### Qaradağ Buduq (Garadagh Budug)
+
+Code: AZ302039, Coordinates: 41.416, 48.833
+
+
+### Qaradağlı (Garadaghli)
+
+Code: AZ302038, Coordinates: 41.404, 48.832
+
+
+### Qaraqaşlı (Garagashli)
+
+Code: AZ302056, Coordinates: 41.431, 48.873
+
+
+### Qaraqurdlu (Garagurdlu)
+
+Code: AZ302048, Coordinates: 41.455, 48.82
+
+
+### Qaracəlli (Garajalli)
+
+Code: AZ302076, Coordinates: 41.557, 48.843
+
+
+### Qaracik (Garajik)
+
+Code: AZ302151, Coordinates: 41.379, 48.752
+
+
+### Qaracik Zeyid (Garajik Zeyid)
+
+Code: AZ302017, Coordinates: 41.369, 48.727
+
+
+### Qarğalıq (Garghalig)
+
+Code: AZ302063, Coordinates: 41.455, 48.969
+
+
+### Qımılqışlaq (Gimilgishlag)
+
+Code: AZ302002, Coordinates: 41.468, 48.714
+
+
+### Qıraqlı (Giragli)
+
+Code: AZ302146, Coordinates: 41.493, 48.639
+
+
+### Qobuqıraq (Gobugirag)
+
+Code: AZ302045, Coordinates: 41.439, 48.809
+
+
+### Qoçaqqazma (Gochaggazma)
+
+Code: AZ302012, Coordinates: 41.564, 48.632
+
+
+### Gödəkli (Godakli)
+
+Code: AZ302116, Coordinates: 41.52, 48.702
+
+
+### Gülalan (Gulalan)
+
+Code: AZ302049, Coordinates: 41.464, 48.858
+
+
+### Günəşli (Gunashli)
+
+Code: AZ302147, Coordinates: 41.781, 48.674
+
+
+### Qusarçay (Gusarchay)
+
+Code: AZ302102, Coordinates: 41.568, 48.726
+
+
+### Həbibkənd (Habibkend)
+
+Code: AZ302010, Coordinates: 41.531, 48.628
+
+
+### Hacıabdurəhimoba (Hajiabdurahimoba)
+
+Code: AZ302083, Coordinates: 41.602, 48.77
+
+
+### Hacıəhmədoba (Hajiahmadoba)
+
+Code: AZ302072, Coordinates: 41.533, 48.811
+
+
+### Hacıəlibəy (Hajialibey)
+
+Code: AZ302005, Coordinates: 41.407, 48.699
+
+
+### Hacıqazma (Hajigazma)
+
+Code: AZ302071, Coordinates: 41.529, 48.83
+
+
+### Hacıqurbanoba (Hajigurbanoba)
+
+Code: AZ302066, Coordinates: 41.481, 48.839
+
+
+### Hacıisaoba (Hajiisaoba)
+
+Code: AZ302035, Coordinates: 41.481, 48.751
+
+
+### Hacılar (Hajilar)
+
+Code: AZ302057, Coordinates: 41.44, 48.905
+
+
+### Hacıməmmədoba (Hajimammadoba)
+
+Code: AZ302013, Coordinates: 41.577, 48.63
+
+
+### Həsənqala (Hasangala)
+
+Code: AZ302101, Coordinates: 41.579, 48.683
+
+
+### Hülövlü (Hulovlu)
+
+Code: AZ302042, Coordinates: 41.404, 48.813
+
+
+### İdrisoba (Idrisoba)
+
+Code: AZ302095, Coordinates: 41.628, 48.622
+
+
+### İlxıçı (Ilkhichi)
+
+Code: AZ302058, Coordinates: 41.462, 48.917
+
+
+### İlxıçı Həsən Əfəndi (Ilkhichi Hasan Afandi)
+
+Code: AZ302060, Coordinates: 41.457, 48.93
+
+
+### İstisu (Istisu)
+
+Code: AZ302087, Coordinates: 41.668, 48.775
+
+
+### Canaxır (Janakhir)
+
+Code: AZ302026, Coordinates: 41.416, 48.808
+
+
+### Cığatay (Jighatay)
+
+Code: AZ302061, Coordinates: 41.455, 48.879
+
+
+### Keymərəz (Keymaraz)
+
+Code: AZ302141, Coordinates: 41.418, 48.922
+
+
+### XAÇMAZ (KHACHMAZ)
+
+Code: AZ302051, Coordinates: 41.461, 48.803
+
+
+### Xanlıqoba (Khanligoba)
+
+Code: AZ302052, Coordinates: 41.38, 48.912
+
+
+### Xanoba (Khanoba)
+
+Code: AZ302133, Coordinates: 41.783, 48.568
+
+
+### Xaspoladoba (Khaspoladoba)
+
+Code: AZ302067, Coordinates: 41.487, 48.822
+
+
+### Xəzərli (Khazarli)
+
+Code: AZ302075, Coordinates: 41.568, 48.848
+
+
+### XUDAT (KHUDAT)
+
+Code: AZ302091, Coordinates: 41.63, 48.691
+
+
+### Xuray (Khuray)
+
+Code: AZ302118, Coordinates: 41.687, 48.738
+
+
+### Kiçik Baraxum (Kichik Barakhum)
+
+Code: AZ302082, Coordinates: 41.607, 48.805
+
+
+### Köhnə Xudat (Kohne  Khudat)
+
+Code: AZ302096, Coordinates: 41.621, 48.656
+
+
+### Köhnə Xaçmaz (Kohne Khachmaz)
+
+Code: AZ302050, Coordinates: 41.479, 48.791
+
+
+### Ləcət (Lajat)
+
+Code: AZ302136, Coordinates: 41.693, 48.628
+
+
+### Laman
+
+Code: AZ302040, Coordinates: 41.416, 48.845
+
+
+### Maqsudkənd (Magsudkend)
+
+Code: AZ302093, Coordinates: 41.657, 48.614
+
+
+### Məmmədxanlı (Mammadkhanli)
+
+Code: AZ302149, Coordinates: 41.417, 48.997
+
+
+### Manafoba
+
+Code: AZ302114, Coordinates: 41.536, 48.685
+
+
+### Mənçəroba (Mancharoba)
+
+Code: AZ302073, Coordinates: 41.54, 48.801
+
+
+### Maşıoba (Mashioba)
+
+Code: AZ302029, Coordinates: 41.469, 48.747
+
+
+### Meçitoba (Mechitoba)
+
+Code: AZ302145, Coordinates: 41.57, 48.792
+
+
+### Mehrəliqışlaq (Mehraligishlag)
+
+Code: AZ302027, Coordinates: 41.42, 48.814
+
+
+### Meşəli (Meshali)
+
+Code: AZ302122, Coordinates: 41.734, 48.723
+
+
+### Mirzəməmmədqışlaq (Mirzamammadgishlag)
+
+Code: AZ302030, Coordinates: 41.476, 48.729
+
+
+### Mollabürhanlı (Mollaburhanli)
+
+Code: AZ302003, Coordinates: 41.447, 48.713
+
+
+### Moruqoba (Morugoba)
+
+Code: AZ302138, Coordinates: 41.682, 48.586
+
+
+### Mürsəliqışlaq (Mursaligishlag)
+
+Code: AZ302044, Coordinates: 41.439, 48.823
+
+
+### Mürşüdoba (Murshudoba)
+
+Code: AZ302106, Coordinates: 41.509, 48.758
+
+
+### Müşkür (Mushkur)
+
+Code: AZ302104, Coordinates: 41.494, 48.784
+
+
+### Müşviq (Mushvig)
+
+Code: AZ302105, Coordinates: 41.505, 48.786
+
+
+### Müzəffəroba (Muzaffaroba)
+
+Code: AZ302034, Coordinates: 41.498, 48.76
+
+
+### Nabran
+
+Code: AZ302125, Coordinates: 41.76, 48.693
+
+
+### Nağıoba (Naghioba)
+
+Code: AZ302081, Coordinates: 41.596, 48.792
+
+
+### Nərəcan (Narajan)
+
+Code: AZ302110, Coordinates: 41.534, 48.746
+
+
+### Niyazoba
+
+Code: AZ302064, Coordinates: 41.518, 48.915
+
+
+### Ortaoba
+
+Code: AZ302129, Coordinates: 41.769, 48.578
+
+
+### Padar
+
+Code: AZ302025, Coordinates: 41.429, 48.775
+
+
+### Palçıqoba (Palchigoba)
+
+Code: AZ302112, Coordinates: 41.551, 48.73
+
+
+### Palıdlı (Palidli)
+
+Code: AZ302139, Coordinates: 41.587, 48.789
+
+
+### Pərdiqıran (Pardigiran)
+
+Code: AZ302137, Coordinates: 41.676, 48.672
+
+
+### Pirquluoba (Pirguluoba)
+
+Code: AZ302103, Coordinates: 41.554, 48.659
+
+
+### Rəhimoba (Rahimoba)
+
+Code: AZ302036, Coordinates: 41.379, 48.836
+
+
+### Sabiroba
+
+Code: AZ302107, Coordinates: 41.517, 48.759
+
+
+### Sahillər (Sahillar)
+
+Code: AZ302123, Coordinates: 41.729, 48.697
+
+
+### Səlimoba (Salimoba)
+
+Code: AZ302140, Coordinates: 41.782, 48.607
+
+
+### Samurçay (Samurchay)
+
+Code: AZ302143, Coordinates: 41.837, 48.597
+
+
+### Sərkərli (Sarkarli)
+
+Code: AZ302021, Coordinates: 41.408, 48.769
+
+
+### Sayad
+
+Code: AZ302053, Coordinates: 41.404, 48.936
+
+
+### Seyidlər (Seyidlar)
+
+Code: AZ302098, Coordinates: 41.605, 48.644
+
+
+### Seyidlikəndyeri (Seyidlikendyeri)
+
+Code: AZ302119, Coordinates: 41.705, 48.733
+
+
+### Şərifoba (Sharifoba)
+
+Code: AZ302074, Coordinates: 41.546, 48.821
+
+
+### Şıxhaput (Shikhhaput)
+
+Code: AZ302020, Coordinates: 41.405, 48.777
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ302001, Coordinates: 41.477, 48.687
+
+
+### Şıxlı (Shikhli)
+
+Code: AZ302079, Coordinates: 41.566, 48.796
+
+
+### Şimal (Shimal)
+
+Code: AZ302134, Coordinates: 41.803, 48.649
+
+
+### Şollar (Shollar)
+
+Code: AZ302090, Coordinates: 41.638, 48.665
+
+
+### Şollar (Shollar)
+
+Code: AZ302150, Coordinates: 41.639, 48.636
+
+
+### Sibiroba
+
+Code: AZ302086, Coordinates: 41.624, 48.791
+
+
+### Suxtaqalaqışlaq (Sukhtagalagishlag)
+
+Code: AZ302007, Coordinates: 41.386, 48.715
+
+
+### Susayqışlaq (Susaygishlag)
+
+Code: AZ302092, Coordinates: 41.658, 48.669
+
+
+### Tağaroba (Tagharoba)
+
+Code: AZ302135, Coordinates: 41.705, 48.603
+
+
+### Tel
+
+Code: AZ302126, Coordinates: 41.759, 48.643
+
+
+### Tikanoba
+
+Code: AZ302085, Coordinates: 41.584, 48.844
+
+
+### Turist
+
+Code: AZ302142, Coordinates: 41.819, 48.626
+
+
+### Üçgünqışlaq (Uchgungishlag)
+
+Code: AZ302022, Coordinates: 41.439, 48.729
+
+
+### Ukuroba
+
+Code: AZ302132, Coordinates: 41.745, 48.572
+
+
+### Üryanoba (Uryanoba)
+
+Code: AZ302148, Coordinates: 41.45, 48.758
+
+
+### Ustacəlilli (Ustajalilli)
+
+Code: AZ302041, Coordinates: 41.422, 48.845
+
+
+### Uzunoba
+
+Code: AZ302077, Coordinates: 41.571, 48.816
+
+
+### Vələmir (Valamir)
+
+Code: AZ302088, Coordinates: 41.663, 48.757
+
+
+### Yaquboba (Yaguboba)
+
+Code: AZ302127, Coordinates: 41.743, 48.6
+
+
+### Yalama
+
+Code: AZ302128, Coordinates: 41.761, 48.579
+
+
+### Yataqoba (Yatagoba)
+
+Code: AZ302078, Coordinates: 41.572, 48.799
+
+
+### Yeni Həyat (Yeni Hayat)
+
+Code: AZ302011, Coordinates: 41.542, 48.615
+
+
+### Yeni Sudur
+
+Code: AZ302113, Coordinates: 41.539, 48.663
+
+
+### Yergüc (Yerguj)
+
+Code: AZ302023, Coordinates: 41.424, 48.744
+
+
+### Zuxuloba (Zukhuloba)
+
+Code: AZ302130, Coordinates: 41.742, 48.529
+
+

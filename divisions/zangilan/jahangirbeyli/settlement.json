@@ -1,0 +1,45 @@
+{
+  "id": "AZ604060",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Cahangirbəyli",
+    "en": "Jahangirbeyli",
+    "slug": "jahangirbeyli"
+  },
+  "code": {
+    "id": "AZ604060",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ604",
+    "level": 1,
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.053",
+    "lon": "46.735"
+  },
+  "metadata": {},
+  "source": {}
+}

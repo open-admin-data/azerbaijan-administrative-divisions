@@ -1,0 +1,45 @@
+{
+  "id": "AZ301013",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yasab",
+    "en": "Yasab",
+    "slug": "yasab"
+  },
+  "code": {
+    "id": "AZ301013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.491",
+    "lon": "48.32"
+  },
+  "metadata": {},
+  "source": {}
+}

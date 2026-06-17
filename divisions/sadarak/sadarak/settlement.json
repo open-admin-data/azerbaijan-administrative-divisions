@@ -1,0 +1,45 @@
+{
+  "id": "AZ101001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sədərək",
+    "en": "Sadarak",
+    "slug": "sadarak"
+  },
+  "code": {
+    "id": "AZ101001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ101",
+    "level": 1,
+    "name": {
+      "local": "Sədərək",
+      "en": "Sadarak",
+      "slug": "sadarak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ101",
+      "level": 1,
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.718",
+    "lon": "44.883"
+  },
+  "metadata": {},
+  "source": {}
+}

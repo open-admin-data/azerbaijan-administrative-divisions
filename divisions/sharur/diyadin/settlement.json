@@ -1,0 +1,45 @@
+{
+  "id": "AZ102026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Diyadin",
+    "en": "Diyadin",
+    "slug": "diyadin"
+  },
+  "code": {
+    "id": "AZ102026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ102",
+    "level": 1,
+    "name": {
+      "local": "Şərur",
+      "en": "Sharur",
+      "slug": "sharur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.448",
+    "lon": "44.982"
+  },
+  "metadata": {},
+  "source": {}
+}

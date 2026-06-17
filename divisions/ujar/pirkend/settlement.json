@@ -1,0 +1,45 @@
+{
+  "id": "AZ904026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Pirkənd",
+    "en": "Pirkend",
+    "slug": "pirkend"
+  },
+  "code": {
+    "id": "AZ904026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ904",
+    "level": 1,
+    "name": {
+      "local": "Ucar",
+      "en": "Ujar",
+      "slug": "ujar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.469",
+    "lon": "47.849"
+  },
+  "metadata": {},
+  "source": {}
+}

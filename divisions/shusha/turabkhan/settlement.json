@@ -1,0 +1,45 @@
+{
+  "id": "AZ702029",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Turabxan",
+    "en": "Turabkhan",
+    "slug": "turabkhan"
+  },
+  "code": {
+    "id": "AZ702029",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ702",
+    "level": 1,
+    "name": {
+      "local": "Şuşa",
+      "en": "Shusha",
+      "slug": "shusha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.774",
+    "lon": "46.577"
+  },
+  "metadata": {},
+  "source": {}
+}

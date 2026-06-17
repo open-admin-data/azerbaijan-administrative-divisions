@@ -1,0 +1,45 @@
+{
+  "id": "AZ505029",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yaqublu",
+    "en": "Yagublu",
+    "slug": "yagublu"
+  },
+  "code": {
+    "id": "AZ505029",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ505",
+    "level": 1,
+    "name": {
+      "local": "Gədəbəy",
+      "en": "Gadabey",
+      "slug": "gadabey"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.602",
+    "lon": "45.729"
+  },
+  "metadata": {},
+  "source": {}
+}

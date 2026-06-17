@@ -1,0 +1,5807 @@
+[
+  {
+    "id": "AZ609019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abdal",
+      "en": "Abdal",
+      "slug": "abdal"
+    },
+    "code": {
+      "id": "AZ609019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.866",
+      "lon": "46.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609111",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abdınlı",
+      "en": "Abdinli",
+      "slug": "abdinli"
+    },
+    "code": {
+      "id": "AZ609111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.091",
+      "lon": "46.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609112",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əfətli",
+      "en": "Afatli",
+      "slug": "afatli"
+    },
+    "code": {
+      "id": "AZ609112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.01",
+      "lon": "47.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "AĞDAM",
+      "en": "AGHDAM",
+      "slug": "aghdam"
+    },
+    "code": {
+      "id": "AZ609006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.997",
+      "lon": "46.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədağalı",
+      "en": "Ahmadaghali",
+      "slug": "ahmadaghali"
+    },
+    "code": {
+      "id": "AZ609070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.11",
+      "lon": "47.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədavar",
+      "en": "Ahmadavar",
+      "slug": "ahmadavar"
+    },
+    "code": {
+      "id": "AZ609008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.98",
+      "lon": "46.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Acarlı",
+      "en": "Ajarli",
+      "slug": "ajarli"
+    },
+    "code": {
+      "id": "AZ609001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.978",
+      "lon": "47.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliağalı",
+      "en": "Aliaghali",
+      "slug": "aliaghali"
+    },
+    "code": {
+      "id": "AZ609055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.038",
+      "lon": "46.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alıbəyli",
+      "en": "Alibeyli",
+      "slug": "alibeyli"
+    },
+    "code": {
+      "id": "AZ609104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.092",
+      "lon": "47.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlimədətli",
+      "en": "Alimadatli",
+      "slug": "alimadatli"
+    },
+    "code": {
+      "id": "AZ609044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.055",
+      "lon": "46.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayaq Qərvənd",
+      "en": "Ayag Garvand",
+      "slug": "ayag-garvand"
+    },
+    "code": {
+      "id": "AZ609065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.168",
+      "lon": "47.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağbanlar",
+      "en": "Baghbanlar",
+      "slug": "baghbanlar"
+    },
+    "code": {
+      "id": "AZ609016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.938",
+      "lon": "46.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baharlı",
+      "en": "Baharli",
+      "slug": "baharli"
+    },
+    "code": {
+      "id": "AZ609078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.155",
+      "lon": "47.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ballar",
+      "en": "Ballar",
+      "slug": "ballar"
+    },
+    "code": {
+      "id": "AZ609099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.101",
+      "lon": "47.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609128",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bənövşələr",
+      "en": "Banovshalar",
+      "slug": "banovshalar"
+    },
+    "code": {
+      "id": "AZ609128",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.126",
+      "lon": "47.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baş Qərvənd",
+      "en": "Bash Garvand",
+      "slug": "bash-garvand"
+    },
+    "code": {
+      "id": "AZ609068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.142",
+      "lon": "47.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəybabalar",
+      "en": "Beybabalar",
+      "slug": "beybabalar"
+    },
+    "code": {
+      "id": "AZ609079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.155",
+      "lon": "47.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609121",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Alıbəyli",
+      "en": "Birinji Alibeyli",
+      "slug": "birinji-alibeyli"
+    },
+    "code": {
+      "id": "AZ609121",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.098",
+      "lon": "47.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609122",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Baharlı",
+      "en": "Birinji Baharli",
+      "slug": "birinji-baharli"
+    },
+    "code": {
+      "id": "AZ609122",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.107",
+      "lon": "47.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609124",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Dördyol",
+      "en": "Birinji Dordyol",
+      "slug": "birinji-dordyol"
+    },
+    "code": {
+      "id": "AZ609124",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.241",
+      "lon": "47.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609130",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Quzanlı",
+      "en": "Birinji Guzanli",
+      "slug": "birinji-guzanli"
+    },
+    "code": {
+      "id": "AZ609130",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.163",
+      "lon": "47.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci  Yüzbaşılı",
+      "en": "Birinji Yuzbashili",
+      "slug": "birinji-yuzbashili"
+    },
+    "code": {
+      "id": "AZ609073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.14",
+      "lon": "47.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boyəhmədli",
+      "en": "Boyahmadli",
+      "slug": "boyahmadli"
+    },
+    "code": {
+      "id": "AZ609031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.131",
+      "lon": "46.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyükbəyli",
+      "en": "Boyukbeyli",
+      "slug": "boyukbeyli"
+    },
+    "code": {
+      "id": "AZ609102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.1",
+      "lon": "47.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609115",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bozpapaqlar",
+      "en": "Bozpapaglar",
+      "slug": "bozpapaglar"
+    },
+    "code": {
+      "id": "AZ609115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.02",
+      "lon": "46.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çəmənli",
+      "en": "Chamanli",
+      "slug": "chamanli"
+    },
+    "code": {
+      "id": "AZ609085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.069",
+      "lon": "47.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çıraxlı",
+      "en": "Chirakhli",
+      "slug": "chirakhli"
+    },
+    "code": {
+      "id": "AZ609069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.125",
+      "lon": "47.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çuxurməhlə",
+      "en": "Chukhurmahla",
+      "slug": "chukhurmahla"
+    },
+    "code": {
+      "id": "AZ609007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.986",
+      "lon": "46.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çullu",
+      "en": "Chullu",
+      "slug": "chullu"
+    },
+    "code": {
+      "id": "AZ609050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.047",
+      "lon": "46.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609107",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çullu",
+      "en": "Chullu",
+      "slug": "chullu"
+    },
+    "code": {
+      "id": "AZ609107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.173",
+      "lon": "47.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dadaşlı",
+      "en": "Dadashli",
+      "slug": "dadashli"
+    },
+    "code": {
+      "id": "AZ609075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.122",
+      "lon": "47.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ətyeməzli",
+      "en": "Etyemezli",
+      "slug": "etyemezli"
+    },
+    "code": {
+      "id": "AZ609047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.022",
+      "lon": "46.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evoğlu",
+      "en": "Evoghlu",
+      "slug": "evoghlu"
+    },
+    "code": {
+      "id": "AZ609090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.016",
+      "lon": "47.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyvazxanbəyli",
+      "en": "Eyvazkhanbeyli",
+      "slug": "eyvazkhanbeyli"
+    },
+    "code": {
+      "id": "AZ609037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.082",
+      "lon": "46.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyvazlı",
+      "en": "Eyvazli",
+      "slug": "eyvazli"
+    },
+    "code": {
+      "id": "AZ609105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.133",
+      "lon": "47.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəhrəmanbəyli",
+      "en": "Gahramanbeyli",
+      "slug": "gahramanbeyli"
+    },
+    "code": {
+      "id": "AZ609095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.021",
+      "lon": "47.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalayçılar",
+      "en": "Galaychilar",
+      "slug": "galaychilar"
+    },
+    "code": {
+      "id": "AZ609051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.122",
+      "lon": "46.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ609011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.96",
+      "lon": "46.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ609089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.025",
+      "lon": "47.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqaşlı",
+      "en": "Garagashli",
+      "slug": "garagashli"
+    },
+    "code": {
+      "id": "AZ609034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.075",
+      "lon": "46.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarapirimli",
+      "en": "Garapirimli",
+      "slug": "garapirimli"
+    },
+    "code": {
+      "id": "AZ609028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.156",
+      "lon": "46.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609116",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarazeynallı",
+      "en": "Garazeynalli",
+      "slug": "garazeynalli"
+    },
+    "code": {
+      "id": "AZ609116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.981",
+      "lon": "46.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609113",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımbəyli",
+      "en": "Gasimbeyli",
+      "slug": "gasimbeyli"
+    },
+    "code": {
+      "id": "AZ609113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.135",
+      "lon": "47.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımlı",
+      "en": "Gasimli",
+      "slug": "gasimli"
+    },
+    "code": {
+      "id": "AZ609012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.956",
+      "lon": "46.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qiyaslı",
+      "en": "Giyasli",
+      "slug": "giyasli"
+    },
+    "code": {
+      "id": "AZ609048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.02",
+      "lon": "46.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızıl Kəngərli",
+      "en": "Gizil Kangarli",
+      "slug": "gizil-kangarli"
+    },
+    "code": {
+      "id": "AZ609058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.098",
+      "lon": "46.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göytəpə",
+      "en": "Goytepe",
+      "slug": "goytepe"
+    },
+    "code": {
+      "id": "AZ609035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.079",
+      "lon": "46.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gül Baharlı",
+      "en": "Gul Baharli",
+      "slug": "gul-baharli"
+    },
+    "code": {
+      "id": "AZ609082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.114",
+      "lon": "47.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülablı",
+      "en": "Gulabli",
+      "slug": "gulabli"
+    },
+    "code": {
+      "id": "AZ609020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.877",
+      "lon": "46.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qullar",
+      "en": "Gullar",
+      "slug": "gullar"
+    },
+    "code": {
+      "id": "AZ609005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.985",
+      "lon": "46.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güllücə",
+      "en": "Gulluja",
+      "slug": "gulluja"
+    },
+    "code": {
+      "id": "AZ609025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.18",
+      "lon": "46.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qurdlar",
+      "en": "Gurdlar",
+      "slug": "gurdlar"
+    },
+    "code": {
+      "id": "AZ609009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.966",
+      "lon": "46.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quzanlı",
+      "en": "Guzanli",
+      "slug": "guzanli"
+    },
+    "code": {
+      "id": "AZ609106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.159",
+      "lon": "47.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıməmmədli",
+      "en": "Hajimammadli",
+      "slug": "hajimammadli"
+    },
+    "code": {
+      "id": "AZ609093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.017",
+      "lon": "47.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıturalı",
+      "en": "Hajiturali",
+      "slug": "hajiturali"
+    },
+    "code": {
+      "id": "AZ609096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.014",
+      "lon": "47.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənxanlı",
+      "en": "Hasankhanli",
+      "slug": "hasankhanli"
+    },
+    "code": {
+      "id": "AZ609097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.006",
+      "lon": "47.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609120",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Alıbəyli",
+      "en": "Ikinji Alibeyli",
+      "slug": "ikinji-alibeyli"
+    },
+    "code": {
+      "id": "AZ609120",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.078",
+      "lon": "47.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609129",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Baharlı",
+      "en": "Ikinji Baharli",
+      "slug": "ikinji-baharli"
+    },
+    "code": {
+      "id": "AZ609129",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.097",
+      "lon": "47.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609123",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Dördyol",
+      "en": "Ikinji Dordyol",
+      "slug": "ikinji-dordyol"
+    },
+    "code": {
+      "id": "AZ609123",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.245",
+      "lon": "47.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Yüzbaşılı",
+      "en": "Ikinji Yuzbashili",
+      "slug": "ikinji-yuzbashili"
+    },
+    "code": {
+      "id": "AZ609077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.151",
+      "lon": "47.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İlxıçılar",
+      "en": "Ilkhichilar",
+      "slug": "ilkhichilar"
+    },
+    "code": {
+      "id": "AZ609024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.196",
+      "lon": "46.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609108",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmamqulubəyli",
+      "en": "Imamgulubeyli",
+      "slug": "imamgulubeyli"
+    },
+    "code": {
+      "id": "AZ609108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.183",
+      "lon": "47.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609133",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmamqulubəyli",
+      "en": "Imamgulubeyli",
+      "slug": "imamgulubeyli"
+    },
+    "code": {
+      "id": "AZ609133",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.186",
+      "lon": "47.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsalar",
+      "en": "Isalar",
+      "slug": "isalar"
+    },
+    "code": {
+      "id": "AZ609092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.013",
+      "lon": "47.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsmayılbəyli",
+      "en": "Ismayilbeyli",
+      "slug": "ismayilbeyli"
+    },
+    "code": {
+      "id": "AZ609017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.938",
+      "lon": "47.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cavahirli",
+      "en": "Javahirli",
+      "slug": "javahirli"
+    },
+    "code": {
+      "id": "AZ609033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.119",
+      "lon": "46.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cinli",
+      "en": "Jinli",
+      "slug": "jinli"
+    },
+    "code": {
+      "id": "AZ609045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.034",
+      "lon": "46.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəlbəhüseynli",
+      "en": "Kalbahuseynli",
+      "slug": "kalbahuseynli"
+    },
+    "code": {
+      "id": "AZ609076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.119",
+      "lon": "47.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəngərli",
+      "en": "Kangarli",
+      "slug": "kangarli"
+    },
+    "code": {
+      "id": "AZ609046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.03",
+      "lon": "46.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609109",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keştazlı",
+      "en": "Keshtazli",
+      "slug": "keshtazli"
+    },
+    "code": {
+      "id": "AZ609109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.018",
+      "lon": "46.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609127",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaçındərbətli",
+      "en": "Khachindarbatli",
+      "slug": "khachindarbatli"
+    },
+    "code": {
+      "id": "AZ609127",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.038",
+      "lon": "46.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xıdırlı",
+      "en": "Khidirli",
+      "slug": "khidirli"
+    },
+    "code": {
+      "id": "AZ609049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.011",
+      "lon": "46.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xındırıstan",
+      "en": "Khindiristan",
+      "slug": "khindiristan"
+    },
+    "code": {
+      "id": "AZ609080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.122",
+      "lon": "47.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiçikli",
+      "en": "Kichikli",
+      "slug": "kichikli"
+    },
+    "code": {
+      "id": "AZ609101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.107",
+      "lon": "47.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolqışlaq",
+      "en": "Kolgishlag",
+      "slug": "kolgishlag"
+    },
+    "code": {
+      "id": "AZ609072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.127",
+      "lon": "47.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kosalar",
+      "en": "Kosalar",
+      "slug": "kosalar"
+    },
+    "code": {
+      "id": "AZ609036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.089",
+      "lon": "46.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küdürlü",
+      "en": "Kudurlu",
+      "slug": "kudurlu"
+    },
+    "code": {
+      "id": "AZ609094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.003",
+      "lon": "47.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdlər",
+      "en": "Kurdlar",
+      "slug": "kurdlar"
+    },
+    "code": {
+      "id": "AZ609042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.076",
+      "lon": "46.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maqsudlu",
+      "en": "Magsudlu",
+      "slug": "magsudlu"
+    },
+    "code": {
+      "id": "AZ609057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.095",
+      "lon": "46.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahrızlı",
+      "en": "Mahrizli",
+      "slug": "mahrizli"
+    },
+    "code": {
+      "id": "AZ609087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.041",
+      "lon": "47.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədbağırlı",
+      "en": "Mammadbaghirli",
+      "slug": "mammadbaghirli"
+    },
+    "code": {
+      "id": "AZ609091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.003",
+      "lon": "47.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mərzili",
+      "en": "Marzili",
+      "slug": "marzili"
+    },
+    "code": {
+      "id": "AZ609004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.931",
+      "lon": "47.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirəşelli",
+      "en": "Mirashelli",
+      "slug": "mirashelli"
+    },
+    "code": {
+      "id": "AZ609071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.134",
+      "lon": "47.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollalar",
+      "en": "Mollalar",
+      "slug": "mollalar"
+    },
+    "code": {
+      "id": "AZ609029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.14",
+      "lon": "46.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollalar",
+      "en": "Mollalar",
+      "slug": "mollalar"
+    },
+    "code": {
+      "id": "AZ609043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.07",
+      "lon": "46.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ609014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.943",
+      "lon": "46.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609110",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ609110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.933",
+      "lon": "46.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəmirli",
+      "en": "Namirli",
+      "slug": "namirli"
+    },
+    "code": {
+      "id": "AZ609063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.218",
+      "lon": "47.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Novruzlu",
+      "en": "Novruzlu",
+      "slug": "novruzlu"
+    },
+    "code": {
+      "id": "AZ609003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.963",
+      "lon": "47.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Qərvənd",
+      "en": "Orta Garvand",
+      "slug": "orta-garvand"
+    },
+    "code": {
+      "id": "AZ609066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.159",
+      "lon": "47.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Qışlaq",
+      "en": "Orta Gishlag",
+      "slug": "orta-gishlag"
+    },
+    "code": {
+      "id": "AZ609103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.088",
+      "lon": "47.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Papravənd",
+      "en": "Papravand",
+      "slug": "papravand"
+    },
+    "code": {
+      "id": "AZ609027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.154",
+      "lon": "46.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paşabəyli",
+      "en": "Pashabeyli",
+      "slug": "pashabeyli"
+    },
+    "code": {
+      "id": "AZ609074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.134",
+      "lon": "47.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609131",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirzadlı",
+      "en": "Pirzadli",
+      "slug": "pirzadli"
+    },
+    "code": {
+      "id": "AZ609131",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.933",
+      "lon": "47.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poladlı",
+      "en": "Poladli",
+      "slug": "poladli"
+    },
+    "code": {
+      "id": "AZ609010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.97",
+      "lon": "46.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rzalar",
+      "en": "Rzalar",
+      "slug": "rzalar"
+    },
+    "code": {
+      "id": "AZ609088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.031",
+      "lon": "47.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609119",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səfərli",
+      "en": "Safarli",
+      "slug": "safarli"
+    },
+    "code": {
+      "id": "AZ609119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.069",
+      "lon": "47.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salahlı Kəngərli",
+      "en": "Salahli Kangarli",
+      "slug": "salahli-kangarli"
+    },
+    "code": {
+      "id": "AZ609032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.129",
+      "lon": "46.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609138",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salahsəmədlər",
+      "en": "Salahsamadlar",
+      "slug": "salahsamadlar"
+    },
+    "code": {
+      "id": "AZ609138",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.099",
+      "lon": "46.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıçoban",
+      "en": "Sarichoban",
+      "slug": "sarichoban"
+    },
+    "code": {
+      "id": "AZ609081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.115",
+      "lon": "47.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609114",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıhacılı",
+      "en": "Sarihajili",
+      "slug": "sarihajili"
+    },
+    "code": {
+      "id": "AZ609114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.998",
+      "lon": "46.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıcalı",
+      "en": "Sarijali",
+      "slug": "sarijali"
+    },
+    "code": {
+      "id": "AZ609083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.09",
+      "lon": "47.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609117",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıcalı",
+      "en": "Sarijali",
+      "slug": "sarijali"
+    },
+    "code": {
+      "id": "AZ609117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.003",
+      "lon": "46.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saybalı",
+      "en": "Saybali",
+      "slug": "saybali"
+    },
+    "code": {
+      "id": "AZ609015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.953",
+      "lon": "46.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609118",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidli",
+      "en": "Seyidli",
+      "slug": "seyidli"
+    },
+    "code": {
+      "id": "AZ609118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.03",
+      "lon": "46.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahbulaq",
+      "en": "Shahbulag",
+      "slug": "shahbulag"
+    },
+    "code": {
+      "id": "AZ609041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.075",
+      "lon": "46.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şelli",
+      "en": "Shelli",
+      "slug": "shelli"
+    },
+    "code": {
+      "id": "AZ609018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.955",
+      "lon": "46.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxbabalı",
+      "en": "Shikhbabali",
+      "slug": "shikhbabali"
+    },
+    "code": {
+      "id": "AZ609013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.958",
+      "lon": "46.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ609067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.153",
+      "lon": "47.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şirvanlı",
+      "en": "Shirvanli",
+      "slug": "shirvanli"
+    },
+    "code": {
+      "id": "AZ609039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.069",
+      "lon": "46.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şişpapaqlar",
+      "en": "Shishpapaglar",
+      "slug": "shishpapaglar"
+    },
+    "code": {
+      "id": "AZ609038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.073",
+      "lon": "46.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şotlanlı",
+      "en": "Shotlanli",
+      "slug": "shotlanli"
+    },
+    "code": {
+      "id": "AZ609021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.235",
+      "lon": "46.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şükürağalı",
+      "en": "Shukuraghali",
+      "slug": "shukuraghali"
+    },
+    "code": {
+      "id": "AZ609084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.081",
+      "lon": "47.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şuraabad",
+      "en": "Shuraabad",
+      "slug": "shuraabad"
+    },
+    "code": {
+      "id": "AZ609023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.208",
+      "lon": "47.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sofulu",
+      "en": "Sofulu",
+      "slug": "sofulu"
+    },
+    "code": {
+      "id": "AZ609030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.138",
+      "lon": "46.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suma",
+      "en": "Suma",
+      "slug": "suma"
+    },
+    "code": {
+      "id": "AZ609026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.168",
+      "lon": "46.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tağıbəyli",
+      "en": "Taghibeyli",
+      "slug": "taghibeyli"
+    },
+    "code": {
+      "id": "AZ609064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.17",
+      "lon": "47.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talışlar",
+      "en": "Talishlar",
+      "slug": "talishlar"
+    },
+    "code": {
+      "id": "AZ609059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.103",
+      "lon": "46.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tərnöyüt",
+      "en": "Tarnoyut",
+      "slug": "tarnoyut"
+    },
+    "code": {
+      "id": "AZ609040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.072",
+      "lon": "46.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təpəməhlə",
+      "en": "Tepemahla",
+      "slug": "tepemahla"
+    },
+    "code": {
+      "id": "AZ609061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.095",
+      "lon": "46.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ609062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.214",
+      "lon": "47.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609134",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ609134",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.223",
+      "lon": "47.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tükəzbanlı",
+      "en": "Tukezbanli",
+      "slug": "tukezbanli"
+    },
+    "code": {
+      "id": "AZ609060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.1",
+      "lon": "46.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçoğlan",
+      "en": "Uchoghlan",
+      "slug": "uchoghlan"
+    },
+    "code": {
+      "id": "AZ609100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.089",
+      "lon": "47.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Umudlu",
+      "en": "Umudlu",
+      "slug": "umudlu"
+    },
+    "code": {
+      "id": "AZ609022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.226",
+      "lon": "46.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609137",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Qaralar",
+      "en": "Yeni Garalar",
+      "slug": "yeni-garalar"
+    },
+    "code": {
+      "id": "AZ609137",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.035",
+      "lon": "46.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yusifcanlı",
+      "en": "Yusifjanli",
+      "slug": "yusifjanli"
+    },
+    "code": {
+      "id": "AZ609002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.973",
+      "lon": "47.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yusifli",
+      "en": "Yusifli",
+      "slug": "yusifli"
+    },
+    "code": {
+      "id": "AZ609098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.098",
+      "lon": "47.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəngişalı",
+      "en": "Zangishali",
+      "slug": "zangishali"
+    },
+    "code": {
+      "id": "AZ609086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ609",
+        "level": 1,
+        "name": {
+          "local": "Ağdam",
+          "en": "Aghdam",
+          "slug": "aghdam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.05",
+      "lon": "47.059"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

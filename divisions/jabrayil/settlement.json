@@ -1,0 +1,4367 @@
+[
+  {
+    "id": "AZ605005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əfəndilər",
+      "en": "Afandilar",
+      "slug": "afandilar"
+    },
+    "code": {
+      "id": "AZ605005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.435",
+      "lon": "47.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağtəpə",
+      "en": "Aghtepe",
+      "slug": "aghtepe"
+    },
+    "code": {
+      "id": "AZ605014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.358",
+      "lon": "47.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alıkeyxalı",
+      "en": "Alikeykhali",
+      "slug": "alikeykhali"
+    },
+    "code": {
+      "id": "AZ605039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.238",
+      "lon": "47.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmirvarlı",
+      "en": "Amirvarli",
+      "slug": "amirvarli"
+    },
+    "code": {
+      "id": "AZ605034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.282",
+      "lon": "47.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əsgərxanlı",
+      "en": "Asgarkhanli",
+      "slug": "asgarkhanli"
+    },
+    "code": {
+      "id": "AZ605089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.418",
+      "lon": "46.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Maralyan",
+      "en": "Ashaghi  Maralyan",
+      "slug": "ashaghi-maralyan"
+    },
+    "code": {
+      "id": "AZ605023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.347",
+      "lon": "47.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Sirik",
+      "en": "Ashaghi  Sirik",
+      "slug": "ashaghi-sirik"
+    },
+    "code": {
+      "id": "AZ605079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.295",
+      "lon": "46.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşıq Məlikli",
+      "en": "Ashig  Malikli",
+      "slug": "ashig-malikli"
+    },
+    "code": {
+      "id": "AZ605087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.446",
+      "lon": "46.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balyand",
+      "en": "Balyand",
+      "slug": "balyand"
+    },
+    "code": {
+      "id": "AZ605003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.468",
+      "lon": "47.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Mərcanlı",
+      "en": "Boyuk  Marjanli",
+      "slug": "boyuk-marjanli"
+    },
+    "code": {
+      "id": "AZ605024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.368",
+      "lon": "47.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaxırlı",
+      "en": "Chakhirli",
+      "slug": "chakhirli"
+    },
+    "code": {
+      "id": "AZ605025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.369",
+      "lon": "47.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çələbilər",
+      "en": "Chalabilar",
+      "slug": "chalabilar"
+    },
+    "code": {
+      "id": "AZ605083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.388",
+      "lon": "46.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çapand",
+      "en": "Chapand",
+      "slug": "chapand"
+    },
+    "code": {
+      "id": "AZ605092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.391",
+      "lon": "47.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çərəkən",
+      "en": "Charakan",
+      "slug": "charakan"
+    },
+    "code": {
+      "id": "AZ605007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.41",
+      "lon": "47.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çullu",
+      "en": "Chullu",
+      "slug": "chullu"
+    },
+    "code": {
+      "id": "AZ605043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.407",
+      "lon": "46.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağ Maşanlı",
+      "en": "Dagh Mashanli",
+      "slug": "dagh-mashanli"
+    },
+    "code": {
+      "id": "AZ605042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.374",
+      "lon": "46.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağ Tumas",
+      "en": "Dagh Tumas",
+      "slug": "dagh-tumas"
+    },
+    "code": {
+      "id": "AZ605074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.388",
+      "lon": "46.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərzili",
+      "en": "Darzili",
+      "slug": "darzili"
+    },
+    "code": {
+      "id": "AZ605055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.168",
+      "lon": "46.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daş Veysəlli",
+      "en": "Dash Veysalli",
+      "slug": "dash-veysalli"
+    },
+    "code": {
+      "id": "AZ605013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.37",
+      "lon": "47.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşkəsən",
+      "en": "Dashkasan",
+      "slug": "dashkasan"
+    },
+    "code": {
+      "id": "AZ605012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.43",
+      "lon": "47.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəjəl",
+      "en": "Dazhal",
+      "slug": "dazhal"
+    },
+    "code": {
+      "id": "AZ605020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.347",
+      "lon": "47.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doşulu",
+      "en": "Doshulu",
+      "slug": "doshulu"
+    },
+    "code": {
+      "id": "AZ605063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.476",
+      "lon": "47.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fuğanlı",
+      "en": "Fughanli",
+      "slug": "fughanli"
+    },
+    "code": {
+      "id": "AZ605017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.358",
+      "lon": "47.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalacıq",
+      "en": "Galajig",
+      "slug": "galajig"
+    },
+    "code": {
+      "id": "AZ605048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.401",
+      "lon": "46.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraağac",
+      "en": "Garaaghaj",
+      "slug": "garaaghaj"
+    },
+    "code": {
+      "id": "AZ605082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.388",
+      "lon": "46.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaracallı",
+      "en": "Garajalli",
+      "slug": "garajalli"
+    },
+    "code": {
+      "id": "AZ605002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.47",
+      "lon": "47.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qərər",
+      "en": "Garar",
+      "slug": "garar"
+    },
+    "code": {
+      "id": "AZ605091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.425",
+      "lon": "46.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazanzəmi",
+      "en": "Gazanzami",
+      "slug": "gazanzami"
+    },
+    "code": {
+      "id": "AZ605044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.427",
+      "lon": "46.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qışlaq",
+      "en": "Gishlag",
+      "slug": "gishlag"
+    },
+    "code": {
+      "id": "AZ605004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.472",
+      "lon": "47.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoşabulaq",
+      "en": "Goshabulag",
+      "slug": "goshabulag"
+    },
+    "code": {
+      "id": "AZ605096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.272",
+      "lon": "46.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qovşudlu",
+      "en": "Govshudlu",
+      "slug": "govshudlu"
+    },
+    "code": {
+      "id": "AZ605058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.262",
+      "lon": "46.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyərçin Veysəlli",
+      "en": "Goyerchin Veysalli",
+      "slug": "goyerchin-veysalli"
+    },
+    "code": {
+      "id": "AZ605062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.251",
+      "lon": "46.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qumlaq",
+      "en": "Gumlag",
+      "slug": "gumlag"
+    },
+    "code": {
+      "id": "AZ605057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.17",
+      "lon": "46.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qumlaq",
+      "en": "Gumlag",
+      "slug": "gumlag"
+    },
+    "code": {
+      "id": "AZ605097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.184",
+      "lon": "46.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qurbantəpə",
+      "en": "Gurbantepe",
+      "slug": "gurbantepe"
+    },
+    "code": {
+      "id": "AZ605070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.389",
+      "lon": "47.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçular",
+      "en": "Gushchular",
+      "slug": "gushchular"
+    },
+    "code": {
+      "id": "AZ605065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.447",
+      "lon": "46.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quycaq",
+      "en": "Guyjag",
+      "slug": "guyjag"
+    },
+    "code": {
+      "id": "AZ605010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.405",
+      "lon": "47.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacı İsaqlı",
+      "en": "Haji Isagli",
+      "slug": "haji-isagli"
+    },
+    "code": {
+      "id": "AZ605078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.277",
+      "lon": "46.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacılı",
+      "en": "Hajili",
+      "slug": "hajili"
+    },
+    "code": {
+      "id": "AZ605072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.348",
+      "lon": "47.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənqaydı",
+      "en": "Hasangaydi",
+      "slug": "hasangaydi"
+    },
+    "code": {
+      "id": "AZ605018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.373",
+      "lon": "47.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hasanlı",
+      "en": "Hasanli",
+      "slug": "hasanli"
+    },
+    "code": {
+      "id": "AZ605041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.207",
+      "lon": "47.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Horovlu",
+      "en": "Horovlu",
+      "slug": "horovlu"
+    },
+    "code": {
+      "id": "AZ605009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.402",
+      "lon": "47.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hovuslu",
+      "en": "Hovuslu",
+      "slug": "hovuslu"
+    },
+    "code": {
+      "id": "AZ605049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.377",
+      "lon": "46.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynalılar",
+      "en": "Huseynalilar",
+      "slug": "huseynalilar"
+    },
+    "code": {
+      "id": "AZ605037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.324",
+      "lon": "47.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmambağı",
+      "en": "Imambaghi",
+      "slug": "imambaghi"
+    },
+    "code": {
+      "id": "AZ605069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.355",
+      "lon": "47.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsaqlı",
+      "en": "Isagli",
+      "slug": "isagli"
+    },
+    "code": {
+      "id": "AZ605047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.42",
+      "lon": "46.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "CƏBRAYIL",
+      "en": "JABRAYIL",
+      "slug": "jabrayil"
+    },
+    "code": {
+      "id": "AZ605006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.4",
+      "lon": "47.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəfərabad",
+      "en": "Jafarabad",
+      "slug": "jafarabad"
+    },
+    "code": {
+      "id": "AZ605021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.341",
+      "lon": "47.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cocuq Mərcanlı",
+      "en": "Jojug Marjanli",
+      "slug": "jojug-marjanli"
+    },
+    "code": {
+      "id": "AZ605027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.393",
+      "lon": "47.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Karxulu",
+      "en": "Karkhulu",
+      "slug": "karkhulu"
+    },
+    "code": {
+      "id": "AZ605022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.342",
+      "lon": "47.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kavdar",
+      "en": "Kavdar",
+      "slug": "kavdar"
+    },
+    "code": {
+      "id": "AZ605036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.308",
+      "lon": "47.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keçəl Məmmədli",
+      "en": "Kechal Mammadli",
+      "slug": "kechal-mammadli"
+    },
+    "code": {
+      "id": "AZ605077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.268",
+      "lon": "47.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xələfli",
+      "en": "Khalafli",
+      "slug": "khalafli"
+    },
+    "code": {
+      "id": "AZ605051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.425",
+      "lon": "46.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xələfli",
+      "en": "Khalafli",
+      "slug": "khalafli"
+    },
+    "code": {
+      "id": "AZ605076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.17",
+      "lon": "47.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanağabulaq",
+      "en": "Khanaghabulag",
+      "slug": "khanaghabulag"
+    },
+    "code": {
+      "id": "AZ605064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.421",
+      "lon": "46.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xubyarlı",
+      "en": "Khubyarli",
+      "slug": "khubyarli"
+    },
+    "code": {
+      "id": "AZ605067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.409",
+      "lon": "47.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xudafərin",
+      "en": "Khudafarin",
+      "slug": "khudafarin"
+    },
+    "code": {
+      "id": "AZ605086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.151",
+      "lon": "46.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xudaverdili",
+      "en": "Khudaverdili",
+      "slug": "khudaverdili"
+    },
+    "code": {
+      "id": "AZ605066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.369",
+      "lon": "47.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xudayarlı",
+      "en": "Khudayarli",
+      "slug": "khudayarli"
+    },
+    "code": {
+      "id": "AZ605075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.16",
+      "lon": "46.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdlər",
+      "en": "Kurdlar",
+      "slug": "kurdlar"
+    },
+    "code": {
+      "id": "AZ605052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.43",
+      "lon": "46.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahmudlu",
+      "en": "Mahmudlu",
+      "slug": "mahmudlu"
+    },
+    "code": {
+      "id": "AZ605030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.324",
+      "lon": "47.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahmudlu",
+      "en": "Mahmudlu",
+      "slug": "mahmudlu"
+    },
+    "code": {
+      "id": "AZ605094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.32",
+      "lon": "47.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maşanlı",
+      "en": "Mashanli",
+      "slug": "mashanli"
+    },
+    "code": {
+      "id": "AZ605040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.217",
+      "lon": "47.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məstalıbəyli",
+      "en": "Mastalibeyli",
+      "slug": "mastalibeyli"
+    },
+    "code": {
+      "id": "AZ605056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.17",
+      "lon": "46.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məzrə",
+      "en": "Mazra",
+      "slug": "mazra"
+    },
+    "code": {
+      "id": "AZ605085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.291",
+      "lon": "47.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehdili",
+      "en": "Mehdili",
+      "slug": "mehdili"
+    },
+    "code": {
+      "id": "AZ605026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.383",
+      "lon": "47.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minbaşılı",
+      "en": "Minbashili",
+      "slug": "minbashili"
+    },
+    "code": {
+      "id": "AZ605081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.343",
+      "lon": "47.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirək",
+      "en": "Mirak",
+      "slug": "mirak"
+    },
+    "code": {
+      "id": "AZ605035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.31",
+      "lon": "47.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Molla Həsənli",
+      "en": "Molla Hasanli",
+      "slug": "molla-hasanli"
+    },
+    "code": {
+      "id": "AZ605088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.425",
+      "lon": "46.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niftalılar",
+      "en": "Niftalilar",
+      "slug": "niftalilar"
+    },
+    "code": {
+      "id": "AZ605093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.397",
+      "lon": "46.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niyazqulular",
+      "en": "Niyazgulular",
+      "slug": "niyazgulular"
+    },
+    "code": {
+      "id": "AZ605061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.257",
+      "lon": "46.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nüsüs",
+      "en": "Nusus",
+      "slug": "nusus"
+    },
+    "code": {
+      "id": "AZ605090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.418",
+      "lon": "46.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nüzgar",
+      "en": "Nuzgar",
+      "slug": "nuzgar"
+    },
+    "code": {
+      "id": "AZ605028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.413",
+      "lon": "47.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Papı",
+      "en": "Papi",
+      "slug": "papi"
+    },
+    "code": {
+      "id": "AZ605008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.404",
+      "lon": "47.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sədi",
+      "en": "Sadi",
+      "slug": "sadi"
+    },
+    "code": {
+      "id": "AZ605015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.352",
+      "lon": "47.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Safarşa",
+      "en": "Safarsha",
+      "slug": "safarsha"
+    },
+    "code": {
+      "id": "AZ605019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.37",
+      "lon": "47.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıcallı",
+      "en": "Sarijalli",
+      "slug": "sarijalli"
+    },
+    "code": {
+      "id": "AZ605033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.302",
+      "lon": "47.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahvələdli",
+      "en": "Shahvaladli",
+      "slug": "shahvaladli"
+    },
+    "code": {
+      "id": "AZ605068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.419",
+      "lon": "47.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahvəlli",
+      "en": "Shahvalli",
+      "slug": "shahvalli"
+    },
+    "code": {
+      "id": "AZ605060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.283",
+      "lon": "46.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəybəy",
+      "en": "Shaybey",
+      "slug": "shaybey"
+    },
+    "code": {
+      "id": "AZ605011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.392",
+      "lon": "47.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxalıağalı",
+      "en": "Shikhaliaghali",
+      "slug": "shikhaliaghali"
+    },
+    "code": {
+      "id": "AZ605032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.309",
+      "lon": "47.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ605046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.44",
+      "lon": "46.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şükürbəyli",
+      "en": "Shukurbeyli",
+      "slug": "shukurbeyli"
+    },
+    "code": {
+      "id": "AZ605031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.322",
+      "lon": "47.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sirik",
+      "en": "Sirik",
+      "slug": "sirik"
+    },
+    "code": {
+      "id": "AZ605080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.475",
+      "lon": "46.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sofulu",
+      "en": "Sofulu",
+      "slug": "sofulu"
+    },
+    "code": {
+      "id": "AZ605073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.372",
+      "lon": "46.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soltanlı",
+      "en": "Soltanli",
+      "slug": "soltanli"
+    },
+    "code": {
+      "id": "AZ605038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.259",
+      "lon": "47.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Söyüdlü",
+      "en": "Soyudlu",
+      "slug": "soyudlu"
+    },
+    "code": {
+      "id": "AZ605045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.424",
+      "lon": "46.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Süleymanlı",
+      "en": "Suleymanli",
+      "slug": "suleymanli"
+    },
+    "code": {
+      "id": "AZ605001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.465",
+      "lon": "47.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatar",
+      "en": "Tatar",
+      "slug": "tatar"
+    },
+    "code": {
+      "id": "AZ605054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.448",
+      "lon": "46.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tinli",
+      "en": "Tinli",
+      "slug": "tinli"
+    },
+    "code": {
+      "id": "AZ605059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.26",
+      "lon": "46.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tulus",
+      "en": "Tulus",
+      "slug": "tulus"
+    },
+    "code": {
+      "id": "AZ605016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.357",
+      "lon": "47.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yanarxac",
+      "en": "Yanarkhaj",
+      "slug": "yanarkhaj"
+    },
+    "code": {
+      "id": "AZ605095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.266",
+      "lon": "47.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yarəhmədli",
+      "en": "Yarahmadli",
+      "slug": "yarahmadli"
+    },
+    "code": {
+      "id": "AZ605050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.378",
+      "lon": "46.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Məzrə",
+      "en": "Yukhari  Mazra",
+      "slug": "yukhari-mazra"
+    },
+    "code": {
+      "id": "AZ605053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.459",
+      "lon": "46.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Nüsüs",
+      "en": "Yukhari  Nusus",
+      "slug": "yukhari-nusus"
+    },
+    "code": {
+      "id": "AZ605071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.479",
+      "lon": "46.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Maralyan",
+      "en": "Yukhari Maralyan",
+      "slug": "yukhari-maralyan"
+    },
+    "code": {
+      "id": "AZ605029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.334",
+      "lon": "47.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ605084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Mərcanlı",
+      "en": "Yukhari Marjanli",
+      "slug": "yukhari-marjanli"
+    },
+    "code": {
+      "id": "AZ605084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ605",
+        "level": 1,
+        "name": {
+          "local": "Cəbrayıl",
+          "en": "Jabrayil",
+          "slug": "jabrayil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.36",
+      "lon": "47.23"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

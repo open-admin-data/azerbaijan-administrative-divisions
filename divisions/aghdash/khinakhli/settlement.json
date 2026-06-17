@@ -1,0 +1,45 @@
+{
+  "id": "AZ903021",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xınaxlı",
+    "en": "Khinakhli",
+    "slug": "khinakhli"
+  },
+  "code": {
+    "id": "AZ903021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.356",
+    "lon": "47.463"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ410049",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yusif Məmmədəliyev",
+    "en": "Yusif Mammadaliyev",
+    "slug": "yusif-mammadaliyev"
+  },
+  "code": {
+    "id": "AZ410049",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ410",
+    "level": 1,
+    "name": {
+      "local": "Şamaxı",
+      "en": "Shamakhi",
+      "slug": "shamakhi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.785",
+    "lon": "48.595"
+  },
+  "metadata": {},
+  "source": {}
+}

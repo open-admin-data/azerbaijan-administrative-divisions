@@ -1,0 +1,45 @@
+{
+  "id": "AZ610026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Divanlı",
+    "en": "Divanli",
+    "slug": "divanli"
+  },
+  "code": {
+    "id": "AZ610026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ610",
+    "level": 1,
+    "name": {
+      "local": "Bərdə",
+      "en": "Barda",
+      "slug": "barda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.408",
+    "lon": "47.118"
+  },
+  "metadata": {},
+  "source": {}
+}

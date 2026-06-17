@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "AZ307025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbqədim",
+      "en": "Arabgadim",
+      "slug": "arabgadim"
+    },
+    "code": {
+      "id": "AZ307025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.426",
+      "lon": "48.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbşahverdi",
+      "en": "Arabshahverdi",
+      "slug": "arabshahverdi"
+    },
+    "code": {
+      "id": "AZ307013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.562",
+      "lon": "48.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbşalbaş",
+      "en": "Arabshalbash",
+      "slug": "arabshalbash"
+    },
+    "code": {
+      "id": "AZ307005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.618",
+      "lon": "48.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bədəlli",
+      "en": "Badalli",
+      "slug": "badalli"
+    },
+    "code": {
+      "id": "AZ307031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.507",
+      "lon": "48.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəklə",
+      "en": "Bakla",
+      "slug": "bakla"
+    },
+    "code": {
+      "id": "AZ307015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.609",
+      "lon": "48.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çay Qurbançı",
+      "en": "Chay Gurbanchi",
+      "slug": "chay-gurbanchi"
+    },
+    "code": {
+      "id": "AZ307029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.609",
+      "lon": "49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çelov",
+      "en": "Chelov",
+      "slug": "chelov"
+    },
+    "code": {
+      "id": "AZ307016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.57",
+      "lon": "48.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çuxanlı",
+      "en": "Chukhanli",
+      "slug": "chukhanli"
+    },
+    "code": {
+      "id": "AZ307020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.603",
+      "lon": "48.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağ Kolanı",
+      "en": "Dagh Kolani",
+      "slug": "dagh-kolani"
+    },
+    "code": {
+      "id": "AZ307033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.373",
+      "lon": "48.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Damlamaca",
+      "en": "Damlamaja",
+      "slug": "damlamaja"
+    },
+    "code": {
+      "id": "AZ307009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.496",
+      "lon": "48.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərəkənd",
+      "en": "Derekend",
+      "slug": "derekend"
+    },
+    "code": {
+      "id": "AZ307008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.5",
+      "lon": "48.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaracüzlü",
+      "en": "Garajuzlu",
+      "slug": "garajuzlu"
+    },
+    "code": {
+      "id": "AZ307004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.576",
+      "lon": "49.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "QOBUSTAN",
+      "en": "GOBUSTAN",
+      "slug": "gobustan"
+    },
+    "code": {
+      "id": "AZ307012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.533",
+      "lon": "48.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göydərə",
+      "en": "Goydere",
+      "slug": "goydere"
+    },
+    "code": {
+      "id": "AZ307024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.416",
+      "lon": "48.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qurbançı",
+      "en": "Gurbanchi",
+      "slug": "gurbanchi"
+    },
+    "code": {
+      "id": "AZ307014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.567",
+      "lon": "48.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İlanlı",
+      "en": "Ilanli",
+      "slug": "ilanli"
+    },
+    "code": {
+      "id": "AZ307003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.479",
+      "lon": "49.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəmcəmli",
+      "en": "Jamjamli",
+      "slug": "jamjamli"
+    },
+    "code": {
+      "id": "AZ307010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.468",
+      "lon": "48.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəngi",
+      "en": "Jangi",
+      "slug": "jangi"
+    },
+    "code": {
+      "id": "AZ307007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.504",
+      "lon": "49.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəyirli",
+      "en": "Jayirli",
+      "slug": "jayirli"
+    },
+    "code": {
+      "id": "AZ307017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.578",
+      "lon": "48.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ceyrankeçməz",
+      "en": "Jeyrankechmaz",
+      "slug": "jeyrankechmaz"
+    },
+    "code": {
+      "id": "AZ307001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.484",
+      "lon": "49.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xilmilli",
+      "en": "Khilmilli",
+      "slug": "khilmilli"
+    },
+    "code": {
+      "id": "AZ307027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.692",
+      "lon": "48.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nabur",
+      "en": "Nabur",
+      "slug": "nabur"
+    },
+    "code": {
+      "id": "AZ307019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.632",
+      "lon": "48.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nardaran",
+      "en": "Nardaran",
+      "slug": "nardaran"
+    },
+    "code": {
+      "id": "AZ307030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.39",
+      "lon": "49.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poladlı",
+      "en": "Poladli",
+      "slug": "poladli"
+    },
+    "code": {
+      "id": "AZ307023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.417",
+      "lon": "48.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sədəfli",
+      "en": "Sadafli",
+      "slug": "sadafli"
+    },
+    "code": {
+      "id": "AZ307011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.489",
+      "lon": "48.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ307028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.728",
+      "lon": "48.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxzahırlı",
+      "en": "Shikhzahirli",
+      "slug": "shikhzahirli"
+    },
+    "code": {
+      "id": "AZ307002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.475",
+      "lon": "49.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sündü",
+      "en": "Sundu",
+      "slug": "sundu"
+    },
+    "code": {
+      "id": "AZ307018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.626",
+      "lon": "48.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təklə",
+      "en": "Takla",
+      "slug": "takla"
+    },
+    "code": {
+      "id": "AZ307021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.591",
+      "lon": "48.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təklə Mirzəbaba",
+      "en": "Takla Mirzababa",
+      "slug": "takla-mirzababa"
+    },
+    "code": {
+      "id": "AZ307006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.625",
+      "lon": "48.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təsi",
+      "en": "Tesi",
+      "slug": "tesi"
+    },
+    "code": {
+      "id": "AZ307026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.491",
+      "lon": "48.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üzümçü",
+      "en": "Uzumchu",
+      "slug": "uzumchu"
+    },
+    "code": {
+      "id": "AZ307032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.509",
+      "lon": "48.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ307022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yekəxana",
+      "en": "Yekakhana",
+      "slug": "yekakhana"
+    },
+    "code": {
+      "id": "AZ307022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ307",
+        "level": 1,
+        "name": {
+          "local": "Qobustan",
+          "en": "Gobustan",
+          "slug": "gobustan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.473",
+      "lon": "48.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

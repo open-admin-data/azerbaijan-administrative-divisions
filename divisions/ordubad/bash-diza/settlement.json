@@ -1,0 +1,45 @@
+{
+  "id": "AZ107025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Baş Dizə",
+    "en": "Bash Diza",
+    "slug": "bash-diza"
+  },
+  "code": {
+    "id": "AZ107025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ107",
+    "level": 1,
+    "name": {
+      "local": "Ordubad",
+      "en": "Ordubad",
+      "slug": "ordubad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.989",
+    "lon": "45.824"
+  },
+  "metadata": {},
+  "source": {}
+}

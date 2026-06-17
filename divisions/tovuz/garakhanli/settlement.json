@@ -1,0 +1,45 @@
+{
+  "id": "AZ503050",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaraxanlı",
+    "en": "Garakhanli",
+    "slug": "garakhanli"
+  },
+  "code": {
+    "id": "AZ503050",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.043",
+    "lon": "45.658"
+  },
+  "metadata": {},
+  "source": {}
+}

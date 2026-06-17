@@ -1,0 +1,45 @@
+{
+  "id": "AZ509025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yəhərçi Qazaxlar",
+    "en": "Yaharchi Gazakhlar",
+    "slug": "yaharchi-gazakhlar"
+  },
+  "code": {
+    "id": "AZ509025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.754",
+    "lon": "46.605"
+  },
+  "metadata": {},
+  "source": {}
+}

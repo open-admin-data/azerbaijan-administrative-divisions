@@ -1,0 +1,45 @@
+{
+  "id": "AZ604072",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əmirxanlı",
+    "en": "Amirkhanli",
+    "slug": "amirkhanli"
+  },
+  "code": {
+    "id": "AZ604072",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ604",
+    "level": 1,
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.939",
+    "lon": "46.591"
+  },
+  "metadata": {},
+  "source": {}
+}

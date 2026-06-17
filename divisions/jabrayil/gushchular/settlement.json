@@ -1,0 +1,45 @@
+{
+  "id": "AZ605065",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Quşçular",
+    "en": "Gushchular",
+    "slug": "gushchular"
+  },
+  "code": {
+    "id": "AZ605065",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ605",
+    "level": 1,
+    "name": {
+      "local": "Cəbrayıl",
+      "en": "Jabrayil",
+      "slug": "jabrayil"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.447",
+    "lon": "46.911"
+  },
+  "metadata": {},
+  "source": {}
+}

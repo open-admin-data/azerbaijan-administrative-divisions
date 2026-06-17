@@ -1,0 +1,45 @@
+{
+  "id": "AZ504060",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeni yol",
+    "en": "Yeni yol",
+    "slug": "yeni-yol"
+  },
+  "code": {
+    "id": "AZ504060",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ504",
+    "level": 1,
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.821",
+    "lon": "46.14"
+  },
+  "metadata": {},
+  "source": {}
+}

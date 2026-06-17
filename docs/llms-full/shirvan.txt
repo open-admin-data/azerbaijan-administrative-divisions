@@ -1,0 +1,24 @@
+# Shirvan — Azerbaijan Administrative Divisions
+
+> 3 settlements
+> Code: AZ911
+> Coordinates: 39.92, 48.917
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Bayramlı (Bayramli)
+
+Code: AZ911003, Coordinates: 39.937, 48.893
+
+
+### Hacıqəhrəmanlı (Hajigahramanli)
+
+Code: AZ911002, Coordinates: 39.88, 48.926
+
+
+### ŞİRVAN (SHIRVAN)
+
+Code: AZ911001, Coordinates: 39.943, 48.933
+
+

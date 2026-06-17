@@ -1,0 +1,45 @@
+{
+  "id": "AZ406029",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mirzəbəyli",
+    "en": "Mirzabeyli",
+    "slug": "mirzabeyli"
+  },
+  "code": {
+    "id": "AZ406029",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ406",
+    "level": 1,
+    "name": {
+      "local": "Qəbələ",
+      "en": "Gabala",
+      "slug": "gabala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.917",
+    "lon": "47.723"
+  },
+  "metadata": {},
+  "source": {}
+}

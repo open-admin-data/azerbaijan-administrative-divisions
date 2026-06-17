@@ -1,0 +1,45 @@
+{
+  "id": "AZ809021",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Noxudlu",
+    "en": "Ashaghi Nokhudlu",
+    "slug": "ashaghi-nokhudlu"
+  },
+  "code": {
+    "id": "AZ809021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.645",
+    "lon": "48.952"
+  },
+  "metadata": {},
+  "source": {}
+}

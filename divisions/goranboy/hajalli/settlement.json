@@ -1,0 +1,45 @@
+{
+  "id": "AZ509075",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacallı",
+    "en": "Hajalli",
+    "slug": "hajalli"
+  },
+  "code": {
+    "id": "AZ509075",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.483",
+    "lon": "46.741"
+  },
+  "metadata": {},
+  "source": {}
+}

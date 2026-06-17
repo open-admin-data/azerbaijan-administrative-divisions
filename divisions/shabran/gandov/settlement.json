@@ -1,0 +1,45 @@
+{
+  "id": "AZ304014",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Gəndov",
+    "en": "Gandov",
+    "slug": "gandov"
+  },
+  "code": {
+    "id": "AZ304014",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ304",
+    "level": 1,
+    "name": {
+      "local": "Şabran",
+      "en": "Shabran",
+      "slug": "shabran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.258",
+    "lon": "48.9"
+  },
+  "metadata": {},
+  "source": {}
+}

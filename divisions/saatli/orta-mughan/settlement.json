@@ -1,0 +1,45 @@
+{
+  "id": "AZ908027",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Orta Muğan",
+    "en": "Orta Mughan",
+    "slug": "orta-mughan"
+  },
+  "code": {
+    "id": "AZ908027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ908",
+    "level": 1,
+    "name": {
+      "local": "Saatlı",
+      "en": "Saatli",
+      "slug": "saatli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.908",
+    "lon": "48.652"
+  },
+  "metadata": {},
+  "source": {}
+}

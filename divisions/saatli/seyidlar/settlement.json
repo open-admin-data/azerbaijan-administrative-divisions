@@ -1,0 +1,45 @@
+{
+  "id": "AZ908035",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Seyidlər",
+    "en": "Seyidlar",
+    "slug": "seyidlar"
+  },
+  "code": {
+    "id": "AZ908035",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ908",
+    "level": 1,
+    "name": {
+      "local": "Saatlı",
+      "en": "Saatli",
+      "slug": "saatli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.889",
+    "lon": "48.294"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ607039",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Vətağa",
+    "en": "Vatagha",
+    "slug": "vatagha"
+  },
+  "code": {
+    "id": "AZ607039",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ607",
+    "level": 1,
+    "name": {
+      "local": "Beyləqan",
+      "en": "Beylagan",
+      "slug": "beylagan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.784",
+    "lon": "47.924"
+  },
+  "metadata": {},
+  "source": {}
+}

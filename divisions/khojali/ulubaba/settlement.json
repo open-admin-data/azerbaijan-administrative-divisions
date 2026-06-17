@@ -1,0 +1,45 @@
+{
+  "id": "AZ701020",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ulubaba",
+    "en": "Ulubaba",
+    "slug": "ulubaba"
+  },
+  "code": {
+    "id": "AZ701020",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ701",
+    "level": 1,
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.015",
+    "lon": "46.704"
+  },
+  "metadata": {},
+  "source": {}
+}

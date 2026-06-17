@@ -1,0 +1,45 @@
+{
+  "id": "AZ102019",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Arpaçay",
+    "en": "Arpachay",
+    "slug": "arpachay"
+  },
+  "code": {
+    "id": "AZ102019",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ102",
+    "level": 1,
+    "name": {
+      "local": "Şərur",
+      "en": "Sharur",
+      "slug": "sharur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.509",
+    "lon": "44.987"
+  },
+  "metadata": {},
+  "source": {}
+}

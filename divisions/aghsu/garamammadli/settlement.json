@@ -1,0 +1,45 @@
+{
+  "id": "AZ409037",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaraməmmədli",
+    "en": "Garamammadli",
+    "slug": "garamammadli"
+  },
+  "code": {
+    "id": "AZ409037",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ409",
+    "level": 1,
+    "name": {
+      "local": "Ağsu",
+      "en": "Aghsu",
+      "slug": "aghsu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.546",
+    "lon": "48.429"
+  },
+  "metadata": {},
+  "source": {}
+}

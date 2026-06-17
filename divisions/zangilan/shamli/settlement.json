@@ -1,0 +1,45 @@
+{
+  "id": "AZ604036",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şamlı",
+    "en": "Shamli",
+    "slug": "shamli"
+  },
+  "code": {
+    "id": "AZ604036",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ604",
+    "level": 1,
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.149",
+    "lon": "46.615"
+  },
+  "metadata": {},
+  "source": {}
+}

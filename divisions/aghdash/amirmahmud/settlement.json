@@ -1,0 +1,45 @@
+{
+  "id": "AZ903066",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əmirmahmud",
+    "en": "Amirmahmud",
+    "slug": "amirmahmud"
+  },
+  "code": {
+    "id": "AZ903066",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.598",
+    "lon": "47.557"
+  },
+  "metadata": {},
+  "source": {}
+}

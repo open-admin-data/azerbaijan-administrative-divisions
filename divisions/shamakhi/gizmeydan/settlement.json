@@ -1,0 +1,45 @@
+{
+  "id": "AZ410056",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qızmeydan",
+    "en": "Gizmeydan",
+    "slug": "gizmeydan"
+  },
+  "code": {
+    "id": "AZ410056",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ410",
+    "level": 1,
+    "name": {
+      "local": "Şamaxı",
+      "en": "Shamakhi",
+      "slug": "shamakhi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.773",
+    "lon": "48.745"
+  },
+  "metadata": {},
+  "source": {}
+}

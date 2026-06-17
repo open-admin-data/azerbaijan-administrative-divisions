@@ -1,0 +1,45 @@
+{
+  "id": "AZ102047",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xanlıqlar",
+    "en": "Khanliglar",
+    "slug": "khanliglar"
+  },
+  "code": {
+    "id": "AZ102047",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ102",
+    "level": 1,
+    "name": {
+      "local": "Şərur",
+      "en": "Sharur",
+      "slug": "sharur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.499",
+    "lon": "45.026"
+  },
+  "metadata": {},
+  "source": {}
+}

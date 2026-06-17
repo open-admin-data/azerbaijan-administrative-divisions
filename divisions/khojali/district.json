@@ -1,0 +1,33 @@
+{
+  "id": "AZ701",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xocalı",
+    "en": "Khojali",
+    "slug": "khojali"
+  },
+  "code": {
+    "id": "AZ701",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.864",
+    "lon": "46.779"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/khojali/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

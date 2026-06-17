@@ -1,0 +1,45 @@
+{
+  "id": "AZ901036",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Nərimanabad",
+    "en": "Narimanabad",
+    "slug": "narimanabad"
+  },
+  "code": {
+    "id": "AZ901036",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ901",
+    "level": 1,
+    "name": {
+      "local": "Yevlax",
+      "en": "Yevlakh",
+      "slug": "yevlakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.608",
+    "lon": "47.054"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ508002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Quşqara",
+    "en": "Gushgara",
+    "slug": "gushgara"
+  },
+  "code": {
+    "id": "AZ508002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.716",
+    "lon": "46.294"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ404011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaradağlı",
+    "en": "Garadaghli",
+    "slug": "garadaghli"
+  },
+  "code": {
+    "id": "AZ404011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.175",
+    "lon": "47.011"
+  },
+  "metadata": {},
+  "source": {}
+}

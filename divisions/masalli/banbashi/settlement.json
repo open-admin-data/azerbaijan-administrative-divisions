@@ -1,0 +1,45 @@
+{
+  "id": "AZ805019",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Banbaşı",
+    "en": "Banbashi",
+    "slug": "banbashi"
+  },
+  "code": {
+    "id": "AZ805019",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ805",
+    "level": 1,
+    "name": {
+      "local": "Masallı",
+      "en": "Masalli",
+      "slug": "masalli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.04",
+    "lon": "48.627"
+  },
+  "metadata": {},
+  "source": {}
+}

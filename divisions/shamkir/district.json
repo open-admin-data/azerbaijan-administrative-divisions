@@ -1,0 +1,33 @@
+{
+  "id": "AZ504",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Şəmkir",
+    "en": "Shamkir",
+    "slug": "shamkir"
+  },
+  "code": {
+    "id": "AZ504",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 66
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.813",
+    "lon": "46.039"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/shamkir/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

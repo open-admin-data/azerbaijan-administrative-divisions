@@ -1,0 +1,45 @@
+{
+  "id": "AZ809026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kür Qaraqaşlı",
+    "en": "Kur Garagashli",
+    "slug": "kur-garagashli"
+  },
+  "code": {
+    "id": "AZ809026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.559",
+    "lon": "48.988"
+  },
+  "metadata": {},
+  "source": {}
+}

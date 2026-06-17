@@ -1,0 +1,45 @@
+{
+  "id": "AZ910020",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Birinci Udullu",
+    "en": "Birinji Udullu",
+    "slug": "birinji-udullu"
+  },
+  "code": {
+    "id": "AZ910020",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ910",
+    "level": 1,
+    "name": {
+      "local": "Hacıqabul",
+      "en": "Hajigabul",
+      "slug": "hajigabul"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.265",
+    "lon": "48.867"
+  },
+  "metadata": {},
+  "source": {}
+}

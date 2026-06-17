@@ -1,0 +1,45 @@
+{
+  "id": "AZ509013",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qırıqlı",
+    "en": "Girigli",
+    "slug": "girigli"
+  },
+  "code": {
+    "id": "AZ509013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.708",
+    "lon": "46.752"
+  },
+  "metadata": {},
+  "source": {}
+}

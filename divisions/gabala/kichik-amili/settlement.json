@@ -1,0 +1,45 @@
+{
+  "id": "AZ406046",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kiçik Əmili",
+    "en": "Kichik Amili",
+    "slug": "kichik-amili"
+  },
+  "code": {
+    "id": "AZ406046",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ406",
+    "level": 1,
+    "name": {
+      "local": "Qəbələ",
+      "en": "Gabala",
+      "slug": "gabala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.85",
+    "lon": "47.783"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ605013",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Daş Veysəlli",
+    "en": "Dash Veysalli",
+    "slug": "dash-veysalli"
+  },
+  "code": {
+    "id": "AZ605013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ605",
+    "level": 1,
+    "name": {
+      "local": "Cəbrayıl",
+      "en": "Jabrayil",
+      "slug": "jabrayil"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.37",
+    "lon": "47.031"
+  },
+  "metadata": {},
+  "source": {}
+}

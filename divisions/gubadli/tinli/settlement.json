@@ -1,0 +1,45 @@
+{
+  "id": "AZ603058",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Tinli",
+    "en": "Tinli",
+    "slug": "tinli"
+  },
+  "code": {
+    "id": "AZ603058",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ603",
+    "level": 1,
+    "name": {
+      "local": "Qubadlı",
+      "en": "Gubadli",
+      "slug": "gubadli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.2",
+    "lon": "46.713"
+  },
+  "metadata": {},
+  "source": {}
+}

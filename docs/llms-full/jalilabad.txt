@@ -1,0 +1,614 @@
+# Jalilabad — Azerbaijan Administrative Divisions
+
+> 121 settlements
+> Code: AZ806
+> Coordinates: 39.199, 48.398
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abazallı (Abazalli)
+
+Code: AZ806038, Coordinates: 39.278, 48.36
+
+
+### Abdullu
+
+Code: AZ806062, Coordinates: 39.202, 48.443
+
+
+### Abışabad (Abishabad)
+
+Code: AZ806039, Coordinates: 39.257, 48.404
+
+
+### Adnalı (Adnali)
+
+Code: AZ806009, Coordinates: 39.29, 48.403
+
+
+### Ağbulaq (Aghbulag)
+
+Code: AZ806084, Coordinates: 39.1, 48.427
+
+
+### Ağdaş (Aghdash)
+
+Code: AZ806085, Coordinates: 39.118, 48.497
+
+
+### Ağusəm (Aghusam)
+
+Code: AZ806046, Coordinates: 39.2, 48.322
+
+
+### Axtaxana (Akhtakhana)
+
+Code: AZ806098, Coordinates: 39.105, 48.385
+
+
+### Alar
+
+Code: AZ806099, Coordinates: 39.316, 48.532
+
+
+### Alaşar (Alashar)
+
+Code: AZ806113, Coordinates: 39.028, 48.509
+
+
+### Albalan
+
+Code: AZ806076, Coordinates: 39.148, 48.417
+
+
+### Əliabad (Aliabad)
+
+Code: AZ806069, Coordinates: 39.234, 48.424
+
+
+### Əliqasımlı (Aligasimli)
+
+Code: AZ806006, Coordinates: 39.286, 48.456
+
+
+### Allahverənli (Allahveranli)
+
+Code: AZ806059, Coordinates: 39.165, 48.458
+
+
+### Əsədli (Asadli)
+
+Code: AZ806090, Coordinates: 39.111, 48.321
+
+
+### Astanlı (Astanli)
+
+Code: AZ806057, Coordinates: 39.195, 48.428
+
+
+### Ətcələr (Atjalar)
+
+Code: AZ806013, Coordinates: 39.305, 48.346
+
+
+### Babaxanlı (Babakhanli)
+
+Code: AZ806011, Coordinates: 39.304, 48.379
+
+
+### Babalı (Babali)
+
+Code: AZ806034, Coordinates: 39.245, 48.338
+
+
+### Badamağac (Badamaghaj)
+
+Code: AZ806118, Coordinates: 39.075, 48.341
+
+
+### Bədirli (Badirli)
+
+Code: AZ806004, Coordinates: 39.303, 48.42
+
+
+### Bəcirəvan (Bajiravan)
+
+Code: AZ806107, Coordinates: 39.087, 48.541
+
+
+### Boyxanlı (Boykhanli)
+
+Code: AZ806020, Coordinates: 39.258, 48.25
+
+
+### Buravar
+
+Code: AZ806097, Coordinates: 39.07, 48.357
+
+
+### Çəmənli (Chamanli)
+
+Code: AZ806029, Coordinates: 39.217, 48.298
+
+
+### Çinar (Chinar)
+
+Code: AZ806050, Coordinates: 39.169, 48.338
+
+
+### Çünəxanlı (Chunakhanli)
+
+Code: AZ806054, Coordinates: 39.19, 48.398
+
+
+### Çünzəli (Chunzeli)
+
+Code: AZ806081, Coordinates: 39.142, 48.495
+
+
+### Dələli (Dalali)
+
+Code: AZ806001, Coordinates: 39.338, 48.287
+
+
+### Darılıq (Darilig)
+
+Code: AZ806083, Coordinates: 39.112, 48.427
+
+
+### Dostallı (Dostalli)
+
+Code: AZ806025, Coordinates: 39.216, 48.255
+
+
+### Dövlətalıbəyli (Dovlatalibayli)
+
+Code: AZ806073, Coordinates: 39.206, 48.401
+
+
+### Eçara (Echara)
+
+Code: AZ806044, Coordinates: 39.215, 48.373
+
+
+### Edişə (Edisha)
+
+Code: AZ806096, Coordinates: 39.175, 48.255
+
+
+### Fərəcullalı (Farajullali)
+
+Code: AZ806049, Coordinates: 39.179, 48.316
+
+
+### Fərzili (Farzili)
+
+Code: AZ806063, Coordinates: 39.196, 48.452
+
+
+### Fətullaqışlaq (Fatullagishlag)
+
+Code: AZ806088, Coordinates: 39.066, 48.46
+
+
+### Qamışlıgöl (Gamishligol)
+
+Code: AZ806078, Coordinates: 39.136, 48.384
+
+
+### Qaraağac (Garaaghaj)
+
+Code: AZ806080, Coordinates: 39.147, 48.452
+
+
+### Qarakazımlı (Garakazimli)
+
+Code: AZ806017, Coordinates: 39.306, 48.278
+
+
+### Qarazəncir (Garazanjir)
+
+Code: AZ806119, Coordinates: 39.265, 48.507
+
+
+### Qarğılı (Garghili)
+
+Code: AZ806023, Coordinates: 39.21, 48.251
+
+
+### Qasımbəyli (Gasimbeyli)
+
+Code: AZ806041, Coordinates: 39.244, 48.391
+
+
+### GÖYTƏPƏ (GOYTEPE)
+
+Code: AZ806111, Coordinates: 39.119, 48.591
+
+
+### Gülməmmədli (Gulmammadli)
+
+Code: AZ806014, Coordinates: 39.322, 48.368
+
+
+### Günəşli (Gunashli)
+
+Code: AZ806100, Coordinates: 39.289, 48.569
+
+
+### Güneyli (Guneyli)
+
+Code: AZ806082, Coordinates: 39.141, 48.455
+
+
+### Hacıismayıllı (Hajiismayilli)
+
+Code: AZ806058, Coordinates: 39.18, 48.453
+
+
+### Hacıcavadlı (Hajijavadli)
+
+Code: AZ806106, Coordinates: 39.117, 48.519
+
+
+### Hacıməmmədli (Hajimammadli)
+
+Code: AZ806042, Coordinates: 39.234, 48.381
+
+
+### Hamarqışlaq (Hamargishlag)
+
+Code: AZ806065, Coordinates: 39.17, 48.47
+
+
+### Həsənli (Hasanli)
+
+Code: AZ806053, Coordinates: 39.185, 48.388
+
+
+### Hasıllı (Hasilli)
+
+Code: AZ806064, Coordinates: 39.188, 48.474
+
+
+### Həziabad (Haziabad)
+
+Code: AZ806110, Coordinates: 39.068, 48.57
+
+
+### İnili (Inili)
+
+Code: AZ806010, Coordinates: 39.27, 48.394
+
+
+### İncilli (Injilli)
+
+Code: AZ806077, Coordinates: 39.138, 48.431
+
+
+### Cəfərxanlı (Jafarkhanli)
+
+Code: AZ806003, Coordinates: 39.333, 48.399
+
+
+### Cəfərli (Jafarli)
+
+Code: AZ806056, Coordinates: 39.19, 48.418
+
+
+### Cəlayir (Jalayir)
+
+Code: AZ806030, Coordinates: 39.227, 48.322
+
+
+### CƏLİLABAD (JALILABAD)
+
+Code: AZ806067, Coordinates: 39.21, 48.508
+
+
+### Cəngan (Jangan)
+
+Code: AZ806048, Coordinates: 39.181, 48.327
+
+
+### Kazımabad (Kazimabad)
+
+Code: AZ806112, Coordinates: 39.134, 48.629
+
+
+### Xəlilabad (Khalilabad)
+
+Code: AZ806066, Coordinates: 39.153, 48.476
+
+
+### Xəlilli (Khalilli)
+
+Code: AZ806060, Coordinates: 39.158, 48.446
+
+
+### Xanəgah (Khanagah)
+
+Code: AZ806024, Coordinates: 39.205, 48.277
+
+
+### Xanılı (Khanili)
+
+Code: AZ806045, Coordinates: 39.205, 48.35
+
+
+### Komanlı (Komanli)
+
+Code: AZ806108, Coordinates: 39.084, 48.552
+
+
+### Kövüzbulaq (Kovuzbulag)
+
+Code: AZ806094, Coordinates: 39.156, 48.26
+
+
+### Kürdlər (Kurdlar)
+
+Code: AZ806071, Coordinates: 39.216, 48.392
+
+
+### Ləkin (Lakin)
+
+Code: AZ806091, Coordinates: 39.125, 48.319
+
+
+### Lallar
+
+Code: AZ806027, Coordinates: 39.197, 48.303
+
+
+### Ləzran (Lazran)
+
+Code: AZ806052, Coordinates: 39.19, 48.359
+
+
+### Mədətli (Madatli)
+
+Code: AZ806037, Coordinates: 39.259, 48.301
+
+
+### Məlikqasımlı (Malikgasimli)
+
+Code: AZ806021, Coordinates: 39.23, 48.223
+
+
+### Məmmədcanlı (Mammadjanli)
+
+Code: AZ806012, Coordinates: 39.299, 48.356
+
+
+### Məmmədrzalı (Mammadrzali)
+
+Code: AZ806031, Coordinates: 39.238, 48.298
+
+
+### Məşədi Hüseynli (Mashadi Huseynli)
+
+Code: AZ806051, Coordinates: 39.174, 48.359
+
+
+### Məşədilər (Mashadilar)
+
+Code: AZ806026, Coordinates: 39.22, 48.269
+
+
+### Məşədivəlli (Mashadivalli)
+
+Code: AZ806117, Coordinates: 39.243, 48.468
+
+
+### Maşlıq (Mashlig)
+
+Code: AZ806102, Coordinates: 39.184, 48.588
+
+
+### Mikayıllı (Mikayilli)
+
+Code: AZ806022, Coordinates: 39.196, 48.226
+
+
+### Mirtəhməzli (Mirtahmazli)
+
+Code: AZ806043, Coordinates: 39.232, 48.367
+
+
+### Mirzəli (Mirzali)
+
+Code: AZ806075, Coordinates: 39.227, 48.355
+
+
+### Mollalı (Mollali)
+
+Code: AZ806072, Coordinates: 39.213, 48.409
+
+
+### Moranlı (Moranli)
+
+Code: AZ806019, Coordinates: 39.281, 48.277
+
+
+### Muğan (Mughan)
+
+Code: AZ806103, Coordinates: 39.161, 48.582
+
+
+### Musalı (Musali)
+
+Code: AZ806092, Coordinates: 39.14, 48.302
+
+
+### Novoqolovka (Novogolovka)
+
+Code: AZ806116, Coordinates: 39.23, 48.64
+
+
+### Novruzallı (Novruzalli)
+
+Code: AZ806032, Coordinates: 39.246, 48.275
+
+
+### Oğrubulaq (Oghrubulag)
+
+Code: AZ806087, Coordinates: 39.067, 48.447
+
+
+### Ocaqlı (Ojagli)
+
+Code: AZ806007, Coordinates: 39.26, 48.491
+
+
+### Pərdi (Pardi)
+
+Code: AZ806028, Coordinates: 39.183, 48.285
+
+
+### Porsava
+
+Code: AZ806074, Coordinates: 39.199, 48.378
+
+
+### Privolnoye
+
+Code: AZ806105, Coordinates: 39.13, 48.541
+
+
+### Sabirabad
+
+Code: AZ806114, Coordinates: 39.262, 48.531
+
+
+### Sadatlı (Sadatli)
+
+Code: AZ806079, Coordinates: 39.129, 48.371
+
+
+### Sərhədabad (Sarhadabad)
+
+Code: AZ806068, Coordinates: 39.238, 48.446
+
+
+### Sarxanlı (Sarkhanli)
+
+Code: AZ806018, Coordinates: 39.305, 48.261
+
+
+### Seyidbazar
+
+Code: AZ806061, Coordinates: 39.168, 48.433
+
+
+### Şabanlı (Shabanli)
+
+Code: AZ806040, Coordinates: 39.246, 48.377
+
+
+### Şatırlı (Shatirli)
+
+Code: AZ806089, Coordinates: 39.087, 48.334
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ806109, Coordinates: 39.09, 48.562
+
+
+### Şiləvəngə (Shilavanga)
+
+Code: AZ806008, Coordinates: 39.262, 48.436
+
+
+### Şorbaçı (Shorbachi)
+
+Code: AZ806036, Coordinates: 39.257, 48.323
+
+
+### Şötüklü (Shotuklu)
+
+Code: AZ806033, Coordinates: 39.225, 48.249
+
+
+### Şükürlü (Shukurlu)
+
+Code: AZ806015, Coordinates: 39.327, 48.327
+
+
+### Soltankənd (Soltankend)
+
+Code: AZ806095, Coordinates: 39.163, 48.289
+
+
+### Söyüdlü (Soyudlu)
+
+Code: AZ806104, Coordinates: 39.157, 48.601
+
+
+### Soyuqbulaq (Soyugbulag)
+
+Code: AZ806121, Coordinates: 39.127, 48.462
+
+
+### Suluçeşmə (Sulucheshma)
+
+Code: AZ806070, Coordinates: 39.215, 48.441
+
+
+### Tahirli
+
+Code: AZ806047, Coordinates: 39.183, 48.337
+
+
+### Təklə (Takla)
+
+Code: AZ806035, Coordinates: 39.256, 48.347
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ806005, Coordinates: 39.32, 48.474
+
+
+### Türkelli (Turkelli)
+
+Code: AZ806120, Coordinates: 39.203, 48.269
+
+
+### Üçtəpə (Uchtepe)
+
+Code: AZ806002, Coordinates: 39.335, 48.429
+
+
+### Uzuntəpə (Uzuntepe)
+
+Code: AZ806101, Coordinates: 39.22, 48.577
+
+
+### Vənlik (Vanlik)
+
+Code: AZ806086, Coordinates: 39.089, 48.488
+
+
+### Yusifli
+
+Code: AZ806115, Coordinates: 39.221, 48.196
+
+
+### Zəhmətabad (Zahmatabad)
+
+Code: AZ806093, Coordinates: 39.145, 48.278
+
+
+### Zərbəli (Zarbali)
+
+Code: AZ806016, Coordinates: 39.313, 48.309
+
+
+### Zopun
+
+Code: AZ806055, Coordinates: 39.18, 48.408
+
+

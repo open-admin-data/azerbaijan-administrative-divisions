@@ -1,0 +1,45 @@
+{
+  "id": "AZ801074",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dürriyə",
+    "en": "Durriya",
+    "slug": "durriya"
+  },
+  "code": {
+    "id": "AZ801074",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ801",
+    "level": 1,
+    "name": {
+      "local": "Astara",
+      "en": "Astara",
+      "slug": "astara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.538",
+    "lon": "48.666"
+  },
+  "metadata": {},
+  "source": {}
+}

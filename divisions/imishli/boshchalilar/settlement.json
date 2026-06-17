@@ -1,0 +1,45 @@
+{
+  "id": "AZ907002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Boşçalılar",
+    "en": "Boshchalilar",
+    "slug": "boshchalilar"
+  },
+  "code": {
+    "id": "AZ907002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.814",
+    "lon": "47.96"
+  },
+  "metadata": {},
+  "source": {}
+}

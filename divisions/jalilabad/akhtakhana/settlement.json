@@ -1,0 +1,45 @@
+{
+  "id": "AZ806098",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Axtaxana",
+    "en": "Akhtakhana",
+    "slug": "akhtakhana"
+  },
+  "code": {
+    "id": "AZ806098",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ806",
+    "level": 1,
+    "name": {
+      "local": "Cəlilabad",
+      "en": "Jalilabad",
+      "slug": "jalilabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.105",
+    "lon": "48.385"
+  },
+  "metadata": {},
+  "source": {}
+}

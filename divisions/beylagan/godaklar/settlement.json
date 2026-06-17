@@ -1,0 +1,45 @@
+{
+  "id": "AZ607021",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Gödəklər",
+    "en": "Godaklar",
+    "slug": "godaklar"
+  },
+  "code": {
+    "id": "AZ607021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ607",
+    "level": 1,
+    "name": {
+      "local": "Beyləqan",
+      "en": "Beylagan",
+      "slug": "beylagan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.758",
+    "lon": "47.849"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ502001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Böyük Kəsik",
+    "en": "Boyuk Kesik",
+    "slug": "boyuk-kesik"
+  },
+  "code": {
+    "id": "AZ502001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ502",
+    "level": 1,
+    "name": {
+      "local": "Ağstafa",
+      "en": "Aghstafa",
+      "slug": "aghstafa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.389",
+    "lon": "45.188"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ703060",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Cütcü",
+    "en": "Jutju",
+    "slug": "jutju"
+  },
+  "code": {
+    "id": "AZ703060",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ703",
+    "level": 1,
+    "name": {
+      "local": "Xocavənd",
+      "en": "Khojavand",
+      "slug": "khojavand"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.697",
+    "lon": "47.026"
+  },
+  "metadata": {},
+  "source": {}
+}

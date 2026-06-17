@@ -1,0 +1,179 @@
+# Gazakh — Azerbaijan Administrative Divisions
+
+> 34 settlements
+> Code: AZ501
+> Coordinates: 41.115, 45.228
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abbasbəyli (Abbasbeyli)
+
+Code: AZ501013, Coordinates: 41.08, 45.194
+
+
+### Ağköynək (Aghkoynak)
+
+Code: AZ501033, Coordinates: 41.081, 45.342
+
+
+### Alpout
+
+Code: AZ501012, Coordinates: 41.088, 45.212
+
+
+### Aşağı Əskipara (Ashaghi Askipara)
+
+Code: AZ501035, Coordinates: 41.076, 45.08
+
+
+### Aşağı Salahlı (Ashaghi Salahli)
+
+Code: AZ501030, Coordinates: 41.21, 45.337
+
+
+### Bağanıs Ayrım (Baghanis Ayrim)
+
+Code: AZ501016, Coordinates: 41.096, 45.076
+
+
+### Bala Çaylı (Bala Chayli)
+
+Code: AZ501011, Coordinates: 41.101, 45.294
+
+
+### Bala Cəfərli (Bala Jafarli)
+
+Code: AZ501022, Coordinates: 41.018, 45.253
+
+
+### Barxudarlı (Barkhudarli)
+
+Code: AZ501031, Coordinates: 40.998, 45.222
+
+
+### Birinci Şıxlı (Birinji Shikhli)
+
+Code: AZ501002, Coordinates: 41.283, 45.177
+
+
+### Çaylı (Chayli)
+
+Code: AZ501008, Coordinates: 41.125, 45.311
+
+
+### Dəmirçilər (Damirchilar)
+
+Code: AZ501010, Coordinates: 41.089, 45.262
+
+
+### Daş Salahlı (Dash Salahli)
+
+Code: AZ501007, Coordinates: 41.139, 45.265
+
+
+### Fərəhli (Farahli)
+
+Code: AZ501014, Coordinates: 41.103, 45.146
+
+
+### Qarapapaq (Garapapag)
+
+Code: AZ501032, Coordinates: 41.08, 45.367
+
+
+### Qaymaqlı (Gaymagli)
+
+Code: AZ501005, Coordinates: 41.223, 45.136
+
+
+### QAZAX (GAZAKH)
+
+Code: AZ501034, Coordinates: 41.088, 45.359
+
+
+### Qazaxbəyli (Gazakhbeyli)
+
+Code: AZ501028, Coordinates: 41.161, 45.315
+
+
+### Qızılhacılı (Gizilhajili)
+
+Code: AZ501020, Coordinates: 41.066, 45.174
+
+
+### Quşçu Ayrım (Gushchu Ayrim)
+
+Code: AZ501015, Coordinates: 41.091, 45.105
+
+
+### Hüseynbəyli (Huseynbeyli)
+
+Code: AZ501025, Coordinates: 41.113, 45.364
+
+
+### İkinci Şıxlı (İkinji Shikhli)
+
+Code: AZ501001, Coordinates: 41.314, 45.097
+
+
+### Cəfərli (Jafarli)
+
+Code: AZ501021, Coordinates: 41.033, 45.242
+
+
+### Canalı (Janali)
+
+Code: AZ501026, Coordinates: 41.118, 45.346
+
+
+### Kəmərli (Kamarli)
+
+Code: AZ501006, Coordinates: 41.208, 45.088
+
+
+### Xanlıqlar (Khanliglar)
+
+Code: AZ501024, Coordinates: 41.07, 45.322
+
+
+### Xeyrimli (Kheyrimli)
+
+Code: AZ501019, Coordinates: 41.05, 45.11
+
+
+### Kosalar
+
+Code: AZ501027, Coordinates: 41.134, 45.355
+
+
+### Məzəm (Mazam)
+
+Code: AZ501018, Coordinates: 41.067, 45.123
+
+
+### Orta Salahlı (Orta Salahli)
+
+Code: AZ501029, Coordinates: 41.189, 45.324
+
+
+### Sofulu
+
+Code: AZ501023, Coordinates: 41.002, 45.213
+
+
+### Ürkməzli (Urkmazli)
+
+Code: AZ501009, Coordinates: 41.104, 45.258
+
+
+### Yuxarı Əskipara (Yukhari Askipara)
+
+Code: AZ501017, Coordinates: 41.064, 45.025
+
+
+### Yuxarı Salahlı (Yukhari Salahli)
+
+Code: AZ501003, Coordinates: 41.242, 45.266
+
+

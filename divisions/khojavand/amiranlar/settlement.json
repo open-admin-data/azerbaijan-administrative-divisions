@@ -1,0 +1,45 @@
+{
+  "id": "AZ703041",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əmiranlar",
+    "en": "Amiranlar",
+    "slug": "amiranlar"
+  },
+  "code": {
+    "id": "AZ703041",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ703",
+    "level": 1,
+    "name": {
+      "local": "Xocavənd",
+      "en": "Khojavand",
+      "slug": "khojavand"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.8",
+    "lon": "47.136"
+  },
+  "metadata": {},
+  "source": {}
+}

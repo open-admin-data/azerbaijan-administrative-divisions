@@ -1,0 +1,45 @@
+{
+  "id": "AZ505070",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Novoivanovka",
+    "en": "Novoivanovka",
+    "slug": "novoivanovka"
+  },
+  "code": {
+    "id": "AZ505070",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ505",
+    "level": 1,
+    "name": {
+      "local": "Gədəbəy",
+      "en": "Gadabey",
+      "slug": "gadabey"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.562",
+    "lon": "45.546"
+  },
+  "metadata": {},
+  "source": {}
+}

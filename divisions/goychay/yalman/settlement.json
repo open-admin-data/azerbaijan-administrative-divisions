@@ -1,0 +1,45 @@
+{
+  "id": "AZ408022",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yalman",
+    "en": "Yalman",
+    "slug": "yalman"
+  },
+  "code": {
+    "id": "AZ408022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ408",
+    "level": 1,
+    "name": {
+      "local": "Göyçay",
+      "en": "Goychay",
+      "slug": "goychay"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.567",
+    "lon": "47.812"
+  },
+  "metadata": {},
+  "source": {}
+}

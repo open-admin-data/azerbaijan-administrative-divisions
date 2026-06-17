@@ -1,0 +1,45 @@
+{
+  "id": "AZ605031",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şükürbəyli",
+    "en": "Shukurbeyli",
+    "slug": "shukurbeyli"
+  },
+  "code": {
+    "id": "AZ605031",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ605",
+    "level": 1,
+    "name": {
+      "local": "Cəbrayıl",
+      "en": "Jabrayil",
+      "slug": "jabrayil"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.322",
+    "lon": "47.146"
+  },
+  "metadata": {},
+  "source": {}
+}

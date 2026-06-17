@@ -1,0 +1,45 @@
+{
+  "id": "AZ803089",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Cəngənəvud",
+    "en": "Janganavud",
+    "slug": "janganavud"
+  },
+  "code": {
+    "id": "AZ803089",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.773",
+    "lon": "48.526"
+  },
+  "metadata": {},
+  "source": {}
+}

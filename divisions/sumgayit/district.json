@@ -1,0 +1,33 @@
+{
+  "id": "AZ309",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sumqayıt",
+    "en": "Sumgayit",
+    "slug": "sumgayit"
+  },
+  "code": {
+    "id": "AZ309",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.594",
+    "lon": "49.641"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/sumgayit/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

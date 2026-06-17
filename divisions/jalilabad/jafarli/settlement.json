@@ -1,0 +1,45 @@
+{
+  "id": "AZ806056",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Cəfərli",
+    "en": "Jafarli",
+    "slug": "jafarli"
+  },
+  "code": {
+    "id": "AZ806056",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ806",
+    "level": 1,
+    "name": {
+      "local": "Cəlilabad",
+      "en": "Jalilabad",
+      "slug": "jalilabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.19",
+    "lon": "48.418"
+  },
+  "metadata": {},
+  "source": {}
+}

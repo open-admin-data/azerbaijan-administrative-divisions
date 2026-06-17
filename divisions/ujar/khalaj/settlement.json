@@ -1,0 +1,45 @@
+{
+  "id": "AZ904014",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xələc",
+    "en": "Khalaj",
+    "slug": "khalaj"
+  },
+  "code": {
+    "id": "AZ904014",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ904",
+    "level": 1,
+    "name": {
+      "local": "Ucar",
+      "en": "Ujar",
+      "slug": "ujar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.34",
+    "lon": "47.682"
+  },
+  "metadata": {},
+  "source": {}
+}

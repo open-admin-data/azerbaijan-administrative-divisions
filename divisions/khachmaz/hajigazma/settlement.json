@@ -1,0 +1,45 @@
+{
+  "id": "AZ302071",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacıqazma",
+    "en": "Hajigazma",
+    "slug": "hajigazma"
+  },
+  "code": {
+    "id": "AZ302071",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ302",
+    "level": 1,
+    "name": {
+      "local": "Xaçmaz",
+      "en": "Khachmaz",
+      "slug": "khachmaz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.529",
+    "lon": "48.83"
+  },
+  "metadata": {},
+  "source": {}
+}

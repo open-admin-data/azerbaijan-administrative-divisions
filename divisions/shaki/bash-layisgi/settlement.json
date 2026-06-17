@@ -1,0 +1,45 @@
+{
+  "id": "AZ404061",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Baş Layısqı",
+    "en": "Bash Layisgi",
+    "slug": "bash-layisgi"
+  },
+  "code": {
+    "id": "AZ404061",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.351",
+    "lon": "47.087"
+  },
+  "metadata": {},
+  "source": {}
+}

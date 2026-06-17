@@ -1,0 +1,2297 @@
+[
+  {
+    "id": "AZ809050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abadkənd",
+      "en": "Abadkend",
+      "slug": "abadkend"
+    },
+    "code": {
+      "id": "AZ809050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.747",
+      "lon": "49.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alçalı",
+      "en": "Alchali",
+      "slug": "alchali"
+    },
+    "code": {
+      "id": "AZ809031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.523",
+      "lon": "48.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbqardaşbəyli",
+      "en": "Arabgardashbeyli",
+      "slug": "arabgardashbeyli"
+    },
+    "code": {
+      "id": "AZ809040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.52",
+      "lon": "49.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arbatan",
+      "en": "Arbatan",
+      "slug": "arbatan"
+    },
+    "code": {
+      "id": "AZ809025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.578",
+      "lon": "48.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı  Kürkəndi",
+      "en": "Ashaghi  Kurkendi",
+      "slug": "ashaghi-kurkendi"
+    },
+    "code": {
+      "id": "AZ809023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.618",
+      "lon": "48.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Noxudlu",
+      "en": "Ashaghi Nokhudlu",
+      "slug": "ashaghi-nokhudlu"
+    },
+    "code": {
+      "id": "AZ809021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.645",
+      "lon": "48.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəşirbəyli",
+      "en": "Bashirbeyli",
+      "slug": "bashirbeyli"
+    },
+    "code": {
+      "id": "AZ809010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.855",
+      "lon": "48.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beştalı",
+      "en": "Beshtali",
+      "slug": "beshtali"
+    },
+    "code": {
+      "id": "AZ809027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.561",
+      "lon": "48.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəydili",
+      "en": "Beydili",
+      "slug": "beydili"
+    },
+    "code": {
+      "id": "AZ809033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.501",
+      "lon": "48.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Varlı",
+      "en": "Birinji Varli",
+      "slug": "birinji-varli"
+    },
+    "code": {
+      "id": "AZ809014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.813",
+      "lon": "49.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boranıkənd",
+      "en": "Boranikend",
+      "slug": "boranikend"
+    },
+    "code": {
+      "id": "AZ809037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.427",
+      "lon": "48.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çadırlı",
+      "en": "Chadirli",
+      "slug": "chadirli"
+    },
+    "code": {
+      "id": "AZ809008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.829",
+      "lon": "48.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çuxanlı",
+      "en": "Chukhanli",
+      "slug": "chukhanli"
+    },
+    "code": {
+      "id": "AZ809022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.644",
+      "lon": "48.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dayıkənd",
+      "en": "Dayikend",
+      "slug": "dayikend"
+    },
+    "code": {
+      "id": "AZ809035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.453",
+      "lon": "48.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düzənlik",
+      "en": "Duzanlik",
+      "slug": "duzanlik"
+    },
+    "code": {
+      "id": "AZ809012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.843",
+      "lon": "49.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəncəli",
+      "en": "Ganjali",
+      "slug": "ganjali"
+    },
+    "code": {
+      "id": "AZ809001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.706",
+      "lon": "48.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabağlı",
+      "en": "Garabaghli",
+      "slug": "garabaghli"
+    },
+    "code": {
+      "id": "AZ809048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.767",
+      "lon": "48.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraçala",
+      "en": "Garachala",
+      "slug": "garachala"
+    },
+    "code": {
+      "id": "AZ809007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.807",
+      "lon": "48.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qardili",
+      "en": "Gardili",
+      "slug": "gardili"
+    },
+    "code": {
+      "id": "AZ809047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.696",
+      "lon": "49.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırx Çıraq",
+      "en": "Girkh Chirag",
+      "slug": "girkh-chirag"
+    },
+    "code": {
+      "id": "AZ809042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.685",
+      "lon": "49.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılağac",
+      "en": "Gizilaghaj",
+      "slug": "gizilaghaj"
+    },
+    "code": {
+      "id": "AZ809032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.513",
+      "lon": "48.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gomuşçu",
+      "en": "Gomushchu",
+      "slug": "gomushchu"
+    },
+    "code": {
+      "id": "AZ809049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.782",
+      "lon": "48.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quyçu",
+      "en": "Guychu",
+      "slug": "guychu"
+    },
+    "code": {
+      "id": "AZ809030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.536",
+      "lon": "48.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənli",
+      "en": "Hasanli",
+      "slug": "hasanli"
+    },
+    "code": {
+      "id": "AZ809046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.697",
+      "lon": "49.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Varlı",
+      "en": "Ikinji Varli",
+      "slug": "ikinji-varli"
+    },
+    "code": {
+      "id": "AZ809015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.792",
+      "lon": "49.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəngan",
+      "en": "Jangan",
+      "slug": "jangan"
+    },
+    "code": {
+      "id": "AZ809043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.555",
+      "lon": "49.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərimbəyli",
+      "en": "Karimbeyli",
+      "slug": "karimbeyli"
+    },
+    "code": {
+      "id": "AZ809005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.79",
+      "lon": "48.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xələc",
+      "en": "Khalaj",
+      "slug": "khalaj"
+    },
+    "code": {
+      "id": "AZ809017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.746",
+      "lon": "49.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xıdırlı",
+      "en": "Khidirli",
+      "slug": "khidirli"
+    },
+    "code": {
+      "id": "AZ809011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.843",
+      "lon": "49.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    },
+    "code": {
+      "id": "AZ809039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.538",
+      "lon": "49.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xurşud",
+      "en": "Khurshud",
+      "slug": "khurshud"
+    },
+    "code": {
+      "id": "AZ809041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.629",
+      "lon": "48.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolanı",
+      "en": "Kolani",
+      "slug": "kolani"
+    },
+    "code": {
+      "id": "AZ809044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.757",
+      "lon": "49.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kür Qaraqaşlı",
+      "en": "Kur Garagashli",
+      "slug": "kur-garagashli"
+    },
+    "code": {
+      "id": "AZ809026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.559",
+      "lon": "48.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürsəngi",
+      "en": "Kursangi",
+      "slug": "kursangi"
+    },
+    "code": {
+      "id": "AZ809019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.783",
+      "lon": "49.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Marışlı",
+      "en": "Marishli",
+      "slug": "marishli"
+    },
+    "code": {
+      "id": "AZ809028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.569",
+      "lon": "48.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pambıqkənd",
+      "en": "Pambigkend",
+      "slug": "pambigkend"
+    },
+    "code": {
+      "id": "AZ809009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.829",
+      "lon": "48.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Parça Xələc",
+      "en": "Parcha Khalaj",
+      "slug": "parcha-khalaj"
+    },
+    "code": {
+      "id": "AZ809002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.715",
+      "lon": "48.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Peyk",
+      "en": "Peyk",
+      "slug": "peyk"
+    },
+    "code": {
+      "id": "AZ809013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.831",
+      "lon": "49.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Piratman",
+      "en": "Piratman",
+      "slug": "piratman"
+    },
+    "code": {
+      "id": "AZ809051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.688",
+      "lon": "48.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "SALYAN",
+      "en": "SALYAN",
+      "slug": "salyan"
+    },
+    "code": {
+      "id": "AZ809024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.602",
+      "lon": "48.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarvan",
+      "en": "Sarvan",
+      "slug": "sarvan"
+    },
+    "code": {
+      "id": "AZ809034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.481",
+      "lon": "48.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidan",
+      "en": "Seyidan",
+      "slug": "seyidan"
+    },
+    "code": {
+      "id": "AZ809003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.73",
+      "lon": "48.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidlər",
+      "en": "Seyidlar",
+      "slug": "seyidlar"
+    },
+    "code": {
+      "id": "AZ809036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.443",
+      "lon": "48.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidsadıqlı",
+      "en": "Seyidsadigli",
+      "slug": "seyidsadigli"
+    },
+    "code": {
+      "id": "AZ809029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.545",
+      "lon": "48.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəkərli",
+      "en": "Shakarli",
+      "slug": "shakarli"
+    },
+    "code": {
+      "id": "AZ809045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.713",
+      "lon": "49.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şorsulu",
+      "en": "Shorsulu",
+      "slug": "shorsulu"
+    },
+    "code": {
+      "id": "AZ809038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.427",
+      "lon": "48.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ809004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.771",
+      "lon": "48.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Uluxanlı",
+      "en": "Yeni Ulukhanli",
+      "slug": "yeni-ulukhanli"
+    },
+    "code": {
+      "id": "AZ809016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.796",
+      "lon": "49.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ809018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.716",
+      "lon": "49.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yolüstü",
+      "en": "Yolustu",
+      "slug": "yolustu"
+    },
+    "code": {
+      "id": "AZ809006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.795",
+      "lon": "48.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ809020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Noxudlu",
+      "en": "Yukhari Nokhudlu",
+      "slug": "yukhari-nokhudlu"
+    },
+    "code": {
+      "id": "AZ809020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ809",
+        "level": 1,
+        "name": {
+          "local": "Salyan",
+          "en": "Salyan",
+          "slug": "salyan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.65",
+      "lon": "48.937"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

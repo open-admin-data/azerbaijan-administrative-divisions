@@ -1,0 +1,45 @@
+{
+  "id": "AZ101002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Heydərabad",
+    "en": "Heydarabad",
+    "slug": "heydarabad"
+  },
+  "code": {
+    "id": "AZ101002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ101",
+    "level": 1,
+    "name": {
+      "local": "Sədərək",
+      "en": "Sadarak",
+      "slug": "sadarak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ101",
+      "level": 1,
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.723",
+    "lon": "44.848"
+  },
+  "metadata": {},
+  "source": {}
+}

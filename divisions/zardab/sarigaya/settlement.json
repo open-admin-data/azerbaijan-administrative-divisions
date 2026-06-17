@@ -1,0 +1,45 @@
+{
+  "id": "AZ905013",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sarıqaya",
+    "en": "Sarigaya",
+    "slug": "sarigaya"
+  },
+  "code": {
+    "id": "AZ905013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ905",
+    "level": 1,
+    "name": {
+      "local": "Zərdab",
+      "en": "Zardab",
+      "slug": "zardab"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.188",
+    "lon": "47.531"
+  },
+  "metadata": {},
+  "source": {}
+}

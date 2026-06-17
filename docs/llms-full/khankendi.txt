@@ -1,0 +1,19 @@
+# Khankendi — Azerbaijan Administrative Divisions
+
+> 2 settlements
+> Code: AZ704
+> Coordinates: 39.808, 46.744
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Kərkicahan (Karkijahan)
+
+Code: AZ704002, Coordinates: 39.802, 46.737
+
+
+### XANKƏNDİ (KHANKENDI)
+
+Code: AZ704001, Coordinates: 39.815, 46.751
+
+

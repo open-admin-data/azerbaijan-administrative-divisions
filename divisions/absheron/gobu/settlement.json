@@ -1,0 +1,45 @@
+{
+  "id": "AZ308008",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qobu",
+    "en": "Gobu",
+    "slug": "gobu"
+  },
+  "code": {
+    "id": "AZ308008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ308",
+    "level": 1,
+    "name": {
+      "local": "Abşeron",
+      "en": "Absheron",
+      "slug": "absheron"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.4",
+    "lon": "49.715"
+  },
+  "metadata": {},
+  "source": {}
+}

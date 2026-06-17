@@ -1,0 +1,45 @@
+{
+  "id": "AZ606052",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Əbdürrəhmanlı",
+    "en": "Ashaghi Abdurrahmanli",
+    "slug": "ashaghi-abdurrahmanli"
+  },
+  "code": {
+    "id": "AZ606052",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.525",
+    "lon": "47.268"
+  },
+  "metadata": {},
+  "source": {}
+}

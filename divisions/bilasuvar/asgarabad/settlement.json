@@ -1,0 +1,45 @@
+{
+  "id": "AZ808015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əsgərabad",
+    "en": "Asgarabad",
+    "slug": "asgarabad"
+  },
+  "code": {
+    "id": "AZ808015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ808",
+    "level": 1,
+    "name": {
+      "local": "Biləsuvar",
+      "en": "Bilasuvar",
+      "slug": "bilasuvar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.429",
+    "lon": "48.567"
+  },
+  "metadata": {},
+  "source": {}
+}

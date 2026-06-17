@@ -1,0 +1,45 @@
+{
+  "id": "AZ909025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Beşdəli",
+    "en": "Beshdali",
+    "slug": "beshdali"
+  },
+  "code": {
+    "id": "AZ909025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ909",
+    "level": 1,
+    "name": {
+      "local": "Sabirabad",
+      "en": "Sabirabad",
+      "slug": "sabirabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.885",
+    "lon": "48.882"
+  },
+  "metadata": {},
+  "source": {}
+}

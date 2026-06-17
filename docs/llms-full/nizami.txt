@@ -1,0 +1,14 @@
+# Nizami — Azerbaijan Administrative Divisions
+
+> 1 settlements
+> Code: AZ1010
+> Coordinates: 40.396, 49.896
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Keşlə (Keshla)
+
+Code: AZ101001, Coordinates: 40.396, 49.896
+
+

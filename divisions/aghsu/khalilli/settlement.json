@@ -1,0 +1,45 @@
+{
+  "id": "AZ409052",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xəlilli",
+    "en": "Khalilli",
+    "slug": "khalilli"
+  },
+  "code": {
+    "id": "AZ409052",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ409",
+    "level": 1,
+    "name": {
+      "local": "Ağsu",
+      "en": "Aghsu",
+      "slug": "aghsu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.493",
+    "lon": "48.168"
+  },
+  "metadata": {},
+  "source": {}
+}

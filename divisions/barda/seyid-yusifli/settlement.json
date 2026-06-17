@@ -1,0 +1,45 @@
+{
+  "id": "AZ610005",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Seyid Yusifli",
+    "en": "Seyid Yusifli",
+    "slug": "seyid-yusifli"
+  },
+  "code": {
+    "id": "AZ610005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ610",
+    "level": 1,
+    "name": {
+      "local": "Bərdə",
+      "en": "Barda",
+      "slug": "barda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.469",
+    "lon": "47.034"
+  },
+  "metadata": {},
+  "source": {}
+}

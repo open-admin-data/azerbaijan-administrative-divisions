@@ -1,0 +1,45 @@
+{
+  "id": "AZ901047",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacımahmudlu",
+    "en": "Hajimahmudlu",
+    "slug": "hajimahmudlu"
+  },
+  "code": {
+    "id": "AZ901047",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ901",
+    "level": 1,
+    "name": {
+      "local": "Yevlax",
+      "en": "Yevlakh",
+      "slug": "yevlakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.484",
+    "lon": "47.024"
+  },
+  "metadata": {},
+  "source": {}
+}

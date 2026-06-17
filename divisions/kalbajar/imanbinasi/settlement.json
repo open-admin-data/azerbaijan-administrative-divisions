@@ -1,0 +1,45 @@
+{
+  "id": "AZ601060",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İmanbinəsi",
+    "en": "Imanbinasi",
+    "slug": "imanbinasi"
+  },
+  "code": {
+    "id": "AZ601060",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ601",
+    "level": 1,
+    "name": {
+      "local": "Kəlbəcər",
+      "en": "Kalbajar",
+      "slug": "kalbajar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.057",
+    "lon": "46.022"
+  },
+  "metadata": {},
+  "source": {}
+}

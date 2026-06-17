@@ -1,0 +1,45 @@
+{
+  "id": "AZ701023",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çanaqçı",
+    "en": "Chanagchi",
+    "slug": "chanagchi"
+  },
+  "code": {
+    "id": "AZ701023",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ701",
+    "level": 1,
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.705",
+    "lon": "46.829"
+  },
+  "metadata": {},
+  "source": {}
+}

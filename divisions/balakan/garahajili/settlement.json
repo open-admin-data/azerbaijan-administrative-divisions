@@ -1,0 +1,45 @@
+{
+  "id": "AZ401010",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarahacılı",
+    "en": "Garahajili",
+    "slug": "garahajili"
+  },
+  "code": {
+    "id": "AZ401010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ401",
+    "level": 1,
+    "name": {
+      "local": "Balakən",
+      "en": "Balakan",
+      "slug": "balakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.615",
+    "lon": "46.401"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ808001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Səmədabad",
+    "en": "Samadabad",
+    "slug": "samadabad"
+  },
+  "code": {
+    "id": "AZ808001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ808",
+    "level": 1,
+    "name": {
+      "local": "Biləsuvar",
+      "en": "Bilasuvar",
+      "slug": "bilasuvar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.542",
+    "lon": "48.322"
+  },
+  "metadata": {},
+  "source": {}
+}

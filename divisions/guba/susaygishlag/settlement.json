@@ -1,0 +1,45 @@
+{
+  "id": "AZ303131",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Susayqışlaq",
+    "en": "Susaygishlag",
+    "slug": "susaygishlag"
+  },
+  "code": {
+    "id": "AZ303131",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.47",
+    "lon": "48.585"
+  },
+  "metadata": {},
+  "source": {}
+}

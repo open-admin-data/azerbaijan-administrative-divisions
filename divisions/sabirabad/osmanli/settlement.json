@@ -1,0 +1,45 @@
+{
+  "id": "AZ909066",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Osmanlı",
+    "en": "Osmanli",
+    "slug": "osmanli"
+  },
+  "code": {
+    "id": "AZ909066",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ909",
+    "level": 1,
+    "name": {
+      "local": "Sabirabad",
+      "en": "Sabirabad",
+      "slug": "sabirabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.005",
+    "lon": "48.799"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ608020",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Taynaq",
+    "en": "Taynag",
+    "slug": "taynag"
+  },
+  "code": {
+    "id": "AZ608020",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ608",
+    "level": 1,
+    "name": {
+      "local": "Ağcabədi",
+      "en": "Aghjabadi",
+      "slug": "aghjabadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.117",
+    "lon": "47.17"
+  },
+  "metadata": {},
+  "source": {}
+}

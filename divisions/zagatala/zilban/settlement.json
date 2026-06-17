@@ -1,0 +1,45 @@
+{
+  "id": "AZ402051",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Zilban",
+    "en": "Zilban",
+    "slug": "zilban"
+  },
+  "code": {
+    "id": "AZ402051",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ402",
+    "level": 1,
+    "name": {
+      "local": "Zaqatala",
+      "en": "Zagatala",
+      "slug": "zagatala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.644",
+    "lon": "46.665"
+  },
+  "metadata": {},
+  "source": {}
+}

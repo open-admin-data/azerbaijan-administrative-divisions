@@ -1,0 +1,45 @@
+{
+  "id": "AZ403032",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İbaxlı",
+    "en": "İbakhli",
+    "slug": "ibakhli"
+  },
+  "code": {
+    "id": "AZ403032",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ403",
+    "level": 1,
+    "name": {
+      "local": "Qax",
+      "en": "Gakh",
+      "slug": "gakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.359",
+    "lon": "46.861"
+  },
+  "metadata": {},
+  "source": {}
+}

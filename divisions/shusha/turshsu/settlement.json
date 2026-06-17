@@ -1,0 +1,45 @@
+{
+  "id": "AZ702012",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Turşsu",
+    "en": "Turshsu",
+    "slug": "turshsu"
+  },
+  "code": {
+    "id": "AZ702012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ702",
+    "level": 1,
+    "name": {
+      "local": "Şuşa",
+      "en": "Shusha",
+      "slug": "shusha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.688",
+    "lon": "46.651"
+  },
+  "metadata": {},
+  "source": {}
+}

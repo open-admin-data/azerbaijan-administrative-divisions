@@ -1,0 +1,45 @@
+{
+  "id": "AZ808007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Günəşli",
+    "en": "Gunashli",
+    "slug": "gunashli"
+  },
+  "code": {
+    "id": "AZ808007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ808",
+    "level": 1,
+    "name": {
+      "local": "Biləsuvar",
+      "en": "Bilasuvar",
+      "slug": "bilasuvar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.518",
+    "lon": "48.503"
+  },
+  "metadata": {},
+  "source": {}
+}

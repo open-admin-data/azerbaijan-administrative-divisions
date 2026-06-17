@@ -1,0 +1,45 @@
+{
+  "id": "AZ406033",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aydınqışlaq",
+    "en": "Aydingishlag",
+    "slug": "aydingishlag"
+  },
+  "code": {
+    "id": "AZ406033",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ406",
+    "level": 1,
+    "name": {
+      "local": "Qəbələ",
+      "en": "Gabala",
+      "slug": "gabala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.921",
+    "lon": "47.818"
+  },
+  "metadata": {},
+  "source": {}
+}

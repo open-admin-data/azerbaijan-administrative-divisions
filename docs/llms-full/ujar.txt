@@ -1,0 +1,159 @@
+# Ujar — Azerbaijan Administrative Divisions
+
+> 30 settlements
+> Code: AZ904
+> Coordinates: 40.46, 47.706
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əlikənd (Alikend)
+
+Code: AZ904009, Coordinates: 40.495, 47.51
+
+
+### Alpı (Alpi)
+
+Code: AZ904017, Coordinates: 40.49, 47.733
+
+
+### Alpout
+
+Code: AZ904008, Coordinates: 40.478, 47.619
+
+
+### Ənvər Məmmədxanlı (Anvar Mammadkhanli)
+
+Code: AZ904024, Coordinates: 40.455, 47.785
+
+
+### Bağban (Baghban)
+
+Code: AZ904027, Coordinates: 40.399, 47.805
+
+
+### Bağırbəyli (Baghirbeyli)
+
+Code: AZ904016, Coordinates: 40.506, 47.748
+
+
+### Bərgüşad (Bargushad)
+
+Code: AZ904028, Coordinates: 40.393, 47.853
+
+
+### Boyat
+
+Code: AZ904019, Coordinates: 40.392, 47.752
+
+
+### Çiyni (Chiyni)
+
+Code: AZ904005, Coordinates: 40.526, 47.572
+
+
+### Qarabörk (Garabork)
+
+Code: AZ904011, Coordinates: 40.478, 47.661
+
+
+### Qaradağlı (Garadaghli)
+
+Code: AZ904010, Coordinates: 40.486, 47.573
+
+
+### Qaracallı (Garajalli)
+
+Code: AZ904025, Coordinates: 40.441, 47.858
+
+
+### Gəraybəyli (Garaybeyli)
+
+Code: AZ904007, Coordinates: 40.502, 47.666
+
+
+### Qazıqumlaq (Gazigumlag)
+
+Code: AZ904003, Coordinates: 40.534, 47.531
+
+
+### Qazyan (Gazyan)
+
+Code: AZ904012, Coordinates: 40.421, 47.682
+
+
+### Quləbənd (Gulaband)
+
+Code: AZ904018, Coordinates: 40.48, 47.721
+
+
+### Xələc (Khalaj)
+
+Code: AZ904014, Coordinates: 40.34, 47.682
+
+
+### Küçəkənd (Kuchakend)
+
+Code: AZ904022, Coordinates: 40.479, 47.803
+
+
+### Lək (Lak)
+
+Code: AZ904013, Coordinates: 40.378, 47.66
+
+
+### Məlikballı (Malikballi)
+
+Code: AZ904004, Coordinates: 40.545, 47.545
+
+
+### Müsüslü (Mususlu)
+
+Code: AZ904021, Coordinates: 40.454, 47.907
+
+
+### Pirkənd (Pirkend)
+
+Code: AZ904026, Coordinates: 40.469, 47.849
+
+
+### Ramal
+
+Code: AZ904002, Coordinates: 40.499, 47.494
+
+
+### Rəstəcə (Rastaja)
+
+Code: AZ904015, Coordinates: 40.529, 47.694
+
+
+### Şahlıq (Shahlig)
+
+Code: AZ904001, Coordinates: 40.47, 47.491
+
+
+### Təzə Şilyan (Teze Shilyan)
+
+Code: AZ904020, Coordinates: 40.417, 47.941
+
+
+### Türkəci (Turkaji)
+
+Code: AZ904023, Coordinates: 40.475, 47.781
+
+
+### UCAR (UJAR)
+
+Code: AZ904006, Coordinates: 40.512, 47.651
+
+
+### Yuxarı Çiyni (Yukhari Chiyni)
+
+Code: AZ904030, Coordinates: 40.427, 47.8
+
+
+### Yuxarı Şilyan (Yukhari Shilyan)
+
+Code: AZ904029, Coordinates: 40.331, 47.801
+
+

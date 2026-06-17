@@ -1,0 +1,45 @@
+{
+  "id": "AZ901043",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qoyunbinəsi",
+    "en": "Goyunbinasi",
+    "slug": "goyunbinasi"
+  },
+  "code": {
+    "id": "AZ901043",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ901",
+    "level": 1,
+    "name": {
+      "local": "Yevlax",
+      "en": "Yevlakh",
+      "slug": "yevlakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.512",
+    "lon": "47.057"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "AZ801",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Astara",
+    "en": "Astara",
+    "slug": "astara"
+  },
+  "code": {
+    "id": "AZ801",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 92
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.551",
+    "lon": "48.741"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/astara/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

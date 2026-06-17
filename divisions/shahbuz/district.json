@@ -1,0 +1,33 @@
+{
+  "id": "AZ105",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Şahbuz",
+    "en": "Shahbuz",
+    "slug": "shahbuz"
+  },
+  "code": {
+    "id": "AZ105",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.436",
+    "lon": "45.61"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/shahbuz/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

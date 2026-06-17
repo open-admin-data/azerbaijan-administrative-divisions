@@ -1,0 +1,45 @@
+{
+  "id": "AZ301024",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qayakənd",
+    "en": "Gayakend",
+    "slug": "gayakend"
+  },
+  "code": {
+    "id": "AZ301024",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.407",
+    "lon": "48.41"
+  },
+  "metadata": {},
+  "source": {}
+}

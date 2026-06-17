@@ -1,0 +1,45 @@
+{
+  "id": "AZ100204",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sanqaçal",
+    "en": "Sangachal",
+    "slug": "sangachal"
+  },
+  "code": {
+    "id": "AZ100204",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1002",
+    "level": 1,
+    "name": {
+      "local": "Qaradağ",
+      "en": "Garadagh",
+      "slug": "garadagh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.167",
+    "lon": "49.462"
+  },
+  "metadata": {},
+  "source": {}
+}

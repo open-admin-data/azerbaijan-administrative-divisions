@@ -1,0 +1,45 @@
+{
+  "id": "AZ302085",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Tikanoba",
+    "en": "Tikanoba",
+    "slug": "tikanoba"
+  },
+  "code": {
+    "id": "AZ302085",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ302",
+    "level": 1,
+    "name": {
+      "local": "Xaçmaz",
+      "en": "Khachmaz",
+      "slug": "khachmaz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.584",
+    "lon": "48.844"
+  },
+  "metadata": {},
+  "source": {}
+}

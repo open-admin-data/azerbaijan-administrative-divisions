@@ -1,0 +1,45 @@
+{
+  "id": "AZ804061",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Horavar",
+    "en": "Horavar",
+    "slug": "horavar"
+  },
+  "code": {
+    "id": "AZ804061",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ804",
+    "level": 1,
+    "name": {
+      "local": "Yardımlı",
+      "en": "Yardimli",
+      "slug": "yardimli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.897",
+    "lon": "48.341"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ807005",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qazaxbərəsi",
+    "en": "Gazakhbarasi",
+    "slug": "gazakhbarasi"
+  },
+  "code": {
+    "id": "AZ807005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ807",
+    "level": 1,
+    "name": {
+      "local": "Neftçala",
+      "en": "Neftchala",
+      "slug": "neftchala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.366",
+    "lon": "48.78"
+  },
+  "metadata": {},
+  "source": {}
+}

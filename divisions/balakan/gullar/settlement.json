@@ -1,0 +1,45 @@
+{
+  "id": "AZ401042",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qullar",
+    "en": "Gullar",
+    "slug": "gullar"
+  },
+  "code": {
+    "id": "AZ401042",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ401",
+    "level": 1,
+    "name": {
+      "local": "Balakən",
+      "en": "Balakan",
+      "slug": "balakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.733",
+    "lon": "46.432"
+  },
+  "metadata": {},
+  "source": {}
+}

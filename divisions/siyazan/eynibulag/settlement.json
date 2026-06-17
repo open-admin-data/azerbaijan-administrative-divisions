@@ -1,0 +1,45 @@
+{
+  "id": "AZ305024",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Eynibulaq",
+    "en": "Eynibulag",
+    "slug": "eynibulag"
+  },
+  "code": {
+    "id": "AZ305024",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ305",
+    "level": 1,
+    "name": {
+      "local": "Siyəzən",
+      "en": "Siyazan",
+      "slug": "siyazan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.105",
+    "lon": "49.038"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ408045",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qəbələ Müskürlü",
+    "en": "Gabala Muskurlu",
+    "slug": "gabala-muskurlu"
+  },
+  "code": {
+    "id": "AZ408045",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ408",
+    "level": 1,
+    "name": {
+      "local": "Göyçay",
+      "en": "Goychay",
+      "slug": "goychay"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.559",
+    "lon": "47.617"
+  },
+  "metadata": {},
+  "source": {}
+}

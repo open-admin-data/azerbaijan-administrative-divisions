@@ -1,0 +1,45 @@
+{
+  "id": "AZ505079",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kiçik Qaramurad",
+    "en": "Kichik Garamurad",
+    "slug": "kichik-garamurad"
+  },
+  "code": {
+    "id": "AZ505079",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ505",
+    "level": 1,
+    "name": {
+      "local": "Gədəbəy",
+      "en": "Gadabey",
+      "slug": "gadabey"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.554",
+    "lon": "45.669"
+  },
+  "metadata": {},
+  "source": {}
+}

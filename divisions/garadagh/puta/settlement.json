@@ -1,0 +1,45 @@
+{
+  "id": "AZ100209",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Puta",
+    "en": "Puta",
+    "slug": "puta"
+  },
+  "code": {
+    "id": "AZ100209",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1002",
+    "level": 1,
+    "name": {
+      "local": "Qaradağ",
+      "en": "Garadagh",
+      "slug": "garadagh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.296",
+    "lon": "49.661"
+  },
+  "metadata": {},
+  "source": {}
+}

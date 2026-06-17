@@ -1,0 +1,45 @@
+{
+  "id": "AZ609088",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Rzalar",
+    "en": "Rzalar",
+    "slug": "rzalar"
+  },
+  "code": {
+    "id": "AZ609088",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ609",
+    "level": 1,
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.031",
+    "lon": "47.067"
+  },
+  "metadata": {},
+  "source": {}
+}

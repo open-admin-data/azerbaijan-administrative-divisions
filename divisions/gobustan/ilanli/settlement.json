@@ -1,0 +1,45 @@
+{
+  "id": "AZ307003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İlanlı",
+    "en": "Ilanli",
+    "slug": "ilanli"
+  },
+  "code": {
+    "id": "AZ307003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ307",
+    "level": 1,
+    "name": {
+      "local": "Qobustan",
+      "en": "Gobustan",
+      "slug": "gobustan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.479",
+    "lon": "49.029"
+  },
+  "metadata": {},
+  "source": {}
+}

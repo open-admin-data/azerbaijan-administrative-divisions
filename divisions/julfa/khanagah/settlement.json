@@ -1,0 +1,45 @@
+{
+  "id": "AZ106007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xanəgah",
+    "en": "Khanagah",
+    "slug": "khanagah"
+  },
+  "code": {
+    "id": "AZ106007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ106",
+    "level": 1,
+    "name": {
+      "local": "Culfa",
+      "en": "Julfa",
+      "slug": "julfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.191",
+    "lon": "45.709"
+  },
+  "metadata": {},
+  "source": {}
+}

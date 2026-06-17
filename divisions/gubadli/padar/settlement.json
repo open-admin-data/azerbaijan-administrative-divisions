@@ -1,0 +1,45 @@
+{
+  "id": "AZ603018",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Padar",
+    "en": "Padar",
+    "slug": "padar"
+  },
+  "code": {
+    "id": "AZ603018",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ603",
+    "level": 1,
+    "name": {
+      "local": "Qubadlı",
+      "en": "Gubadli",
+      "slug": "gubadli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.381",
+    "lon": "46.67"
+  },
+  "metadata": {},
+  "source": {}
+}

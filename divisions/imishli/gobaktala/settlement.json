@@ -1,0 +1,45 @@
+{
+  "id": "AZ907049",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Göbəktala",
+    "en": "Gobaktala",
+    "slug": "gobaktala"
+  },
+  "code": {
+    "id": "AZ907049",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.811",
+    "lon": "48.009"
+  },
+  "metadata": {},
+  "source": {}
+}

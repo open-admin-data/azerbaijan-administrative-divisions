@@ -1,0 +1,45 @@
+{
+  "id": "AZ503014",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "TOVUZ",
+    "en": "TOVUZ",
+    "slug": "tovuz"
+  },
+  "code": {
+    "id": "AZ503014",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.994",
+    "lon": "45.615"
+  },
+  "metadata": {},
+  "source": {}
+}

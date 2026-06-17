@@ -1,0 +1,45 @@
+{
+  "id": "AZ703018",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Güneyçartar",
+    "en": "Guneychartar",
+    "slug": "guneychartar"
+  },
+  "code": {
+    "id": "AZ703018",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ703",
+    "level": 1,
+    "name": {
+      "local": "Xocavənd",
+      "en": "Khojavand",
+      "slug": "khojavand"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.757",
+    "lon": "47.017"
+  },
+  "metadata": {},
+  "source": {}
+}

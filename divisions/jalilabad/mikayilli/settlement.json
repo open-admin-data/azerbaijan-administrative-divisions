@@ -1,0 +1,45 @@
+{
+  "id": "AZ806022",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mikayıllı",
+    "en": "Mikayilli",
+    "slug": "mikayilli"
+  },
+  "code": {
+    "id": "AZ806022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ806",
+    "level": 1,
+    "name": {
+      "local": "Cəlilabad",
+      "en": "Jalilabad",
+      "slug": "jalilabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.196",
+    "lon": "48.226"
+  },
+  "metadata": {},
+  "source": {}
+}

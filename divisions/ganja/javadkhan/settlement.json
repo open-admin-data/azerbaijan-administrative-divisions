@@ -1,0 +1,45 @@
+{
+  "id": "AZ2001006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Cavadxan",
+    "en": "Javadkhan",
+    "slug": "javadkhan"
+  },
+  "code": {
+    "id": "AZ2001006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ2001",
+    "level": 1,
+    "name": {
+      "local": "Gəncə",
+      "en": "Ganja",
+      "slug": "ganja"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ2001",
+      "level": 1,
+      "name": {
+        "local": "Gəncə",
+        "en": "Ganja",
+        "slug": "ganja"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.664",
+    "lon": "46.376"
+  },
+  "metadata": {},
+  "source": {}
+}

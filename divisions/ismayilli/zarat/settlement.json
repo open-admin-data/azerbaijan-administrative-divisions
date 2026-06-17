@@ -1,0 +1,45 @@
+{
+  "id": "AZ407092",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Zarat",
+    "en": "Zarat",
+    "slug": "zarat"
+  },
+  "code": {
+    "id": "AZ407092",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ407",
+    "level": 1,
+    "name": {
+      "local": "İsmayıllı",
+      "en": "Ismayilli",
+      "slug": "ismayilli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.923",
+    "lon": "48.407"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,44 @@
+# Surakhani — Azerbaijan Administrative Divisions
+
+> 7 settlements
+> Code: AZ1007
+> Coordinates: 40.411, 50.008
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əmircan (Amirjan)
+
+Code: AZ100706, Coordinates: 40.421, 49.989
+
+
+### Bülbülə (Bulbula)
+
+Code: AZ100702, Coordinates: 40.436, 49.988
+
+
+### Qaraçuxur (Garachukhur)
+
+Code: AZ100705, Coordinates: 40.4, 49.98
+
+
+### Hövsan (Hovsan)
+
+Code: AZ100701, Coordinates: 40.372, 50.087
+
+
+### Ramana
+
+Code: AZ100710, Coordinates: 40.455, 49.986
+
+
+### Yeni Suraxanı (Yeni Surakhani)
+
+Code: AZ100703, Coordinates: 40.427, 50.039
+
+
+### Zığ (Zigh)
+
+Code: AZ100704, Coordinates: 40.369, 49.987
+
+

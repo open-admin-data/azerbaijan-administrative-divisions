@@ -1,0 +1,45 @@
+{
+  "id": "AZ509056",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qızılhacılı",
+    "en": "Gizilhajili",
+    "slug": "gizilhajili"
+  },
+  "code": {
+    "id": "AZ509056",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.573",
+    "lon": "46.848"
+  },
+  "metadata": {},
+  "source": {}
+}

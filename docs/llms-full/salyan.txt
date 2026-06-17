@@ -1,0 +1,264 @@
+# Salyan — Azerbaijan Administrative Divisions
+
+> 51 settlements
+> Code: AZ809
+> Coordinates: 39.667, 48.983
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abadkənd (Abadkend)
+
+Code: AZ809050, Coordinates: 39.747, 49.014
+
+
+### Alçalı (Alchali)
+
+Code: AZ809031, Coordinates: 39.523, 48.923
+
+
+### Ərəbqardaşbəyli (Arabgardashbeyli)
+
+Code: AZ809040, Coordinates: 39.52, 49.003
+
+
+### Arbatan
+
+Code: AZ809025, Coordinates: 39.578, 48.949
+
+
+### Aşağı  Kürkəndi (Ashaghi  Kurkendi)
+
+Code: AZ809023, Coordinates: 39.618, 48.968
+
+
+### Aşağı Noxudlu (Ashaghi Nokhudlu)
+
+Code: AZ809021, Coordinates: 39.645, 48.952
+
+
+### Bəşirbəyli (Bashirbeyli)
+
+Code: AZ809010, Coordinates: 39.855, 48.938
+
+
+### Beştalı (Beshtali)
+
+Code: AZ809027, Coordinates: 39.561, 48.996
+
+
+### Bəydili (Beydili)
+
+Code: AZ809033, Coordinates: 39.501, 48.919
+
+
+### Birinci Varlı (Birinji Varli)
+
+Code: AZ809014, Coordinates: 39.813, 49.09
+
+
+### Boranıkənd (Boranikend)
+
+Code: AZ809037, Coordinates: 39.427, 48.828
+
+
+### Çadırlı (Chadirli)
+
+Code: AZ809008, Coordinates: 39.829, 48.946
+
+
+### Çuxanlı (Chukhanli)
+
+Code: AZ809022, Coordinates: 39.644, 48.97
+
+
+### Dayıkənd (Dayikend)
+
+Code: AZ809035, Coordinates: 39.453, 48.868
+
+
+### Düzənlik (Duzanlik)
+
+Code: AZ809012, Coordinates: 39.843, 49.042
+
+
+### Gəncəli (Ganjali)
+
+Code: AZ809001, Coordinates: 39.706, 48.958
+
+
+### Qarabağlı (Garabaghli)
+
+Code: AZ809048, Coordinates: 39.767, 48.959
+
+
+### Qaraçala (Garachala)
+
+Code: AZ809007, Coordinates: 39.807, 48.956
+
+
+### Qardili (Gardili)
+
+Code: AZ809047, Coordinates: 39.696, 49.065
+
+
+### Qırx Çıraq (Girkh Chirag)
+
+Code: AZ809042, Coordinates: 39.685, 49.018
+
+
+### Qızılağac (Gizilaghaj)
+
+Code: AZ809032, Coordinates: 39.513, 48.919
+
+
+### Gomuşçu (Gomushchu)
+
+Code: AZ809049, Coordinates: 39.782, 48.967
+
+
+### Quyçu (Guychu)
+
+Code: AZ809030, Coordinates: 39.536, 48.925
+
+
+### Həsənli (Hasanli)
+
+Code: AZ809046, Coordinates: 39.697, 49.09
+
+
+### İkinci Varlı (Ikinji Varli)
+
+Code: AZ809015, Coordinates: 39.792, 49.067
+
+
+### Cəngan (Jangan)
+
+Code: AZ809043, Coordinates: 39.555, 49.012
+
+
+### Kərimbəyli (Karimbeyli)
+
+Code: AZ809005, Coordinates: 39.79, 48.948
+
+
+### Xələc (Khalaj)
+
+Code: AZ809017, Coordinates: 39.746, 49.042
+
+
+### Xıdırlı (Khidirli)
+
+Code: AZ809011, Coordinates: 39.843, 49.322
+
+
+### Xocalı (Khojali)
+
+Code: AZ809039, Coordinates: 39.538, 49.014
+
+
+### Xurşud (Khurshud)
+
+Code: AZ809041, Coordinates: 39.629, 48.916
+
+
+### Kolanı (Kolani)
+
+Code: AZ809044, Coordinates: 39.757, 49.003
+
+
+### Kür Qaraqaşlı (Kur Garagashli)
+
+Code: AZ809026, Coordinates: 39.559, 48.988
+
+
+### Kürsəngi (Kursangi)
+
+Code: AZ809019, Coordinates: 39.783, 49.129
+
+
+### Marışlı (Marishli)
+
+Code: AZ809028, Coordinates: 39.569, 48.927
+
+
+### Pambıqkənd (Pambigkend)
+
+Code: AZ809009, Coordinates: 39.829, 48.915
+
+
+### Parça Xələc (Parcha Khalaj)
+
+Code: AZ809002, Coordinates: 39.715, 48.976
+
+
+### Peyk
+
+Code: AZ809013, Coordinates: 39.831, 49.085
+
+
+### Piratman
+
+Code: AZ809051, Coordinates: 39.688, 48.958
+
+
+### SALYAN
+
+Code: AZ809024, Coordinates: 39.602, 48.988
+
+
+### Sarvan
+
+Code: AZ809034, Coordinates: 39.481, 48.898
+
+
+### Seyidan
+
+Code: AZ809003, Coordinates: 39.73, 48.957
+
+
+### Seyidlər (Seyidlar)
+
+Code: AZ809036, Coordinates: 39.443, 48.844
+
+
+### Seyidsadıqlı (Seyidsadigli)
+
+Code: AZ809029, Coordinates: 39.545, 48.917
+
+
+### Şəkərli (Shakarli)
+
+Code: AZ809045, Coordinates: 39.713, 49.105
+
+
+### Şorsulu (Shorsulu)
+
+Code: AZ809038, Coordinates: 39.427, 48.843
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ809004, Coordinates: 39.771, 48.976
+
+
+### Yeni Uluxanlı (Yeni Ulukhanli)
+
+Code: AZ809016, Coordinates: 39.796, 49.026
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ809018, Coordinates: 39.716, 49.083
+
+
+### Yolüstü (Yolustu)
+
+Code: AZ809006, Coordinates: 39.795, 48.979
+
+
+### Yuxarı Noxudlu (Yukhari Nokhudlu)
+
+Code: AZ809020, Coordinates: 39.65, 48.937
+
+

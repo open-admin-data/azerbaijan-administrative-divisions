@@ -1,0 +1,45 @@
+{
+  "id": "AZ407078",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mulux",
+    "en": "Mulukh",
+    "slug": "mulukh"
+  },
+  "code": {
+    "id": "AZ407078",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ407",
+    "level": 1,
+    "name": {
+      "local": "İsmayıllı",
+      "en": "Ismayilli",
+      "slug": "ismayilli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.87",
+    "lon": "48.3"
+  },
+  "metadata": {},
+  "source": {}
+}

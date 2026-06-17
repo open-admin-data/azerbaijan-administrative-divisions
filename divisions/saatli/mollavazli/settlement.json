@@ -1,0 +1,45 @@
+{
+  "id": "AZ908012",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mollavazlı",
+    "en": "Mollavazli",
+    "slug": "mollavazli"
+  },
+  "code": {
+    "id": "AZ908012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ908",
+    "level": 1,
+    "name": {
+      "local": "Saatlı",
+      "en": "Saatli",
+      "slug": "saatli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.917",
+    "lon": "48.343"
+  },
+  "metadata": {},
+  "source": {}
+}

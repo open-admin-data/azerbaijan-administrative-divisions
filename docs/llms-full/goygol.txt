@@ -1,0 +1,234 @@
+# Goygol — Azerbaijan Administrative Divisions
+
+> 45 settlements
+> Code: AZ508
+> Coordinates: 40.58, 46.309
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağdağ (Aghdagh)
+
+Code: AZ508037, Coordinates: 40.561, 46.331
+
+
+### Əlimədədli (Alimadadli)
+
+Code: AZ508001, Coordinates: 40.763, 46.31
+
+
+### Aşağı Zurnabad (Ashaghi  Zurnabad)
+
+Code: AZ508042, Coordinates: 40.536, 46.262
+
+
+### Aşıqlı (Ashigli)
+
+Code: AZ508025, Coordinates: 40.542, 46.335
+
+
+### Əzgilli (Azgilli)
+
+Code: AZ508031, Coordinates: 40.41, 46.288
+
+
+### Bəhrambağ (Bahrambagh)
+
+Code: AZ508036, Coordinates: 40.665, 46.281
+
+
+### Balçılı (Balchili)
+
+Code: AZ508003, Coordinates: 40.684, 46.273
+
+
+### Bənövşəli (Banovshali)
+
+Code: AZ508022, Coordinates: 40.497, 46.359
+
+
+### Çaykənd (Chaykend)
+
+Code: AZ508019, Coordinates: 40.469, 46.365
+
+
+### Çaylı (Chayli)
+
+Code: AZ508033, Coordinates: 40.59, 46.508
+
+
+### Damcılı (Damjili)
+
+Code: AZ508010, Coordinates: 40.626, 46.227
+
+
+### Danayeri
+
+Code: AZ508005, Coordinates: 40.622, 46.182
+
+
+### Dozular
+
+Code: AZ508030, Coordinates: 40.535, 46.477
+
+
+### Firuzabad
+
+Code: AZ508035, Coordinates: 40.61, 46.312
+
+
+### Gəncə (Ganja)
+
+Code: AZ508015, Coordinates: 40.53, 46.254
+
+
+### Qarabulaq (Garabulag)
+
+Code: AZ508020, Coordinates: 40.46, 46.39
+
+
+### Qırıqlı (Girigli)
+
+Code: AZ508007, Coordinates: 40.661, 46.259
+
+
+### Qızılqaya (Gizilgaya)
+
+Code: AZ508045, Coordinates: 40.64, 46.334
+
+
+### Qızılca (Gizilja)
+
+Code: AZ508009, Coordinates: 40.629, 46.227
+
+
+### Göyçəkənd (Goychakend)
+
+Code: AZ508039, Coordinates: 40.503, 46.381
+
+
+### GÖYGÖL (GOYGOL)
+
+Code: AZ508026, Coordinates: 40.584, 46.322
+
+
+### Quşçu (Gushchu)
+
+Code: AZ508021, Coordinates: 40.473, 46.404
+
+
+### Quşqara (Gushgara)
+
+Code: AZ508002, Coordinates: 40.716, 46.294
+
+
+### Haçaqaya (Hachagaya)
+
+Code: AZ508006, Coordinates: 40.655, 46.229
+
+
+### Hacıməlik (Hajimalik)
+
+Code: AZ508028, Coordinates: 40.632, 46.41
+
+
+### Cümşüdlü (Jumshudlu)
+
+Code: AZ508038, Coordinates: 40.667, 46.268
+
+
+### Kərəmli (Karamli)
+
+Code: AZ508013, Coordinates: 40.555, 46.214
+
+
+### Keşkü (Keshku)
+
+Code: AZ508024, Coordinates: 40.535, 46.31
+
+
+### Xaqani (Khagani)
+
+Code: AZ508034, Coordinates: 40.709, 46.277
+
+
+### Mollacəlilli (Mollajalilli)
+
+Code: AZ508027, Coordinates: 40.593, 46.37
+
+
+### Nadil
+
+Code: AZ508041, Coordinates: 40.739, 46.29
+
+
+### Pənahlılar (Panahlilar)
+
+Code: AZ508029, Coordinates: 40.553, 46.492
+
+
+### Səmədli (Samadli)
+
+Code: AZ508044, Coordinates: 40.717, 46.283
+
+
+### Sarısu (Sarisu)
+
+Code: AZ508032, Coordinates: 40.445, 46.413
+
+
+### Sərkar (Sarkar)
+
+Code: AZ508008, Coordinates: 40.647, 46.247
+
+
+### Şəhriyar (Shahriyar)
+
+Code: AZ508014, Coordinates: 40.524, 46.208
+
+
+### Toğanalı (Toghanali)
+
+Code: AZ508018, Coordinates: 40.425, 46.315
+
+
+### Topalhəsənli (Topalhasanli)
+
+Code: AZ508012, Coordinates: 40.559, 46.281
+
+
+### Tulallar
+
+Code: AZ508017, Coordinates: 40.442, 46.239
+
+
+### Üçbulaq (Uchbulag)
+
+Code: AZ508023, Coordinates: 40.517, 46.285
+
+
+### Üçtəpə (Uchtepe)
+
+Code: AZ508004, Coordinates: 40.631, 46.311
+
+
+### Yalqışlaq (Yalgishlag)
+
+Code: AZ508011, Coordinates: 40.612, 46.213
+
+
+### Yeni Qızılca (Yeni Gizilja)
+
+Code: AZ508043, Coordinates: 40.645, 46.261
+
+
+### Yeni Zod
+
+Code: AZ508040, Coordinates: 40.486, 46.352
+
+
+### Zurnabad
+
+Code: AZ508016, Coordinates: 40.5, 46.241
+
+

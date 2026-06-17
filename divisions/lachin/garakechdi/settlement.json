@@ -1,0 +1,45 @@
+{
+  "id": "AZ602114",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarakeçdi",
+    "en": "Garakechdi",
+    "slug": "garakechdi"
+  },
+  "code": {
+    "id": "AZ602114",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.751",
+    "lon": "46.276"
+  },
+  "metadata": {},
+  "source": {}
+}

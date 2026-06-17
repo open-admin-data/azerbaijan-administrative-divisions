@@ -1,0 +1,45 @@
+{
+  "id": "AZ410025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Göylər Dağ",
+    "en": "Goylar  Dagh",
+    "slug": "goylar-dagh"
+  },
+  "code": {
+    "id": "AZ410025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ410",
+    "level": 1,
+    "name": {
+      "local": "Şamaxı",
+      "en": "Shamakhi",
+      "slug": "shamakhi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.491",
+    "lon": "48.679"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ103015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Uzunoba",
+    "en": "Yukhari Uzunoba",
+    "slug": "yukhari-uzunoba"
+  },
+  "code": {
+    "id": "AZ103015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ103",
+    "level": 1,
+    "name": {
+      "local": "Babək",
+      "en": "Babak",
+      "slug": "babak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.291",
+    "lon": "45.444"
+  },
+  "metadata": {},
+  "source": {}
+}

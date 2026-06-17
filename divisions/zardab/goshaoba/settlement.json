@@ -1,0 +1,45 @@
+{
+  "id": "AZ905042",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qoşaoba",
+    "en": "Goshaoba",
+    "slug": "goshaoba"
+  },
+  "code": {
+    "id": "AZ905042",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ905",
+    "level": 1,
+    "name": {
+      "local": "Zərdab",
+      "en": "Zardab",
+      "slug": "zardab"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.219",
+    "lon": "47.719"
+  },
+  "metadata": {},
+  "source": {}
+}

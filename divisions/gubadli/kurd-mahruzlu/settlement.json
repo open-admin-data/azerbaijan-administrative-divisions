@@ -1,0 +1,45 @@
+{
+  "id": "AZ603073",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kürd Mahruzlu",
+    "en": "Kurd Mahruzlu",
+    "slug": "kurd-mahruzlu"
+  },
+  "code": {
+    "id": "AZ603073",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ603",
+    "level": 1,
+    "name": {
+      "local": "Qubadlı",
+      "en": "Gubadli",
+      "slug": "gubadli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.214",
+    "lon": "46.735"
+  },
+  "metadata": {},
+  "source": {}
+}

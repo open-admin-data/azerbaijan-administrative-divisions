@@ -1,0 +1,45 @@
+{
+  "id": "AZ410010",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çarhan",
+    "en": "Charhan",
+    "slug": "charhan"
+  },
+  "code": {
+    "id": "AZ410010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ410",
+    "level": 1,
+    "name": {
+      "local": "Şamaxı",
+      "en": "Shamakhi",
+      "slug": "shamakhi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.552",
+    "lon": "48.647"
+  },
+  "metadata": {},
+  "source": {}
+}

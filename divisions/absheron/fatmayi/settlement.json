@@ -1,0 +1,45 @@
+{
+  "id": "AZ308012",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Fatmayı",
+    "en": "Fatmayi",
+    "slug": "fatmayi"
+  },
+  "code": {
+    "id": "AZ308012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ308",
+    "level": 1,
+    "name": {
+      "local": "Abşeron",
+      "en": "Absheron",
+      "slug": "absheron"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.53",
+    "lon": "49.847"
+  },
+  "metadata": {},
+  "source": {}
+}

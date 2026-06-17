@@ -1,0 +1,45 @@
+{
+  "id": "AZ609082",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Gül Baharlı",
+    "en": "Gul Baharli",
+    "slug": "gul-baharli"
+  },
+  "code": {
+    "id": "AZ609082",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ609",
+    "level": 1,
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.114",
+    "lon": "47.084"
+  },
+  "metadata": {},
+  "source": {}
+}

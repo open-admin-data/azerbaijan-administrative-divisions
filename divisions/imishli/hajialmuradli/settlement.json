@@ -1,0 +1,45 @@
+{
+  "id": "AZ907040",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacıalmuradlı",
+    "en": "Hajialmuradli",
+    "slug": "hajialmuradli"
+  },
+  "code": {
+    "id": "AZ907040",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.765",
+    "lon": "48.216"
+  },
+  "metadata": {},
+  "source": {}
+}

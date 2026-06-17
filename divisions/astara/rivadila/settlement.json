@@ -1,0 +1,45 @@
+{
+  "id": "AZ801060",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Rıvadila",
+    "en": "Rivadila",
+    "slug": "rivadila"
+  },
+  "code": {
+    "id": "AZ801060",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ801",
+    "level": 1,
+    "name": {
+      "local": "Astara",
+      "en": "Astara",
+      "slug": "astara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.566",
+    "lon": "48.62"
+  },
+  "metadata": {},
+  "source": {}
+}

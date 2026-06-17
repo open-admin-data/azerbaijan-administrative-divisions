@@ -1,0 +1,45 @@
+{
+  "id": "AZ502017",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Kəsəmən",
+    "en": "Ashaghi Kasaman",
+    "slug": "ashaghi-kasaman"
+  },
+  "code": {
+    "id": "AZ502017",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ502",
+    "level": 1,
+    "name": {
+      "local": "Ağstafa",
+      "en": "Aghstafa",
+      "slug": "aghstafa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.153",
+    "lon": "45.489"
+  },
+  "metadata": {},
+  "source": {}
+}

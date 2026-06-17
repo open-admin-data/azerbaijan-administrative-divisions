@@ -1,0 +1,45 @@
+{
+  "id": "AZ100106",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "28 May",
+    "en": "28 May",
+    "slug": "28-may"
+  },
+  "code": {
+    "id": "AZ100106",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1001",
+    "level": 1,
+    "name": {
+      "local": "Binəqədi",
+      "en": "Binagadi",
+      "slug": "binagadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1001",
+      "level": 1,
+      "name": {
+        "local": "Binəqədi",
+        "en": "Binagadi",
+        "slug": "binagadi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.461",
+    "lon": "49.64"
+  },
+  "metadata": {},
+  "source": {}
+}

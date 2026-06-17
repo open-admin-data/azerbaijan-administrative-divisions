@@ -1,0 +1,45 @@
+{
+  "id": "AZ405009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ərmənət",
+    "en": "Armanat",
+    "slug": "armanat"
+  },
+  "code": {
+    "id": "AZ405009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ405",
+    "level": 1,
+    "name": {
+      "local": "Oğuz",
+      "en": "Oghuz",
+      "slug": "oghuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.063",
+    "lon": "47.569"
+  },
+  "metadata": {},
+  "source": {}
+}

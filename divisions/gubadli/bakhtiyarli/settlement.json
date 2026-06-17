@@ -1,0 +1,45 @@
+{
+  "id": "AZ603006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bəxtiyarlı",
+    "en": "Bakhtiyarli",
+    "slug": "bakhtiyarli"
+  },
+  "code": {
+    "id": "AZ603006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ603",
+    "level": 1,
+    "name": {
+      "local": "Qubadlı",
+      "en": "Gubadli",
+      "slug": "gubadli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.387",
+    "lon": "46.538"
+  },
+  "metadata": {},
+  "source": {}
+}

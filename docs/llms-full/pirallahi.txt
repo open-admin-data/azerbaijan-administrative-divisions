@@ -1,0 +1,29 @@
+# Pirallahi — Azerbaijan Administrative Divisions
+
+> 4 settlements
+> Code: AZ1012
+> Coordinates: 40.356, 50.526
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Çilov (Chilov)
+
+Code: AZ101204, Coordinates: 40.316, 50.588
+
+
+### Gürgən (Gurgan)
+
+Code: AZ101202, Coordinates: 40.399, 50.334
+
+
+### Neft Daşları (Neft Dashlari)
+
+Code: AZ101203, Coordinates: 40.24, 50.854
+
+
+### Pirallahı (Pirallahi)
+
+Code: AZ101201, Coordinates: 40.47, 50.328
+
+

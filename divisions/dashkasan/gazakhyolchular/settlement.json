@@ -1,0 +1,45 @@
+{
+  "id": "AZ506024",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qazaxyolçular",
+    "en": "Gazakhyolchular",
+    "slug": "gazakhyolchular"
+  },
+  "code": {
+    "id": "AZ506024",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ506",
+    "level": 1,
+    "name": {
+      "local": "Daşkəsən",
+      "en": "Dashkasan",
+      "slug": "dashkasan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.461",
+    "lon": "46.072"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ408041",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeniarx",
+    "en": "Yeniarkh",
+    "slug": "yeniarkh"
+  },
+  "code": {
+    "id": "AZ408041",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ408",
+    "level": 1,
+    "name": {
+      "local": "Göyçay",
+      "en": "Goychay",
+      "slug": "goychay"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.572",
+    "lon": "47.668"
+  },
+  "metadata": {},
+  "source": {}
+}

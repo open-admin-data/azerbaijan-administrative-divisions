@@ -1,0 +1,45 @@
+{
+  "id": "AZ309002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacı Zeynalabdin",
+    "en": "Haji  Zeynalabdin",
+    "slug": "haji-zeynalabdin"
+  },
+  "code": {
+    "id": "AZ309002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ309",
+    "level": 1,
+    "name": {
+      "local": "Sumqayıt",
+      "en": "Sumgayit",
+      "slug": "sumgayit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ309",
+      "level": 1,
+      "name": {
+        "local": "Sumqayıt",
+        "en": "Sumgayit",
+        "slug": "sumgayit"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.62",
+    "lon": "49.56"
+  },
+  "metadata": {},
+  "source": {}
+}

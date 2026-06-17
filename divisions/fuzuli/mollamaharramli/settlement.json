@@ -1,0 +1,45 @@
+{
+  "id": "AZ606050",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mollaməhərrəmli",
+    "en": "Mollamaharramli",
+    "slug": "mollamaharramli"
+  },
+  "code": {
+    "id": "AZ606050",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.466",
+    "lon": "47.363"
+  },
+  "metadata": {},
+  "source": {}
+}

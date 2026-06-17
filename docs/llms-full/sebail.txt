@@ -1,0 +1,19 @@
+# Sebail — Azerbaijan Administrative Divisions
+
+> 2 settlements
+> Code: AZ1005
+> Coordinates: 40.321, 49.818
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Badamdar
+
+Code: AZ100502, Coordinates: 40.337, 49.814
+
+
+### Bibiheybət (Bibiheybat)
+
+Code: AZ100501, Coordinates: 40.305, 49.822
+
+

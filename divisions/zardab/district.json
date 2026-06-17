@@ -1,0 +1,33 @@
+{
+  "id": "AZ905",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zərdab",
+    "en": "Zardab",
+    "slug": "zardab"
+  },
+  "code": {
+    "id": "AZ905",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.213",
+    "lon": "47.684"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/zardab/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

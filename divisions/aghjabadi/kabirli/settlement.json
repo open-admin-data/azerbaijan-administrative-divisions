@@ -1,0 +1,45 @@
+{
+  "id": "AZ608013",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kəbirli",
+    "en": "Kabirli",
+    "slug": "kabirli"
+  },
+  "code": {
+    "id": "AZ608013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ608",
+    "level": 1,
+    "name": {
+      "local": "Ağcabədi",
+      "en": "Aghjabadi",
+      "slug": "aghjabadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.867",
+    "lon": "47.451"
+  },
+  "metadata": {},
+  "source": {}
+}

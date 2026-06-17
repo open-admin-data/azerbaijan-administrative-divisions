@@ -1,0 +1,45 @@
+{
+  "id": "AZ801069",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Avyarud",
+    "en": "Avyarud",
+    "slug": "avyarud"
+  },
+  "code": {
+    "id": "AZ801069",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ801",
+    "level": 1,
+    "name": {
+      "local": "Astara",
+      "en": "Astara",
+      "slug": "astara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.506",
+    "lon": "48.612"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ408031",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Qaraməryəm",
+    "en": "Ashaghi Garamaryam",
+    "slug": "ashaghi-garamaryam"
+  },
+  "code": {
+    "id": "AZ408031",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ408",
+    "level": 1,
+    "name": {
+      "local": "Göyçay",
+      "en": "Goychay",
+      "slug": "goychay"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.574",
+    "lon": "47.985"
+  },
+  "metadata": {},
+  "source": {}
+}

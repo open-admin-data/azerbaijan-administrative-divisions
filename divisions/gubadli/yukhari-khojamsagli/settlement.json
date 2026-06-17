@@ -1,0 +1,45 @@
+{
+  "id": "AZ603038",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Xocamsaqlı",
+    "en": "Yukhari Khojamsagli",
+    "slug": "yukhari-khojamsagli"
+  },
+  "code": {
+    "id": "AZ603038",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ603",
+    "level": 1,
+    "name": {
+      "local": "Qubadlı",
+      "en": "Gubadli",
+      "slug": "gubadli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.319",
+    "lon": "46.566"
+  },
+  "metadata": {},
+  "source": {}
+}

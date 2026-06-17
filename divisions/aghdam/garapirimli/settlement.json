@@ -1,0 +1,45 @@
+{
+  "id": "AZ609028",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarapirimli",
+    "en": "Garapirimli",
+    "slug": "garapirimli"
+  },
+  "code": {
+    "id": "AZ609028",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ609",
+    "level": 1,
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.156",
+    "lon": "46.86"
+  },
+  "metadata": {},
+  "source": {}
+}

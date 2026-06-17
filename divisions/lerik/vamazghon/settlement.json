@@ -1,0 +1,45 @@
+{
+  "id": "AZ803083",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Vamazğon",
+    "en": "Vamazghon",
+    "slug": "vamazghon"
+  },
+  "code": {
+    "id": "AZ803083",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.93",
+    "lon": "48.531"
+  },
+  "metadata": {},
+  "source": {}
+}

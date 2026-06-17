@@ -1,0 +1,45 @@
+{
+  "id": "AZ906035",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şahsevən",
+    "en": "Shahsevan",
+    "slug": "shahsevan"
+  },
+  "code": {
+    "id": "AZ906035",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ906",
+    "level": 1,
+    "name": {
+      "local": "Kürdəmir",
+      "en": "Kurdamir",
+      "slug": "kurdamir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.365",
+    "lon": "48.198"
+  },
+  "metadata": {},
+  "source": {}
+}

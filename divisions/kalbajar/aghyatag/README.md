@@ -1,0 +1,21 @@
+# Ağyataq (Aghyatag)
+
+[Home](../../../) &gt; [Kalbajar](../) > **Aghyatag**
+
+Ağyataq (Aghyatag) is a settlement in Azerbaijan, under Kalbajar.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Code | AZ601075 |
+| Coordinates | 40.081, 46.173 |
+| Parent | Kalbajar |
+
+## Data Files
+
+- [settlement.json](settlement.json) — Settlement metadata
+
+---
+
+<- Back to [Kalbajar](../)

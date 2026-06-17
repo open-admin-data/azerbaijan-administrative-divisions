@@ -1,0 +1,45 @@
+{
+  "id": "AZ303103",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qırmızı Qəsəbə",
+    "en": "Girmizi Gasaba",
+    "slug": "girmizi-gasaba"
+  },
+  "code": {
+    "id": "AZ303103",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.371",
+    "lon": "48.516"
+  },
+  "metadata": {},
+  "source": {}
+}

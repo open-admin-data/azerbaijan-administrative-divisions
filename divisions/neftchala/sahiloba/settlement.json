@@ -1,0 +1,45 @@
+{
+  "id": "AZ807046",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sahiloba",
+    "en": "Sahiloba",
+    "slug": "sahiloba"
+  },
+  "code": {
+    "id": "AZ807046",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ807",
+    "level": 1,
+    "name": {
+      "local": "Neftçala",
+      "en": "Neftchala",
+      "slug": "neftchala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.133",
+    "lon": "49.209"
+  },
+  "metadata": {},
+  "source": {}
+}

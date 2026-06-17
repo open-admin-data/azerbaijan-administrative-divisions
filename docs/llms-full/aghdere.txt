@@ -1,0 +1,304 @@
+# Aghdere — Azerbaijan Administrative Divisions
+
+> 59 settlements
+> Code: AZ612
+> Coordinates: 40.167, 46.679
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağabəyyalı (Aghabeyyali)
+
+Code: AZ611069, Coordinates: 40.208, 46.794
+
+
+### AĞDƏRƏ (AGHDERE)
+
+Code: AZ611031, Coordinates: 40.212, 46.821
+
+
+### Ballıqaya (Balligaya)
+
+Code: AZ609126, Coordinates: 40.06, 46.676
+
+
+### Baş Güneypəyə (Bash Guneypeye)
+
+Code: AZ609052, Coordinates: 40.097, 46.704
+
+
+### Bəşirlər (Bashirlar)
+
+Code: AZ609135, Coordinates: 40.071, 46.707
+
+
+### Bazarkənd (Bazarkend)
+
+Code: AZ601116, Coordinates: 40.058, 46.586
+
+
+### Çapar (Chapar)
+
+Code: AZ601149, Coordinates: 40.153, 46.423
+
+
+### Çərəkdar (Charakdar)
+
+Code: AZ612001, Coordinates: 40.139, 46.344
+
+
+### Çardaqlı (Chardagli)
+
+Code: AZ611073, Coordinates: 40.249, 46.72
+
+
+### Çaylı (Chayli)
+
+Code: AZ611016, Coordinates: 40.331, 46.823
+
+
+### Çiləbürt (Chilaburt)
+
+Code: AZ611076, Coordinates: 40.261, 46.853
+
+
+### Çıldıran (Childiran)
+
+Code: AZ601099, Coordinates: 40.1, 46.639
+
+
+### Çıraqlı (Chiragli)
+
+Code: AZ611075, Coordinates: 40.173, 46.731
+
+
+### Çormanlı (Chormanli)
+
+Code: AZ601118, Coordinates: 40.031, 46.569
+
+
+### Damğalı (Damghali)
+
+Code: AZ601095, Coordinates: 40.019, 46.614
+
+
+### Dəmirli (Damirli)
+
+Code: AZ611029, Coordinates: 40.178, 46.765
+
+
+### Dəvədaşı (Devedashi)
+
+Code: AZ601127, Coordinates: 40.126, 46.62
+
+
+### Dovşanlı (Dovshanli)
+
+Code: AZ601117, Coordinates: 40.056, 46.608
+
+
+### Qaraşlar (Garashlar)
+
+Code: AZ609136, Coordinates: 40.057, 46.707
+
+
+### Qazançı (Gazanchi)
+
+Code: AZ609054, Coordinates: 40.066, 46.747
+
+
+### Qırmızı Saqqallar (Girmizi Saggallar)
+
+Code: AZ611064, Coordinates: 40.417, 46.775
+
+
+### Qızılqaya (Gizilgaya)
+
+Code: AZ612007, Coordinates: 40.124, 46.515
+
+
+### Qızıloba (Giziloba)
+
+Code: AZ611077, Coordinates: 40.263, 46.942
+
+
+### Göyarx (Goyarkh)
+
+Code: AZ611034, Coordinates: 40.315, 46.809
+
+
+### Qozlu (Gozlu)
+
+Code: AZ612007, Coordinates: 40.113, 46.473
+
+
+### Qozlukörpü (Gozlukorpu)
+
+Code: AZ612006, Coordinates: 40.133, 46.456
+
+
+### Gülyataq (Gulyatag)
+
+Code: AZ611028, Coordinates: 40.152, 46.759
+
+
+### Həsənqaya (Hasangaya)
+
+Code: AZ611035, Coordinates: 40.323, 46.849
+
+
+### Həsənriz (Hasanriz)
+
+Code: AZ612005, Coordinates: 40.165, 46.516
+
+
+### Hayad
+
+Code: AZ601098, Coordinates: 40.049, 46.64
+
+
+### Heyvalı (Heyvali)
+
+Code: AZ601126, Coordinates: 40.149, 46.613
+
+
+### İmarət Qərvənd (Imarat Garvand)
+
+Code: AZ612002, Coordinates: 40.161, 46.433
+
+
+### Canyataq (Janyatag)
+
+Code: AZ611027, Coordinates: 40.134, 46.764
+
+
+### Xatınbəyli (Khatinbeyli)
+
+Code: AZ609132, Coordinates: 40.094, 46.737
+
+
+### Kiçik Qarabəy (Kichik Garabey)
+
+Code: AZ611070, Coordinates: 40.211, 46.754
+
+
+### Kolatağ (Kolatagh)
+
+Code: AZ601094, Coordinates: 40.001, 46.604
+
+
+### Lüləsaz (Lulasaz)
+
+Code: AZ611074, Coordinates: 40.276, 46.73
+
+
+### Məlikli (Malikli)
+
+Code: AZ609125, Coordinates: 40.1, 46.765
+
+
+### Maralyansarov
+
+Code: AZ611066, Coordinates: 40.322, 46.822
+
+
+### Meqrelalay (Megrelalay)
+
+Code: AZ611072, Coordinates: 40.245, 46.736
+
+
+### Mehmana
+
+Code: AZ601100, Coordinates: 40.15, 46.67
+
+
+### Narınclar (Narinjlar)
+
+Code: AZ601119, Coordinates: 40.037, 46.41
+
+
+### Orta Güneypəyə (Orta Guneypeye)
+
+Code: AZ609053, Coordinates: 40.092, 46.727
+
+
+### Ortakənd (Ortakend)
+
+Code: AZ611030, Coordinates: 40.187, 46.781
+
+
+### Seysulan
+
+Code: AZ611044, Coordinates: 40.247, 46.986
+
+
+### Şahmansurlu (Shahmansurlu)
+
+Code: AZ601097, Coordinates: 40.06, 46.566
+
+
+### Şıxarx (Shikharkh)
+
+Code: AZ611015, Coordinates: 40.33, 46.884
+
+
+### Sırxavənd (Sirkhavand)
+
+Code: AZ609056, Coordinates: 40.061, 46.687
+
+
+### Suqovuşan (Sugovushan)
+
+Code: AZ611033, Coordinates: 40.325, 46.75
+
+
+### Talış (Talish)
+
+Code: AZ611017, Coordinates: 40.377, 46.743
+
+
+### Təpəkənd (Tepekend)
+
+Code: AZ611032, Coordinates: 40.306, 46.698
+
+
+### Ulu Qarabəy (Ulu Garabey)
+
+Code: AZ611071, Coordinates: 40.212, 46.707
+
+
+### Umudlu
+
+Code: AZ611026, Coordinates: 40.191, 46.591
+
+
+### Vəngli (Vangli)
+
+Code: AZ601096, Coordinates: 40.054, 46.545
+
+
+### Yarımca (Yarimja)
+
+Code: AZ611045, Coordinates: 40.233, 46.983
+
+
+### Yayıcı (Yayiji)
+
+Code: AZ601125, Coordinates: 40.125, 46.578
+
+
+### Yuxarı Oratağ (Yukhari Oratagh)
+
+Code: AZ612009, Coordinates: 40.131, 46.535
+
+
+### Zərdaxaç (Zardakhach)
+
+Code: AZ612003, Coordinates: 40.154, 46.473
+
+
+### Zəylik (Zaylik)
+
+Code: AZ611025, Coordinates: 40.17, 46.579
+
+

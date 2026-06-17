@@ -1,0 +1,45 @@
+{
+  "id": "AZ804019",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ərsilə",
+    "en": "Arsila",
+    "slug": "arsila"
+  },
+  "code": {
+    "id": "AZ804019",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ804",
+    "level": 1,
+    "name": {
+      "local": "Yardımlı",
+      "en": "Yardimli",
+      "slug": "yardimli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.975",
+    "lon": "48.346"
+  },
+  "metadata": {},
+  "source": {}
+}

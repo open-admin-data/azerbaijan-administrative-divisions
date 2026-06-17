@@ -1,0 +1,45 @@
+{
+  "id": "AZ301066",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qalacıq",
+    "en": "Galajig",
+    "slug": "galajig"
+  },
+  "code": {
+    "id": "AZ301066",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.511",
+    "lon": "48.514"
+  },
+  "metadata": {},
+  "source": {}
+}

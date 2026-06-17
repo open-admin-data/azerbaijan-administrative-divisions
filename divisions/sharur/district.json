@@ -1,0 +1,33 @@
+{
+  "id": "AZ102",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Şərur",
+    "en": "Sharur",
+    "slug": "sharur"
+  },
+  "code": {
+    "id": "AZ102",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 65
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.543",
+    "lon": "45.015"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/sharur/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

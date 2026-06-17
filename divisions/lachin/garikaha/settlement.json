@@ -1,0 +1,45 @@
+{
+  "id": "AZ602061",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarıkaha",
+    "en": "Garikaha",
+    "slug": "garikaha"
+  },
+  "code": {
+    "id": "AZ602061",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.655",
+    "lon": "46.535"
+  },
+  "metadata": {},
+  "source": {}
+}

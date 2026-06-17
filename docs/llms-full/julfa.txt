@@ -1,0 +1,124 @@
+# Julfa — Azerbaijan Administrative Divisions
+
+> 23 settlements
+> Code: AZ106
+> Coordinates: 39.147, 45.701
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əbrəqunus (Abragunus)
+
+Code: AZ106013, Coordinates: 39.136, 45.635
+
+
+### Əlincə (Alinja)
+
+Code: AZ106023, Coordinates: 39.177, 45.696
+
+
+### Ərəfsə (Arafsa)
+
+Code: AZ106003, Coordinates: 39.293, 45.788
+
+
+### Ərəzin (Arazin)
+
+Code: AZ106015, Coordinates: 39.112, 45.582
+
+
+### Bənəniyar (Bananiyar)
+
+Code: AZ106011, Coordinates: 39.148, 45.65
+
+
+### Boyəhməd (Boyahmad)
+
+Code: AZ106001, Coordinates: 39.268, 45.846
+
+
+### Dizə (Diza)
+
+Code: AZ106017, Coordinates: 39.009, 45.742
+
+
+### Gal
+
+Code: AZ106018, Coordinates: 39.121, 45.747
+
+
+### Qazançı (Gazanchi)
+
+Code: AZ106006, Coordinates: 39.24, 45.703
+
+
+### Qızılca (Gizilja)
+
+Code: AZ106014, Coordinates: 39.122, 45.628
+
+
+### Göydərə (Goydere)
+
+Code: AZ106009, Coordinates: 39.163, 45.678
+
+
+### Gülüstan (Gulustan)
+
+Code: AZ106020, Coordinates: 38.983, 45.59
+
+
+### Camaldın (Jamaldin)
+
+Code: AZ106016, Coordinates: 39.091, 45.602
+
+
+### CULFA (JULFA)
+
+Code: AZ106021, Coordinates: 38.957, 45.629
+
+
+### Xanəgah (Khanagah)
+
+Code: AZ106007, Coordinates: 39.191, 45.709
+
+
+### Xoşkeşin (Khoshkeshin)
+
+Code: AZ106008, Coordinates: 39.169, 45.697
+
+
+### Kırna (Kirna)
+
+Code: AZ106012, Coordinates: 39.138, 45.656
+
+
+### Ləkətağ (Lakatagh)
+
+Code: AZ106002, Coordinates: 39.29, 45.827
+
+
+### Milax (Milakh)
+
+Code: AZ106004, Coordinates: 39.271, 45.74
+
+
+### Saltaq (Saltag)
+
+Code: AZ106010, Coordinates: 39.153, 45.669
+
+
+### Şurud (Shurud)
+
+Code: AZ106019, Coordinates: 39.147, 45.8
+
+
+### Teyvaz
+
+Code: AZ106005, Coordinates: 39.257, 45.776
+
+
+### Yaycı (Yayji)
+
+Code: AZ106022, Coordinates: 38.949, 45.73
+
+

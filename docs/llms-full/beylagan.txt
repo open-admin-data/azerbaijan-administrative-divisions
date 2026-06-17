@@ -1,0 +1,219 @@
+# Beylagan — Azerbaijan Administrative Divisions
+
+> 42 settlements
+> Code: AZ607
+> Coordinates: 39.76, 47.692
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əhmədli (Ahmadli)
+
+Code: AZ607024, Coordinates: 39.719, 47.838
+
+
+### Əlinəzərli (Alinazarli)
+
+Code: AZ607013, Coordinates: 39.787, 47.696
+
+
+### Allahyarlı (Allahyarli)
+
+Code: AZ607040, Coordinates: 39.722, 47.572
+
+
+### Əmirzeydli (Amirzeydli)
+
+Code: AZ607033, Coordinates: 39.589, 47.659
+
+
+### Aşağı Çəmənli (Ashaghi Chamanli)
+
+Code: AZ607026, Coordinates: 39.684, 47.815
+
+
+### Aşıqalılar (Ashigalilar)
+
+Code: AZ607025, Coordinates: 39.709, 47.827
+
+
+### Bahar
+
+Code: AZ607005, Coordinates: 39.73, 47.724
+
+
+### Baharabad
+
+Code: AZ607008, Coordinates: 39.89, 47.523
+
+
+### BEYLƏQAN (BEYLAGAN)
+
+Code: AZ607004, Coordinates: 39.768, 47.604
+
+
+### Birinci Aşıqlı (Birinji Ashigli)
+
+Code: AZ607011, Coordinates: 39.82, 47.678
+
+
+### Birinci Şahsevən (Birinji Shahsevan)
+
+Code: AZ607029, Coordinates: 39.64, 47.753
+
+
+### Bolsulu
+
+Code: AZ607038, Coordinates: 39.792, 47.569
+
+
+### Bünyadlı (Bunyadli)
+
+Code: AZ607020, Coordinates: 39.763, 47.823
+
+
+### Dünyamalılar (Dunyamalilar)
+
+Code: AZ607006, Coordinates: 39.771, 47.762
+
+
+### Eyvazalılar (Eyvazalilar)
+
+Code: AZ607003, Coordinates: 39.87, 47.637
+
+
+### Qəhrəmanlı (Gahramanli)
+
+Code: AZ607017, Coordinates: 39.681, 47.685
+
+
+### Qaradağlı (Garadaghli)
+
+Code: AZ607030, Coordinates: 39.664, 47.785
+
+
+### Qaralılar (Garalilar)
+
+Code: AZ607022, Coordinates: 39.775, 47.877
+
+
+### Gödəklər (Godaklar)
+
+Code: AZ607021, Coordinates: 39.758, 47.849
+
+
+### Günəş (Gunash)
+
+Code: AZ607037, Coordinates: 39.857, 47.502
+
+
+### İkinci Aşıqlı (Ikinji Ashigli)
+
+Code: AZ607001, Coordinates: 39.849, 47.659
+
+
+### İkinci Şahsevən (Ikinji Shahsevan)
+
+Code: AZ607031, Coordinates: 39.631, 47.706
+
+
+### İmamverdili (Imamverdili)
+
+Code: AZ607023, Coordinates: 39.771, 47.901
+
+
+### Kəbirli (Kabirli)
+
+Code: AZ607009, Coordinates: 39.843, 47.528
+
+
+### Xaçınabad (Khachinabad)
+
+Code: AZ607041, Coordinates: 39.803, 47.492
+
+
+### Mayak
+
+Code: AZ607014, Coordinates: 39.761, 47.681
+
+
+### Mil
+
+Code: AZ607032, Coordinates: 39.638, 47.686
+
+
+### Milabad
+
+Code: AZ607028, Coordinates: 39.661, 47.66
+
+
+### Örənqala (Orangala)
+
+Code: AZ607034, Coordinates: 39.886, 47.497
+
+
+### Orconikidze (Orjonikidze)
+
+Code: AZ607042, Coordinates: 39.639, 47.7
+
+
+### Orta Əlinəzərli (Orta Alinazarli)
+
+Code: AZ607012, Coordinates: 39.804, 47.703
+
+
+### Sarısu (Sarisu)
+
+Code: AZ607019, Coordinates: 39.818, 47.82
+
+
+### Şəfəq (Shafag)
+
+Code: AZ607035, Coordinates: 39.792, 47.647
+
+
+### Şərq (Sharg)
+
+Code: AZ607018, Coordinates: 39.816, 47.77
+
+
+### Tatalılar (Tatalilar)
+
+Code: AZ607002, Coordinates: 39.864, 47.592
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ607010, Coordinates: 39.816, 47.591
+
+
+### Türklər (Turklar)
+
+Code: AZ607007, Coordinates: 39.805, 47.79
+
+
+### Vətağa (Vatagha)
+
+Code: AZ607039, Coordinates: 39.784, 47.924
+
+
+### Yeni Mil
+
+Code: AZ607016, Coordinates: 39.687, 47.652
+
+
+### Yuxarı Aran (Yukhari  Aran)
+
+Code: AZ607015, Coordinates: 39.729, 47.654
+
+
+### Yuxarı Çəmənli (Yukhari Chamanli)
+
+Code: AZ607027, Coordinates: 39.672, 47.792
+
+
+### Yuxarı Kəbirli (Yukhari Kabirli)
+
+Code: AZ607036, Coordinates: 39.859, 47.461
+
+

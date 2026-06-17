@@ -1,0 +1,45 @@
+{
+  "id": "AZ507006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Zazalı",
+    "en": "Zazali",
+    "slug": "zazali"
+  },
+  "code": {
+    "id": "AZ507006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ507",
+    "level": 1,
+    "name": {
+      "local": "Samux",
+      "en": "Samukh",
+      "slug": "samukh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.714",
+    "lon": "46.469"
+  },
+  "metadata": {},
+  "source": {}
+}

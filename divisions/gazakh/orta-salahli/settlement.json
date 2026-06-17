@@ -1,0 +1,45 @@
+{
+  "id": "AZ501029",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Orta Salahlı",
+    "en": "Orta Salahli",
+    "slug": "orta-salahli"
+  },
+  "code": {
+    "id": "AZ501029",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ501",
+    "level": 1,
+    "name": {
+      "local": "Qazax",
+      "en": "Gazakh",
+      "slug": "gazakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.189",
+    "lon": "45.324"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "AZ107",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ordubad",
+    "en": "Ordubad",
+    "slug": "ordubad"
+  },
+  "code": {
+    "id": "AZ107",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.996",
+    "lon": "45.931"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/ordubad/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

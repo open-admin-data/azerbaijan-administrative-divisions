@@ -1,0 +1,45 @@
+{
+  "id": "AZ402004",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yolayrıc",
+    "en": "Yolayrij",
+    "slug": "yolayrij"
+  },
+  "code": {
+    "id": "AZ402004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ402",
+    "level": 1,
+    "name": {
+      "local": "Zaqatala",
+      "en": "Zagatala",
+      "slug": "zagatala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.56",
+    "lon": "46.479"
+  },
+  "metadata": {},
+  "source": {}
+}

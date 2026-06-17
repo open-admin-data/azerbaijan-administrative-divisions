@@ -1,0 +1,45 @@
+{
+  "id": "AZ302023",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yergüc",
+    "en": "Yerguj",
+    "slug": "yerguj"
+  },
+  "code": {
+    "id": "AZ302023",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ302",
+    "level": 1,
+    "name": {
+      "local": "Xaçmaz",
+      "en": "Khachmaz",
+      "slug": "khachmaz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.424",
+    "lon": "48.744"
+  },
+  "metadata": {},
+  "source": {}
+}

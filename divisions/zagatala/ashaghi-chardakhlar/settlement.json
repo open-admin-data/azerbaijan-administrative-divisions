@@ -1,0 +1,45 @@
+{
+  "id": "AZ402009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Çardaxlar",
+    "en": "Ashaghi Chardakhlar",
+    "slug": "ashaghi-chardakhlar"
+  },
+  "code": {
+    "id": "AZ402009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ402",
+    "level": 1,
+    "name": {
+      "local": "Zaqatala",
+      "en": "Zagatala",
+      "slug": "zagatala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.544",
+    "lon": "46.352"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ303027",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Tüləkəran",
+    "en": "Ashaghi Tulakaran",
+    "slug": "ashaghi-tulakaran"
+  },
+  "code": {
+    "id": "AZ303027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.268",
+    "lon": "48.439"
+  },
+  "metadata": {},
+  "source": {}
+}

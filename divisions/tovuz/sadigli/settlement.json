@@ -1,0 +1,45 @@
+{
+  "id": "AZ503104",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sadıqlı",
+    "en": "Sadigli",
+    "slug": "sadigli"
+  },
+  "code": {
+    "id": "AZ503104",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.813",
+    "lon": "45.686"
+  },
+  "metadata": {},
+  "source": {}
+}

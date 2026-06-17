@@ -1,0 +1,45 @@
+{
+  "id": "AZ604009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İkinci Ağalı",
+    "en": "Ikinji Aghali",
+    "slug": "ikinji-aghali"
+  },
+  "code": {
+    "id": "AZ604009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ604",
+    "level": 1,
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.179",
+    "lon": "46.764"
+  },
+  "metadata": {},
+  "source": {}
+}

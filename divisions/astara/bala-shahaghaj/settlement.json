@@ -1,0 +1,45 @@
+{
+  "id": "AZ801003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bala Şahağac",
+    "en": "Bala Shahaghaj",
+    "slug": "bala-shahaghaj"
+  },
+  "code": {
+    "id": "AZ801003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ801",
+    "level": 1,
+    "name": {
+      "local": "Astara",
+      "en": "Astara",
+      "slug": "astara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.618",
+    "lon": "48.86"
+  },
+  "metadata": {},
+  "source": {}
+}

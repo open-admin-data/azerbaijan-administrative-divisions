@@ -1,0 +1,45 @@
+{
+  "id": "AZ505085",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əmiraslanlı",
+    "en": "Amiraslanli",
+    "slug": "amiraslanli"
+  },
+  "code": {
+    "id": "AZ505085",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ505",
+    "level": 1,
+    "name": {
+      "local": "Gədəbəy",
+      "en": "Gadabey",
+      "slug": "gadabey"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ505",
+      "level": 1,
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabey",
+        "slug": "gadabey"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.578",
+    "lon": "45.712"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ301078",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Gilahoba",
+    "en": "Gilahoba",
+    "slug": "gilahoba"
+  },
+  "code": {
+    "id": "AZ301078",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.724",
+    "lon": "48.574"
+  },
+  "metadata": {},
+  "source": {}
+}

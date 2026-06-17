@@ -1,0 +1,45 @@
+{
+  "id": "AZ907007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bəhrəmtəpə",
+    "en": "Bahramtepe",
+    "slug": "bahramtepe"
+  },
+  "code": {
+    "id": "AZ907007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.738",
+    "lon": "47.953"
+  },
+  "metadata": {},
+  "source": {}
+}

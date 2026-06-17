@@ -1,0 +1,45 @@
+{
+  "id": "AZ807019",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qədimkənd",
+    "en": "Gadimkend",
+    "slug": "gadimkend"
+  },
+  "code": {
+    "id": "AZ807019",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ807",
+    "level": 1,
+    "name": {
+      "local": "Neftçala",
+      "en": "Neftchala",
+      "slug": "neftchala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.436",
+    "lon": "49.023"
+  },
+  "metadata": {},
+  "source": {}
+}

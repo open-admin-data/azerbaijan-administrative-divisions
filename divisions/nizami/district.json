@@ -1,0 +1,33 @@
+{
+  "id": "AZ1010",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nizami",
+    "en": "Nizami",
+    "slug": "nizami"
+  },
+  "code": {
+    "id": "AZ1010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.396",
+    "lon": "49.896"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/nizami/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

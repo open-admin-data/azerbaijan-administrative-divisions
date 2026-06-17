@@ -1,0 +1,45 @@
+{
+  "id": "AZ403022",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Meşəbaş",
+    "en": "Meshabash",
+    "slug": "meshabash"
+  },
+  "code": {
+    "id": "AZ403022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ403",
+    "level": 1,
+    "name": {
+      "local": "Qax",
+      "en": "Gakh",
+      "slug": "gakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.411",
+    "lon": "46.876"
+  },
+  "metadata": {},
+  "source": {}
+}

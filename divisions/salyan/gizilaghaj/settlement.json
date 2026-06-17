@@ -1,0 +1,45 @@
+{
+  "id": "AZ809032",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qızılağac",
+    "en": "Gizilaghaj",
+    "slug": "gizilaghaj"
+  },
+  "code": {
+    "id": "AZ809032",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.513",
+    "lon": "48.919"
+  },
+  "metadata": {},
+  "source": {}
+}

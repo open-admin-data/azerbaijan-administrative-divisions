@@ -1,0 +1,45 @@
+{
+  "id": "AZ606028",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qoçəhmədli",
+    "en": "Gochahmadli",
+    "slug": "gochahmadli"
+  },
+  "code": {
+    "id": "AZ606028",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.533",
+    "lon": "47.132"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ807042",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeniqışlaq",
+    "en": "Yenigishlag",
+    "slug": "yenigishlag"
+  },
+  "code": {
+    "id": "AZ807042",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ807",
+    "level": 1,
+    "name": {
+      "local": "Neftçala",
+      "en": "Neftchala",
+      "slug": "neftchala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.268",
+    "lon": "49.215"
+  },
+  "metadata": {},
+  "source": {}
+}

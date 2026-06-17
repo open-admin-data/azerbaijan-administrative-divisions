@@ -1,0 +1,45 @@
+{
+  "id": "AZ410058",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Pirbəyli",
+    "en": "Pirbeyli",
+    "slug": "pirbeyli"
+  },
+  "code": {
+    "id": "AZ410058",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ410",
+    "level": 1,
+    "name": {
+      "local": "Şamaxı",
+      "en": "Shamakhi",
+      "slug": "shamakhi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.835",
+    "lon": "48.741"
+  },
+  "metadata": {},
+  "source": {}
+}

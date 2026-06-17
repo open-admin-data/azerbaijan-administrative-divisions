@@ -1,0 +1,45 @@
+{
+  "id": "AZ501013",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Abbasbəyli",
+    "en": "Abbasbeyli",
+    "slug": "abbasbeyli"
+  },
+  "code": {
+    "id": "AZ501013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ501",
+    "level": 1,
+    "name": {
+      "local": "Qazax",
+      "en": "Gazakh",
+      "slug": "gazakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.08",
+    "lon": "45.194"
+  },
+  "metadata": {},
+  "source": {}
+}

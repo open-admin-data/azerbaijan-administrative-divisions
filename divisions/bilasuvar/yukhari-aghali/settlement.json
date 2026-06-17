@@ -1,0 +1,45 @@
+{
+  "id": "AZ808004",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Ağalı",
+    "en": "Yukhari Aghali",
+    "slug": "yukhari-aghali"
+  },
+  "code": {
+    "id": "AZ808004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ808",
+    "level": 1,
+    "name": {
+      "local": "Biləsuvar",
+      "en": "Bilasuvar",
+      "slug": "bilasuvar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.425",
+    "lon": "48.451"
+  },
+  "metadata": {},
+  "source": {}
+}

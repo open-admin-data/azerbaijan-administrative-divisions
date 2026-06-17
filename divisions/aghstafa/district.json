@@ -1,0 +1,33 @@
+{
+  "id": "AZ502",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ağstafa",
+    "en": "Aghstafa",
+    "slug": "aghstafa"
+  },
+  "code": {
+    "id": "AZ502",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.182",
+    "lon": "45.395"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/aghstafa/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

@@ -1,0 +1,91 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+AZ301009,Əcəxur,Ajakhur,ajakhur,AZ301009,41.457,48.188
+AZ301079,Əcəxuroba,Ajakhuroba,ajakhuroba,AZ301079,41.727,48.523
+AZ301084,Əlix,Alikh,alikh,AZ301084,41.336,48.04
+AZ301001,Əniq,Anig,anig,AZ301001,41.337,48.224
+AZ301071,Əniqoba,Anigoba,anigoba,AZ301071,41.66,48.578
+AZ301088,Arçan,Archan,archan,AZ301088,41.358,48.065
+AZ301046,Aşağı Qələnxur,Ashaghi Galankhur,ashaghi-galankhur,AZ301046,41.499,48.151
+AZ301070,Aşağı İmamqulukənd,Ashaghi Imamgulukend,ashaghi-imamgulukend,AZ301070,41.665,48.501
+AZ301029,Aşağı Ləgər,Ashaghi Lagar,ashaghi-lagar,AZ301029,41.496,48.453
+AZ301067,Atlıxan,Atlikhan,atlikhan,AZ301067,41.505,48.569
+AZ301032,Əvəcük,Avajuk,avajuk,AZ301032,41.468,48.39
+AZ301022,Avaran,Avaran,avaran,AZ301022,41.427,48.386
+AZ301057,Avaranqışlaq,Avarangishlag,avarangishlag,AZ301057,41.487,48.567
+AZ301028,Bədirqala,Badirgala,badirgala,AZ301028,41.475,48.492
+AZ301034,Bədişqala,Badishgala,badishgala,AZ301034,41.515,48.422
+AZ301026,Bala Qusar,Bala Gusar,bala-gusar,AZ301026,41.448,48.483
+AZ301008,Böyük Muruq,Boyuk Murug,boyuk-murug,AZ301008,41.432,48.176
+AZ301015,Çətgün,Chatgun,chatgun,AZ301015,41.344,48.164
+AZ301025,Çiləgir,Chilagir,chilagir,AZ301025,41.398,48.368
+AZ301062,Çubuqlu,Chubuglu,chubuglu,AZ301062,41.572,48.559
+AZ301007,Düztahir,Duztahir,duztahir,AZ301007,41.41,48.153
+AZ301030,Gədəzeyxur,Gadazeykhur,gadazeykhur,AZ301030,41.487,48.425
+AZ301066,Qalacıq,Galajig,galajig,AZ301066,41.511,48.514
+AZ301076,Qaratoba,Garatoba,garatoba,AZ301076,41.712,48.559
+AZ301024,Qayakənd,Gayakend,gayakend,AZ301024,41.407,48.41
+AZ301006,Gican,Gijan,gijan,AZ301006,41.388,48.116
+AZ301082,Gicanoba,Gijanoba,gijanoba,AZ301082,41.617,48.528
+AZ301049,Gilah,Gilah,gilah,AZ301049,41.476,48.173
+AZ301078,Gilahoba,Gilahoba,gilahoba,AZ301078,41.724,48.574
+AZ301043,Girik,Girik,girik,AZ301043,41.533,48.282
+AZ301005,Quxur,Gukhur,gukhur,AZ301005,41.389,48.035
+AZ301061,Quxuroba,Gukhuroba,gukhuroba,AZ301061,41.587,48.533
+AZ301040,Qullar,Gullar,gullar,AZ301040,41.64,48.474
+AZ301035,Gündüzqala,Gunduzgala,gunduzgala,AZ301035,41.529,48.434
+AZ301023,QUSAR,GUSAR,gusar,AZ301023,41.424,48.421
+AZ301004,Quturğan,Guturghan,guturghan,AZ301004,41.365,48.043
+AZ301075,Haçatala,Hachatala,hachatala,AZ301075,41.707,48.57
+AZ301056,Həsənqala,Hasangala,hasangala,AZ301056,41.452,48.507
+AZ301045,Həzrə,Hazra,hazra,AZ301045,41.507,48.249
+AZ301086,Həzrəoba,Hazraoba,hazraoba,AZ301086,41.693,48.556
+AZ301033,Hil,Hil,hil,AZ301033,41.47,48.342
+AZ301068,Hiloba,Hiloba,hiloba,AZ301068,41.634,48.54
+AZ301036,İmamqulukənd,Imamgulukend,imamgulukend,AZ301036,41.554,48.434
+AZ301016,Caqar,Jagar,jagar,AZ301016,41.341,48.193
+AZ301064,Caqarqışlaq,Jagargishlag,jagargishlag,AZ301064,41.544,48.553
+AZ301044,Cibir,Jibir,jibir,AZ301044,41.514,48.317
+AZ301083,Kənarçay,Kanarchay,kanarchay,AZ301083,41.366,48.072
+AZ301050,Xuluq,Khulug,khulug,AZ301050,41.466,48.151
+AZ301080,Xuluqoba,Khulugoba,khulugoba,AZ301080,41.673,48.561
+AZ301021,Xürəl,Khural,khural,AZ301021,41.433,48.353
+AZ301019,Xuray,Khuray,khuray,AZ301019,41.364,48.303
+AZ301031,Köhnə Xudat,Kohne Khudat,kohne-khudat,AZ301031,41.458,48.419
+AZ301027,Köhnə Xudat qazmalar,Kohne Khudat gazmalar,kohne-khudat-gazmalar,AZ301027,41.459,48.469
+AZ301055,Kufoba,Kufoba,kufoba,AZ301055,41.675,48.463
+AZ301014,Kuzun,Kuzun,kuzun,AZ301014,41.335,48.138
+AZ301059,Kuzunqışlaq,Kuzungishlag,kuzungishlag,AZ301059,41.501,48.621
+AZ301060,Ləgərqışlaq,Lagargishlag,lagargishlag,AZ301060,41.598,48.589
+AZ301042,Ləcət,Lajat,lajat,AZ301042,41.542,48.316
+AZ301063,Langi,Langi,langi,AZ301063,41.557,48.536
+AZ301003,Laza,Laza,laza,AZ301003,41.299,48.114
+AZ301089,Minaxür,Minakhur,minakhur,AZ301089,41.522,48.55
+AZ301010,Mucuq,Mujug,mujug,AZ301010,41.455,48.227
+AZ301072,Mucuqoba,Mujugoba,mujugoba,AZ301072,41.678,48.501
+AZ301048,Nəcəfkənd,Najafkend,najafkend,AZ301048,41.49,48.189
+AZ301081,Nəcəfkəndoba,Najafkendoba,najafkendoba,AZ301081,41.723,48.544
+AZ301012,Piral,Piral,piral,AZ301012,41.491,48.285
+AZ301074,Salahoba,Salahoba,salahoba,AZ301074,41.701,48.511
+AZ301039,Samur,Samur,samur,AZ301039,41.633,48.431
+AZ301054,Şirvanlı,Shirvanli,shirvanli,AZ301054,41.696,48.489
+AZ301085,Sudur,Sudur,sudur,AZ301085,41.375,48.031
+AZ301038,Suduroba,Suduroba,suduroba,AZ301038,41.583,48.433
+AZ301017,Suvacal,Suvajal,suvajal,AZ301017,41.341,48.24
+AZ301077,Torpaqkörpü,Torpagkorpu,torpagkorpu,AZ301077,41.707,48.541
+AZ301011,Ukur,Ukur,ukur,AZ301011,41.474,48.218
+AZ301020,Urva,Urva,urva,AZ301020,41.399,48.334
+AZ301087,Urvaoba,Urvaoba,urvaoba,AZ301087,41.541,48.593
+AZ301073,Üzdənoba,Uzdanoba,uzdanoba,AZ301073,41.687,48.515
+AZ301013,Yasab,Yasab,yasab,AZ301013,41.491,48.32
+AZ301069,Yasaboba,Yasaboba,yasaboba,AZ301069,41.638,48.579
+AZ301065,Yeni Həyat,Yeni Hayat,yeni-hayat,AZ301065,41.523,48.501
+AZ301041,Yeni Tahircal,Yeni Tahirjal,yeni-tahirjal,AZ301041,41.662,48.44
+AZ301090,Yerği kek,Yerghi kek,yerghi-kek,AZ301090,41.349,48.058
+AZ301047,Yuxarı Qələnxur,Yukhari Galankhur,yukhari-galankhur,AZ301047,41.492,48.129
+AZ301018,Yuxarı Ləgər,Yukhari Lagar,yukhari-lagar,AZ301018,41.358,48.274
+AZ301052,Yuxarı Tahircal,Yukhari Tahirjal,yukhari-tahirjal,AZ301052,41.443,48.076
+AZ301037,Yuxarı Zeyxur,Yukhari Zeykhur,yukhari-zeykhur,AZ301037,41.572,48.381
+AZ301002,Zindanmuruq,Zindanmurug,zindanmurug,AZ301002,41.331,48.189
+AZ301058,Zindanmuruqqışlaq,Zindanmuruggishlag,zindanmuruggishlag,AZ301058,41.491,48.6
+AZ301051,Zuxul,Zukhul,zukhul,AZ301051,41.489,48.08
+AZ301053,Zuxuloba,Zukhuloba,zukhuloba,AZ301053,41.714,48.484

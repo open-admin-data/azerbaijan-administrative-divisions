@@ -1,0 +1,45 @@
+{
+  "id": "AZ609131",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Pirzadlı",
+    "en": "Pirzadli",
+    "slug": "pirzadli"
+  },
+  "code": {
+    "id": "AZ609131",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ609",
+    "level": 1,
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.933",
+    "lon": "47.01"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "AZ905034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağabağı",
+      "en": "Aghabaghi",
+      "slug": "aghabaghi"
+    },
+    "code": {
+      "id": "AZ905034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.109",
+      "lon": "47.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlibəyli",
+      "en": "Alibeyli",
+      "slug": "alibeyli"
+    },
+    "code": {
+      "id": "AZ905020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.195",
+      "lon": "47.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Allahqulubağı",
+      "en": "Allahgulubaghi",
+      "slug": "allahgulubaghi"
+    },
+    "code": {
+      "id": "AZ905019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.182",
+      "lon": "47.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlvənd",
+      "en": "Alvand",
+      "slug": "alvand"
+    },
+    "code": {
+      "id": "AZ905038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.108",
+      "lon": "47.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Seyidlər",
+      "en": "Ashaghi Seyidlar",
+      "slug": "ashaghi-seyidlar"
+    },
+    "code": {
+      "id": "AZ905035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.119",
+      "lon": "47.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəyimli",
+      "en": "Beyimli",
+      "slug": "beyimli"
+    },
+    "code": {
+      "id": "AZ905040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.252",
+      "lon": "47.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bıçaqçı",
+      "en": "Bichagchi",
+      "slug": "bichagchi"
+    },
+    "code": {
+      "id": "AZ905004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.303",
+      "lon": "47.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Alıcanlı",
+      "en": "Birinji Alijanli",
+      "slug": "birinji-alijanli"
+    },
+    "code": {
+      "id": "AZ905007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.329",
+      "lon": "47.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Dəkkə",
+      "en": "Boyuk Dakka",
+      "slug": "boyuk-dakka"
+    },
+    "code": {
+      "id": "AZ905028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.188",
+      "lon": "47.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Burunlu",
+      "en": "Burunlu",
+      "slug": "burunlu"
+    },
+    "code": {
+      "id": "AZ905011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.24",
+      "lon": "47.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çallı",
+      "en": "Challi",
+      "slug": "challi"
+    },
+    "code": {
+      "id": "AZ905008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.315",
+      "lon": "47.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəkkəoba",
+      "en": "Dakkaoba",
+      "slug": "dakkaoba"
+    },
+    "code": {
+      "id": "AZ905027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.2",
+      "lon": "47.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəli Quşçu",
+      "en": "Dali Gushchu",
+      "slug": "dali-gushchu"
+    },
+    "code": {
+      "id": "AZ905041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.218",
+      "lon": "47.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəlmə",
+      "en": "Galma",
+      "slug": "galma"
+    },
+    "code": {
+      "id": "AZ905021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.218",
+      "lon": "47.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaravəlli",
+      "en": "Garavalli",
+      "slug": "garavalli"
+    },
+    "code": {
+      "id": "AZ905030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.169",
+      "lon": "47.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gödəkqobu",
+      "en": "Godakgobu",
+      "slug": "godakgobu"
+    },
+    "code": {
+      "id": "AZ905010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.243",
+      "lon": "47.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoruqbağı",
+      "en": "Gorugbaghi",
+      "slug": "gorugbaghi"
+    },
+    "code": {
+      "id": "AZ905014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.189",
+      "lon": "47.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoşaoba",
+      "en": "Goshaoba",
+      "slug": "goshaoba"
+    },
+    "code": {
+      "id": "AZ905042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.219",
+      "lon": "47.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynxanlı",
+      "en": "Huseynkhanli",
+      "slug": "huseynkhanli"
+    },
+    "code": {
+      "id": "AZ905023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.225",
+      "lon": "47.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Alıcanlı",
+      "en": "Ikinji Alijanli",
+      "slug": "ikinji-alijanli"
+    },
+    "code": {
+      "id": "AZ905003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.337",
+      "lon": "47.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsaqbağı",
+      "en": "Isagbaghi",
+      "slug": "isagbaghi"
+    },
+    "code": {
+      "id": "AZ905029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.181",
+      "lon": "47.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cilovxanlı",
+      "en": "Jilovkhanli",
+      "slug": "jilovkhanli"
+    },
+    "code": {
+      "id": "AZ905006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.316",
+      "lon": "47.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəndəbil",
+      "en": "Kandabil",
+      "slug": "kandabil"
+    },
+    "code": {
+      "id": "AZ905033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.116",
+      "lon": "47.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanməmmədli",
+      "en": "Khanmammadli",
+      "slug": "khanmammadli"
+    },
+    "code": {
+      "id": "AZ905024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.235",
+      "lon": "47.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Körpükənd",
+      "en": "Korpukend",
+      "slug": "korpukend"
+    },
+    "code": {
+      "id": "AZ905005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.267",
+      "lon": "47.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lələağacı",
+      "en": "Lalaaghaji",
+      "slug": "lalaaghaji"
+    },
+    "code": {
+      "id": "AZ905018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.187",
+      "lon": "47.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikli",
+      "en": "Malikli",
+      "slug": "malikli"
+    },
+    "code": {
+      "id": "AZ905012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.208",
+      "lon": "47.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikumudlu",
+      "en": "Malikumudlu",
+      "slug": "malikumudlu"
+    },
+    "code": {
+      "id": "AZ905009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.328",
+      "lon": "47.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədqasımlı",
+      "en": "Mammadgasimli",
+      "slug": "mammadgasimli"
+    },
+    "code": {
+      "id": "AZ905016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.202",
+      "lon": "47.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəzəralılı",
+      "en": "Nazaralili",
+      "slug": "nazaralili"
+    },
+    "code": {
+      "id": "AZ905031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.15",
+      "lon": "47.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Otmanoba",
+      "en": "Otmanoba",
+      "slug": "otmanoba"
+    },
+    "code": {
+      "id": "AZ905039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.092",
+      "lon": "47.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pərvanlı",
+      "en": "Parvanli",
+      "slug": "parvanli"
+    },
+    "code": {
+      "id": "AZ905015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.188",
+      "lon": "47.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salahlı",
+      "en": "Salahli",
+      "slug": "salahli"
+    },
+    "code": {
+      "id": "AZ905022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.231",
+      "lon": "47.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıqaya",
+      "en": "Sarigaya",
+      "slug": "sarigaya"
+    },
+    "code": {
+      "id": "AZ905013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.188",
+      "lon": "47.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəftəhal",
+      "en": "Shaftahal",
+      "slug": "shaftahal"
+    },
+    "code": {
+      "id": "AZ905036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.119",
+      "lon": "47.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahhüseynli",
+      "en": "Shahhuseynli",
+      "slug": "shahhuseynli"
+    },
+    "code": {
+      "id": "AZ905037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.139",
+      "lon": "47.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxbağı",
+      "en": "Shikhbaghi",
+      "slug": "shikhbaghi"
+    },
+    "code": {
+      "id": "AZ905032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.132",
+      "lon": "47.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siləyli",
+      "en": "Silayli",
+      "slug": "silayli"
+    },
+    "code": {
+      "id": "AZ905002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.363",
+      "lon": "47.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ905026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.205",
+      "lon": "47.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yarməmmədbağı",
+      "en": "Yarmammadbaghi",
+      "slug": "yarmammadbaghi"
+    },
+    "code": {
+      "id": "AZ905017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.182",
+      "lon": "47.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Seyidlər",
+      "en": "Yukhari Seyidlar",
+      "slug": "yukhari-seyidlar"
+    },
+    "code": {
+      "id": "AZ905001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.349",
+      "lon": "47.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ905025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ZƏRDAB",
+      "en": "ZARDAB",
+      "slug": "zardab"
+    },
+    "code": {
+      "id": "AZ905025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ905",
+        "level": 1,
+        "name": {
+          "local": "Zərdab",
+          "en": "Zardab",
+          "slug": "zardab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.216",
+      "lon": "47.709"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

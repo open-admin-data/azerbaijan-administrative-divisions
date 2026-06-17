@@ -1,0 +1,3917 @@
+[
+  {
+    "id": "AZ509062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abbasqulular",
+      "en": "Abbasgulular",
+      "slug": "abbasgulular"
+    },
+    "code": {
+      "id": "AZ509062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.571",
+      "lon": "46.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədabad",
+      "en": "Ahmadabad",
+      "slug": "ahmadabad"
+    },
+    "code": {
+      "id": "AZ509019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.712",
+      "lon": "46.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlirzalı",
+      "en": "Alirzali",
+      "slug": "alirzali"
+    },
+    "code": {
+      "id": "AZ509087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.51",
+      "lon": "46.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alpout",
+      "en": "Alpout",
+      "slug": "alpout"
+    },
+    "code": {
+      "id": "AZ509028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.751",
+      "lon": "46.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Ballıqaya",
+      "en": "Ashaghi  Balligaya",
+      "slug": "ashaghi-balligaya"
+    },
+    "code": {
+      "id": "AZ509057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.565",
+      "lon": "46.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Ağcakənd",
+      "en": "Ashaghi Aghjakend",
+      "slug": "ashaghi-aghjakend"
+    },
+    "code": {
+      "id": "AZ509067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.42",
+      "lon": "46.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azad",
+      "en": "Azad",
+      "slug": "azad"
+    },
+    "code": {
+      "id": "AZ509001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.695",
+      "lon": "46.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağçakürd",
+      "en": "Baghchakurd",
+      "slug": "baghchakurd"
+    },
+    "code": {
+      "id": "AZ509029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.735",
+      "lon": "46.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balakürd",
+      "en": "Balakurd",
+      "slug": "balakurd"
+    },
+    "code": {
+      "id": "AZ509055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.589",
+      "lon": "46.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baş Qışlaq",
+      "en": "Bash Gishlag",
+      "slug": "bash-gishlag"
+    },
+    "code": {
+      "id": "AZ509032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.385",
+      "lon": "46.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəşirli",
+      "en": "Bashirli",
+      "slug": "bashirli"
+    },
+    "code": {
+      "id": "AZ509021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.723",
+      "lon": "46.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boluslu",
+      "en": "Boluslu",
+      "slug": "boluslu"
+    },
+    "code": {
+      "id": "AZ509051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.632",
+      "lon": "46.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Borsunlu",
+      "en": "Borsunlu",
+      "slug": "borsunlu"
+    },
+    "code": {
+      "id": "AZ509045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.648",
+      "lon": "46.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Börü",
+      "en": "Boru",
+      "slug": "boru"
+    },
+    "code": {
+      "id": "AZ509066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.448",
+      "lon": "46.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Buzluq",
+      "en": "Buzlug",
+      "slug": "buzlug"
+    },
+    "code": {
+      "id": "AZ509033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.418",
+      "lon": "46.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəliməmmədli",
+      "en": "DALIMAMMADLI",
+      "slug": "dalimammadli"
+    },
+    "code": {
+      "id": "AZ509003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.695",
+      "lon": "46.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəyirmanlar",
+      "en": "Dayirmanlar",
+      "slug": "dayirmanlar"
+    },
+    "code": {
+      "id": "AZ509002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.709",
+      "lon": "46.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düzqışlaq",
+      "en": "Duzgishlag",
+      "slug": "duzgishlag"
+    },
+    "code": {
+      "id": "AZ509030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.717",
+      "lon": "46.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Erkeç",
+      "en": "Erkech",
+      "slug": "erkech"
+    },
+    "code": {
+      "id": "AZ509035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.463",
+      "lon": "46.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyvazlılar",
+      "en": "Eyvazlilar",
+      "slug": "eyvazlilar"
+    },
+    "code": {
+      "id": "AZ509082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.616",
+      "lon": "46.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fəxralı",
+      "en": "Fakhrali",
+      "slug": "fakhrali"
+    },
+    "code": {
+      "id": "AZ509027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.746",
+      "lon": "46.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaxtut",
+      "en": "Gakhtut",
+      "slug": "gakhtut"
+    },
+    "code": {
+      "id": "AZ509072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.446",
+      "lon": "46.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraçinar",
+      "en": "Garachinar",
+      "slug": "garachinar"
+    },
+    "code": {
+      "id": "AZ509070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.44",
+      "lon": "46.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ509040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.653",
+      "lon": "46.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarqucaq",
+      "en": "Garagujag",
+      "slug": "garagujag"
+    },
+    "code": {
+      "id": "AZ509076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.491",
+      "lon": "46.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaramusalı",
+      "en": "Garamusali",
+      "slug": "garamusali"
+    },
+    "code": {
+      "id": "AZ509015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.729",
+      "lon": "46.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarapirimli",
+      "en": "Garapirimli",
+      "slug": "garapirimli"
+    },
+    "code": {
+      "id": "AZ509012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.7",
+      "lon": "46.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarasuçu",
+      "en": "Garasuchu",
+      "slug": "garasuchu"
+    },
+    "code": {
+      "id": "AZ509024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.752",
+      "lon": "46.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarasüleymanlı",
+      "en": "Garasuleymanli",
+      "slug": "garasuleymanli"
+    },
+    "code": {
+      "id": "AZ509059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.606",
+      "lon": "46.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazaxlar",
+      "en": "Gazakhlar",
+      "slug": "gazakhlar"
+    },
+    "code": {
+      "id": "AZ509046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.661",
+      "lon": "46.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazanbulaq",
+      "en": "Gazanbulag",
+      "slug": "gazanbulag"
+    },
+    "code": {
+      "id": "AZ509047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.619",
+      "lon": "46.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazançı",
+      "en": "Gazanchi",
+      "slug": "gazanchi"
+    },
+    "code": {
+      "id": "AZ509009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.673",
+      "lon": "46.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırıqlı",
+      "en": "Girigli",
+      "slug": "girigli"
+    },
+    "code": {
+      "id": "AZ509013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.708",
+      "lon": "46.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılhacılı",
+      "en": "Gizilhajili",
+      "slug": "gizilhajili"
+    },
+    "code": {
+      "id": "AZ509056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.573",
+      "lon": "46.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Goran",
+      "en": "Goran",
+      "slug": "goran"
+    },
+    "code": {
+      "id": "AZ509050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.653",
+      "lon": "46.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "GORANBOY",
+      "en": "GORANBOY",
+      "slug": "goranboy"
+    },
+    "code": {
+      "id": "AZ509060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.61",
+      "lon": "46.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Goranlı",
+      "en": "Goranli",
+      "slug": "goranli"
+    },
+    "code": {
+      "id": "AZ509008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.68",
+      "lon": "46.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göynüyən",
+      "en": "Goynuyan",
+      "slug": "goynuyan"
+    },
+    "code": {
+      "id": "AZ509023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.742",
+      "lon": "46.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülməmmədli",
+      "en": "Gulmammadli",
+      "slug": "gulmammadli"
+    },
+    "code": {
+      "id": "AZ509011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.7",
+      "lon": "46.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülüstan",
+      "en": "Gulustan",
+      "slug": "gulustan"
+    },
+    "code": {
+      "id": "AZ509079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.357",
+      "lon": "46.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qurbanzadə",
+      "en": "Gurbanzada",
+      "slug": "gurbanzada"
+    },
+    "code": {
+      "id": "AZ509031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.764",
+      "lon": "46.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gürzallar",
+      "en": "Gurzallar",
+      "slug": "gurzallar"
+    },
+    "code": {
+      "id": "AZ509080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.497",
+      "lon": "46.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçular",
+      "en": "Gushchular",
+      "slug": "gushchular"
+    },
+    "code": {
+      "id": "AZ509004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.712",
+      "lon": "46.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacallı",
+      "en": "Hajalli",
+      "slug": "hajalli"
+    },
+    "code": {
+      "id": "AZ509075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.483",
+      "lon": "46.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həmənli",
+      "en": "Hamanli",
+      "slug": "hamanli"
+    },
+    "code": {
+      "id": "AZ509014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.714",
+      "lon": "46.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hazırəhmədli",
+      "en": "Hazirahmadli",
+      "slug": "hazirahmadli"
+    },
+    "code": {
+      "id": "AZ509022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.733",
+      "lon": "46.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İrəvanlı",
+      "en": "Iravanli",
+      "slug": "iravanli"
+    },
+    "code": {
+      "id": "AZ509058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.633",
+      "lon": "46.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cinli Zeynallı",
+      "en": "Jinli Zeynalli",
+      "slug": "jinli-zeynalli"
+    },
+    "code": {
+      "id": "AZ509053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.603",
+      "lon": "46.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəhrizli",
+      "en": "Kahrizli",
+      "slug": "kahrizli"
+    },
+    "code": {
+      "id": "AZ509006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.695",
+      "lon": "46.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kələk",
+      "en": "Kalak",
+      "slug": "kalak"
+    },
+    "code": {
+      "id": "AZ509018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.729",
+      "lon": "46.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xan Qərvənd",
+      "en": "Khan Garvand",
+      "slug": "khan-garvand"
+    },
+    "code": {
+      "id": "AZ509077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.493",
+      "lon": "46.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xasadarlı",
+      "en": "Khasadarli",
+      "slug": "khasadarli"
+    },
+    "code": {
+      "id": "AZ509010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.698",
+      "lon": "46.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xınalı",
+      "en": "Khinali",
+      "slug": "khinali"
+    },
+    "code": {
+      "id": "AZ509016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.726",
+      "lon": "46.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xoylu",
+      "en": "Khoylu",
+      "slug": "khoylu"
+    },
+    "code": {
+      "id": "AZ509041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.647",
+      "lon": "46.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürəkçay",
+      "en": "Kurakchay",
+      "slug": "kurakchay"
+    },
+    "code": {
+      "id": "AZ509081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.668",
+      "lon": "46.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mənəşli",
+      "en": "Manashli",
+      "slug": "manashli"
+    },
+    "code": {
+      "id": "AZ509034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.443",
+      "lon": "46.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədiqaralar",
+      "en": "Mashadigaralar",
+      "slug": "mashadigaralar"
+    },
+    "code": {
+      "id": "AZ509052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.617",
+      "lon": "46.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meşəli",
+      "en": "Meshali",
+      "slug": "meshali"
+    },
+    "code": {
+      "id": "AZ509068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.434",
+      "lon": "46.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muzdurlar",
+      "en": "Muzdurlar",
+      "slug": "muzdurlar"
+    },
+    "code": {
+      "id": "AZ509005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.699",
+      "lon": "46.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nadirkənd",
+      "en": "Nadirkend",
+      "slug": "nadirkend"
+    },
+    "code": {
+      "id": "AZ509044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.654",
+      "lon": "46.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nərimanlı",
+      "en": "Narimanli",
+      "slug": "narimanli"
+    },
+    "code": {
+      "id": "AZ509054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.599",
+      "lon": "46.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nizami",
+      "en": "Nizami",
+      "slug": "nizami"
+    },
+    "code": {
+      "id": "AZ509039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.664",
+      "lon": "46.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəhimli",
+      "en": "Rahimli",
+      "slug": "rahimli"
+    },
+    "code": {
+      "id": "AZ509049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.584",
+      "lon": "46.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rus Borisi",
+      "en": "Rus Borisi",
+      "slug": "rus-borisi"
+    },
+    "code": {
+      "id": "AZ509065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.437",
+      "lon": "46.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səfikürd",
+      "en": "Safikurd",
+      "slug": "safikurd"
+    },
+    "code": {
+      "id": "AZ509063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.538",
+      "lon": "46.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səmədabad",
+      "en": "Samadabad",
+      "slug": "samadabad"
+    },
+    "code": {
+      "id": "AZ509007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.682",
+      "lon": "46.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarov",
+      "en": "Sarov",
+      "slug": "sarov"
+    },
+    "code": {
+      "id": "AZ509026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.725",
+      "lon": "46.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarovlu",
+      "en": "Sarovlu",
+      "slug": "sarovlu"
+    },
+    "code": {
+      "id": "AZ509085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.69",
+      "lon": "46.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şadılı",
+      "en": "Shadili",
+      "slug": "shadili"
+    },
+    "code": {
+      "id": "AZ509043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.647",
+      "lon": "46.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəfəq",
+      "en": "Shafag",
+      "slug": "shafag"
+    },
+    "code": {
+      "id": "AZ509071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.453",
+      "lon": "46.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəfibəyli",
+      "en": "Shafibeyli",
+      "slug": "shafibeyli"
+    },
+    "code": {
+      "id": "AZ509074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.479",
+      "lon": "46.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahməmmədli",
+      "en": "Shahmammadli",
+      "slug": "shahmammadli"
+    },
+    "code": {
+      "id": "AZ509061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.598",
+      "lon": "46.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ509017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.715",
+      "lon": "46.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təklə",
+      "en": "Takla",
+      "slug": "takla"
+    },
+    "code": {
+      "id": "AZ509064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.527",
+      "lon": "46.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tap",
+      "en": "Tap",
+      "slug": "tap"
+    },
+    "code": {
+      "id": "AZ509083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.424",
+      "lon": "46.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tap Qaraqoyunlu",
+      "en": "Tap Garagoyunlu",
+      "slug": "tap-garagoyunlu"
+    },
+    "code": {
+      "id": "AZ509078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.431",
+      "lon": "46.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatarlı",
+      "en": "Tatarli",
+      "slug": "tatarli"
+    },
+    "code": {
+      "id": "AZ509086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.511",
+      "lon": "46.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Todan",
+      "en": "Todan",
+      "slug": "todan"
+    },
+    "code": {
+      "id": "AZ509036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.473",
+      "lon": "46.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Veyisli",
+      "en": "Veyisli",
+      "slug": "veyisli"
+    },
+    "code": {
+      "id": "AZ509048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.585",
+      "lon": "46.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yəhərçi Qazaxlar",
+      "en": "Yaharchi Gazakhlar",
+      "slug": "yaharchi-gazakhlar"
+    },
+    "code": {
+      "id": "AZ509025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.754",
+      "lon": "46.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni yol",
+      "en": "Yeni yol",
+      "slug": "yeni-yol"
+    },
+    "code": {
+      "id": "AZ509084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.508",
+      "lon": "46.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ509069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.443",
+      "lon": "46.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yolqulular",
+      "en": "Yolgulular",
+      "slug": "yolgulular"
+    },
+    "code": {
+      "id": "AZ509042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.624",
+      "lon": "46.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yolpaq",
+      "en": "Yolpag",
+      "slug": "yolpag"
+    },
+    "code": {
+      "id": "AZ509020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.713",
+      "lon": "46.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Ballıqaya",
+      "en": "Yukhari  Balligaya",
+      "slug": "yukhari-balligaya"
+    },
+    "code": {
+      "id": "AZ509038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.369",
+      "lon": "46.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Ağcakənd",
+      "en": "Yukhari Aghjakend",
+      "slug": "yukhari-aghjakend"
+    },
+    "code": {
+      "id": "AZ509037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.397",
+      "lon": "46.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ509073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zeyvə",
+      "en": "Zeyva",
+      "slug": "zeyva"
+    },
+    "code": {
+      "id": "AZ509073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ509",
+        "level": 1,
+        "name": {
+          "local": "Goranboy",
+          "en": "Goranboy",
+          "slug": "goranboy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.46",
+      "lon": "46.682"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

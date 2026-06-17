@@ -1,0 +1,45 @@
+{
+  "id": "AZ306011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "XIZI",
+    "en": "KHIZI",
+    "slug": "khizi"
+  },
+  "code": {
+    "id": "AZ306011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ306",
+    "level": 1,
+    "name": {
+      "local": "Xızı",
+      "en": "Khizi",
+      "slug": "khizi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.91",
+    "lon": "49.072"
+  },
+  "metadata": {},
+  "source": {}
+}

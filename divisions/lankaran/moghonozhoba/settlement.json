@@ -1,0 +1,45 @@
+{
+  "id": "AZ802081",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Moğonojoba",
+    "en": "Moghonozhoba",
+    "slug": "moghonozhoba"
+  },
+  "code": {
+    "id": "AZ802081",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ802",
+    "level": 1,
+    "name": {
+      "local": "Lənkəran",
+      "en": "Lankaran",
+      "slug": "lankaran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.676",
+    "lon": "48.794"
+  },
+  "metadata": {},
+  "source": {}
+}

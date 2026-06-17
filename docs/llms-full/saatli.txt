@@ -1,0 +1,229 @@
+# Saatli — Azerbaijan Administrative Divisions
+
+> 44 settlements
+> Code: AZ908
+> Coordinates: 39.902, 48.436
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əbil (Abil)
+
+Code: AZ908023, Coordinates: 39.942, 48.55
+
+
+### Əhmədbəyli (Ahmadbeyli)
+
+Code: AZ908021, Coordinates: 39.884, 48.389
+
+
+### Əliabad (Aliabad)
+
+Code: AZ908024, Coordinates: 39.863, 48.466
+
+
+### Əlisoltanlı (Alisoltanli)
+
+Code: AZ908011, Coordinates: 39.9, 48.324
+
+
+### Azadkənd (Azadkend)
+
+Code: AZ908030, Coordinates: 39.791, 48.555
+
+
+### Bəylər (Beylar)
+
+Code: AZ908036, Coordinates: 39.907, 48.33
+
+
+### Bəylik (Beylik)
+
+Code: AZ908015, Coordinates: 39.969, 48.438
+
+
+### Çolpı (Cholpi)
+
+Code: AZ908044, Coordinates: 39.88, 48.621
+
+
+### Dədə Qorqud (Dada Gorgud)
+
+Code: AZ908020, Coordinates: 39.868, 48.393
+
+
+### Dəlilər (Dalilar)
+
+Code: AZ908009, Coordinates: 39.982, 48.379
+
+
+### Fətəlikənd (Fatalikend)
+
+Code: AZ908040, Coordinates: 39.875, 48.558
+
+
+### Qara Nuru (Gara Nuru)
+
+Code: AZ908017, Coordinates: 39.92, 48.502
+
+
+### Qaracalar (Garajalar)
+
+Code: AZ908004, Coordinates: 39.881, 48.299
+
+
+### Qaralar (Garalar)
+
+Code: AZ908002, Coordinates: 39.868, 48.262
+
+
+### Qazanbatan (Gazanbatan)
+
+Code: AZ908016, Coordinates: 39.929, 48.453
+
+
+### Genişkənd (Genishkend)
+
+Code: AZ908019, Coordinates: 39.88, 48.459
+
+
+### Qıraqlı (Giragli)
+
+Code: AZ908014, Coordinates: 39.953, 48.401
+
+
+### Gomuşçu (Gomushchu)
+
+Code: AZ908003, Coordinates: 39.873, 48.279
+
+
+### Günəşli (Gunashli)
+
+Code: AZ908037, Coordinates: 39.862, 48.566
+
+
+### Hacıqasımlı (Hajigasimli)
+
+Code: AZ908006, Coordinates: 39.93, 48.302
+
+
+### Heydərabad (Heydarabad)
+
+Code: AZ908038, Coordinates: 39.857, 48.412
+
+
+### Cəfərxan (Jafarkhan)
+
+Code: AZ908022, Coordinates: 39.939, 48.536
+
+
+### Kamallı (Kamalli)
+
+Code: AZ908005, Coordinates: 39.922, 48.284
+
+
+### Məmmədabad (Mammadabad)
+
+Code: AZ908018, Coordinates: 39.867, 48.48
+
+
+### Məzrəli (Mazrali)
+
+Code: AZ908041, Coordinates: 39.914, 48.247
+
+
+### Mircəlal (Mirjalal)
+
+Code: AZ908028, Coordinates: 39.841, 48.65
+
+
+### Mollavazlı (Mollavazli)
+
+Code: AZ908012, Coordinates: 39.917, 48.343
+
+
+### Musalı (Musali)
+
+Code: AZ908007, Coordinates: 39.955, 48.349
+
+
+### Mustafabəyli (Mustafabeyli)
+
+Code: AZ908034, Coordinates: 39.962, 48.421
+
+
+### Nabatkənd (Nabatkend)
+
+Code: AZ908026, Coordinates: 39.889, 48.608
+
+
+### Naharlı (Naharli)
+
+Code: AZ908042, Coordinates: 39.919, 48.272
+
+
+### Nərimanov (Narimanov)
+
+Code: AZ908008, Coordinates: 39.967, 48.366
+
+
+### Nəsimikənd (Nasimikend)
+
+Code: AZ908029, Coordinates: 39.837, 48.613
+
+
+### Novruzlu
+
+Code: AZ908032, Coordinates: 40.014, 48.439
+
+
+### Orta Muğan (Orta Mughan)
+
+Code: AZ908027, Coordinates: 39.908, 48.652
+
+
+### Potubəyli (Potubeyli)
+
+Code: AZ908010, Coordinates: 39.893, 48.308
+
+
+### SAATLI
+
+Code: AZ908013, Coordinates: 39.935, 48.37
+
+
+### Sarıcalar (Sarijalar)
+
+Code: AZ908039, Coordinates: 39.942, 48.494
+
+
+### Seyidlər (Seyidlar)
+
+Code: AZ908035, Coordinates: 39.889, 48.294
+
+
+### Şirinbəyli (Shirinbeyli)
+
+Code: AZ908025, Coordinates: 39.87, 48.513
+
+
+### Sımada (Simada)
+
+Code: AZ908031, Coordinates: 39.764, 48.659
+
+
+### Soltanabad
+
+Code: AZ908043, Coordinates: 39.849, 48.656
+
+
+### Varxan (Varkhan)
+
+Code: AZ908001, Coordinates: 39.864, 48.245
+
+
+### Yeni Novruzlu
+
+Code: AZ908033, Coordinates: 40.012, 48.454
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "AZ402021",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Maqov",
+    "en": "Magov",
+    "slug": "magov"
+  },
+  "code": {
+    "id": "AZ402021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ402",
+    "level": 1,
+    "name": {
+      "local": "Zaqatala",
+      "en": "Zagatala",
+      "slug": "zagatala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.591",
+    "lon": "46.496"
+  },
+  "metadata": {},
+  "source": {}
+}

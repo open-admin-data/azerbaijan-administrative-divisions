@@ -1,0 +1,45 @@
+{
+  "id": "AZ702016",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kiçik Qaladərəsi",
+    "en": "Kichik Galaderesi",
+    "slug": "kichik-galaderesi"
+  },
+  "code": {
+    "id": "AZ702016",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ702",
+    "level": 1,
+    "name": {
+      "local": "Şuşa",
+      "en": "Shusha",
+      "slug": "shusha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.639",
+    "lon": "46.606"
+  },
+  "metadata": {},
+  "source": {}
+}

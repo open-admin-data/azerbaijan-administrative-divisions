@@ -1,0 +1,45 @@
+{
+  "id": "AZ610084",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Məmmədli",
+    "en": "Mammadli",
+    "slug": "mammadli"
+  },
+  "code": {
+    "id": "AZ610084",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ610",
+    "level": 1,
+    "name": {
+      "local": "Bərdə",
+      "en": "Barda",
+      "slug": "barda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.281",
+    "lon": "47.418"
+  },
+  "metadata": {},
+  "source": {}
+}

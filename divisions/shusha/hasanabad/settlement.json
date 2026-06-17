@@ -1,0 +1,45 @@
+{
+  "id": "AZ702031",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Həsənabad",
+    "en": "Hasanabad",
+    "slug": "hasanabad"
+  },
+  "code": {
+    "id": "AZ702031",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ702",
+    "level": 1,
+    "name": {
+      "local": "Şuşa",
+      "en": "Shusha",
+      "slug": "shusha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.731",
+    "lon": "46.599"
+  },
+  "metadata": {},
+  "source": {}
+}

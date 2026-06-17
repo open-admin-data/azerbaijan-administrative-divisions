@@ -1,0 +1,45 @@
+{
+  "id": "AZ701019",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Naxçıvanlı",
+    "en": "Nakhchivanli",
+    "slug": "nakhchivanli"
+  },
+  "code": {
+    "id": "AZ701019",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ701",
+    "level": 1,
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.908",
+    "lon": "46.875"
+  },
+  "metadata": {},
+  "source": {}
+}

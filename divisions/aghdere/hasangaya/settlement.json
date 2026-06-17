@@ -1,0 +1,45 @@
+{
+  "id": "AZ611035",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Həsənqaya",
+    "en": "Hasangaya",
+    "slug": "hasangaya"
+  },
+  "code": {
+    "id": "AZ611035",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ612",
+    "level": 1,
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.323",
+    "lon": "46.849"
+  },
+  "metadata": {},
+  "source": {}
+}

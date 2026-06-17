@@ -1,0 +1,45 @@
+{
+  "id": "AZ602100",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Oğuldərə",
+    "en": "Oghuldere",
+    "slug": "oghuldere"
+  },
+  "code": {
+    "id": "AZ602100",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.895",
+    "lon": "46.313"
+  },
+  "metadata": {},
+  "source": {}
+}

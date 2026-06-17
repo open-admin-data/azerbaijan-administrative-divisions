@@ -1,0 +1,45 @@
+{
+  "id": "AZ405007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "OĞUZ",
+    "en": "OGHUZ",
+    "slug": "oghuz"
+  },
+  "code": {
+    "id": "AZ405007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ405",
+    "level": 1,
+    "name": {
+      "local": "Oğuz",
+      "en": "Oghuz",
+      "slug": "oghuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.069",
+    "lon": "47.465"
+  },
+  "metadata": {},
+  "source": {}
+}

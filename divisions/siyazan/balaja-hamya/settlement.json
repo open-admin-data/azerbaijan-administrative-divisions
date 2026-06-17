@@ -1,0 +1,45 @@
+{
+  "id": "AZ305028",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Balaca Həmyə",
+    "en": "Balaja Hamya",
+    "slug": "balaja-hamya"
+  },
+  "code": {
+    "id": "AZ305028",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ305",
+    "level": 1,
+    "name": {
+      "local": "Siyəzən",
+      "en": "Siyazan",
+      "slug": "siyazan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.074",
+    "lon": "49.151"
+  },
+  "metadata": {},
+  "source": {}
+}

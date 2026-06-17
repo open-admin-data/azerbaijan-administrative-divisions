@@ -1,0 +1,45 @@
+{
+  "id": "AZ608025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaraxanlı",
+    "en": "Garakhanli",
+    "slug": "garakhanli"
+  },
+  "code": {
+    "id": "AZ608025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ608",
+    "level": 1,
+    "name": {
+      "local": "Ağcabədi",
+      "en": "Aghjabadi",
+      "slug": "aghjabadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.074",
+    "lon": "47.131"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ908006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacıqasımlı",
+    "en": "Hajigasimli",
+    "slug": "hajigasimli"
+  },
+  "code": {
+    "id": "AZ908006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ908",
+    "level": 1,
+    "name": {
+      "local": "Saatlı",
+      "en": "Saatli",
+      "slug": "saatli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.93",
+    "lon": "48.302"
+  },
+  "metadata": {},
+  "source": {}
+}

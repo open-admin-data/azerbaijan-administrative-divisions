@@ -1,0 +1,449 @@
+# Yardimli — Azerbaijan Administrative Divisions
+
+> 88 settlements
+> Code: AZ804
+> Coordinates: 38.923, 48.283
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abasallı (Abasalli)
+
+Code: AZ804085, Coordinates: 38.891, 48.089
+
+
+### Abbasabad
+
+Code: AZ804057, Coordinates: 38.868, 48.288
+
+
+### Abdinli
+
+Code: AZ804041, Coordinates: 38.922, 48.156
+
+
+### Alçabulaq (Alchabulag)
+
+Code: AZ804023, Coordinates: 38.935, 48.289
+
+
+### Allar
+
+Code: AZ804070, Coordinates: 38.799, 48.234
+
+
+### Əngəvül (Angavul)
+
+Code: AZ804062, Coordinates: 38.889, 48.342
+
+
+### Anzov
+
+Code: AZ804053, Coordinates: 38.87, 48.262
+
+
+### Ərsilə (Arsila)
+
+Code: AZ804019, Coordinates: 38.975, 48.346
+
+
+### Ərus (Arus)
+
+Code: AZ804021, Coordinates: 38.947, 48.328
+
+
+### Arvana
+
+Code: AZ804073, Coordinates: 38.828, 48.119
+
+
+### Aşağı Astanlı (Ashaghi Astanli)
+
+Code: AZ804003, Coordinates: 39.041, 48.376
+
+
+### Avaş (Avash)
+
+Code: AZ804051, Coordinates: 38.894, 48.093
+
+
+### Əvçədulan (Avchadulan)
+
+Code: AZ804065, Coordinates: 38.916, 48.339
+
+
+### Avun
+
+Code: AZ804080, Coordinates: 38.862, 48.231
+
+
+### Avur
+
+Code: AZ804046, Coordinates: 38.887, 48.179
+
+
+### Bərcan (Barjan)
+
+Code: AZ804008, Coordinates: 39.017, 48.399
+
+
+### Bilnə (Bilna)
+
+Code: AZ804059, Coordinates: 38.87, 48.305
+
+
+### Bozayran
+
+Code: AZ804032, Coordinates: 38.895, 48.255
+
+
+### Bürzünbül (Burzunbul)
+
+Code: AZ804058, Coordinates: 38.882, 48.286
+
+
+### Çanaqbulaq (Chanagbulag)
+
+Code: AZ804005, Coordinates: 39.021, 48.374
+
+
+### Çay Üzü (Chay Uzu)
+
+Code: AZ804048, Coordinates: 38.887, 48.191
+
+
+### Dağ Üzü (Dagh Uzu)
+
+Code: AZ804047, Coordinates: 38.868, 48.168
+
+
+### Dəlləkli (Dallakli)
+
+Code: AZ804030, Coordinates: 38.912, 48.228
+
+
+### Dəryavar (Daryavar)
+
+Code: AZ804076, Coordinates: 38.907, 48.29
+
+
+### Deman
+
+Code: AZ804086, Coordinates: 38.863, 48.039
+
+
+### Eçara (Echara)
+
+Code: AZ804017, Coordinates: 38.997, 48.348
+
+
+### Fındıqlıqışlaq (Findigligishlag)
+
+Code: AZ804072, Coordinates: 38.822, 48.151
+
+
+### Qabaqdibi (Gabagdibi)
+
+Code: AZ804026, Coordinates: 38.915, 48.267
+
+
+### Qaraqaya (Garagaya)
+
+Code: AZ804081, Coordinates: 38.854, 48.216
+
+
+### Qaravuldaş (Garavuldash)
+
+Code: AZ804087, Coordinates: 38.827, 48.091
+
+
+### Gərsava (Garsava)
+
+Code: AZ804045, Coordinates: 38.88, 48.152
+
+
+### Gavran
+
+Code: AZ804033, Coordinates: 38.895, 48.22
+
+
+### Gendərə (Gendere)
+
+Code: AZ804002, Coordinates: 39.052, 48.36
+
+
+### Gilar
+
+Code: AZ804040, Coordinates: 38.918, 48.145
+
+
+### Gölyeri (Golyeri)
+
+Code: AZ804009, Coordinates: 39.009, 48.388
+
+
+### Gügəvar (Gugavar)
+
+Code: AZ804012, Coordinates: 38.966, 48.462
+
+
+### Hamarkənd (Hamarkend)
+
+Code: AZ804054, Coordinates: 38.865, 48.276
+
+
+### Honuba
+
+Code: AZ804011, Coordinates: 38.971, 48.438
+
+
+### Honuba Şıxlar (Honuba Shikhlar)
+
+Code: AZ804013, Coordinates: 38.957, 48.43
+
+
+### Horavar
+
+Code: AZ804061, Coordinates: 38.897, 48.341
+
+
+### Horonu
+
+Code: AZ804067, Coordinates: 38.941, 48.379
+
+
+### Cirimbel (Jirimbel)
+
+Code: AZ804038, Coordinates: 38.912, 48.156
+
+
+### Keçələkəran (Kechalakaran)
+
+Code: AZ804066, Coordinates: 38.929, 48.354
+
+
+### Xanbulaq (Khanbulag)
+
+Code: AZ804042, Coordinates: 38.933, 48.162
+
+
+### Köryədi (Koryadi)
+
+Code: AZ804027, Coordinates: 38.916, 48.279
+
+
+### Kürəkçi (Kurakchi)
+
+Code: AZ804044, Coordinates: 38.887, 48.132
+
+
+### Ləzir (Lazir)
+
+Code: AZ804001, Coordinates: 39.01, 48.449
+
+
+### Ləzran (Lazran)
+
+Code: AZ804018, Coordinates: 38.99, 48.339
+
+
+### Məlikli (Malikli)
+
+Code: AZ804084, Coordinates: 38.962, 48.31
+
+
+### Mamulğan (Mamulghan)
+
+Code: AZ804037, Coordinates: 38.906, 48.179
+
+
+### Mirimli
+
+Code: AZ804020, Coordinates: 38.962, 48.32
+
+
+### Mişkireyn (Mishkireyn)
+
+Code: AZ804025, Coordinates: 38.922, 48.262
+
+
+### Musa
+
+Code: AZ804028, Coordinates: 39.025, 48.385
+
+
+### Nisəqələ (Nisagala)
+
+Code: AZ804049, Coordinates: 38.88, 48.204
+
+
+### Odurakəran (Odurakaran)
+
+Code: AZ804022, Coordinates: 38.939, 48.301
+
+
+### Ökü (Oku)
+
+Code: AZ804036, Coordinates: 38.903, 48.188
+
+
+### Osnakəran (Osnakaran)
+
+Code: AZ804052, Coordinates: 38.876, 48.251
+
+
+### Ostayır (Ostayir)
+
+Code: AZ804029, Coordinates: 38.915, 48.217
+
+
+### Peştəsər (Peshtasar)
+
+Code: AZ804074, Coordinates: 38.854, 48.179
+
+
+### Pirembel
+
+Code: AZ804043, Coordinates: 38.921, 48.126
+
+
+### Porsova
+
+Code: AZ804014, Coordinates: 38.977, 48.401
+
+
+### Separadi
+
+Code: AZ804069, Coordinates: 38.93, 48.41
+
+
+### Şəfəqli (Shafagli)
+
+Code: AZ804039, Coordinates: 38.9, 48.156
+
+
+### Şələ (Shala)
+
+Code: AZ804082, Coordinates: 38.982, 48.325
+
+
+### Şıxhüseynli (Shikhhuseynli)
+
+Code: AZ804071, Coordinates: 38.813, 48.251
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ804007, Coordinates: 39.012, 48.381
+
+
+### Şiləvəngə (Shilavanga)
+
+Code: AZ804035, Coordinates: 38.901, 48.201
+
+
+### Şovut (Shovut)
+
+Code: AZ804015, Coordinates: 38.962, 48.383
+
+
+### Sırıq (Sirig)
+
+Code: AZ804075, Coordinates: 38.918, 48.313
+
+
+### Solqard (Solgard)
+
+Code: AZ804056, Coordinates: 38.859, 48.276
+
+
+### Tahirli
+
+Code: AZ804034, Coordinates: 38.953, 48.319
+
+
+### Telavar
+
+Code: AZ804016, Coordinates: 38.979, 48.375
+
+
+### Teşkan (Teshkan)
+
+Code: AZ804079, Coordinates: 38.915, 48.437
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ804010, Coordinates: 39.004, 48.386
+
+
+### Tiləkənd (Tilakend)
+
+Code: AZ804083, Coordinates: 38.952, 48.502
+
+
+### Urakəran (Urakaran)
+
+Code: AZ804050, Coordinates: 38.881, 48.215
+
+
+### Vəlixanlı (Valikhanli)
+
+Code: AZ804024, Coordinates: 38.929, 48.272
+
+
+### Vərgədüz (Vargaduz)
+
+Code: AZ804060, Coordinates: 38.899, 48.317
+
+
+### Vərov (Varov)
+
+Code: AZ804064, Coordinates: 38.91, 48.366
+
+
+### YARDIMLI
+
+Code: AZ804031, Coordinates: 38.909, 48.243
+
+
+### Yeni Abdinli
+
+Code: AZ804088, Coordinates: 38.928, 48.151
+
+
+### Yolocaq (Yolojag)
+
+Code: AZ804068, Coordinates: 38.93, 48.399
+
+
+### Yuxarı Astanlı (Yukhari Astanli)
+
+Code: AZ804004, Coordinates: 39.035, 48.382
+
+
+### Zəngələ (Zangala)
+
+Code: AZ804063, Coordinates: 38.894, 48.369
+
+
+### Zəngəran (Zengaran)
+
+Code: AZ804055, Coordinates: 38.86, 48.262
+
+
+### Zevin
+
+Code: AZ804006, Coordinates: 39.024, 48.356
+
+
+### Zeynələzir (Zeynalazir)
+
+Code: AZ804078, Coordinates: 38.95, 48.439
+
+
+### Jiy (Zhiy)
+
+Code: AZ804077, Coordinates: 38.962, 48.364
+
+

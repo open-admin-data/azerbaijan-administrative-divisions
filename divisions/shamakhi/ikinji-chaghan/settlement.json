@@ -1,0 +1,45 @@
+{
+  "id": "AZ410042",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İkinci Çağan",
+    "en": "Ikinji Chaghan",
+    "slug": "ikinji-chaghan"
+  },
+  "code": {
+    "id": "AZ410042",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ410",
+    "level": 1,
+    "name": {
+      "local": "Şamaxı",
+      "en": "Shamakhi",
+      "slug": "shamakhi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.724",
+    "lon": "48.555"
+  },
+  "metadata": {},
+  "source": {}
+}

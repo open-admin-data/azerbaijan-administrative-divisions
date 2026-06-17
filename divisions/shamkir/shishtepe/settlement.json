@@ -1,0 +1,45 @@
+{
+  "id": "AZ504006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şiştəpə",
+    "en": "Shishtepe",
+    "slug": "shishtepe"
+  },
+  "code": {
+    "id": "AZ504006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ504",
+    "level": 1,
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.847",
+    "lon": "45.931"
+  },
+  "metadata": {},
+  "source": {}
+}

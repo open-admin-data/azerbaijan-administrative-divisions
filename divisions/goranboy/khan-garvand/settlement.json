@@ -1,0 +1,45 @@
+{
+  "id": "AZ509077",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xan Qərvənd",
+    "en": "Khan Garvand",
+    "slug": "khan-garvand"
+  },
+  "code": {
+    "id": "AZ509077",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.493",
+    "lon": "46.909"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ606025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Əbdürrəhmanlı",
+    "en": "Yukhari Abdurrahmanli",
+    "slug": "yukhari-abdurrahmanli"
+  },
+  "code": {
+    "id": "AZ606025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.568",
+    "lon": "47.198"
+  },
+  "metadata": {},
+  "source": {}
+}

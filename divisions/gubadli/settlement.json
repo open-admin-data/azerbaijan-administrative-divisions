@@ -1,0 +1,4232 @@
+[
+  {
+    "id": "AZ603004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abdalanlı",
+      "en": "Abdalanli",
+      "slug": "abdalanli"
+    },
+    "code": {
+      "id": "AZ603004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.412",
+      "lon": "46.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əbilcə",
+      "en": "Abilja",
+      "slug": "abilja"
+    },
+    "code": {
+      "id": "AZ603057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.221",
+      "lon": "46.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əfəndilər",
+      "en": "Afandilar",
+      "slug": "afandilar"
+    },
+    "code": {
+      "id": "AZ603068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.331",
+      "lon": "46.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alaqurşaq",
+      "en": "Alagurshag",
+      "slug": "alagurshag"
+    },
+    "code": {
+      "id": "AZ603079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.248",
+      "lon": "46.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliquluuşağı",
+      "en": "Aliguluushaghi",
+      "slug": "aliguluushaghi"
+    },
+    "code": {
+      "id": "AZ603024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.452",
+      "lon": "46.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Altınca",
+      "en": "Altinja",
+      "slug": "altinja"
+    },
+    "code": {
+      "id": "AZ603082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.221",
+      "lon": "46.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Armudlu",
+      "en": "Armudlu",
+      "slug": "armudlu"
+    },
+    "code": {
+      "id": "AZ603086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.46",
+      "lon": "46.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Cibikli",
+      "en": "Ashaghi Jibikli",
+      "slug": "ashaghi-jibikli"
+    },
+    "code": {
+      "id": "AZ603032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.357",
+      "lon": "46.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Xocamsaqlı",
+      "en": "Ashaghi Khojamsagli",
+      "slug": "ashaghi-khojamsagli"
+    },
+    "code": {
+      "id": "AZ603043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.315",
+      "lon": "46.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Mollu",
+      "en": "Ashaghi Mollu",
+      "slug": "ashaghi-mollu"
+    },
+    "code": {
+      "id": "AZ603064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.305",
+      "lon": "46.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əyin",
+      "en": "Ayin",
+      "slug": "ayin"
+    },
+    "code": {
+      "id": "AZ603033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.349",
+      "lon": "46.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəxtiyarlı",
+      "en": "Bakhtiyarli",
+      "slug": "bakhtiyarli"
+    },
+    "code": {
+      "id": "AZ603006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.387",
+      "lon": "46.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balahəsənli",
+      "en": "Balahasanli",
+      "slug": "balahasanli"
+    },
+    "code": {
+      "id": "AZ603080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.428",
+      "lon": "46.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balasoltanlı",
+      "en": "Balasoltanli",
+      "slug": "balasoltanli"
+    },
+    "code": {
+      "id": "AZ603020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.361",
+      "lon": "46.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ballıqaya",
+      "en": "Balligaya",
+      "slug": "balligaya"
+    },
+    "code": {
+      "id": "AZ603051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.248",
+      "lon": "46.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Başarat",
+      "en": "Basharat",
+      "slug": "basharat"
+    },
+    "code": {
+      "id": "AZ603078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.466",
+      "lon": "46.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boyunəkər",
+      "en": "Boyunakar",
+      "slug": "boyunakar"
+    },
+    "code": {
+      "id": "AZ603050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.247",
+      "lon": "46.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çərəli",
+      "en": "Charali",
+      "slug": "charali"
+    },
+    "code": {
+      "id": "AZ603049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.252",
+      "lon": "46.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çardaqlı",
+      "en": "Chardagli",
+      "slug": "chardagli"
+    },
+    "code": {
+      "id": "AZ603010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.348",
+      "lon": "46.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaytumas",
+      "en": "Chaytumas",
+      "slug": "chaytumas"
+    },
+    "code": {
+      "id": "AZ603065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.305",
+      "lon": "46.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəmirçilər",
+      "en": "Damirchilar",
+      "slug": "damirchilar"
+    },
+    "code": {
+      "id": "AZ603039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.317",
+      "lon": "46.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Davudlu",
+      "en": "Davudlu",
+      "slug": "davudlu"
+    },
+    "code": {
+      "id": "AZ603084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.44",
+      "lon": "46.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Deşdahat",
+      "en": "Deshdahat",
+      "slug": "deshdahat"
+    },
+    "code": {
+      "id": "AZ603089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.503",
+      "lon": "46.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diləli Müskənli",
+      "en": "Dilali Muskanli",
+      "slug": "dilali-muskanli"
+    },
+    "code": {
+      "id": "AZ603062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.305",
+      "lon": "46.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dondarlı",
+      "en": "Dondarli",
+      "slug": "dondarli"
+    },
+    "code": {
+      "id": "AZ603040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.308",
+      "lon": "46.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyvazlı",
+      "en": "Eyvazli",
+      "slug": "eyvazli"
+    },
+    "code": {
+      "id": "AZ603037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.435",
+      "lon": "46.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fərcan",
+      "en": "Farjan",
+      "slug": "farjan"
+    },
+    "code": {
+      "id": "AZ603046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.274",
+      "lon": "46.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qədili",
+      "en": "Gadili",
+      "slug": "gadili"
+    },
+    "code": {
+      "id": "AZ603036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.429",
+      "lon": "46.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarağac",
+      "en": "Garaghaj",
+      "slug": "garaghaj"
+    },
+    "code": {
+      "id": "AZ603016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.396",
+      "lon": "46.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqoyunlu",
+      "en": "Garagoyunlu",
+      "slug": "garagoyunlu"
+    },
+    "code": {
+      "id": "AZ603076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.179",
+      "lon": "46.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraimanlı",
+      "en": "Garaimanli",
+      "slug": "garaimanli"
+    },
+    "code": {
+      "id": "AZ603017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.394",
+      "lon": "46.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaracallı",
+      "en": "Garajalli",
+      "slug": "garajalli"
+    },
+    "code": {
+      "id": "AZ603013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.417",
+      "lon": "46.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarakişilər",
+      "en": "Garakishilar",
+      "slug": "garakishilar"
+    },
+    "code": {
+      "id": "AZ603012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.436",
+      "lon": "46.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaralar",
+      "en": "Garalar",
+      "slug": "garalar"
+    },
+    "code": {
+      "id": "AZ603072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.225",
+      "lon": "46.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qayalı",
+      "en": "Gayali",
+      "slug": "gayali"
+    },
+    "code": {
+      "id": "AZ603007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.388",
+      "lon": "46.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəzyan",
+      "en": "Gazyan",
+      "slug": "gazyan"
+    },
+    "code": {
+      "id": "AZ603063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.292",
+      "lon": "46.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qilican",
+      "en": "Gilijan",
+      "slug": "gilijan"
+    },
+    "code": {
+      "id": "AZ603081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.206",
+      "lon": "46.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qiyaslı",
+      "en": "Giyasli",
+      "slug": "giyasli"
+    },
+    "code": {
+      "id": "AZ603077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.173",
+      "lon": "46.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyər Abbas",
+      "en": "Goyar Abbas",
+      "slug": "goyar-abbas"
+    },
+    "code": {
+      "id": "AZ603029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.385",
+      "lon": "46.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyərcik",
+      "en": "Goyarjik",
+      "slug": "goyarjik"
+    },
+    "code": {
+      "id": "AZ603028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.4",
+      "lon": "46.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyyal",
+      "en": "Goyyal",
+      "slug": "goyyal"
+    },
+    "code": {
+      "id": "AZ603047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.275",
+      "lon": "46.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "QUBADLI",
+      "en": "GUBADLI",
+      "slug": "gubadli"
+    },
+    "code": {
+      "id": "AZ603011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.345",
+      "lon": "46.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qundanlı",
+      "en": "Gundanli",
+      "slug": "gundanli"
+    },
+    "code": {
+      "id": "AZ603092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.43",
+      "lon": "46.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gürcülü",
+      "en": "Gurjulu",
+      "slug": "gurjulu"
+    },
+    "code": {
+      "id": "AZ603025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.428",
+      "lon": "46.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həkəri",
+      "en": "Hakari",
+      "slug": "hakari"
+    },
+    "code": {
+      "id": "AZ603093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.47",
+      "lon": "46.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hal",
+      "en": "Hal",
+      "slug": "hal"
+    },
+    "code": {
+      "id": "AZ603054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.275",
+      "lon": "46.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həmzəli",
+      "en": "Hamzali",
+      "slug": "hamzali"
+    },
+    "code": {
+      "id": "AZ603066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.315",
+      "lon": "46.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hərtiz",
+      "en": "Hartiz",
+      "slug": "hartiz"
+    },
+    "code": {
+      "id": "AZ603045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.281",
+      "lon": "46.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hat",
+      "en": "Hat",
+      "slug": "hat"
+    },
+    "code": {
+      "id": "AZ603088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.49",
+      "lon": "46.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynuşağı",
+      "en": "Huseynushaghi",
+      "slug": "huseynushaghi"
+    },
+    "code": {
+      "id": "AZ603091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.245",
+      "lon": "46.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İşıqlı",
+      "en": "Ishigli",
+      "slug": "ishigli"
+    },
+    "code": {
+      "id": "AZ603015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.401",
+      "lon": "46.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cılfır",
+      "en": "Jilfir",
+      "slug": "jilfir"
+    },
+    "code": {
+      "id": "AZ603027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.411",
+      "lon": "46.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kavdadıq",
+      "en": "Kavdadig",
+      "slug": "kavdadig"
+    },
+    "code": {
+      "id": "AZ603055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.238",
+      "lon": "46.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xələc",
+      "en": "Khalaj",
+      "slug": "khalaj"
+    },
+    "code": {
+      "id": "AZ603009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.365",
+      "lon": "46.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xallava",
+      "en": "Khallava",
+      "slug": "khallava"
+    },
+    "code": {
+      "id": "AZ603030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.378",
+      "lon": "46.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəndək",
+      "en": "Khandak",
+      "slug": "khandak"
+    },
+    "code": {
+      "id": "AZ603014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.415",
+      "lon": "46.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanlıq",
+      "en": "Khanlig",
+      "slug": "khanlig"
+    },
+    "code": {
+      "id": "AZ603060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.271",
+      "lon": "46.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xıdırlı",
+      "en": "Khidirli",
+      "slug": "khidirli"
+    },
+    "code": {
+      "id": "AZ603003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.421",
+      "lon": "46.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xocahan",
+      "en": "Khojahan",
+      "slug": "khojahan"
+    },
+    "code": {
+      "id": "AZ603059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.191",
+      "lon": "46.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xocik",
+      "en": "Khojik",
+      "slug": "khojik"
+    },
+    "code": {
+      "id": "AZ603022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.35",
+      "lon": "46.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürd Mahruzlu",
+      "en": "Kurd Mahruzlu",
+      "slug": "kurd-mahruzlu"
+    },
+    "code": {
+      "id": "AZ603073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.214",
+      "lon": "46.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləpəxeyranlı",
+      "en": "Lapakheyranli",
+      "slug": "lapakheyranli"
+    },
+    "code": {
+      "id": "AZ603005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.394",
+      "lon": "46.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahmudlu",
+      "en": "Mahmudlu",
+      "slug": "mahmudlu"
+    },
+    "code": {
+      "id": "AZ603008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.37",
+      "lon": "46.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahruzlu",
+      "en": "Mahruzlu",
+      "slug": "mahruzlu"
+    },
+    "code": {
+      "id": "AZ603071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.23",
+      "lon": "46.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikəhmədli",
+      "en": "Malikahmadli",
+      "slug": "malikahmadli"
+    },
+    "code": {
+      "id": "AZ603001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.45",
+      "lon": "46.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmər",
+      "en": "Mamar",
+      "slug": "mamar"
+    },
+    "code": {
+      "id": "AZ603053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.252",
+      "lon": "46.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mərdanlı",
+      "en": "Mardanli",
+      "slug": "mardanli"
+    },
+    "code": {
+      "id": "AZ603023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.336",
+      "lon": "46.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məzrə",
+      "en": "Mazra",
+      "slug": "mazra"
+    },
+    "code": {
+      "id": "AZ603035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.41",
+      "lon": "46.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehrili",
+      "en": "Mehrili",
+      "slug": "mehrili"
+    },
+    "code": {
+      "id": "AZ603044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.303",
+      "lon": "46.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Milanlı",
+      "en": "Milanli",
+      "slug": "milanli"
+    },
+    "code": {
+      "id": "AZ603087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.488",
+      "lon": "46.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirlər",
+      "en": "Mirlar",
+      "slug": "mirlar"
+    },
+    "code": {
+      "id": "AZ603041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.301",
+      "lon": "46.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollabürhan",
+      "en": "Mollaburhan",
+      "slug": "mollaburhan"
+    },
+    "code": {
+      "id": "AZ603021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.354",
+      "lon": "46.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollalı",
+      "en": "Mollali",
+      "slug": "mollali"
+    },
+    "code": {
+      "id": "AZ603052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.245",
+      "lon": "46.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ603070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.238",
+      "lon": "46.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muradxanlı",
+      "en": "Muradkhanli",
+      "slug": "muradkhanli"
+    },
+    "code": {
+      "id": "AZ603085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.455",
+      "lon": "46.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Novlu",
+      "en": "Novlu",
+      "slug": "novlu"
+    },
+    "code": {
+      "id": "AZ603026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.416",
+      "lon": "46.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Padar",
+      "en": "Padar",
+      "slug": "padar"
+    },
+    "code": {
+      "id": "AZ603018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.381",
+      "lon": "46.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poladlı",
+      "en": "Poladli",
+      "slug": "poladli"
+    },
+    "code": {
+      "id": "AZ603042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.312",
+      "lon": "46.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saldaş",
+      "en": "Saldash",
+      "slug": "saldash"
+    },
+    "code": {
+      "id": "AZ603048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.255",
+      "lon": "46.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saray",
+      "en": "Saray",
+      "slug": "saray"
+    },
+    "code": {
+      "id": "AZ603061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.311",
+      "lon": "46.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıyataq",
+      "en": "Sariyatag",
+      "slug": "sariyatag"
+    },
+    "code": {
+      "id": "AZ603019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.379",
+      "lon": "46.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seləli",
+      "en": "Selali",
+      "slug": "selali"
+    },
+    "code": {
+      "id": "AZ603075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.2",
+      "lon": "46.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seytas",
+      "en": "Seytas",
+      "slug": "seytas"
+    },
+    "code": {
+      "id": "AZ603034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.386",
+      "lon": "46.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tarovlu",
+      "en": "Tarovlu",
+      "slug": "tarovlu"
+    },
+    "code": {
+      "id": "AZ603083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.333",
+      "lon": "46.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatar",
+      "en": "Tatar",
+      "slug": "tatar"
+    },
+    "code": {
+      "id": "AZ603094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.161",
+      "lon": "46.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Teymur Müskənli",
+      "en": "Teymur Muskanli",
+      "slug": "teymur-muskanli"
+    },
+    "code": {
+      "id": "AZ603002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.428",
+      "lon": "46.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tinli",
+      "en": "Tinli",
+      "slug": "tinli"
+    },
+    "code": {
+      "id": "AZ603058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.2",
+      "lon": "46.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ulaşlı",
+      "en": "Ulashli",
+      "slug": "ulashli"
+    },
+    "code": {
+      "id": "AZ603056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.227",
+      "lon": "46.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Cibikli",
+      "en": "Yukhari Jibikli",
+      "slug": "yukhari-jibikli"
+    },
+    "code": {
+      "id": "AZ603031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.368",
+      "lon": "46.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Xocamsaqlı",
+      "en": "Yukhari Khojamsagli",
+      "slug": "yukhari-khojamsagli"
+    },
+    "code": {
+      "id": "AZ603038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.319",
+      "lon": "46.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Mollu",
+      "en": "Yukhari Mollu",
+      "slug": "yukhari-mollu"
+    },
+    "code": {
+      "id": "AZ603069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.329",
+      "lon": "46.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yusifbəyli",
+      "en": "Yusifbeyli",
+      "slug": "yusifbeyli"
+    },
+    "code": {
+      "id": "AZ603067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.32",
+      "lon": "46.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zilanlı",
+      "en": "Zilanli",
+      "slug": "zilanli"
+    },
+    "code": {
+      "id": "AZ603074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.206",
+      "lon": "46.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ603090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zor",
+      "en": "Zor",
+      "slug": "zor"
+    },
+    "code": {
+      "id": "AZ603090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ603",
+        "level": 1,
+        "name": {
+          "local": "Qubadlı",
+          "en": "Gubadli",
+          "slug": "gubadli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.304",
+      "lon": "46.549"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

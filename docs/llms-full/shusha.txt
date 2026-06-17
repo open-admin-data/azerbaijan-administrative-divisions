@@ -1,0 +1,204 @@
+# Shusha — Azerbaijan Administrative Divisions
+
+> 39 settlements
+> Code: AZ702
+> Coordinates: 39.754, 46.659
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağbulaq (Aghbulag)
+
+Code: AZ702034, Coordinates: 39.8, 46.596
+
+
+### Allahqulular (Allahgulular)
+
+Code: AZ702006, Coordinates: 39.751, 46.632
+
+
+### Armudlu
+
+Code: AZ702037, Coordinates: 39.772, 46.646
+
+
+### Aşağı Quşçular (Ashaghi Gushchular)
+
+Code: AZ702014, Coordinates: 39.84, 46.809
+
+
+### Böyük Qaladərəsi (Boyuk Galaderesi)
+
+Code: AZ702017, Coordinates: 39.659, 46.596
+
+
+### Çaykənd (Chaykend)
+
+Code: AZ702018, Coordinates: 39.788, 46.601
+
+
+### Daşaltı (Dashalti)
+
+Code: AZ702025, Coordinates: 39.743, 46.749
+
+
+### Dükanlar (Dukanlar)
+
+Code: AZ702023, Coordinates: 39.762, 46.708
+
+
+### Qarabulaq (Garabulag)
+
+Code: AZ702038, Coordinates: 39.781, 46.701
+
+
+### Qaybalı (Gaybali)
+
+Code: AZ702010, Coordinates: 39.778, 46.728
+
+
+### Göytala (Goytala)
+
+Code: AZ702028, Coordinates: 39.678, 46.616
+
+
+### Həsənabad (Hasanabad)
+
+Code: AZ702031, Coordinates: 39.731, 46.599
+
+
+### Həsənqulular (Hasangulular)
+
+Code: AZ702039, Coordinates: 39.756, 46.605
+
+
+### İmamqulular (Imamgulular)
+
+Code: AZ702003, Coordinates: 39.746, 46.598
+
+
+### İmanlar (Imanlar)
+
+Code: AZ702035, Coordinates: 39.767, 46.606
+
+
+### Cəmillər (Jamillar)
+
+Code: AZ702001, Coordinates: 39.758, 46.583
+
+
+### Xəlfəli (Khalfali)
+
+Code: AZ702022, Coordinates: 39.765, 46.702
+
+
+### Xanalı (Khanali)
+
+Code: AZ702002, Coordinates: 39.75, 46.59
+
+
+### Xanlıqpəyə (Khanligpeye)
+
+Code: AZ702005, Coordinates: 39.758, 46.612
+
+
+### Xudaverdilər (Khudaverdilar)
+
+Code: AZ702032, Coordinates: 39.764, 46.712
+
+
+### Kiçik Qaladərəsi (Kichik Galaderesi)
+
+Code: AZ702016, Coordinates: 39.639, 46.606
+
+
+### Laçınlar (Lachinlar)
+
+Code: AZ702021, Coordinates: 39.767, 46.711
+
+
+### Malıbəyli (Malibeyli)
+
+Code: AZ702013, Coordinates: 39.83, 46.792
+
+
+### Məmişlər (Memishlar)
+
+Code: AZ702008, Coordinates: 39.77, 46.629
+
+
+### Mirzələr (Mirzalar)
+
+Code: AZ702020, Coordinates: 39.778, 46.663
+
+
+### Nəbilər (Nabilar)
+
+Code: AZ702036, Coordinates: 39.727, 46.721
+
+
+### Nağılar (Naghilar)
+
+Code: AZ702033, Coordinates: 39.773, 46.726
+
+
+### Onverst
+
+Code: AZ702027, Coordinates: 39.673, 46.604
+
+
+### Paşalar (Pashalar)
+
+Code: AZ702009, Coordinates: 39.772, 46.606
+
+
+### Səfixanlar (Safikhanlar)
+
+Code: AZ702004, Coordinates: 39.755, 46.613
+
+
+### Sarıbaba (Saribaba)
+
+Code: AZ702026, Coordinates: 39.679, 46.585
+
+
+### Şırlan (Shirlan)
+
+Code: AZ702019, Coordinates: 39.785, 46.611
+
+
+### ŞUŞA (SHUSHA)
+
+Code: AZ702024, Coordinates: 39.758, 46.749
+
+
+### Şuşulu (Shushulu)
+
+Code: AZ702030, Coordinates: 39.776, 46.689
+
+
+### Turabxan (Turabkhan)
+
+Code: AZ702029, Coordinates: 39.774, 46.577
+
+
+### Turşsu (Turshsu)
+
+Code: AZ702012, Coordinates: 39.688, 46.651
+
+
+### Yuxarı Quşçular (Yukhari Gushchular)
+
+Code: AZ702015, Coordinates: 39.835, 46.812
+
+
+### Zamanpəyəsi (Zamanpeyesi)
+
+Code: AZ702007, Coordinates: 39.75, 46.674
+
+
+### Zarıslı (Zarisli)
+
+Code: AZ702011, Coordinates: 39.716, 46.678
+
+

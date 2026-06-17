@@ -1,0 +1,6797 @@
+[
+  {
+    "id": "AZ302065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əbilyataq",
+      "en": "Abilyatag",
+      "slug": "abilyatag"
+    },
+    "code": {
+      "id": "AZ302065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.541",
+      "lon": "48.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağarəhimoba",
+      "en": "Agharahimoba",
+      "slug": "agharahimoba"
+    },
+    "code": {
+      "id": "AZ302032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.495",
+      "lon": "48.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302115",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağaşirinoba",
+      "en": "Aghashirinoba",
+      "slug": "aghashirinoba"
+    },
+    "code": {
+      "id": "AZ302115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.519",
+      "lon": "48.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağaverdioba",
+      "en": "Aghaverdioba",
+      "slug": "aghaverdioba"
+    },
+    "code": {
+      "id": "AZ302100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.605",
+      "lon": "48.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağçay",
+      "en": "Aghchay",
+      "slug": "aghchay"
+    },
+    "code": {
+      "id": "AZ302059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.481",
+      "lon": "48.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302109",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağtala",
+      "en": "Aghtala",
+      "slug": "aghtala"
+    },
+    "code": {
+      "id": "AZ302109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.539",
+      "lon": "48.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağyazı Buduq",
+      "en": "Aghyazi Budug",
+      "slug": "aghyazi-budug"
+    },
+    "code": {
+      "id": "AZ302009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.397",
+      "lon": "48.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədoba",
+      "en": "Ahmadoba",
+      "slug": "ahmadoba"
+    },
+    "code": {
+      "id": "AZ302070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.516",
+      "lon": "48.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alıcqışlaq",
+      "en": "Alijgishlag",
+      "slug": "alijgishlag"
+    },
+    "code": {
+      "id": "AZ302008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.382",
+      "lon": "48.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəb",
+      "en": "Arab",
+      "slug": "arab"
+    },
+    "code": {
+      "id": "AZ302054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.42",
+      "lon": "48.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Armudpadar",
+      "en": "Armudpadar",
+      "slug": "armudpadar"
+    },
+    "code": {
+      "id": "AZ302024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.44",
+      "lon": "48.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arzu",
+      "en": "Arzu",
+      "slug": "arzu"
+    },
+    "code": {
+      "id": "AZ302006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.4",
+      "lon": "48.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Zeyid",
+      "en": "Ashaghi  Zeyid",
+      "slug": "ashaghi-zeyid"
+    },
+    "code": {
+      "id": "AZ302018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.382",
+      "lon": "48.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Ləgər",
+      "en": "Ashaghi Lagar",
+      "slug": "ashaghi-lagar"
+    },
+    "code": {
+      "id": "AZ302014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.599",
+      "lon": "48.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302120",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağıoba",
+      "en": "Ashaghioba",
+      "slug": "ashaghioba"
+    },
+    "code": {
+      "id": "AZ302120",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.721",
+      "lon": "48.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302121",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aslanoba",
+      "en": "Aslanoba",
+      "slug": "aslanoba"
+    },
+    "code": {
+      "id": "AZ302121",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.719",
+      "lon": "48.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302144",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əzizli",
+      "en": "Azizli",
+      "slug": "azizli"
+    },
+    "code": {
+      "id": "AZ302144",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.505",
+      "lon": "48.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəbəli",
+      "en": "Babali",
+      "slug": "babali"
+    },
+    "code": {
+      "id": "AZ302069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.515",
+      "lon": "48.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balaqusarqışlaq",
+      "en": "Balagusargishlag",
+      "slug": "balagusargishlag"
+    },
+    "code": {
+      "id": "AZ302099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.593",
+      "lon": "48.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baraxum",
+      "en": "Barakhum",
+      "slug": "barakhum"
+    },
+    "code": {
+      "id": "AZ302084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.597",
+      "lon": "48.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayoba",
+      "en": "Bayoba",
+      "slug": "bayoba"
+    },
+    "code": {
+      "id": "AZ302004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.422",
+      "lon": "48.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəyqışlaq",
+      "en": "Beygishlag",
+      "slug": "beygishlag"
+    },
+    "code": {
+      "id": "AZ302043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.43",
+      "lon": "48.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302117",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bostançı",
+      "en": "Bostanchi",
+      "slug": "bostanchi"
+    },
+    "code": {
+      "id": "AZ302117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.605",
+      "lon": "48.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaxçaxlı",
+      "en": "Chakhchakhli",
+      "slug": "chakhchakhli"
+    },
+    "code": {
+      "id": "AZ302089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.653",
+      "lon": "48.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaxmaqlı",
+      "en": "Chakhmagli",
+      "slug": "chakhmagli"
+    },
+    "code": {
+      "id": "AZ302046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.443",
+      "lon": "48.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çarxı",
+      "en": "Charkhi",
+      "slug": "charkhi"
+    },
+    "code": {
+      "id": "AZ302037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.392",
+      "lon": "48.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaykənarı",
+      "en": "Chaykanari",
+      "slug": "chaykanari"
+    },
+    "code": {
+      "id": "AZ302031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.495",
+      "lon": "48.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302108",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çiləgir",
+      "en": "Chilagir",
+      "slug": "chilagir"
+    },
+    "code": {
+      "id": "AZ302108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.524",
+      "lon": "48.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çılğır",
+      "en": "Chilghir",
+      "slug": "chilghir"
+    },
+    "code": {
+      "id": "AZ302015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.364",
+      "lon": "48.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302111",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çinartala",
+      "en": "Chinartala",
+      "slug": "chinartala"
+    },
+    "code": {
+      "id": "AZ302111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.547",
+      "lon": "48.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çuxuroba",
+      "en": "Chukhuroba",
+      "slug": "chukhuroba"
+    },
+    "code": {
+      "id": "AZ302028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.464",
+      "lon": "48.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dədəli",
+      "en": "Dadali",
+      "slug": "dadali"
+    },
+    "code": {
+      "id": "AZ302080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.573",
+      "lon": "48.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302124",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dalğalı",
+      "en": "Dalghali",
+      "slug": "dalghali"
+    },
+    "code": {
+      "id": "AZ302124",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.751",
+      "lon": "48.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digahoba",
+      "en": "Digahoba",
+      "slug": "digahoba"
+    },
+    "code": {
+      "id": "AZ302097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.606",
+      "lon": "48.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302131",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düztahiroba",
+      "en": "Duztahiroba",
+      "slug": "duztahiroba"
+    },
+    "code": {
+      "id": "AZ302131",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.737",
+      "lon": "48.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fərzəlioba",
+      "en": "Farzalioba",
+      "slug": "farzalioba"
+    },
+    "code": {
+      "id": "AZ302094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.64",
+      "lon": "48.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qadaşoba",
+      "en": "Gadashoba",
+      "slug": "gadashoba"
+    },
+    "code": {
+      "id": "AZ302033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.497",
+      "lon": "48.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qədmalıqışlaq",
+      "en": "Gadmaligishlag",
+      "slug": "gadmaligishlag"
+    },
+    "code": {
+      "id": "AZ302016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.366",
+      "lon": "48.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalağan",
+      "en": "Galaghan",
+      "slug": "galaghan"
+    },
+    "code": {
+      "id": "AZ302055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.418",
+      "lon": "48.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəncəli",
+      "en": "Ganjali",
+      "slug": "ganjali"
+    },
+    "code": {
+      "id": "AZ302068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.51",
+      "lon": "48.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabağlı",
+      "en": "Garabaghli",
+      "slug": "garabaghli"
+    },
+    "code": {
+      "id": "AZ302062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.48",
+      "lon": "48.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraçaycek",
+      "en": "Garachayjek",
+      "slug": "garachayjek"
+    },
+    "code": {
+      "id": "AZ302019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.389",
+      "lon": "48.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraçı",
+      "en": "Garachi",
+      "slug": "garachi"
+    },
+    "code": {
+      "id": "AZ302047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.444",
+      "lon": "48.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağ Buduq",
+      "en": "Garadagh Budug",
+      "slug": "garadagh-budug"
+    },
+    "code": {
+      "id": "AZ302039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.416",
+      "lon": "48.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ302038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.404",
+      "lon": "48.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqaşlı",
+      "en": "Garagashli",
+      "slug": "garagashli"
+    },
+    "code": {
+      "id": "AZ302056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.431",
+      "lon": "48.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqurdlu",
+      "en": "Garagurdlu",
+      "slug": "garagurdlu"
+    },
+    "code": {
+      "id": "AZ302048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.455",
+      "lon": "48.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaracəlli",
+      "en": "Garajalli",
+      "slug": "garajalli"
+    },
+    "code": {
+      "id": "AZ302076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.557",
+      "lon": "48.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302151",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaracik",
+      "en": "Garajik",
+      "slug": "garajik"
+    },
+    "code": {
+      "id": "AZ302151",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.379",
+      "lon": "48.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaracik Zeyid",
+      "en": "Garajik Zeyid",
+      "slug": "garajik-zeyid"
+    },
+    "code": {
+      "id": "AZ302017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.369",
+      "lon": "48.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarğalıq",
+      "en": "Garghalig",
+      "slug": "garghalig"
+    },
+    "code": {
+      "id": "AZ302063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.455",
+      "lon": "48.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qımılqışlaq",
+      "en": "Gimilgishlag",
+      "slug": "gimilgishlag"
+    },
+    "code": {
+      "id": "AZ302002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.468",
+      "lon": "48.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302146",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qıraqlı",
+      "en": "Giragli",
+      "slug": "giragli"
+    },
+    "code": {
+      "id": "AZ302146",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.493",
+      "lon": "48.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qobuqıraq",
+      "en": "Gobugirag",
+      "slug": "gobugirag"
+    },
+    "code": {
+      "id": "AZ302045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.439",
+      "lon": "48.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoçaqqazma",
+      "en": "Gochaggazma",
+      "slug": "gochaggazma"
+    },
+    "code": {
+      "id": "AZ302012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.564",
+      "lon": "48.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302116",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gödəkli",
+      "en": "Godakli",
+      "slug": "godakli"
+    },
+    "code": {
+      "id": "AZ302116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.52",
+      "lon": "48.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülalan",
+      "en": "Gulalan",
+      "slug": "gulalan"
+    },
+    "code": {
+      "id": "AZ302049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.464",
+      "lon": "48.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302147",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ302147",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.781",
+      "lon": "48.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qusarçay",
+      "en": "Gusarchay",
+      "slug": "gusarchay"
+    },
+    "code": {
+      "id": "AZ302102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.568",
+      "lon": "48.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həbibkənd",
+      "en": "Habibkend",
+      "slug": "habibkend"
+    },
+    "code": {
+      "id": "AZ302010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.531",
+      "lon": "48.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıabdurəhimoba",
+      "en": "Hajiabdurahimoba",
+      "slug": "hajiabdurahimoba"
+    },
+    "code": {
+      "id": "AZ302083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.602",
+      "lon": "48.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıəhmədoba",
+      "en": "Hajiahmadoba",
+      "slug": "hajiahmadoba"
+    },
+    "code": {
+      "id": "AZ302072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.533",
+      "lon": "48.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıəlibəy",
+      "en": "Hajialibey",
+      "slug": "hajialibey"
+    },
+    "code": {
+      "id": "AZ302005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.407",
+      "lon": "48.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıqazma",
+      "en": "Hajigazma",
+      "slug": "hajigazma"
+    },
+    "code": {
+      "id": "AZ302071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.529",
+      "lon": "48.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıqurbanoba",
+      "en": "Hajigurbanoba",
+      "slug": "hajigurbanoba"
+    },
+    "code": {
+      "id": "AZ302066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.481",
+      "lon": "48.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıisaoba",
+      "en": "Hajiisaoba",
+      "slug": "hajiisaoba"
+    },
+    "code": {
+      "id": "AZ302035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.481",
+      "lon": "48.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacılar",
+      "en": "Hajilar",
+      "slug": "hajilar"
+    },
+    "code": {
+      "id": "AZ302057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.44",
+      "lon": "48.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıməmmədoba",
+      "en": "Hajimammadoba",
+      "slug": "hajimammadoba"
+    },
+    "code": {
+      "id": "AZ302013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.577",
+      "lon": "48.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənqala",
+      "en": "Hasangala",
+      "slug": "hasangala"
+    },
+    "code": {
+      "id": "AZ302101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.579",
+      "lon": "48.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hülövlü",
+      "en": "Hulovlu",
+      "slug": "hulovlu"
+    },
+    "code": {
+      "id": "AZ302042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.404",
+      "lon": "48.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İdrisoba",
+      "en": "Idrisoba",
+      "slug": "idrisoba"
+    },
+    "code": {
+      "id": "AZ302095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.628",
+      "lon": "48.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İlxıçı",
+      "en": "Ilkhichi",
+      "slug": "ilkhichi"
+    },
+    "code": {
+      "id": "AZ302058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.462",
+      "lon": "48.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İlxıçı Həsən Əfəndi",
+      "en": "Ilkhichi Hasan Afandi",
+      "slug": "ilkhichi-hasan-afandi"
+    },
+    "code": {
+      "id": "AZ302060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.457",
+      "lon": "48.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İstisu",
+      "en": "Istisu",
+      "slug": "istisu"
+    },
+    "code": {
+      "id": "AZ302087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.668",
+      "lon": "48.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Canaxır",
+      "en": "Janakhir",
+      "slug": "janakhir"
+    },
+    "code": {
+      "id": "AZ302026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.416",
+      "lon": "48.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cığatay",
+      "en": "Jighatay",
+      "slug": "jighatay"
+    },
+    "code": {
+      "id": "AZ302061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.455",
+      "lon": "48.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302141",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keymərəz",
+      "en": "Keymaraz",
+      "slug": "keymaraz"
+    },
+    "code": {
+      "id": "AZ302141",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.418",
+      "lon": "48.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "XAÇMAZ",
+      "en": "KHACHMAZ",
+      "slug": "khachmaz"
+    },
+    "code": {
+      "id": "AZ302051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.461",
+      "lon": "48.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanlıqoba",
+      "en": "Khanligoba",
+      "slug": "khanligoba"
+    },
+    "code": {
+      "id": "AZ302052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.38",
+      "lon": "48.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302133",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanoba",
+      "en": "Khanoba",
+      "slug": "khanoba"
+    },
+    "code": {
+      "id": "AZ302133",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.783",
+      "lon": "48.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaspoladoba",
+      "en": "Khaspoladoba",
+      "slug": "khaspoladoba"
+    },
+    "code": {
+      "id": "AZ302067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.487",
+      "lon": "48.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəzərli",
+      "en": "Khazarli",
+      "slug": "khazarli"
+    },
+    "code": {
+      "id": "AZ302075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.568",
+      "lon": "48.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "XUDAT",
+      "en": "KHUDAT",
+      "slug": "khudat"
+    },
+    "code": {
+      "id": "AZ302091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.63",
+      "lon": "48.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302118",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xuray",
+      "en": "Khuray",
+      "slug": "khuray"
+    },
+    "code": {
+      "id": "AZ302118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.687",
+      "lon": "48.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiçik Baraxum",
+      "en": "Kichik Barakhum",
+      "slug": "kichik-barakhum"
+    },
+    "code": {
+      "id": "AZ302082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.607",
+      "lon": "48.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə Xudat",
+      "en": "Kohne  Khudat",
+      "slug": "kohne-khudat"
+    },
+    "code": {
+      "id": "AZ302096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.621",
+      "lon": "48.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə Xaçmaz",
+      "en": "Kohne Khachmaz",
+      "slug": "kohne-khachmaz"
+    },
+    "code": {
+      "id": "AZ302050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.479",
+      "lon": "48.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302136",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləcət",
+      "en": "Lajat",
+      "slug": "lajat"
+    },
+    "code": {
+      "id": "AZ302136",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.693",
+      "lon": "48.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Laman",
+      "en": "Laman",
+      "slug": "laman"
+    },
+    "code": {
+      "id": "AZ302040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.416",
+      "lon": "48.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maqsudkənd",
+      "en": "Magsudkend",
+      "slug": "magsudkend"
+    },
+    "code": {
+      "id": "AZ302093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.657",
+      "lon": "48.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302149",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədxanlı",
+      "en": "Mammadkhanli",
+      "slug": "mammadkhanli"
+    },
+    "code": {
+      "id": "AZ302149",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.417",
+      "lon": "48.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302114",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Manafoba",
+      "en": "Manafoba",
+      "slug": "manafoba"
+    },
+    "code": {
+      "id": "AZ302114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.536",
+      "lon": "48.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mənçəroba",
+      "en": "Mancharoba",
+      "slug": "mancharoba"
+    },
+    "code": {
+      "id": "AZ302073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.54",
+      "lon": "48.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maşıoba",
+      "en": "Mashioba",
+      "slug": "mashioba"
+    },
+    "code": {
+      "id": "AZ302029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.469",
+      "lon": "48.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302145",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meçitoba",
+      "en": "Mechitoba",
+      "slug": "mechitoba"
+    },
+    "code": {
+      "id": "AZ302145",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.57",
+      "lon": "48.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehrəliqışlaq",
+      "en": "Mehraligishlag",
+      "slug": "mehraligishlag"
+    },
+    "code": {
+      "id": "AZ302027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.42",
+      "lon": "48.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302122",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meşəli",
+      "en": "Meshali",
+      "slug": "meshali"
+    },
+    "code": {
+      "id": "AZ302122",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.734",
+      "lon": "48.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəməmmədqışlaq",
+      "en": "Mirzamammadgishlag",
+      "slug": "mirzamammadgishlag"
+    },
+    "code": {
+      "id": "AZ302030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.476",
+      "lon": "48.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollabürhanlı",
+      "en": "Mollaburhanli",
+      "slug": "mollaburhanli"
+    },
+    "code": {
+      "id": "AZ302003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.447",
+      "lon": "48.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302138",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moruqoba",
+      "en": "Morugoba",
+      "slug": "morugoba"
+    },
+    "code": {
+      "id": "AZ302138",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.682",
+      "lon": "48.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mürsəliqışlaq",
+      "en": "Mursaligishlag",
+      "slug": "mursaligishlag"
+    },
+    "code": {
+      "id": "AZ302044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.439",
+      "lon": "48.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mürşüdoba",
+      "en": "Murshudoba",
+      "slug": "murshudoba"
+    },
+    "code": {
+      "id": "AZ302106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.509",
+      "lon": "48.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müşkür",
+      "en": "Mushkur",
+      "slug": "mushkur"
+    },
+    "code": {
+      "id": "AZ302104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.494",
+      "lon": "48.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müşviq",
+      "en": "Mushvig",
+      "slug": "mushvig"
+    },
+    "code": {
+      "id": "AZ302105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.505",
+      "lon": "48.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müzəffəroba",
+      "en": "Muzaffaroba",
+      "slug": "muzaffaroba"
+    },
+    "code": {
+      "id": "AZ302034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.498",
+      "lon": "48.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302125",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nabran",
+      "en": "Nabran",
+      "slug": "nabran"
+    },
+    "code": {
+      "id": "AZ302125",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.76",
+      "lon": "48.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nağıoba",
+      "en": "Naghioba",
+      "slug": "naghioba"
+    },
+    "code": {
+      "id": "AZ302081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.596",
+      "lon": "48.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302110",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nərəcan",
+      "en": "Narajan",
+      "slug": "narajan"
+    },
+    "code": {
+      "id": "AZ302110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.534",
+      "lon": "48.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niyazoba",
+      "en": "Niyazoba",
+      "slug": "niyazoba"
+    },
+    "code": {
+      "id": "AZ302064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.518",
+      "lon": "48.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302129",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ortaoba",
+      "en": "Ortaoba",
+      "slug": "ortaoba"
+    },
+    "code": {
+      "id": "AZ302129",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.769",
+      "lon": "48.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Padar",
+      "en": "Padar",
+      "slug": "padar"
+    },
+    "code": {
+      "id": "AZ302025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.429",
+      "lon": "48.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302112",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Palçıqoba",
+      "en": "Palchigoba",
+      "slug": "palchigoba"
+    },
+    "code": {
+      "id": "AZ302112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.551",
+      "lon": "48.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302139",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Palıdlı",
+      "en": "Palidli",
+      "slug": "palidli"
+    },
+    "code": {
+      "id": "AZ302139",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.587",
+      "lon": "48.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302137",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pərdiqıran",
+      "en": "Pardigiran",
+      "slug": "pardigiran"
+    },
+    "code": {
+      "id": "AZ302137",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.676",
+      "lon": "48.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirquluoba",
+      "en": "Pirguluoba",
+      "slug": "pirguluoba"
+    },
+    "code": {
+      "id": "AZ302103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.554",
+      "lon": "48.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəhimoba",
+      "en": "Rahimoba",
+      "slug": "rahimoba"
+    },
+    "code": {
+      "id": "AZ302036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.379",
+      "lon": "48.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302107",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sabiroba",
+      "en": "Sabiroba",
+      "slug": "sabiroba"
+    },
+    "code": {
+      "id": "AZ302107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.517",
+      "lon": "48.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302123",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sahillər",
+      "en": "Sahillar",
+      "slug": "sahillar"
+    },
+    "code": {
+      "id": "AZ302123",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.729",
+      "lon": "48.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302140",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səlimoba",
+      "en": "Salimoba",
+      "slug": "salimoba"
+    },
+    "code": {
+      "id": "AZ302140",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.782",
+      "lon": "48.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302143",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Samurçay",
+      "en": "Samurchay",
+      "slug": "samurchay"
+    },
+    "code": {
+      "id": "AZ302143",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.837",
+      "lon": "48.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərkərli",
+      "en": "Sarkarli",
+      "slug": "sarkarli"
+    },
+    "code": {
+      "id": "AZ302021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.408",
+      "lon": "48.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sayad",
+      "en": "Sayad",
+      "slug": "sayad"
+    },
+    "code": {
+      "id": "AZ302053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.404",
+      "lon": "48.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidlər",
+      "en": "Seyidlar",
+      "slug": "seyidlar"
+    },
+    "code": {
+      "id": "AZ302098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.605",
+      "lon": "48.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302119",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidlikəndyeri",
+      "en": "Seyidlikendyeri",
+      "slug": "seyidlikendyeri"
+    },
+    "code": {
+      "id": "AZ302119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.705",
+      "lon": "48.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şərifoba",
+      "en": "Sharifoba",
+      "slug": "sharifoba"
+    },
+    "code": {
+      "id": "AZ302074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.546",
+      "lon": "48.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxhaput",
+      "en": "Shikhhaput",
+      "slug": "shikhhaput"
+    },
+    "code": {
+      "id": "AZ302020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.405",
+      "lon": "48.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ302001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.477",
+      "lon": "48.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlı",
+      "en": "Shikhli",
+      "slug": "shikhli"
+    },
+    "code": {
+      "id": "AZ302079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.566",
+      "lon": "48.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302134",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şimal",
+      "en": "Shimal",
+      "slug": "shimal"
+    },
+    "code": {
+      "id": "AZ302134",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.803",
+      "lon": "48.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şollar",
+      "en": "Shollar",
+      "slug": "shollar"
+    },
+    "code": {
+      "id": "AZ302090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.638",
+      "lon": "48.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302150",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şollar",
+      "en": "Shollar",
+      "slug": "shollar"
+    },
+    "code": {
+      "id": "AZ302150",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.639",
+      "lon": "48.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sibiroba",
+      "en": "Sibiroba",
+      "slug": "sibiroba"
+    },
+    "code": {
+      "id": "AZ302086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.624",
+      "lon": "48.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suxtaqalaqışlaq",
+      "en": "Sukhtagalagishlag",
+      "slug": "sukhtagalagishlag"
+    },
+    "code": {
+      "id": "AZ302007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.386",
+      "lon": "48.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Susayqışlaq",
+      "en": "Susaygishlag",
+      "slug": "susaygishlag"
+    },
+    "code": {
+      "id": "AZ302092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.658",
+      "lon": "48.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302135",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tağaroba",
+      "en": "Tagharoba",
+      "slug": "tagharoba"
+    },
+    "code": {
+      "id": "AZ302135",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.705",
+      "lon": "48.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302126",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tel",
+      "en": "Tel",
+      "slug": "tel"
+    },
+    "code": {
+      "id": "AZ302126",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.759",
+      "lon": "48.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tikanoba",
+      "en": "Tikanoba",
+      "slug": "tikanoba"
+    },
+    "code": {
+      "id": "AZ302085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.584",
+      "lon": "48.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302142",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Turist",
+      "en": "Turist",
+      "slug": "turist"
+    },
+    "code": {
+      "id": "AZ302142",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.819",
+      "lon": "48.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçgünqışlaq",
+      "en": "Uchgungishlag",
+      "slug": "uchgungishlag"
+    },
+    "code": {
+      "id": "AZ302022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.439",
+      "lon": "48.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302132",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ukuroba",
+      "en": "Ukuroba",
+      "slug": "ukuroba"
+    },
+    "code": {
+      "id": "AZ302132",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.745",
+      "lon": "48.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302148",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üryanoba",
+      "en": "Uryanoba",
+      "slug": "uryanoba"
+    },
+    "code": {
+      "id": "AZ302148",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.45",
+      "lon": "48.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ustacəlilli",
+      "en": "Ustajalilli",
+      "slug": "ustajalilli"
+    },
+    "code": {
+      "id": "AZ302041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.422",
+      "lon": "48.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uzunoba",
+      "en": "Uzunoba",
+      "slug": "uzunoba"
+    },
+    "code": {
+      "id": "AZ302077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.571",
+      "lon": "48.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vələmir",
+      "en": "Valamir",
+      "slug": "valamir"
+    },
+    "code": {
+      "id": "AZ302088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.663",
+      "lon": "48.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302127",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yaquboba",
+      "en": "Yaguboba",
+      "slug": "yaguboba"
+    },
+    "code": {
+      "id": "AZ302127",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.743",
+      "lon": "48.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302128",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yalama",
+      "en": "Yalama",
+      "slug": "yalama"
+    },
+    "code": {
+      "id": "AZ302128",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.761",
+      "lon": "48.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yataqoba",
+      "en": "Yatagoba",
+      "slug": "yatagoba"
+    },
+    "code": {
+      "id": "AZ302078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.572",
+      "lon": "48.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Həyat",
+      "en": "Yeni Hayat",
+      "slug": "yeni-hayat"
+    },
+    "code": {
+      "id": "AZ302011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.542",
+      "lon": "48.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302113",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Sudur",
+      "en": "Yeni Sudur",
+      "slug": "yeni-sudur"
+    },
+    "code": {
+      "id": "AZ302113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.539",
+      "lon": "48.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yergüc",
+      "en": "Yerguj",
+      "slug": "yerguj"
+    },
+    "code": {
+      "id": "AZ302023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.424",
+      "lon": "48.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ302130",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zuxuloba",
+      "en": "Zukhuloba",
+      "slug": "zukhuloba"
+    },
+    "code": {
+      "id": "AZ302130",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ302",
+        "level": 1,
+        "name": {
+          "local": "Xaçmaz",
+          "en": "Khachmaz",
+          "slug": "khachmaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.742",
+      "lon": "48.529"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

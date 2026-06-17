@@ -1,0 +1,164 @@
+# Hajigabul — Azerbaijan Administrative Divisions
+
+> 31 settlements
+> Code: AZ910
+> Coordinates: 40.101, 48.893
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abdulabad
+
+Code: AZ910005, Coordinates: 40.095, 48.674
+
+
+### Ağacanlı (Aghajanli)
+
+Code: AZ910001, Coordinates: 39.982, 48.854
+
+
+### Axtaçı Şirvan (Akhtachi Shirvan)
+
+Code: AZ910009, Coordinates: 40.043, 48.738
+
+
+### Ələtli (Alatli)
+
+Code: AZ910012, Coordinates: 40.01, 48.818
+
+
+### Atbulaq (Atbulag)
+
+Code: AZ910003, Coordinates: 39.976, 49.262
+
+
+### Balıqçı (Baligchi)
+
+Code: AZ910030, Coordinates: 39.977, 48.867
+
+
+### Birinci Meyniman (Birinji Meyniman)
+
+Code: AZ910010, Coordinates: 40.03, 48.768
+
+
+### Birinci Paşalı (Birinji Pashali)
+
+Code: AZ910023, Coordinates: 40.223, 48.901
+
+
+### Birinci Udullu (Birinji Udullu)
+
+Code: AZ910020, Coordinates: 40.265, 48.867
+
+
+### Bürvənd (Burvand)
+
+Code: AZ910011, Coordinates: 40.005, 48.834
+
+
+### Qarasu (Garasu)
+
+Code: AZ910015, Coordinates: 40.159, 48.685
+
+
+### Qızılburun (Gizilburun)
+
+Code: AZ910002, Coordinates: 39.996, 49.221
+
+
+### Qubalı (Gubali)
+
+Code: AZ910017, Coordinates: 40.326, 48.832
+
+
+### Qubalıbalaoğlan (Gubalibalaoghlan)
+
+Code: AZ910024, Coordinates: 40.127, 49.055
+
+
+### HACIQABUL (HAJIGABUL)
+
+Code: AZ910013, Coordinates: 40.044, 48.931
+
+
+### İkinci Meyniman (Ikinji  Meyniman)
+
+Code: AZ910008, Coordinates: 40.044, 48.749
+
+
+### İkinci Paşalı (Ikinji  Pashali)
+
+Code: AZ910021, Coordinates: 40.242, 48.895
+
+
+### İkinci Udullu (Ikinji  Udullu)
+
+Code: AZ910018, Coordinates: 40.309, 48.843
+
+
+### Kolanı (Kolani)
+
+Code: AZ910006, Coordinates: 40.076, 48.705
+
+
+### Kürdçü (Kurdchu)
+
+Code: AZ910004, Coordinates: 39.963, 49.263
+
+
+### Meyniman
+
+Code: AZ910028, Coordinates: 40.032, 48.758
+
+
+### Muğan (Mughan)
+
+Code: AZ910014, Coordinates: 40.093, 48.823
+
+
+### Navahı (Navahi)
+
+Code: AZ910026, Coordinates: 40.04, 49.102
+
+
+### Navahı (Navahi)
+
+Code: AZ910031, Coordinates: 40.015, 49.139
+
+
+### Padar
+
+Code: AZ910016, Coordinates: 40.215, 48.549
+
+
+### Pirsaat
+
+Code: AZ910027, Coordinates: 40.048, 49.049
+
+
+### Pirsaatçay (Pirsaatchay)
+
+Code: AZ910029, Coordinates: 40.149, 49.004
+
+
+### Rəncbər (Ranjbar)
+
+Code: AZ910025, Coordinates: 40.092, 49.067
+
+
+### Şorbaçı (Shorbachi)
+
+Code: AZ910022, Coordinates: 40.229, 48.908
+
+
+### Tağılı (Taghili)
+
+Code: AZ910019, Coordinates: 40.283, 48.833
+
+
+### Talış (Talish)
+
+Code: AZ910007, Coordinates: 40.052, 48.694
+
+

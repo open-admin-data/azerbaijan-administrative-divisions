@@ -1,0 +1,45 @@
+{
+  "id": "AZ107044",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "ORDUBAD",
+    "en": "ORDUBAD",
+    "slug": "ordubad"
+  },
+  "code": {
+    "id": "AZ107044",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ107",
+    "level": 1,
+    "name": {
+      "local": "Ordubad",
+      "en": "Ordubad",
+      "slug": "ordubad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.904",
+    "lon": "46.021"
+  },
+  "metadata": {},
+  "source": {}
+}

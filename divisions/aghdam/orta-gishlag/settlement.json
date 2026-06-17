@@ -1,0 +1,45 @@
+{
+  "id": "AZ609103",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Orta Qışlaq",
+    "en": "Orta Gishlag",
+    "slug": "orta-gishlag"
+  },
+  "code": {
+    "id": "AZ609103",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ609",
+    "level": 1,
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.088",
+    "lon": "47.139"
+  },
+  "metadata": {},
+  "source": {}
+}

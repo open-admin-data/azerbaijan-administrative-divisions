@@ -1,0 +1,45 @@
+{
+  "id": "AZ307008",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dərəkənd",
+    "en": "Derekend",
+    "slug": "derekend"
+  },
+  "code": {
+    "id": "AZ307008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ307",
+    "level": 1,
+    "name": {
+      "local": "Qobustan",
+      "en": "Gobustan",
+      "slug": "gobustan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.5",
+    "lon": "48.938"
+  },
+  "metadata": {},
+  "source": {}
+}

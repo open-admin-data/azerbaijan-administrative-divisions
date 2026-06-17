@@ -1,0 +1,45 @@
+{
+  "id": "AZ100102",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sulutəpə",
+    "en": "Sulutepe",
+    "slug": "sulutepe"
+  },
+  "code": {
+    "id": "AZ100102",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1001",
+    "level": 1,
+    "name": {
+      "local": "Binəqədi",
+      "en": "Binagadi",
+      "slug": "binagadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1001",
+      "level": 1,
+      "name": {
+        "local": "Binəqədi",
+        "en": "Binagadi",
+        "slug": "binagadi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.436",
+    "lon": "49.759"
+  },
+  "metadata": {},
+  "source": {}
+}

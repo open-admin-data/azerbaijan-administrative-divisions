@@ -1,0 +1,45 @@
+{
+  "id": "AZ612009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Oratağ",
+    "en": "Yukhari Oratagh",
+    "slug": "yukhari-oratagh"
+  },
+  "code": {
+    "id": "AZ612009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ612",
+    "level": 1,
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.131",
+    "lon": "46.535"
+  },
+  "metadata": {},
+  "source": {}
+}

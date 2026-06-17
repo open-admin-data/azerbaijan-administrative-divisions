@@ -1,0 +1,45 @@
+{
+  "id": "AZ606088",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dördüncü Zobucuq",
+    "en": "Dordunju Zobujug",
+    "slug": "dordunju-zobujug"
+  },
+  "code": {
+    "id": "AZ606088",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.567",
+    "lon": "47.411"
+  },
+  "metadata": {},
+  "source": {}
+}

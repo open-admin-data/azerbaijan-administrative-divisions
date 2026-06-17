@@ -1,0 +1,45 @@
+{
+  "id": "AZ802001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Köhnə Gəgir",
+    "en": "Kohne Gagir",
+    "slug": "kohne-gagir"
+  },
+  "code": {
+    "id": "AZ802001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ802",
+    "level": 1,
+    "name": {
+      "local": "Lənkəran",
+      "en": "Lankaran",
+      "slug": "lankaran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.873",
+    "lon": "48.597"
+  },
+  "metadata": {},
+  "source": {}
+}

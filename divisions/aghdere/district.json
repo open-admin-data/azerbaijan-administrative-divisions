@@ -1,0 +1,33 @@
+{
+  "id": "AZ612",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ağdərə",
+    "en": "Aghdere",
+    "slug": "aghdere"
+  },
+  "code": {
+    "id": "AZ612",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.167",
+    "lon": "46.679"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/aghdere/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

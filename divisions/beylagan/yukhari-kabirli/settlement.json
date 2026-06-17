@@ -1,0 +1,45 @@
+{
+  "id": "AZ607036",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Kəbirli",
+    "en": "Yukhari Kabirli",
+    "slug": "yukhari-kabirli"
+  },
+  "code": {
+    "id": "AZ607036",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ607",
+    "level": 1,
+    "name": {
+      "local": "Beyləqan",
+      "en": "Beylagan",
+      "slug": "beylagan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.859",
+    "lon": "47.461"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ503052",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Cilovdarlı",
+    "en": "Jilovdarli",
+    "slug": "jilovdarli"
+  },
+  "code": {
+    "id": "AZ503052",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.05",
+    "lon": "45.64"
+  },
+  "metadata": {},
+  "source": {}
+}

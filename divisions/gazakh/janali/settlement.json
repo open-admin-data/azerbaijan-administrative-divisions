@@ -1,0 +1,45 @@
+{
+  "id": "AZ501026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Canalı",
+    "en": "Janali",
+    "slug": "janali"
+  },
+  "code": {
+    "id": "AZ501026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ501",
+    "level": 1,
+    "name": {
+      "local": "Qazax",
+      "en": "Gazakh",
+      "slug": "gazakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.118",
+    "lon": "45.346"
+  },
+  "metadata": {},
+  "source": {}
+}

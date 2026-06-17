@@ -1,0 +1,45 @@
+{
+  "id": "AZ302015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çılğır",
+    "en": "Chilghir",
+    "slug": "chilghir"
+  },
+  "code": {
+    "id": "AZ302015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ302",
+    "level": 1,
+    "name": {
+      "local": "Xaçmaz",
+      "en": "Khachmaz",
+      "slug": "khachmaz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.364",
+    "lon": "48.814"
+  },
+  "metadata": {},
+  "source": {}
+}

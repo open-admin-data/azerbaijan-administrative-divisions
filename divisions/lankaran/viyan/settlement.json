@@ -1,0 +1,45 @@
+{
+  "id": "AZ802057",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Viyən",
+    "en": "Viyan",
+    "slug": "viyan"
+  },
+  "code": {
+    "id": "AZ802057",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ802",
+    "level": 1,
+    "name": {
+      "local": "Lənkəran",
+      "en": "Lankaran",
+      "slug": "lankaran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.705",
+    "lon": "48.843"
+  },
+  "metadata": {},
+  "source": {}
+}

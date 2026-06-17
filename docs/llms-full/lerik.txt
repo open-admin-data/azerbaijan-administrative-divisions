@@ -1,0 +1,819 @@
+# Lerik — Azerbaijan Administrative Divisions
+
+> 162 settlements
+> Code: AZ803
+> Coordinates: 38.746, 48.461
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### 40-cı kilometr (40-ji kilometr)
+
+Code: AZ803157, Coordinates: 38.8, 48.534
+
+
+### Ağqışlaq (Aghgishlag)
+
+Code: AZ803141, Coordinates: 38.908, 48.39
+
+
+### Axunahiran (Akhunahiran)
+
+Code: AZ803147, Coordinates: 38.681, 48.518
+
+
+### Akuşəpeştə (Akushapeshta)
+
+Code: AZ803131, Coordinates: 38.66, 48.604
+
+
+### Əliabad (Aliabad)
+
+Code: AZ803016, Coordinates: 38.839, 48.444
+
+
+### Almu
+
+Code: AZ803092, Coordinates: 38.751, 48.537
+
+
+### Ambu
+
+Code: AZ803050, Coordinates: 38.748, 48.451
+
+
+### Andurma
+
+Code: AZ803066, Coordinates: 38.711, 48.47
+
+
+### Ancəqov (Anjagov)
+
+Code: AZ803108, Coordinates: 38.673, 48.676
+
+
+### Anzolu
+
+Code: AZ803070, Coordinates: 38.69, 48.472
+
+
+### Aran
+
+Code: AZ803005, Coordinates: 38.886, 48.422
+
+
+### Ərdəbilə (Ardabila)
+
+Code: AZ803013, Coordinates: 38.859, 48.459
+
+
+### Arta
+
+Code: AZ803031, Coordinates: 38.877, 48.356
+
+
+### Aşağı Amburdərə (Ashaghi Amburdere)
+
+Code: AZ803114, Coordinates: 38.661, 48.33
+
+
+### Əvilə (Avila)
+
+Code: AZ803041, Coordinates: 38.812, 48.374
+
+
+### Babagil
+
+Code: AZ803086, Coordinates: 38.797, 48.511
+
+
+### Babakücə (Babakuja)
+
+Code: AZ803100, Coordinates: 38.675, 48.515
+
+
+### Barzavu
+
+Code: AZ803049, Coordinates: 38.753, 48.47
+
+
+### Bibiyani
+
+Code: AZ803093, Coordinates: 38.743, 48.57
+
+
+### Biləvər (Bilavar)
+
+Code: AZ803038, Coordinates: 38.84, 48.334
+
+
+### Bilnə (Bilna)
+
+Code: AZ803162, Coordinates: 38.814, 48.441
+
+
+### Blaband
+
+Code: AZ803052, Coordinates: 38.737, 48.427
+
+
+### Bobla
+
+Code: AZ803107, Coordinates: 38.685, 48.67
+
+
+### Boykəndil (Boykandil)
+
+Code: AZ803007, Coordinates: 38.884, 48.435
+
+
+### Bradi
+
+Code: AZ803128, Coordinates: 38.648, 48.589
+
+
+### Brkandul
+
+Code: AZ803085, Coordinates: 38.814, 48.506
+
+
+### Bülüdül (Buludul)
+
+Code: AZ803035, Coordinates: 38.838, 48.31
+
+
+### Bürsülüm (Bursulum)
+
+Code: AZ803132, Coordinates: 38.662, 48.642
+
+
+### Buruq (Burug)
+
+Code: AZ803003, Coordinates: 38.906, 48.42
+
+
+### Büzeyir (Buzeyir)
+
+Code: AZ803062, Coordinates: 38.726, 48.396
+
+
+### Çayrud (Chayrud)
+
+Code: AZ803068, Coordinates: 38.715, 48.497
+
+
+### Çeşman (Cheshman)
+
+Code: AZ803030, Coordinates: 38.86, 48.353
+
+
+### Çökərə (Chokara)
+
+Code: AZ803153, Coordinates: 38.701, 48.313
+
+
+### Dəstər (Dastar)
+
+Code: AZ803129, Coordinates: 38.641, 48.596
+
+
+### Davıdonu (Davidonu)
+
+Code: AZ803002, Coordinates: 38.933, 48.495
+
+
+### Davradibi
+
+Code: AZ803095, Coordinates: 38.712, 48.622
+
+
+### Digah
+
+Code: AZ803152, Coordinates: 38.705, 48.332
+
+
+### Digov
+
+Code: AZ803123, Coordinates: 38.642, 48.43
+
+
+### Digovdərə (Digovdere)
+
+Code: AZ803125, Coordinates: 38.639, 48.419
+
+
+### Dico (Dijo)
+
+Code: AZ803096, Coordinates: 38.708, 48.591
+
+
+### Divağac (Divaghaj)
+
+Code: AZ803080, Coordinates: 38.689, 48.38
+
+
+### Dızdipok (Dizdipok)
+
+Code: AZ803130, Coordinates: 38.655, 48.589
+
+
+### Durğan (Durghan)
+
+Code: AZ803021, Coordinates: 38.839, 48.396
+
+
+### Qədimkücə (Gadimkuja)
+
+Code: AZ803023, Coordinates: 38.823, 48.41
+
+
+### Qələbin (Galabin)
+
+Code: AZ803103, Coordinates: 38.69, 48.582
+
+
+### Qələsər (Galasar)
+
+Code: AZ803077, Coordinates: 38.688, 48.398
+
+
+### Gəndov (Gandov)
+
+Code: AZ803034, Coordinates: 38.851, 48.31
+
+
+### Qəvoy (Gavoy)
+
+Code: AZ803139, Coordinates: 38.602, 48.577
+
+
+### Geskon
+
+Code: AZ803039, Coordinates: 38.833, 48.354
+
+
+### Qılqılov (Gilgilov)
+
+Code: AZ803143, Coordinates: 38.673, 48.622
+
+
+### Qışlaq (Gishlag)
+
+Code: AZ803109, Coordinates: 38.691, 48.636
+
+
+### Qışlaq (Gishlag)
+
+Code: AZ803145, Coordinates: 38.627, 48.525
+
+
+### Qışlaq (Gishlag)
+
+Code: AZ803155, Coordinates: 38.681, 48.28
+
+
+### Qosmalıan (Gosmalian)
+
+Code: AZ803079, Coordinates: 38.672, 48.369
+
+
+### Göydərə (Goydere)
+
+Code: AZ803119, Coordinates: 38.626, 48.351
+
+
+### Günəşli (Gunashli)
+
+Code: AZ803044, Coordinates: 38.791, 48.484
+
+
+### Gürdəsər (Gurdasar)
+
+Code: AZ803012, Coordinates: 38.863, 48.444
+
+
+### Haftonu
+
+Code: AZ803001, Coordinates: 38.923, 48.475
+
+
+### Halabın (Halabin)
+
+Code: AZ803154, Coordinates: 38.669, 48.424
+
+
+### Hamarat
+
+Code: AZ803127, Coordinates: 38.647, 48.574
+
+
+### Hamarmeşə (Hamarmesha)
+
+Code: AZ803149, Coordinates: 38.759, 48.595
+
+
+### Haran
+
+Code: AZ803156, Coordinates: 38.769, 48.567
+
+
+### Həzovi (Hazovi)
+
+Code: AZ803072, Coordinates: 38.697, 48.449
+
+
+### Hilədərə (Hiladere)
+
+Code: AZ803082, Coordinates: 38.7, 48.295
+
+
+### Hıramo (Hiramo)
+
+Code: AZ803043, Coordinates: 38.794, 48.418
+
+
+### Hiveri
+
+Code: AZ803075, Coordinates: 38.667, 48.379
+
+
+### Hoveri
+
+Code: AZ803078, Coordinates: 38.704, 48.412
+
+
+### Hovil
+
+Code: AZ803142, Coordinates: 38.663, 48.617
+
+
+### Hübi (Hubi)
+
+Code: AZ803146, Coordinates: 38.589, 48.521
+
+
+### Hücü (Huju)
+
+Code: AZ803094, Coordinates: 38.734, 48.592
+
+
+### Hüseynabad (Huseynabad)
+
+Code: AZ803117, Coordinates: 38.633, 48.335
+
+
+### Camaşəir (Jamashair)
+
+Code: AZ803015, Coordinates: 38.845, 48.46
+
+
+### Cəngəmiran (Jangamiran)
+
+Code: AZ803047, Coordinates: 38.759, 48.435
+
+
+### Cəngənəvud (Janganavud)
+
+Code: AZ803089, Coordinates: 38.773, 48.526
+
+
+### Conu (Jonu)
+
+Code: AZ803126, Coordinates: 38.617, 48.505
+
+
+### Kələxan (Kalakhan)
+
+Code: AZ803116, Coordinates: 38.649, 48.341
+
+
+### Kəlvəz (Kalvaz)
+
+Code: AZ803118, Coordinates: 38.64, 48.337
+
+
+### Kekonu
+
+Code: AZ803055, Coordinates: 38.797, 48.311
+
+
+### Xəlifəhoni (Khalifahoni)
+
+Code: AZ803105, Coordinates: 38.668, 48.611
+
+
+### Xəlifəkənd (Khalifakend)
+
+Code: AZ803121, Coordinates: 38.653, 48.417
+
+
+### Xəlifəkücə (Khalifakuja)
+
+Code: AZ803051, Coordinates: 38.745, 48.426
+
+
+### Xanəgah (Khanagah)
+
+Code: AZ803036, Coordinates: 38.838, 48.286
+
+
+### Xocadoy (Khojadoy)
+
+Code: AZ803112, Coordinates: 38.664, 48.289
+
+
+### Kıncıvo (Kinjivo)
+
+Code: AZ803090, Coordinates: 38.763, 48.506
+
+
+### Kirəvud (Kiravud)
+
+Code: AZ803009, Coordinates: 38.877, 48.446
+
+
+### Köhnə Orand (Kohne Orand)
+
+Code: AZ803058, Coordinates: 38.761, 48.345
+
+
+### Kornədi (Kornadi)
+
+Code: AZ803091, Coordinates: 38.762, 48.525
+
+
+### Küman (Kuman)
+
+Code: AZ803008, Coordinates: 38.871, 48.411
+
+
+### Küsəkəran (Kusakaran)
+
+Code: AZ803101, Coordinates: 38.685, 48.54
+
+
+### Ləkər (Lakar)
+
+Code: AZ803133, Coordinates: 38.653, 48.624
+
+
+### Lələdulan (Laladulan)
+
+Code: AZ803004, Coordinates: 38.89, 48.413
+
+
+### Lələhiran (Lalahiran)
+
+Code: AZ803081, Coordinates: 38.687, 48.345
+
+
+### Laman
+
+Code: AZ803014, Coordinates: 38.859, 48.424
+
+
+### Lərmərud (Larmarud)
+
+Code: AZ803011, Coordinates: 38.894, 48.486
+
+
+### LERİK (LERIK)
+
+Code: AZ803045, Coordinates: 38.772, 48.413
+
+
+### Livədirqə (Livadirga)
+
+Code: AZ803040, Coordinates: 38.818, 48.393
+
+
+### Loda
+
+Code: AZ803138, Coordinates: 38.597, 48.531
+
+
+### Lüləkəran (Lulakaran)
+
+Code: AZ803054, Coordinates: 38.742, 48.407
+
+
+### Məhləabad (Mahlaabad)
+
+Code: AZ803115, Coordinates: 38.66, 48.35
+
+
+### Mastail
+
+Code: AZ803046, Coordinates: 38.79, 48.387
+
+
+### Mistan
+
+Code: AZ803122, Coordinates: 38.645, 48.425
+
+
+### Molalan
+
+Code: AZ803020, Coordinates: 38.848, 48.378
+
+
+### Monidigah
+
+Code: AZ803064, Coordinates: 38.725, 48.451
+
+
+### Murya
+
+Code: AZ803022, Coordinates: 38.833, 48.406
+
+
+### Musavar
+
+Code: AZ803006, Coordinates: 38.881, 48.412
+
+
+### Nisli
+
+Code: AZ803073, Coordinates: 38.704, 48.436
+
+
+### Nıso (Niso)
+
+Code: AZ803159, Coordinates: 38.702, 48.583
+
+
+### Noda
+
+Code: AZ803025, Coordinates: 38.808, 48.457
+
+
+### Nosovyədi (Nosovyadi)
+
+Code: AZ803136, Coordinates: 38.628, 48.606
+
+
+### Nücü (Nuju)
+
+Code: AZ803084, Coordinates: 38.903, 48.505
+
+
+### Nuravud
+
+Code: AZ803057, Coordinates: 38.773, 48.351
+
+
+### Nüsomurya (Nusomurya)
+
+Code: AZ803024, Coordinates: 38.821, 48.406
+
+
+### Nüvədi (Nuvadi)
+
+Code: AZ803028, Coordinates: 38.825, 48.464
+
+
+### Orand
+
+Code: AZ803060, Coordinates: 38.747, 48.339
+
+
+### Ordahal
+
+Code: AZ803010, Coordinates: 38.881, 48.454
+
+
+### Osnağakücə (Osnaghakuja)
+
+Code: AZ803053, Coordinates: 38.747, 48.413
+
+
+### Osyodərə (Osyodere)
+
+Code: AZ803140, Coordinates: 38.851, 48.328
+
+
+### Pendi
+
+Code: AZ803065, Coordinates: 38.722, 48.454
+
+
+### Peştətük (Peshtatuk)
+
+Code: AZ803150, Coordinates: 38.787, 48.548
+
+
+### Piran
+
+Code: AZ803160, Coordinates: 38.733, 48.656
+
+
+### Pirəsora (Pirasora)
+
+Code: AZ803061, Coordinates: 38.72, 48.377
+
+
+### Pirəsora (Pirasora)
+
+Code: AZ803124, Coordinates: 38.642, 48.414
+
+
+### Pirzəkücə (Pirzakuja)
+
+Code: AZ803048, Coordinates: 38.757, 48.455
+
+
+### Piyəkücə (Piyakuja)
+
+Code: AZ803067, Coordinates: 38.709, 48.483
+
+
+### Rəzəvül (Razavul)
+
+Code: AZ803027, Coordinates: 38.827, 48.474
+
+
+### Rəzgov (Razgov)
+
+Code: AZ803074, Coordinates: 38.673, 48.455
+
+
+### Rvarud
+
+Code: AZ803069, Coordinates: 38.695, 48.49
+
+
+### Şinəbənd (Shinaband)
+
+Code: AZ803059, Coordinates: 38.758, 48.373
+
+
+### Şingədulan (Shingadulan)
+
+Code: AZ803018, Coordinates: 38.86, 48.395
+
+
+### Şivlə (Shivla)
+
+Code: AZ803037, Coordinates: 38.843, 48.343
+
+
+### Şonaçola (Shonachola)
+
+Code: AZ803076, Coordinates: 38.69, 48.405
+
+
+### Sipyəreqon (Sipyaregon)
+
+Code: AZ803087, Coordinates: 38.783, 48.519
+
+
+### Sivəkəran (Sivakaran)
+
+Code: AZ803111, Coordinates: 38.754, 48.614
+
+
+### Siyov
+
+Code: AZ803104, Coordinates: 38.669, 48.602
+
+
+### Sors
+
+Code: AZ803019, Coordinates: 38.858, 48.379
+
+
+### Sorsçay (Sorschay)
+
+Code: AZ803158, Coordinates: 38.788, 48.312
+
+
+### Soru
+
+Code: AZ803017, Coordinates: 38.846, 48.471
+
+
+### Təbrizli (Tabrizli)
+
+Code: AZ803151, Coordinates: 38.775, 48.54
+
+
+### Təndul (Tandul)
+
+Code: AZ803097, Coordinates: 38.693, 48.564
+
+
+### Təngəbin (Tangabin)
+
+Code: AZ803071, Coordinates: 38.687, 48.47
+
+
+### Tatoni
+
+Code: AZ803120, Coordinates: 38.658, 48.399
+
+
+### Tikəband (Tikaband)
+
+Code: AZ803098, Coordinates: 38.709, 48.551
+
+
+### Tülü (Tulu)
+
+Code: AZ803137, Coordinates: 38.6, 48.5
+
+
+### Vamazğon (Vamazghon)
+
+Code: AZ803083, Coordinates: 38.93, 48.531
+
+
+### Vənədi (Vanadi)
+
+Code: AZ803135, Coordinates: 38.631, 48.623
+
+
+### Veri
+
+Code: AZ803148, Coordinates: 38.671, 48.504
+
+
+### Veri Əliabadı (Veri Aliabadi)
+
+Code: AZ803102, Coordinates: 38.679, 48.552
+
+
+### Vılık (Vilik)
+
+Code: AZ803161, Coordinates: 38.583, 48.509
+
+
+### Vistən (Vistan)
+
+Code: AZ803026, Coordinates: 38.822, 48.488
+
+
+### Vizəzəmin (Vizazamin)
+
+Code: AZ803088, Coordinates: 38.771, 48.519
+
+
+### Vijaker (Vizhaker)
+
+Code: AZ803144, Coordinates: 38.617, 48.547
+
+
+### Vov
+
+Code: AZ803134, Coordinates: 38.633, 48.628
+
+
+### Yuxarı Amburdərə (Yukhari Amburdere)
+
+Code: AZ803113, Coordinates: 38.654, 48.307
+
+
+### Yuxarı Bilnə (Yukhari Bilna)
+
+Code: AZ803042, Coordinates: 38.808, 48.415
+
+
+### Zərdəbərə (Zardabara)
+
+Code: AZ803056, Coordinates: 38.778, 48.339
+
+
+### Zardoni
+
+Code: AZ803099, Coordinates: 38.722, 48.531
+
+
+### Zərigümaco (Zarigumajo)
+
+Code: AZ803110, Coordinates: 38.698, 48.632
+
+
+### Zenoni
+
+Code: AZ803029, Coordinates: 38.882, 48.394
+
+
+### Zeynəko (Zeynako)
+
+Code: AZ803106, Coordinates: 38.68, 48.652
+
+
+### Jindi (Zhindi)
+
+Code: AZ803063, Coordinates: 38.73, 48.448
+
+
+### Zövnə (Zovna)
+
+Code: AZ803033, Coordinates: 38.865, 48.319
+
+
+### Züvüc (Zuvuj)
+
+Code: AZ803032, Coordinates: 38.864, 48.336
+
+

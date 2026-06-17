@@ -1,0 +1,45 @@
+{
+  "id": "AZ301027",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Köhnə Xudat qazmalar",
+    "en": "Kohne Khudat gazmalar",
+    "slug": "kohne-khudat-gazmalar"
+  },
+  "code": {
+    "id": "AZ301027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.459",
+    "lon": "48.469"
+  },
+  "metadata": {},
+  "source": {}
+}

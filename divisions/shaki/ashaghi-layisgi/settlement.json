@@ -1,0 +1,45 @@
+{
+  "id": "AZ404008",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Layısqı",
+    "en": "Ashaghi Layisgi",
+    "slug": "ashaghi-layisgi"
+  },
+  "code": {
+    "id": "AZ404008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.283",
+    "lon": "46.972"
+  },
+  "metadata": {},
+  "source": {}
+}

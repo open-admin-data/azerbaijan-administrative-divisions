@@ -1,0 +1,45 @@
+{
+  "id": "AZ802076",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Parakənd",
+    "en": "Parakend",
+    "slug": "parakend"
+  },
+  "code": {
+    "id": "AZ802076",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ802",
+    "level": 1,
+    "name": {
+      "local": "Lənkəran",
+      "en": "Lankaran",
+      "slug": "lankaran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.649",
+    "lon": "48.801"
+  },
+  "metadata": {},
+  "source": {}
+}

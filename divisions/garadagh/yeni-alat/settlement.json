@@ -1,0 +1,45 @@
+{
+  "id": "AZ100218",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeni Ələt",
+    "en": "Yeni Alat",
+    "slug": "yeni-alat"
+  },
+  "code": {
+    "id": "AZ100218",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1002",
+    "level": 1,
+    "name": {
+      "local": "Qaradağ",
+      "en": "Garadagh",
+      "slug": "garadagh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.944",
+    "lon": "49.4"
+  },
+  "metadata": {},
+  "source": {}
+}

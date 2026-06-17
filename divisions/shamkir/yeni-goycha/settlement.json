@@ -1,0 +1,45 @@
+{
+  "id": "AZ504011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeni Göyçə",
+    "en": "Yeni Goycha",
+    "slug": "yeni-goycha"
+  },
+  "code": {
+    "id": "AZ504011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ504",
+    "level": 1,
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.673",
+    "lon": "45.948"
+  },
+  "metadata": {},
+  "source": {}
+}

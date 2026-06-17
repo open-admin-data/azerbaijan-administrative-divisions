@@ -1,0 +1,45 @@
+{
+  "id": "AZ606063",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qobu Dilağarda",
+    "en": "Gobu Dilagharda",
+    "slug": "gobu-dilagharda"
+  },
+  "code": {
+    "id": "AZ606063",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.68",
+    "lon": "47.177"
+  },
+  "metadata": {},
+  "source": {}
+}

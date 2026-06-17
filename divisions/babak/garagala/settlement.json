@@ -1,0 +1,45 @@
+{
+  "id": "AZ103013",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaraqala",
+    "en": "Garagala",
+    "slug": "garagala"
+  },
+  "code": {
+    "id": "AZ103013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ103",
+    "level": 1,
+    "name": {
+      "local": "Babək",
+      "en": "Babak",
+      "slug": "babak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.292",
+    "lon": "45.473"
+  },
+  "metadata": {},
+  "source": {}
+}

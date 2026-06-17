@@ -1,0 +1,14 @@
+# Khatai — Azerbaijan Administrative Divisions
+
+> 1 settlements
+> Code: AZ1004
+> Coordinates: 40.373, 49.957
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əhmədli (Ahmadli)
+
+Code: AZ100401, Coordinates: 40.373, 49.957
+
+

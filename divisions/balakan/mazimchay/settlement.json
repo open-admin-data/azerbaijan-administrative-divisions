@@ -1,0 +1,45 @@
+{
+  "id": "AZ401044",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mazımçay",
+    "en": "Mazimchay",
+    "slug": "mazimchay"
+  },
+  "code": {
+    "id": "AZ401044",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ401",
+    "level": 1,
+    "name": {
+      "local": "Balakən",
+      "en": "Balakan",
+      "slug": "balakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.806",
+    "lon": "46.344"
+  },
+  "metadata": {},
+  "source": {}
+}

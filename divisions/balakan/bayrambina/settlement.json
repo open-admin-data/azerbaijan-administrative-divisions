@@ -1,0 +1,45 @@
+{
+  "id": "AZ401003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bayrambinə",
+    "en": "Bayrambina",
+    "slug": "bayrambina"
+  },
+  "code": {
+    "id": "AZ401003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ401",
+    "level": 1,
+    "name": {
+      "local": "Balakən",
+      "en": "Balakan",
+      "slug": "balakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.656",
+    "lon": "46.251"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ102022",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qışlaqabbas",
+    "en": "Gishlagabbas",
+    "slug": "gishlagabbas"
+  },
+  "code": {
+    "id": "AZ102022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ102",
+    "level": 1,
+    "name": {
+      "local": "Şərur",
+      "en": "Sharur",
+      "slug": "sharur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.489",
+    "lon": "44.988"
+  },
+  "metadata": {},
+  "source": {}
+}

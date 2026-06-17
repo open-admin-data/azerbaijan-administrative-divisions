@@ -1,0 +1,45 @@
+{
+  "id": "AZ302039",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaradağ Buduq",
+    "en": "Garadagh Budug",
+    "slug": "garadagh-budug"
+  },
+  "code": {
+    "id": "AZ302039",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ302",
+    "level": 1,
+    "name": {
+      "local": "Xaçmaz",
+      "en": "Khachmaz",
+      "slug": "khachmaz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.416",
+    "lon": "48.833"
+  },
+  "metadata": {},
+  "source": {}
+}

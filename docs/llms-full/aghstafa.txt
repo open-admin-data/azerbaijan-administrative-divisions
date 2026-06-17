@@ -1,0 +1,204 @@
+# Aghstafa — Azerbaijan Administrative Divisions
+
+> 39 settlements
+> Code: AZ502
+> Coordinates: 41.182, 45.395
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağgöl (Aghgol)
+
+Code: AZ502036, Coordinates: 41.406, 45.233
+
+
+### AĞSTAFA (AGHSTAFA)
+
+Code: AZ502019, Coordinates: 41.116, 45.446
+
+
+### Aşağı Göycəli (Ashaghi Goyjali)
+
+Code: AZ502020, Coordinates: 41.117, 45.483
+
+
+### Aşağı Kəsəmən (Ashaghi Kasaman)
+
+Code: AZ502017, Coordinates: 41.153, 45.489
+
+
+### Böyük Kəsik (Boyuk Kesik)
+
+Code: AZ502001, Coordinates: 41.389, 45.188
+
+
+### Dağ Kəsəmən (Dagh Kasaman)
+
+Code: AZ502009, Coordinates: 41.096, 45.395
+
+
+### Düzqışlaq (Duzgishlag)
+
+Code: AZ502011, Coordinates: 41.155, 45.387
+
+
+### Eynallı (Eynalli)
+
+Code: AZ502022, Coordinates: 41.069, 45.5
+
+
+### Qaçaq Kərəm (Gachag Karam)
+
+Code: AZ502037, Coordinates: 41.123, 45.452
+
+
+### Qarahəsənli (Garahasanli)
+
+Code: AZ502010, Coordinates: 41.143, 45.392
+
+
+### Qarayazı (Garayazi)
+
+Code: AZ502004, Coordinates: 41.306, 45.244
+
+
+### Qıraq Kəsəmən (Girag Kasaman)
+
+Code: AZ502028, Coordinates: 41.214, 45.463
+
+
+### Qırılı (Girili)
+
+Code: AZ502030, Coordinates: 41.094, 45.514
+
+
+### Göycəli (Goyjali)
+
+Code: AZ502023, Coordinates: 41.04, 45.475
+
+
+### Həsənsu (Hasansu)
+
+Code: AZ502021, Coordinates: 41.084, 45.491
+
+
+### Həzi Aslanov (Hezi Aslanov)
+
+Code: AZ502005, Coordinates: 41.285, 45.253
+
+
+### Ceyrançöl (Jeyranchol)
+
+Code: AZ502008, Coordinates: 41.3, 45.462
+
+
+### Xətai (Khatai)
+
+Code: AZ502018, Coordinates: 41.127, 45.459
+
+
+### Xılxına (Khilkhina)
+
+Code: AZ502014, Coordinates: 41.173, 45.416
+
+
+### Köçəsgər (Kochasgar)
+
+Code: AZ502029, Coordinates: 41.057, 45.523
+
+
+### Köçvəlili (Kochvalili)
+
+Code: AZ502003, Coordinates: 41.335, 45.255
+
+
+### Köhnəqışlaq (Kohnegishlag)
+
+Code: AZ502031, Coordinates: 40.993, 45.423
+
+
+### Kolayır (Kolayir)
+
+Code: AZ502012, Coordinates: 41.167, 45.372
+
+
+### Kolxəlfəli (Kolkhalfali)
+
+Code: AZ502026, Coordinates: 41.204, 45.42
+
+
+### Mollacəfərli (Mollajafarli)
+
+Code: AZ502013, Coordinates: 41.161, 45.411
+
+
+### Muğanlı (Mughanli)
+
+Code: AZ502002, Coordinates: 41.345, 45.196
+
+
+### Pirili
+
+Code: AZ502025, Coordinates: 41.206, 45.393
+
+
+### Poylu
+
+Code: AZ502015, Coordinates: 41.157, 45.449
+
+
+### Poylu
+
+Code: AZ502027, Coordinates: 41.229, 45.442
+
+
+### Sadıqlı (Sadigli)
+
+Code: AZ502035, Coordinates: 41.37, 45.141
+
+
+### Saloğlu (Saloghlu)
+
+Code: AZ502007, Coordinates: 41.277, 45.356
+
+
+### Şəkərli (Shakarli)
+
+Code: AZ502034, Coordinates: 41.171, 45.463
+
+
+### Soyuqbulaq (Soyugbulag)
+
+Code: AZ502006, Coordinates: 41.322, 45.269
+
+
+### Soyuqbulaqlar (Soyugbulaglar)
+
+Code: AZ502039, Coordinates: 41.304, 45.231
+
+
+### Tatlı (Tatli)
+
+Code: AZ502024, Coordinates: 41.024, 45.45
+
+
+### Vurğun (Vurghun)
+
+Code: AZ502033, Coordinates: 41.093, 45.475
+
+
+### Yaradullu
+
+Code: AZ502032, Coordinates: 41.02, 45.436
+
+
+### Yenigün (Yenigun)
+
+Code: AZ502038, Coordinates: 41.12, 45.467
+
+
+### Zəlimxan (Zalimkhan)
+
+Code: AZ502016, Coordinates: 41.17, 45.479
+
+

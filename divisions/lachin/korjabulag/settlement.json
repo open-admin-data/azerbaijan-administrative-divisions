@@ -1,0 +1,45 @@
+{
+  "id": "AZ602106",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Korcabulaq",
+    "en": "Korjabulag",
+    "slug": "korjabulag"
+  },
+  "code": {
+    "id": "AZ602106",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.866",
+    "lon": "46.368"
+  },
+  "metadata": {},
+  "source": {}
+}

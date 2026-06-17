@@ -1,0 +1,45 @@
+{
+  "id": "AZ906007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mollakənd",
+    "en": "Mollakend",
+    "slug": "mollakend"
+  },
+  "code": {
+    "id": "AZ906007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ906",
+    "level": 1,
+    "name": {
+      "local": "Kürdəmir",
+      "en": "Kurdamir",
+      "slug": "kurdamir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.119",
+    "lon": "48.1"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ306026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dizəvər",
+    "en": "Dizavar",
+    "slug": "dizavar"
+  },
+  "code": {
+    "id": "AZ306026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ306",
+    "level": 1,
+    "name": {
+      "local": "Xızı",
+      "en": "Khizi",
+      "slug": "khizi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.805",
+    "lon": "49.136"
+  },
+  "metadata": {},
+  "source": {}
+}

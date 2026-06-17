@@ -1,0 +1,45 @@
+{
+  "id": "AZ702032",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xudaverdilər",
+    "en": "Khudaverdilar",
+    "slug": "khudaverdilar"
+  },
+  "code": {
+    "id": "AZ702032",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ702",
+    "level": 1,
+    "name": {
+      "local": "Şuşa",
+      "en": "Shusha",
+      "slug": "shusha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.764",
+    "lon": "46.712"
+  },
+  "metadata": {},
+  "source": {}
+}

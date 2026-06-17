@@ -1,0 +1,947 @@
+[
+  {
+    "id": "AZ100206",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ələt",
+      "en": "Alat",
+      "slug": "alat"
+    },
+    "code": {
+      "id": "AZ100206",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.953",
+      "lon": "49.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100216",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baş Ələt",
+      "en": "Bash Alat",
+      "slug": "bash-alat"
+    },
+    "code": {
+      "id": "AZ100216",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.972",
+      "lon": "49.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100205",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çeyildağ",
+      "en": "Cheyildagh",
+      "slug": "cheyildagh"
+    },
+    "code": {
+      "id": "AZ100205",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.282",
+      "lon": "49.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100215",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağ",
+      "en": "Garadagh",
+      "slug": "garadagh"
+    },
+    "code": {
+      "id": "AZ100215",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.24",
+      "lon": "49.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100221",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarakosa",
+      "en": "Garakosa",
+      "slug": "garakosa"
+    },
+    "code": {
+      "id": "AZ100221",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.94",
+      "lon": "49.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100207",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızıldaş",
+      "en": "Gizildash",
+      "slug": "gizildash"
+    },
+    "code": {
+      "id": "AZ100207",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.305",
+      "lon": "49.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100203",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qobustan",
+      "en": "Gobustan",
+      "slug": "gobustan"
+    },
+    "code": {
+      "id": "AZ100203",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.08",
+      "lon": "49.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100219",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Heybət",
+      "en": "Heybat",
+      "slug": "heybat"
+    },
+    "code": {
+      "id": "AZ100219",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.339",
+      "lon": "49.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100208",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Korgöz",
+      "en": "Korgoz",
+      "slug": "korgoz"
+    },
+    "code": {
+      "id": "AZ100208",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.305",
+      "lon": "49.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100217",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kotal",
+      "en": "Kotal",
+      "slug": "kotal"
+    },
+    "code": {
+      "id": "AZ100217",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.986",
+      "lon": "49.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100211",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lökbatan",
+      "en": "Lokbatan",
+      "slug": "lokbatan"
+    },
+    "code": {
+      "id": "AZ100211",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.329",
+      "lon": "49.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100213",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müşfiqabad",
+      "en": "Mushfigabad",
+      "slug": "mushfigabad"
+    },
+    "code": {
+      "id": "AZ100213",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.469",
+      "lon": "49.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100201",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirsaat",
+      "en": "Pirsaat",
+      "slug": "pirsaat"
+    },
+    "code": {
+      "id": "AZ100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.906",
+      "lon": "49.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100209",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Puta",
+      "en": "Puta",
+      "slug": "puta"
+    },
+    "code": {
+      "id": "AZ100209",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.296",
+      "lon": "49.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100210",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sahil",
+      "en": "Sahil",
+      "slug": "sahil"
+    },
+    "code": {
+      "id": "AZ100210",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.224",
+      "lon": "49.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100204",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sanqaçal",
+      "en": "Sangachal",
+      "slug": "sangachal"
+    },
+    "code": {
+      "id": "AZ100204",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.167",
+      "lon": "49.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100202",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ100202",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.022",
+      "lon": "49.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100214",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şonqar",
+      "en": "Shongar",
+      "slug": "shongar"
+    },
+    "code": {
+      "id": "AZ100214",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.321",
+      "lon": "49.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100212",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şubanı",
+      "en": "Shubani",
+      "slug": "shubani"
+    },
+    "code": {
+      "id": "AZ100212",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.365",
+      "lon": "49.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100220",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ümid",
+      "en": "Umid",
+      "slug": "umid"
+    },
+    "code": {
+      "id": "AZ100220",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.199",
+      "lon": "49.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100218",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Ələt",
+      "en": "Yeni Alat",
+      "slug": "yeni-alat"
+    },
+    "code": {
+      "id": "AZ100218",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1002",
+        "level": 1,
+        "name": {
+          "local": "Qaradağ",
+          "en": "Garadagh",
+          "slug": "garadagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.944",
+      "lon": "49.4"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

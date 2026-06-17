@@ -1,0 +1,45 @@
+{
+  "id": "AZ601009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacıdünyamalılar",
+    "en": "Hajidunyamalilar",
+    "slug": "hajidunyamalilar"
+  },
+  "code": {
+    "id": "AZ601009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ601",
+    "level": 1,
+    "name": {
+      "local": "Kəlbəcər",
+      "en": "Kalbajar",
+      "slug": "kalbajar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.996",
+    "lon": "45.963"
+  },
+  "metadata": {},
+  "source": {}
+}

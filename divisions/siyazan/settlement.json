@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "AZ305006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlməkolu",
+      "en": "Almakolu",
+      "slug": "almakolu"
+    },
+    "code": {
+      "id": "AZ305006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.981",
+      "lon": "48.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərziküş",
+      "en": "Arzikush",
+      "slug": "arzikush"
+    },
+    "code": {
+      "id": "AZ305001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.946",
+      "lon": "48.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balaca Həmyə",
+      "en": "Balaja Hamya",
+      "slug": "balaja-hamya"
+    },
+    "code": {
+      "id": "AZ305028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.074",
+      "lon": "49.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beşdam",
+      "en": "Beshdam",
+      "slug": "beshdam"
+    },
+    "code": {
+      "id": "AZ305009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.992",
+      "lon": "49.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Həmyə",
+      "en": "Boyuk Hamya",
+      "slug": "boyuk-hamya"
+    },
+    "code": {
+      "id": "AZ305023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.105",
+      "lon": "49.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çarxana",
+      "en": "Charkhana",
+      "slug": "charkhana"
+    },
+    "code": {
+      "id": "AZ305027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.044",
+      "lon": "49.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağ Quşçu",
+      "en": "Dagh Gushchu",
+      "slug": "dagh-gushchu"
+    },
+    "code": {
+      "id": "AZ305019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.005",
+      "lon": "48.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşlı Çalğan",
+      "en": "Dashli Chalghan",
+      "slug": "dashli-chalghan"
+    },
+    "code": {
+      "id": "AZ305018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.076",
+      "lon": "48.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərə Zarat",
+      "en": "Dere Zarat",
+      "slug": "dere-zarat"
+    },
+    "code": {
+      "id": "AZ305008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.99",
+      "lon": "49.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eynibulaq",
+      "en": "Eynibulag",
+      "slug": "eynibulag"
+    },
+    "code": {
+      "id": "AZ305024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.105",
+      "lon": "49.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalaaltı",
+      "en": "Galaalti",
+      "slug": "galaalti"
+    },
+    "code": {
+      "id": "AZ305016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.091",
+      "lon": "48.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalaşıxı",
+      "en": "Galashikhi",
+      "slug": "galashikhi"
+    },
+    "code": {
+      "id": "AZ305011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.964",
+      "lon": "49.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarağöz",
+      "en": "Garagoz",
+      "slug": "garagoz"
+    },
+    "code": {
+      "id": "AZ305003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.95",
+      "lon": "48.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qərəh",
+      "en": "Garah",
+      "slug": "garah"
+    },
+    "code": {
+      "id": "AZ305013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.112",
+      "lon": "48.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gilgilçay",
+      "en": "Gilgilchay",
+      "slug": "gilgilchay"
+    },
+    "code": {
+      "id": "AZ305022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.14",
+      "lon": "49.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qozağacı",
+      "en": "Gozaghaji",
+      "slug": "gozaghaji"
+    },
+    "code": {
+      "id": "AZ305014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.099",
+      "lon": "48.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacışəkər",
+      "en": "Hajishakar",
+      "slug": "hajishakar"
+    },
+    "code": {
+      "id": "AZ305032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.94",
+      "lon": "48.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəndəhar",
+      "en": "Jandahar",
+      "slug": "jandahar"
+    },
+    "code": {
+      "id": "AZ305010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.986",
+      "lon": "49.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə Quşçu",
+      "en": "Kohne Gushchu",
+      "slug": "kohne-gushchu"
+    },
+    "code": {
+      "id": "AZ305007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.966",
+      "lon": "48.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolanı",
+      "en": "Kolani",
+      "slug": "kolani"
+    },
+    "code": {
+      "id": "AZ305033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.18",
+      "lon": "49.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Künövşə",
+      "en": "Kunovsha",
+      "slug": "kunovsha"
+    },
+    "code": {
+      "id": "AZ305002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.942",
+      "lon": "48.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşrif",
+      "en": "Mashrif",
+      "slug": "mashrif"
+    },
+    "code": {
+      "id": "AZ305015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.098",
+      "lon": "48.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müşkülqazma",
+      "en": "Mushkulgazma",
+      "slug": "mushkulgazma"
+    },
+    "code": {
+      "id": "AZ305029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.063",
+      "lon": "49.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nardaran",
+      "en": "Nardaran",
+      "slug": "nardaran"
+    },
+    "code": {
+      "id": "AZ305030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.015",
+      "lon": "49.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Çalğan",
+      "en": "Orta Chalghan",
+      "slug": "orta-chalghan"
+    },
+    "code": {
+      "id": "AZ305017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.082",
+      "lon": "48.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sağolcan",
+      "en": "Sagholjan",
+      "slug": "sagholjan"
+    },
+    "code": {
+      "id": "AZ305034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.044",
+      "lon": "49.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sədan",
+      "en": "Sedan",
+      "slug": "sedan"
+    },
+    "code": {
+      "id": "AZ305026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.065",
+      "lon": "49.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siyəzən",
+      "en": "Siyazan",
+      "slug": "siyazan"
+    },
+    "code": {
+      "id": "AZ305031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.005",
+      "lon": "49.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "SİYƏZƏN",
+      "en": "SIYAZAN",
+      "slug": "siyazan"
+    },
+    "code": {
+      "id": "AZ305025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.075",
+      "lon": "49.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tuğay",
+      "en": "Tughay",
+      "slug": "tughay"
+    },
+    "code": {
+      "id": "AZ305020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.154",
+      "lon": "49.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yanıq Ələz",
+      "en": "Yanig Alaz",
+      "slug": "yanig-alaz"
+    },
+    "code": {
+      "id": "AZ305004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.956",
+      "lon": "48.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ305021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.163",
+      "lon": "49.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Ələz",
+      "en": "Yukhari Alaz",
+      "slug": "yukhari-alaz"
+    },
+    "code": {
+      "id": "AZ305005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.963",
+      "lon": "48.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ305012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zarat",
+      "en": "Zarat",
+      "slug": "zarat"
+    },
+    "code": {
+      "id": "AZ305012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ305",
+        "level": 1,
+        "name": {
+          "local": "Siyəzən",
+          "en": "Siyazan",
+          "slug": "siyazan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.948",
+      "lon": "49.285"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

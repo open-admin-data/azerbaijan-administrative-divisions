@@ -1,0 +1,45 @@
+{
+  "id": "AZ2001001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "GƏNCƏ",
+    "en": "GANJA",
+    "slug": "ganja"
+  },
+  "code": {
+    "id": "AZ2001001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ2001",
+    "level": 1,
+    "name": {
+      "local": "Gəncə",
+      "en": "Ganja",
+      "slug": "ganja"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ2001",
+      "level": 1,
+      "name": {
+        "local": "Gəncə",
+        "en": "Ganja",
+        "slug": "ganja"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.697",
+    "lon": "46.387"
+  },
+  "metadata": {},
+  "source": {}
+}

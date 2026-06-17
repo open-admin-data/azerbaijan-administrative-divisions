@@ -1,0 +1,45 @@
+{
+  "id": "AZ809049",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Gomuşçu",
+    "en": "Gomushchu",
+    "slug": "gomushchu"
+  },
+  "code": {
+    "id": "AZ809049",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.782",
+    "lon": "48.967"
+  },
+  "metadata": {},
+  "source": {}
+}

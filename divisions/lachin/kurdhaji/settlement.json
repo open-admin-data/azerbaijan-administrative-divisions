@@ -1,0 +1,45 @@
+{
+  "id": "AZ602022",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kürdhacı",
+    "en": "Kurdhaji",
+    "slug": "kurdhaji"
+  },
+  "code": {
+    "id": "AZ602022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.828",
+    "lon": "46.415"
+  },
+  "metadata": {},
+  "source": {}
+}

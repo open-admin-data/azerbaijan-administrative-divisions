@@ -1,0 +1,34 @@
+# Sadarak — Azerbaijan Administrative Divisions
+
+> 5 settlements
+> Code: AZ101
+> Coordinates: 39.711, 44.904
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Dəmirçi (Damirchi)
+
+Code: AZ101005, Coordinates: 39.617, 44.938
+
+
+### Qaraağac (Garaaghaj)
+
+Code: AZ101003, Coordinates: 39.707, 44.89
+
+
+### Heydərabad (Heydarabad)
+
+Code: AZ101002, Coordinates: 39.723, 44.848
+
+
+### Kərki (Karki)
+
+Code: AZ101004, Coordinates: 39.791, 44.96
+
+
+### Sədərək (Sadarak)
+
+Code: AZ101001, Coordinates: 39.718, 44.883
+
+

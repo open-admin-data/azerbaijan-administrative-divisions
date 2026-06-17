@@ -1,0 +1,45 @@
+{
+  "id": "AZ906045",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarasaqqal",
+    "en": "Garasaggal",
+    "slug": "garasaggal"
+  },
+  "code": {
+    "id": "AZ906045",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ906",
+    "level": 1,
+    "name": {
+      "local": "Kürdəmir",
+      "en": "Kurdamir",
+      "slug": "kurdamir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.379",
+    "lon": "48.295"
+  },
+  "metadata": {},
+  "source": {}
+}

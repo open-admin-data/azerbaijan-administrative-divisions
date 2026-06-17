@@ -1,0 +1,45 @@
+{
+  "id": "AZ404043",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Böyük Dəhnə",
+    "en": "Boyuk Dehne",
+    "slug": "boyuk-dehne"
+  },
+  "code": {
+    "id": "AZ404043",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.973",
+    "lon": "47.117"
+  },
+  "metadata": {},
+  "source": {}
+}

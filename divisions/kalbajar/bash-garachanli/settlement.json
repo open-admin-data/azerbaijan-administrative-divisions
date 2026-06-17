@@ -1,0 +1,45 @@
+{
+  "id": "AZ601061",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Baş Qaraçanlı",
+    "en": "Bash Garachanli",
+    "slug": "bash-garachanli"
+  },
+  "code": {
+    "id": "AZ601061",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ601",
+    "level": 1,
+    "name": {
+      "local": "Kəlbəcər",
+      "en": "Kalbajar",
+      "slug": "kalbajar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.035",
+    "lon": "46.06"
+  },
+  "metadata": {},
+  "source": {}
+}

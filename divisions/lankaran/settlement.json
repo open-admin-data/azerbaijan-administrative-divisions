@@ -1,0 +1,4187 @@
+[
+  {
+    "id": "AZ802067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ələzəpin",
+      "en": "Alazapin",
+      "slug": "alazapin"
+    },
+    "code": {
+      "id": "AZ802067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.62",
+      "lon": "48.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Apu",
+      "en": "Ashaghi Apu",
+      "slug": "ashaghi-apu"
+    },
+    "code": {
+      "id": "AZ802062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.678",
+      "lon": "48.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Nüvədi",
+      "en": "Ashaghi Nuvadi",
+      "slug": "ashaghi-nuvadi"
+    },
+    "code": {
+      "id": "AZ802048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.715",
+      "lon": "48.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əşlə",
+      "en": "Ashla",
+      "slug": "ashla"
+    },
+    "code": {
+      "id": "AZ802073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.71",
+      "lon": "48.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Şürük",
+      "en": "Bala Shuruk",
+      "slug": "bala-shuruk"
+    },
+    "code": {
+      "id": "AZ802045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.711",
+      "lon": "48.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balıqçılar",
+      "en": "Baligchilar",
+      "slug": "baligchilar"
+    },
+    "code": {
+      "id": "AZ802012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.938",
+      "lon": "48.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəliton",
+      "en": "Baliton",
+      "slug": "baliton"
+    },
+    "code": {
+      "id": "AZ802063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.792",
+      "lon": "48.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ballabur",
+      "en": "Ballabur",
+      "slug": "ballabur"
+    },
+    "code": {
+      "id": "AZ802085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.713",
+      "lon": "48.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biləsər",
+      "en": "Bilasar",
+      "slug": "bilasar"
+    },
+    "code": {
+      "id": "AZ802072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.629",
+      "lon": "48.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boladı",
+      "en": "Boladi",
+      "slug": "boladi"
+    },
+    "code": {
+      "id": "AZ802010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.889",
+      "lon": "48.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bürcəli",
+      "en": "Burjali",
+      "slug": "burjali"
+    },
+    "code": {
+      "id": "AZ802082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.661",
+      "lon": "48.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Darquba",
+      "en": "Darguba",
+      "slug": "darguba"
+    },
+    "code": {
+      "id": "AZ802036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.729",
+      "lon": "48.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşdalıqcar",
+      "en": "Dashdaligjar",
+      "slug": "dashdaligjar"
+    },
+    "code": {
+      "id": "AZ802070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.652",
+      "lon": "48.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daştatük",
+      "en": "Dashtatuk",
+      "slug": "dashtatuk"
+    },
+    "code": {
+      "id": "AZ802061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.688",
+      "lon": "48.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digah",
+      "en": "Digah",
+      "slug": "digah"
+    },
+    "code": {
+      "id": "AZ802031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.763",
+      "lon": "48.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dıryan",
+      "en": "Diryan",
+      "slug": "diryan"
+    },
+    "code": {
+      "id": "AZ802004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.851",
+      "lon": "48.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəgiran",
+      "en": "Gagiran",
+      "slug": "gagiran"
+    },
+    "code": {
+      "id": "AZ802003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.851",
+      "lon": "48.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gərmətük",
+      "en": "Garmatuk",
+      "slug": "garmatuk"
+    },
+    "code": {
+      "id": "AZ802046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.717",
+      "lon": "48.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Girdəni",
+      "en": "Girdani",
+      "slug": "girdani"
+    },
+    "code": {
+      "id": "AZ802027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.796",
+      "lon": "48.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qodəsə",
+      "en": "Godasa",
+      "slug": "godasa"
+    },
+    "code": {
+      "id": "AZ802078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.805",
+      "lon": "48.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyşaban",
+      "en": "Goyshaban",
+      "slug": "goyshaban"
+    },
+    "code": {
+      "id": "AZ802029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.806",
+      "lon": "48.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qumbaşı",
+      "en": "Gumbashi",
+      "slug": "gumbashi"
+    },
+    "code": {
+      "id": "AZ802011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.94",
+      "lon": "48.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəhir",
+      "en": "Gunahir",
+      "slug": "gunahir"
+    },
+    "code": {
+      "id": "AZ802064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.816",
+      "lon": "48.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qurumba",
+      "en": "Gurumba",
+      "slug": "gurumba"
+    },
+    "code": {
+      "id": "AZ802039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.725",
+      "lon": "48.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Haftaruon",
+      "en": "Haftaruon",
+      "slug": "haftaruon"
+    },
+    "code": {
+      "id": "AZ802086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.81",
+      "lon": "48.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Haftoni",
+      "en": "Haftoni",
+      "slug": "haftoni"
+    },
+    "code": {
+      "id": "AZ802025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.763",
+      "lon": "48.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Havzova",
+      "en": "Havzova",
+      "slug": "havzova"
+    },
+    "code": {
+      "id": "AZ802023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.787",
+      "lon": "48.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hirkan",
+      "en": "Hirkan",
+      "slug": "hirkan"
+    },
+    "code": {
+      "id": "AZ802093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.66",
+      "lon": "48.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Horavenc",
+      "en": "Horavenj",
+      "slug": "horavenj"
+    },
+    "code": {
+      "id": "AZ802079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.799",
+      "lon": "48.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İstisu",
+      "en": "Istisu",
+      "slug": "istisu"
+    },
+    "code": {
+      "id": "AZ802022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.798",
+      "lon": "48.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cil",
+      "en": "Jil",
+      "slug": "jil"
+    },
+    "code": {
+      "id": "AZ802015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.851",
+      "lon": "48.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kənarmeşə",
+      "en": "Kanarmesha",
+      "slug": "kanarmesha"
+    },
+    "code": {
+      "id": "AZ802050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.697",
+      "lon": "48.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərgəlan",
+      "en": "Kargalan",
+      "slug": "kargalan"
+    },
+    "code": {
+      "id": "AZ802035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.736",
+      "lon": "48.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanbulan",
+      "en": "Khanbulan",
+      "slug": "khanbulan"
+    },
+    "code": {
+      "id": "AZ802083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.668",
+      "lon": "48.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanlıqlı",
+      "en": "Khanligli",
+      "slug": "khanligli"
+    },
+    "code": {
+      "id": "AZ802024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.777",
+      "lon": "48.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xarxatan",
+      "en": "Kharkhatan",
+      "slug": "kharkhatan"
+    },
+    "code": {
+      "id": "AZ802008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.856",
+      "lon": "48.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xolmili",
+      "en": "Kholmili",
+      "slug": "kholmili"
+    },
+    "code": {
+      "id": "AZ802052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.684",
+      "lon": "48.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə Gəgir",
+      "en": "Kohne Gagir",
+      "slug": "kohne-gagir"
+    },
+    "code": {
+      "id": "AZ802001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.873",
+      "lon": "48.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kosalar",
+      "en": "Kosalar",
+      "slug": "kosalar"
+    },
+    "code": {
+      "id": "AZ802044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.708",
+      "lon": "48.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küvənil",
+      "en": "Kuvanil",
+      "slug": "kuvanil"
+    },
+    "code": {
+      "id": "AZ802047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.72",
+      "lon": "48.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "LƏNKƏRAN",
+      "en": "LANKARAN",
+      "slug": "lankaran"
+    },
+    "code": {
+      "id": "AZ802030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.758",
+      "lon": "48.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləj",
+      "en": "Lazh",
+      "slug": "lazh"
+    },
+    "code": {
+      "id": "AZ802026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.76",
+      "lon": "48.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "LİMAN",
+      "en": "LIMAN",
+      "slug": "liman"
+    },
+    "code": {
+      "id": "AZ802014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.863",
+      "lon": "48.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lüvəsər",
+      "en": "Luvasar",
+      "slug": "luvasar"
+    },
+    "code": {
+      "id": "AZ802037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.711",
+      "lon": "48.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamusta",
+      "en": "Mamusta",
+      "slug": "mamusta"
+    },
+    "code": {
+      "id": "AZ802069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.658",
+      "lon": "48.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikolan",
+      "en": "Mikolan",
+      "slug": "mikolan"
+    },
+    "code": {
+      "id": "AZ802041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.704",
+      "lon": "48.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moğonojoba",
+      "en": "Moghonozhoba",
+      "slug": "moghonozhoba"
+    },
+    "code": {
+      "id": "AZ802081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.676",
+      "lon": "48.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollakənd",
+      "en": "Mollakend",
+      "slug": "mollakend"
+    },
+    "code": {
+      "id": "AZ802059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.718",
+      "lon": "48.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moloja",
+      "en": "Molozha",
+      "slug": "molozha"
+    },
+    "code": {
+      "id": "AZ802019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.822",
+      "lon": "48.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Narbağı",
+      "en": "Narbaghi",
+      "slug": "narbaghi"
+    },
+    "code": {
+      "id": "AZ802040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.714",
+      "lon": "48.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nərimanabad",
+      "en": "Narimanabad",
+      "slug": "narimanabad"
+    },
+    "code": {
+      "id": "AZ802013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.868",
+      "lon": "48.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Osakücə",
+      "en": "Osakuja",
+      "slug": "osakuja"
+    },
+    "code": {
+      "id": "AZ802021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.811",
+      "lon": "48.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pambəyi",
+      "en": "Pambayi",
+      "slug": "pambayi"
+    },
+    "code": {
+      "id": "AZ802020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.815",
+      "lon": "48.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Parakənd",
+      "en": "Parakend",
+      "slug": "parakend"
+    },
+    "code": {
+      "id": "AZ802076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.649",
+      "lon": "48.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəzvan",
+      "en": "Razvan",
+      "slug": "razvan"
+    },
+    "code": {
+      "id": "AZ802066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.665",
+      "lon": "48.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rvo",
+      "en": "Rvo",
+      "slug": "rvo"
+    },
+    "code": {
+      "id": "AZ802058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.716",
+      "lon": "48.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səbir",
+      "en": "Sabir",
+      "slug": "sabir"
+    },
+    "code": {
+      "id": "AZ802087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.722",
+      "lon": "48.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səpnəkəran",
+      "en": "Sapnakaran",
+      "slug": "sapnakaran"
+    },
+    "code": {
+      "id": "AZ802043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.696",
+      "lon": "48.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərinbulaq",
+      "en": "Sarinbulag",
+      "slug": "sarinbulag"
+    },
+    "code": {
+      "id": "AZ802084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.702",
+      "lon": "48.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seliqavol",
+      "en": "Seligavol",
+      "slug": "seligavol"
+    },
+    "code": {
+      "id": "AZ802068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.626",
+      "lon": "48.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Separadi",
+      "en": "Separadi",
+      "slug": "separadi"
+    },
+    "code": {
+      "id": "AZ802006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.866",
+      "lon": "48.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidəkəran",
+      "en": "Seyidakaran",
+      "slug": "seyidakaran"
+    },
+    "code": {
+      "id": "AZ802051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.698",
+      "lon": "48.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şağlakücə",
+      "en": "Shaghlakuja",
+      "slug": "shaghlakuja"
+    },
+    "code": {
+      "id": "AZ802038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.735",
+      "lon": "48.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şağlaser",
+      "en": "Shaghlaser",
+      "slug": "shaghlaser"
+    },
+    "code": {
+      "id": "AZ802007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.865",
+      "lon": "48.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxakəran",
+      "en": "Shikhakaran",
+      "slug": "shikhakaran"
+    },
+    "code": {
+      "id": "AZ802054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.679",
+      "lon": "48.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şiləvar",
+      "en": "Shilavar",
+      "slug": "shilavar"
+    },
+    "code": {
+      "id": "AZ802032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.75",
+      "lon": "48.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şilim",
+      "en": "Shilim",
+      "slug": "shilim"
+    },
+    "code": {
+      "id": "AZ802049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.706",
+      "lon": "48.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şirinsu",
+      "en": "Shirinsu",
+      "slug": "shirinsu"
+    },
+    "code": {
+      "id": "AZ802075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.919",
+      "lon": "48.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şivlik",
+      "en": "Shivlik",
+      "slug": "shivlik"
+    },
+    "code": {
+      "id": "AZ802088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.831",
+      "lon": "48.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şovu",
+      "en": "Shovu",
+      "slug": "shovu"
+    },
+    "code": {
+      "id": "AZ802060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.727",
+      "lon": "48.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şürük",
+      "en": "Shuruk",
+      "slug": "shuruk"
+    },
+    "code": {
+      "id": "AZ802056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.7",
+      "lon": "48.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sinovli",
+      "en": "Sinovli",
+      "slug": "sinovli"
+    },
+    "code": {
+      "id": "AZ802018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.836",
+      "lon": "48.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siyablı",
+      "en": "Siyabli",
+      "slug": "siyabli"
+    },
+    "code": {
+      "id": "AZ802074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.714",
+      "lon": "48.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siyavar",
+      "en": "Siyavar",
+      "slug": "siyavar"
+    },
+    "code": {
+      "id": "AZ802071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.645",
+      "lon": "48.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sütəmurdov",
+      "en": "Sutamurdov",
+      "slug": "sutamurdov"
+    },
+    "code": {
+      "id": "AZ802033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.741",
+      "lon": "48.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talışlı",
+      "en": "Talishli",
+      "slug": "talishli"
+    },
+    "code": {
+      "id": "AZ802077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.744",
+      "lon": "48.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təngivan",
+      "en": "Tangivan",
+      "slug": "tangivan"
+    },
+    "code": {
+      "id": "AZ802080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.731",
+      "lon": "48.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatoba",
+      "en": "Tatoba",
+      "slug": "tatoba"
+    },
+    "code": {
+      "id": "AZ802016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.828",
+      "lon": "48.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tuado",
+      "en": "Tuado",
+      "slug": "tuado"
+    },
+    "code": {
+      "id": "AZ802002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.896",
+      "lon": "48.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tükəvilə",
+      "en": "Tukavila",
+      "slug": "tukavila"
+    },
+    "code": {
+      "id": "AZ802005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.857",
+      "lon": "48.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkəkəran",
+      "en": "Turkakaran",
+      "slug": "turkakaran"
+    },
+    "code": {
+      "id": "AZ802055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.685",
+      "lon": "48.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkənсil",
+      "en": "Turkanjil",
+      "slug": "turkanjil"
+    },
+    "code": {
+      "id": "AZ802065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.824",
+      "lon": "48.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tütəpeştə",
+      "en": "Tutapeshta",
+      "slug": "tutapeshta"
+    },
+    "code": {
+      "id": "AZ802092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.69",
+      "lon": "48.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ürgə",
+      "en": "Urga",
+      "slug": "urga"
+    },
+    "code": {
+      "id": "AZ802028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.829",
+      "lon": "48.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vel",
+      "en": "Vel",
+      "slug": "vel"
+    },
+    "code": {
+      "id": "AZ802053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.677",
+      "lon": "48.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Velədi",
+      "en": "Veladi",
+      "slug": "veladi"
+    },
+    "code": {
+      "id": "AZ802034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.734",
+      "lon": "48.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vilvan",
+      "en": "Vilvan",
+      "slug": "vilvan"
+    },
+    "code": {
+      "id": "AZ802017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.822",
+      "lon": "48.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Viravul",
+      "en": "Viravul",
+      "slug": "viravul"
+    },
+    "code": {
+      "id": "AZ802091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.816",
+      "lon": "48.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vıy",
+      "en": "Viy",
+      "slug": "viy"
+    },
+    "code": {
+      "id": "AZ802090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.647",
+      "lon": "48.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Viyən",
+      "en": "Viyan",
+      "slug": "viyan"
+    },
+    "code": {
+      "id": "AZ802057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.705",
+      "lon": "48.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Nüvədi",
+      "en": "Yukhari Nuvadi",
+      "slug": "yukhari-nuvadi"
+    },
+    "code": {
+      "id": "AZ802042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.701",
+      "lon": "48.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Jidi",
+      "en": "Zhidi",
+      "slug": "zhidi"
+    },
+    "code": {
+      "id": "AZ802089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.851",
+      "lon": "48.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ802009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zövlə",
+      "en": "Zovla",
+      "slug": "zovla"
+    },
+    "code": {
+      "id": "AZ802009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ802",
+        "level": 1,
+        "name": {
+          "local": "Lənkəran",
+          "en": "Lankaran",
+          "slug": "lankaran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.885",
+      "lon": "48.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

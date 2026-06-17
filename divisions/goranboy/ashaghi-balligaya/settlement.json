@@ -1,0 +1,45 @@
+{
+  "id": "AZ509057",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Ballıqaya",
+    "en": "Ashaghi  Balligaya",
+    "slug": "ashaghi-balligaya"
+  },
+  "code": {
+    "id": "AZ509057",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.565",
+    "lon": "46.877"
+  },
+  "metadata": {},
+  "source": {}
+}

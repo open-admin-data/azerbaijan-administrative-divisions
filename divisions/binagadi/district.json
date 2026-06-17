@@ -1,0 +1,33 @@
+{
+  "id": "AZ1001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Binəqədi",
+    "en": "Binagadi",
+    "slug": "binagadi"
+  },
+  "code": {
+    "id": "AZ1001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.444",
+    "lon": "49.773"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/binagadi/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ406063",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sarıhacallı",
+    "en": "Sarihajalli",
+    "slug": "sarihajalli"
+  },
+  "code": {
+    "id": "AZ406063",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ406",
+    "level": 1,
+    "name": {
+      "local": "Qəbələ",
+      "en": "Gabala",
+      "slug": "gabala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.838",
+    "lon": "47.656"
+  },
+  "metadata": {},
+  "source": {}
+}

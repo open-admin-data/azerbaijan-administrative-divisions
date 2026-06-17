@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "AZ607024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədli",
+      "en": "Ahmadli",
+      "slug": "ahmadli"
+    },
+    "code": {
+      "id": "AZ607024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.719",
+      "lon": "47.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlinəzərli",
+      "en": "Alinazarli",
+      "slug": "alinazarli"
+    },
+    "code": {
+      "id": "AZ607013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.787",
+      "lon": "47.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Allahyarlı",
+      "en": "Allahyarli",
+      "slug": "allahyarli"
+    },
+    "code": {
+      "id": "AZ607040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.722",
+      "lon": "47.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmirzeydli",
+      "en": "Amirzeydli",
+      "slug": "amirzeydli"
+    },
+    "code": {
+      "id": "AZ607033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.589",
+      "lon": "47.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Çəmənli",
+      "en": "Ashaghi Chamanli",
+      "slug": "ashaghi-chamanli"
+    },
+    "code": {
+      "id": "AZ607026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.684",
+      "lon": "47.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşıqalılar",
+      "en": "Ashigalilar",
+      "slug": "ashigalilar"
+    },
+    "code": {
+      "id": "AZ607025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.709",
+      "lon": "47.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bahar",
+      "en": "Bahar",
+      "slug": "bahar"
+    },
+    "code": {
+      "id": "AZ607005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.73",
+      "lon": "47.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baharabad",
+      "en": "Baharabad",
+      "slug": "baharabad"
+    },
+    "code": {
+      "id": "AZ607008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.89",
+      "lon": "47.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "BEYLƏQAN",
+      "en": "BEYLAGAN",
+      "slug": "beylagan"
+    },
+    "code": {
+      "id": "AZ607004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.768",
+      "lon": "47.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Aşıqlı",
+      "en": "Birinji Ashigli",
+      "slug": "birinji-ashigli"
+    },
+    "code": {
+      "id": "AZ607011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.82",
+      "lon": "47.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Şahsevən",
+      "en": "Birinji Shahsevan",
+      "slug": "birinji-shahsevan"
+    },
+    "code": {
+      "id": "AZ607029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.64",
+      "lon": "47.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bolsulu",
+      "en": "Bolsulu",
+      "slug": "bolsulu"
+    },
+    "code": {
+      "id": "AZ607038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.792",
+      "lon": "47.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bünyadlı",
+      "en": "Bunyadli",
+      "slug": "bunyadli"
+    },
+    "code": {
+      "id": "AZ607020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.763",
+      "lon": "47.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dünyamalılar",
+      "en": "Dunyamalilar",
+      "slug": "dunyamalilar"
+    },
+    "code": {
+      "id": "AZ607006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.771",
+      "lon": "47.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyvazalılar",
+      "en": "Eyvazalilar",
+      "slug": "eyvazalilar"
+    },
+    "code": {
+      "id": "AZ607003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.87",
+      "lon": "47.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəhrəmanlı",
+      "en": "Gahramanli",
+      "slug": "gahramanli"
+    },
+    "code": {
+      "id": "AZ607017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.681",
+      "lon": "47.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ607030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.664",
+      "lon": "47.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaralılar",
+      "en": "Garalilar",
+      "slug": "garalilar"
+    },
+    "code": {
+      "id": "AZ607022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.775",
+      "lon": "47.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gödəklər",
+      "en": "Godaklar",
+      "slug": "godaklar"
+    },
+    "code": {
+      "id": "AZ607021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.758",
+      "lon": "47.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəş",
+      "en": "Gunash",
+      "slug": "gunash"
+    },
+    "code": {
+      "id": "AZ607037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.857",
+      "lon": "47.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Aşıqlı",
+      "en": "Ikinji Ashigli",
+      "slug": "ikinji-ashigli"
+    },
+    "code": {
+      "id": "AZ607001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.849",
+      "lon": "47.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Şahsevən",
+      "en": "Ikinji Shahsevan",
+      "slug": "ikinji-shahsevan"
+    },
+    "code": {
+      "id": "AZ607031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.631",
+      "lon": "47.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmamverdili",
+      "en": "Imamverdili",
+      "slug": "imamverdili"
+    },
+    "code": {
+      "id": "AZ607023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.771",
+      "lon": "47.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəbirli",
+      "en": "Kabirli",
+      "slug": "kabirli"
+    },
+    "code": {
+      "id": "AZ607009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.843",
+      "lon": "47.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaçınabad",
+      "en": "Khachinabad",
+      "slug": "khachinabad"
+    },
+    "code": {
+      "id": "AZ607041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.803",
+      "lon": "47.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayak",
+      "en": "Mayak",
+      "slug": "mayak"
+    },
+    "code": {
+      "id": "AZ607014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.761",
+      "lon": "47.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mil",
+      "en": "Mil",
+      "slug": "mil"
+    },
+    "code": {
+      "id": "AZ607032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.638",
+      "lon": "47.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Milabad",
+      "en": "Milabad",
+      "slug": "milabad"
+    },
+    "code": {
+      "id": "AZ607028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.661",
+      "lon": "47.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Örənqala",
+      "en": "Orangala",
+      "slug": "orangala"
+    },
+    "code": {
+      "id": "AZ607034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.886",
+      "lon": "47.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orconikidze",
+      "en": "Orjonikidze",
+      "slug": "orjonikidze"
+    },
+    "code": {
+      "id": "AZ607042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.639",
+      "lon": "47.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Əlinəzərli",
+      "en": "Orta Alinazarli",
+      "slug": "orta-alinazarli"
+    },
+    "code": {
+      "id": "AZ607012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.804",
+      "lon": "47.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarısu",
+      "en": "Sarisu",
+      "slug": "sarisu"
+    },
+    "code": {
+      "id": "AZ607019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.818",
+      "lon": "47.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəfəq",
+      "en": "Shafag",
+      "slug": "shafag"
+    },
+    "code": {
+      "id": "AZ607035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.792",
+      "lon": "47.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şərq",
+      "en": "Sharg",
+      "slug": "sharg"
+    },
+    "code": {
+      "id": "AZ607018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.816",
+      "lon": "47.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatalılar",
+      "en": "Tatalilar",
+      "slug": "tatalilar"
+    },
+    "code": {
+      "id": "AZ607002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.864",
+      "lon": "47.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ607010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.816",
+      "lon": "47.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türklər",
+      "en": "Turklar",
+      "slug": "turklar"
+    },
+    "code": {
+      "id": "AZ607007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.805",
+      "lon": "47.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vətağa",
+      "en": "Vatagha",
+      "slug": "vatagha"
+    },
+    "code": {
+      "id": "AZ607039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.784",
+      "lon": "47.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Mil",
+      "en": "Yeni Mil",
+      "slug": "yeni-mil"
+    },
+    "code": {
+      "id": "AZ607016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.687",
+      "lon": "47.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Aran",
+      "en": "Yukhari  Aran",
+      "slug": "yukhari-aran"
+    },
+    "code": {
+      "id": "AZ607015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.729",
+      "lon": "47.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Çəmənli",
+      "en": "Yukhari Chamanli",
+      "slug": "yukhari-chamanli"
+    },
+    "code": {
+      "id": "AZ607027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.672",
+      "lon": "47.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ607036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Kəbirli",
+      "en": "Yukhari Kabirli",
+      "slug": "yukhari-kabirli"
+    },
+    "code": {
+      "id": "AZ607036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ607",
+        "level": 1,
+        "name": {
+          "local": "Beyləqan",
+          "en": "Beylagan",
+          "slug": "beylagan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.859",
+      "lon": "47.461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

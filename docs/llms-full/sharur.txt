@@ -1,0 +1,334 @@
+# Sharur — Azerbaijan Administrative Divisions
+
+> 65 settlements
+> Code: AZ102
+> Coordinates: 39.543, 45.015
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Axaməd (Akhamad)
+
+Code: AZ102005, Coordinates: 39.584, 44.921
+
+
+### Axura (Akhura)
+
+Code: AZ102056, Coordinates: 39.562, 45.161
+
+
+### Ələkli (Alakli)
+
+Code: AZ102048, Coordinates: 39.505, 45.012
+
+
+### Alışar (Alishar)
+
+Code: AZ102014, Coordinates: 39.535, 44.927
+
+
+### Ərəbyengicə (Arabyengija)
+
+Code: AZ102024, Coordinates: 39.474, 44.966
+
+
+### Arbatan
+
+Code: AZ102018, Coordinates: 39.521, 44.97
+
+
+### Arpaçay (Arpachay)
+
+Code: AZ102019, Coordinates: 39.509, 44.987
+
+
+### Aşağı Aralıq (Ashaghi Aralig)
+
+Code: AZ102043, Coordinates: 39.528, 45.012
+
+
+### Aşağı Daşarx (Ashaghi Dasharkh)
+
+Code: AZ102046, Coordinates: 39.523, 45.037
+
+
+### Aşağı Yaycı (Ashaghi Yayji)
+
+Code: AZ102034, Coordinates: 39.621, 45.082
+
+
+### Babəki (Babaki)
+
+Code: AZ102021, Coordinates: 39.5, 44.969
+
+
+### Bəhruz Kəngərli (Bahruz Kangarli)
+
+Code: AZ102001, Coordinates: 39.58, 45.028
+
+
+### Çəmənli (Chamanli)
+
+Code: AZ102020, Coordinates: 39.5, 44.981
+
+
+### Çərçiboğan (Charchiboghan)
+
+Code: AZ102016, Coordinates: 39.529, 44.981
+
+
+### Çomaxtur (Chomakhtur)
+
+Code: AZ102015, Coordinates: 39.538, 44.976
+
+
+### Danyeri
+
+Code: AZ102063, Coordinates: 39.493, 45.055
+
+
+### Dərvişlər (Darvishlar)
+
+Code: AZ102017, Coordinates: 39.524, 44.99
+
+
+### Dərəkənd (Derekend)
+
+Code: AZ102053, Coordinates: 39.539, 45.049
+
+
+### Diyadin
+
+Code: AZ102026, Coordinates: 39.448, 44.982
+
+
+### Dizə (Diza)
+
+Code: AZ102033, Coordinates: 39.587, 45.061
+
+
+### Düdəngə (Dudanga)
+
+Code: AZ102008, Coordinates: 39.572, 44.999
+
+
+### Qaraburc (Garaburj)
+
+Code: AZ102004, Coordinates: 39.58, 44.938
+
+
+### Qarahəsənli (Garahasanli)
+
+Code: AZ102025, Coordinates: 39.481, 44.959
+
+
+### Qarxun (Garkhun)
+
+Code: AZ102041, Coordinates: 39.545, 45.007
+
+
+### Qışlaqabbas (Gishlagabbas)
+
+Code: AZ102022, Coordinates: 39.489, 44.988
+
+
+### Qorçulu (Gorchulu)
+
+Code: AZ102012, Coordinates: 39.554, 44.926
+
+
+### Gümüşlü (Gumushlu)
+
+Code: AZ102037, Coordinates: 39.642, 45.088
+
+
+### Günnüt (Gunnut)
+
+Code: AZ102058, Coordinates: 39.776, 45.048
+
+
+### Həmzəli (Hamzali)
+
+Code: AZ102057, Coordinates: 39.569, 45.103
+
+
+### Havuş (Havush)
+
+Code: AZ102065, Coordinates: 39.523, 45.062
+
+
+### İbadulla (Ibadulla)
+
+Code: AZ102023, Coordinates: 39.484, 44.996
+
+
+### Cəlilkənd (Jalilkend)
+
+Code: AZ102030, Coordinates: 39.573, 45.012
+
+
+### Kərimbəyli (Karimbeyli)
+
+Code: AZ102002, Coordinates: 39.594, 44.91
+
+
+### Xələc (Khalaj)
+
+Code: AZ102027, Coordinates: 39.523, 44.95
+
+
+### Xanlıqlar (Khanliglar)
+
+Code: AZ102047, Coordinates: 39.499, 45.026
+
+
+### Xətai (Khatai)
+
+Code: AZ102061, Coordinates: 39.603, 45.245
+
+
+### Kosacan (Kosajan)
+
+Code: AZ102045, Coordinates: 39.526, 45.019
+
+
+### Kürçülü (Kurchulu)
+
+Code: AZ102006, Coordinates: 39.573, 44.948
+
+
+### Kürkənd (Kurkend)
+
+Code: AZ102007, Coordinates: 39.569, 44.963
+
+
+### Mahmudkənd (Mahmudkend)
+
+Code: AZ102028, Coordinates: 39.578, 45.037
+
+
+### Maxta (Makhta)
+
+Code: AZ102003, Coordinates: 39.591, 44.956
+
+
+### Məmmədsabir (Mammadsabir)
+
+Code: AZ102040, Coordinates: 39.55, 45.004
+
+
+### Muğancıq Mehrab (Mughanjig Mehrab)
+
+Code: AZ102059, Coordinates: 39.55, 45.017
+
+
+### Muğancıq Müslüm (Mughanjig Muslum)
+
+Code: AZ102039, Coordinates: 39.555, 45.016
+
+
+### Muğanlı (Mughanli)
+
+Code: AZ102013, Coordinates: 39.544, 44.927
+
+
+### Oğlanqala (Oghlangala)
+
+Code: AZ102032, Coordinates: 39.589, 45.048
+
+
+### Oğuzkənd (Oghuzkend)
+
+Code: AZ102052, Coordinates: 39.523, 45.046
+
+
+### Püsyan (Pusyan)
+
+Code: AZ102054, Coordinates: 39.449, 45.032
+
+
+### Sərxanlı (Sarkhanli)
+
+Code: AZ102031, Coordinates: 39.559, 45.011
+
+
+### Şahbulaq (Shahbulag)
+
+Code: AZ102036, Coordinates: 39.652, 45.15
+
+
+### Şəhriyar (Shahriyar)
+
+Code: AZ102010, Coordinates: 39.558, 44.952
+
+
+### ŞƏRUR (SHARUR)
+
+Code: AZ102009, Coordinates: 39.553, 44.981
+
+
+### Siyaqut (Siyagut)
+
+Code: AZ102044, Coordinates: 39.538, 45.027
+
+
+### Stansiya Daşarx (Stansiya Dasharkh)
+
+Code: AZ102062, Coordinates: 39.497, 45.018
+
+
+### Tənənəm (Tananam)
+
+Code: AZ102055, Coordinates: 39.509, 45.162
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ102060, Coordinates: 39.413, 45.024
+
+
+### Tumaslı (Tumasli)
+
+Code: AZ102051, Coordinates: 39.469, 45.003
+
+
+### Vərməziyar (Varmaziyar)
+
+Code: AZ102049, Coordinates: 39.493, 45.003
+
+
+### Vayxır (Vaykhir)
+
+Code: AZ102050, Coordinates: 39.47, 45.01
+
+
+### Yengicə (Yengija)
+
+Code: AZ102011, Coordinates: 39.547, 44.961
+
+
+### Yeni Havuş (Yeni Havush)
+
+Code: AZ102064, Coordinates: 39.512, 45.074
+
+
+### Yuxarı Aralıq (Yukhari Aralig)
+
+Code: AZ102042, Coordinates: 39.541, 45.017
+
+
+### Yuxarı Daşarx (Yukhari Dasharkh)
+
+Code: AZ102038, Coordinates: 39.555, 45.042
+
+
+### Yuxarı Yaycı (Yukhari Yayji)
+
+Code: AZ102035, Coordinates: 39.624, 45.131
+
+
+### Zeyvə (Zeyva)
+
+Code: AZ102029, Coordinates: 39.58, 45.01
+
+

@@ -1,0 +1,384 @@
+# Sabirabad — Azerbaijan Administrative Divisions
+
+> 75 settlements
+> Code: AZ909
+> Coordinates: 39.961, 48.656
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əhmədabad (Ahmadabad)
+
+Code: AZ909067, Coordinates: 39.984, 48.623
+
+
+### Axısxa (Akhiskha)
+
+Code: AZ909061, Coordinates: 40.092, 48.541
+
+
+### Axtaçı (Akhtachi)
+
+Code: AZ909018, Coordinates: 39.966, 48.712
+
+
+### Axtaçı Muğan (Akhtachi Mughan)
+
+Code: AZ909052, Coordinates: 40.016, 48.716
+
+
+### Əlicanlı (Alijanli)
+
+Code: AZ909039, Coordinates: 40.04, 48.441
+
+
+### Əliləmbəyli (Alilambeyli)
+
+Code: AZ909004, Coordinates: 39.829, 48.831
+
+
+### Əsədli (Asadli)
+
+Code: AZ909050, Coordinates: 40.011, 48.524
+
+
+### Əsgərbəyli (Asgarbeyli)
+
+Code: AZ909041, Coordinates: 40.029, 48.391
+
+
+### Ətcələr (Atjalar)
+
+Code: AZ909054, Coordinates: 40.045, 48.662
+
+
+### Azadkənd (Azadkend)
+
+Code: AZ909028, Coordinates: 39.816, 48.91
+
+
+### Bala Həşimxanlı (Bala Hashimkhanli)
+
+Code: AZ909003, Coordinates: 39.801, 48.816
+
+
+### Balakənd (Balakend)
+
+Code: AZ909073, Coordinates: 39.956, 48.445
+
+
+### Balvar
+
+Code: AZ909068, Coordinates: 40.056, 48.491
+
+
+### Beşdəli (Beshdali)
+
+Code: AZ909025, Coordinates: 39.885, 48.882
+
+
+### Bulaqlı (Bulagli)
+
+Code: AZ909069, Coordinates: 39.974, 48.513
+
+
+### Bulduq (Buldug)
+
+Code: AZ909055, Coordinates: 40.059, 48.631
+
+
+### Çiçəkli (Chichakli)
+
+Code: AZ909032, Coordinates: 39.712, 48.926
+
+
+### Çığırğan (Chighirghan)
+
+Code: AZ909029, Coordinates: 39.77, 48.926
+
+
+### Çöl Ağaməmmədli (Chol Aghamammadli)
+
+Code: AZ909006, Coordinates: 39.847, 48.806
+
+
+### Çöl Beşdəli (Chol Beshdali)
+
+Code: AZ909007, Coordinates: 39.891, 48.79
+
+
+### Çöl Dəllək (Chol Dallak)
+
+Code: AZ909005, Coordinates: 39.834, 48.789
+
+
+### Dadaşbəyli (Dadashbeyli)
+
+Code: AZ909022, Coordinates: 39.953, 48.873
+
+
+### Qəfərli (Gafarli)
+
+Code: AZ909072, Coordinates: 40.022, 48.544
+
+
+### Qalağayın (Galaghayin)
+
+Code: AZ909035, Coordinates: 39.982, 48.471
+
+
+### Qaraağac (Garaaghaj)
+
+Code: AZ909024, Coordinates: 39.905, 48.87
+
+
+### Qaraqaşlı (Garagashli)
+
+Code: AZ909065, Coordinates: 40.095, 48.637
+
+
+### Qaragüney (Garaguney)
+
+Code: AZ909021, Coordinates: 39.961, 48.846
+
+
+### Qaralar (Garalar)
+
+Code: AZ909051, Coordinates: 40.047, 48.54
+
+
+### Qaralı (Garali)
+
+Code: AZ909059, Coordinates: 40.066, 48.514
+
+
+### Qaratəpə (Garatepe)
+
+Code: AZ909016, Coordinates: 39.961, 48.615
+
+
+### Qaratuğay (Garatughay)
+
+Code: AZ909074, Coordinates: 39.994, 48.78
+
+
+### Qardaşkənd (Gardashkend)
+
+Code: AZ909009, Coordinates: 39.874, 48.774
+
+
+### Qasımbəyli (Gasimbeyli)
+
+Code: AZ909044, Coordinates: 40.035, 48.341
+
+
+### Qəzli (Gazli)
+
+Code: AZ909070, Coordinates: 40.093, 48.594
+
+
+### Güdəcühür (Gudajuhur)
+
+Code: AZ909019, Coordinates: 39.993, 48.747
+
+
+### Quruzma (Guruzma)
+
+Code: AZ909064, Coordinates: 40.088, 48.614
+
+
+### Hacıbəbir (Hajibabir)
+
+Code: AZ909008, Coordinates: 39.861, 48.789
+
+
+### Həsənli (Hasanli)
+
+Code: AZ909047, Coordinates: 40.055, 48.478
+
+
+### Həşimxanlı (Hashimkhanli)
+
+Code: AZ909053, Coordinates: 40.029, 48.678
+
+
+### Cəngan (Jangan)
+
+Code: AZ909031, Coordinates: 39.725, 48.939
+
+
+### Cavad (Javad)
+
+Code: AZ909038, Coordinates: 40.03, 48.453
+
+
+### Xəlfəli (Khalfali)
+
+Code: AZ909014, Coordinates: 39.952, 48.678
+
+
+### Xankeçən (Khankechan)
+
+Code: AZ909030, Coordinates: 39.754, 48.914
+
+
+### Kovlar
+
+Code: AZ909062, Coordinates: 40.114, 48.555
+
+
+### Kürkəndi (Kurkendi)
+
+Code: AZ909037, Coordinates: 40.025, 48.481
+
+
+### Məmişlər (Memishlar)
+
+Code: AZ909071, Coordinates: 40.033, 48.516
+
+
+### Minbaşı (Minbashi)
+
+Code: AZ909023, Coordinates: 39.919, 48.883
+
+
+### Moranlı (Moranli)
+
+Code: AZ909002, Coordinates: 39.786, 48.741
+
+
+### Muğan Gəncəli (Mughan Ganjali)
+
+Code: AZ909034, Coordinates: 39.713, 48.951
+
+
+### Muradbəyli (Muradbeyli)
+
+Code: AZ909046, Coordinates: 40.05, 48.289
+
+
+### Mürsəlli (Mursalli)
+
+Code: AZ909057, Coordinates: 40.081, 48.562
+
+
+### Nərimankənd (Narimankend)
+
+Code: AZ909015, Coordinates: 39.963, 48.643
+
+
+### Narlıq (Narlig)
+
+Code: AZ909043, Coordinates: 40.055, 48.352
+
+
+### Nəsimi (Nasimi)
+
+Code: AZ909010, Coordinates: 39.893, 48.766
+
+
+### Nizami
+
+Code: AZ909011, Coordinates: 39.923, 48.753
+
+
+### Osmanlı (Osmanli)
+
+Code: AZ909066, Coordinates: 40.005, 48.799
+
+
+### Poladtuğay (Poladtughay)
+
+Code: AZ909027, Coordinates: 39.842, 48.9
+
+
+### Rüstəmli (Rustamli)
+
+Code: AZ909075, Coordinates: 39.861, 48.715
+
+
+### SABİRABAD (SABIRABAD)
+
+Code: AZ909036, Coordinates: 40.005, 48.476
+
+
+### Salmanlı (Salmanli)
+
+Code: AZ909033, Coordinates: 39.688, 48.947
+
+
+### Sarxanbəyli (Sarkhanbeyli)
+
+Code: AZ909001, Coordinates: 39.744, 48.776
+
+
+### Şəhriyar (Shahriyar)
+
+Code: AZ909013, Coordinates: 39.943, 48.714
+
+
+### Şıx Salahlı (Shikh Salahli)
+
+Code: AZ909020, Coordinates: 39.986, 48.817
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ909058, Coordinates: 40.072, 48.55
+
+
+### Suqovuşan (Sugovushan)
+
+Code: AZ909049, Coordinates: 40.008, 48.5
+
+
+### Surra
+
+Code: AZ909060, Coordinates: 40.077, 48.527
+
+
+### Türkədi (Turkadi)
+
+Code: AZ909040, Coordinates: 40.039, 48.414
+
+
+### Ulacalı (Ulajali)
+
+Code: AZ909056, Coordinates: 40.071, 48.591
+
+
+### Yaxa Dəllək (Yakha Dallak)
+
+Code: AZ909026, Coordinates: 39.876, 48.88
+
+
+### Yastıqobu (Yastigobu)
+
+Code: AZ909017, Coordinates: 39.983, 48.584
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ909063, Coordinates: 40.105, 48.58
+
+
+### Yolçubəyli (Yolchubeyli)
+
+Code: AZ909042, Coordinates: 40.055, 48.389
+
+
+### Yuxarı Axtaçı (Yukhari Akhtachi)
+
+Code: AZ909045, Coordinates: 40.041, 48.308
+
+
+### Zalqaraağac (Zalgaraaghaj)
+
+Code: AZ909012, Coordinates: 39.909, 48.793
+
+
+### Zəngənə (Zangana)
+
+Code: AZ909048, Coordinates: 40.097, 48.408
+
+

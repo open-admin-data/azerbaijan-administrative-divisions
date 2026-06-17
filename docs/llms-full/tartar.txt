@@ -1,0 +1,259 @@
+# Tartar — Azerbaijan Administrative Divisions
+
+> 50 settlements
+> Code: AZ611
+> Coordinates: 40.354, 46.985
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağkənd (Aghkend)
+
+Code: AZ611007, Coordinates: 40.403, 46.907
+
+
+### Ələsgərli (Alasgarli)
+
+Code: AZ611013, Coordinates: 40.34, 46.978
+
+
+### Alışarlı (Alisharli)
+
+Code: AZ611023, Coordinates: 40.339, 47.05
+
+
+### Aşağı Qapanlı (Ashaghi Gapanli)
+
+Code: AZ611063, Coordinates: 40.283, 47.047
+
+
+### Əskipara (Askipara)
+
+Code: AZ611037, Coordinates: 40.312, 46.955
+
+
+### Azad Qaraqoyunlu (Azad Garagoyunlu)
+
+Code: AZ611049, Coordinates: 40.274, 47.057
+
+
+### Bala Kəngərli (Bala Kangarli)
+
+Code: AZ611009, Coordinates: 40.395, 46.926
+
+
+### Bayandur
+
+Code: AZ611040, Coordinates: 40.332, 46.995
+
+
+### Bayandurlu
+
+Code: AZ611001, Coordinates: 40.442, 46.988
+
+
+### Bəyimsarov (Beyimsarov)
+
+Code: AZ611059, Coordinates: 40.476, 46.947
+
+
+### Bildirçinli (Bildirchinli)
+
+Code: AZ611060, Coordinates: 40.474, 46.902
+
+
+### Borsunlu
+
+Code: AZ611018, Coordinates: 40.441, 46.861
+
+
+### Buruc (Buruj)
+
+Code: AZ611012, Coordinates: 40.358, 46.965
+
+
+### Dəmirçilər (Damirchilar)
+
+Code: AZ611006, Coordinates: 40.417, 46.898
+
+
+### Düyərli (Duyarli)
+
+Code: AZ611038, Coordinates: 40.326, 46.964
+
+
+### Evoğlu (Evoghlu)
+
+Code: AZ611048, Coordinates: 40.301, 47.056
+
+
+### Qapanlı (Gapanli)
+
+Code: AZ611043, Coordinates: 40.257, 46.968
+
+
+### Qaraağacı (Garaaghaji)
+
+Code: AZ611041, Coordinates: 40.293, 46.982
+
+
+### Qaradağlı (Garadaghli)
+
+Code: AZ611003, Coordinates: 40.435, 46.948
+
+
+### Qaynaq (Gaynag)
+
+Code: AZ611053, Coordinates: 40.263, 47.019
+
+
+### Qazyan (Gazyan)
+
+Code: AZ611054, Coordinates: 40.24, 47.029
+
+
+### Güləbatlı (Gulabatli)
+
+Code: AZ611065, Coordinates: 40.388, 46.996
+
+
+### Hacallı (Hajalli)
+
+Code: AZ611024, Coordinates: 40.345, 47.045
+
+
+### Hacıqərvənd (Hajigervend)
+
+Code: AZ611011, Coordinates: 40.37, 46.957
+
+
+### Hüsənli (Husanli)
+
+Code: AZ611055, Coordinates: 40.211, 47.083
+
+
+### İlxıçılar (Ilkhichilar)
+
+Code: AZ611050, Coordinates: 40.265, 47.063
+
+
+### İrəvanlı (Iravanli)
+
+Code: AZ611022, Coordinates: 40.333, 47.03
+
+
+### İsmayılbəyli (Ismayilbeyli)
+
+Code: AZ611047, Coordinates: 40.305, 47.016
+
+
+### Cəmilli (Jamilli)
+
+Code: AZ611008, Coordinates: 40.401, 46.92
+
+
+### Kəbirli (Kabirli)
+
+Code: AZ611019, Coordinates: 40.435, 47.002
+
+
+### Kəngərli (Kangarli)
+
+Code: AZ611004, Coordinates: 40.418, 46.956
+
+
+### Xoruzlu (Khoruzlu)
+
+Code: AZ611020, Coordinates: 40.444, 47.013
+
+
+### Köçərli (Kocharli)
+
+Code: AZ611051, Coordinates: 40.269, 47.082
+
+
+### Kövdadıq (Kovdadig)
+
+Code: AZ611002, Coordinates: 40.438, 46.922
+
+
+### Mamırlı (Mamirli)
+
+Code: AZ611056, Coordinates: 40.318, 47.082
+
+
+### Poladlı (Poladli)
+
+Code: AZ611057, Coordinates: 40.301, 47.089
+
+
+### Rəcəbli (Rajabli)
+
+Code: AZ611061, Coordinates: 40.454, 46.92
+
+
+### Səhləbad (Sahlabad)
+
+Code: AZ611036, Coordinates: 40.326, 46.946
+
+
+### Sarıcalı (Sarijali)
+
+Code: AZ611021, Coordinates: 40.368, 47.01
+
+
+### Sarov
+
+Code: AZ611058, Coordinates: 40.483, 46.92
+
+
+### Seydimli
+
+Code: AZ611010, Coordinates: 40.369, 46.929
+
+
+### Soyulan
+
+Code: AZ611046, Coordinates: 40.322, 47.052
+
+
+### TƏRTƏR (TARTAR)
+
+Code: AZ611014, Coordinates: 40.342, 46.936
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ611005, Coordinates: 40.417, 46.942
+
+
+### Umudlu
+
+Code: AZ611062, Coordinates: 40.46, 46.892
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ611039, Coordinates: 40.331, 46.974
+
+
+### Yuxarı Qapanlı (Yukhari Gapanli)
+
+Code: AZ611052, Coordinates: 40.253, 47.035
+
+
+### Yuxarı Qaradağlı (Yukhari Garadaghli)
+
+Code: AZ611042, Coordinates: 40.265, 46.967
+
+
+### Yuxarı Sarıcalı (Yukhari Sarijali)
+
+Code: AZ611067, Coordinates: 40.311, 46.989
+
+
+### Zolgəran (Zolgaran)
+
+Code: AZ611068, Coordinates: 40.352, 47.016
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "AZ303068",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İkinci Nügədi",
+    "en": "Ikinji Nughadi",
+    "slug": "ikinji-nughadi"
+  },
+  "code": {
+    "id": "AZ303068",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.319",
+    "lon": "48.592"
+  },
+  "metadata": {},
+  "source": {}
+}

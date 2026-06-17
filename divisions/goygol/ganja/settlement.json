@@ -1,0 +1,45 @@
+{
+  "id": "AZ508015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Gəncə",
+    "en": "Ganja",
+    "slug": "ganja"
+  },
+  "code": {
+    "id": "AZ508015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.53",
+    "lon": "46.254"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ803047",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Cəngəmiran",
+    "en": "Jangamiran",
+    "slug": "jangamiran"
+  },
+  "code": {
+    "id": "AZ803047",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.759",
+    "lon": "48.435"
+  },
+  "metadata": {},
+  "source": {}
+}

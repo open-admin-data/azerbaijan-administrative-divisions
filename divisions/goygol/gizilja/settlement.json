@@ -1,0 +1,45 @@
+{
+  "id": "AZ508009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qızılca",
+    "en": "Gizilja",
+    "slug": "gizilja"
+  },
+  "code": {
+    "id": "AZ508009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.629",
+    "lon": "46.227"
+  },
+  "metadata": {},
+  "source": {}
+}

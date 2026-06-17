@@ -1,0 +1,45 @@
+{
+  "id": "AZ906017",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dayıkazımlı",
+    "en": "Dayikazimli",
+    "slug": "dayikazimli"
+  },
+  "code": {
+    "id": "AZ906017",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ906",
+    "level": 1,
+    "name": {
+      "local": "Kürdəmir",
+      "en": "Kurdamir",
+      "slug": "kurdamir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.085",
+    "lon": "48.304"
+  },
+  "metadata": {},
+  "source": {}
+}

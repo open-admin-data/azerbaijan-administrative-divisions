@@ -1,0 +1,45 @@
+{
+  "id": "AZ501033",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ağköynək",
+    "en": "Aghkoynak",
+    "slug": "aghkoynak"
+  },
+  "code": {
+    "id": "AZ501033",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ501",
+    "level": 1,
+    "name": {
+      "local": "Qazax",
+      "en": "Gazakh",
+      "slug": "gazakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.081",
+    "lon": "45.342"
+  },
+  "metadata": {},
+  "source": {}
+}

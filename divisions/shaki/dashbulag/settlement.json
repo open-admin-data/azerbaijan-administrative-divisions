@@ -1,0 +1,45 @@
+{
+  "id": "AZ404027",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Daşbulaq",
+    "en": "Dashbulag",
+    "slug": "dashbulag"
+  },
+  "code": {
+    "id": "AZ404027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.079",
+    "lon": "47.039"
+  },
+  "metadata": {},
+  "source": {}
+}

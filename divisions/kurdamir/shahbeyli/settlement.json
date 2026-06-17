@@ -1,0 +1,45 @@
+{
+  "id": "AZ906049",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şahbəyli",
+    "en": "Shahbeyli",
+    "slug": "shahbeyli"
+  },
+  "code": {
+    "id": "AZ906049",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ906",
+    "level": 1,
+    "name": {
+      "local": "Kürdəmir",
+      "en": "Kurdamir",
+      "slug": "kurdamir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.437",
+    "lon": "48.284"
+  },
+  "metadata": {},
+  "source": {}
+}

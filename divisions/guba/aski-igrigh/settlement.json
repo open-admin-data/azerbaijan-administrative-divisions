@@ -1,0 +1,45 @@
+{
+  "id": "AZ303066",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əski İqrığ",
+    "en": "Aski Igrigh",
+    "slug": "aski-igrigh"
+  },
+  "code": {
+    "id": "AZ303066",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.322",
+    "lon": "48.511"
+  },
+  "metadata": {},
+  "source": {}
+}

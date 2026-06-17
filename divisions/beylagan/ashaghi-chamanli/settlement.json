@@ -1,0 +1,45 @@
+{
+  "id": "AZ607026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Çəmənli",
+    "en": "Ashaghi Chamanli",
+    "slug": "ashaghi-chamanli"
+  },
+  "code": {
+    "id": "AZ607026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ607",
+    "level": 1,
+    "name": {
+      "local": "Beyləqan",
+      "en": "Beylagan",
+      "slug": "beylagan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.684",
+    "lon": "47.815"
+  },
+  "metadata": {},
+  "source": {}
+}

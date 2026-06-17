@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "AZ901029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağqıraqlı",
+      "en": "Aghgiragli",
+      "slug": "aghgiragli"
+    },
+    "code": {
+      "id": "AZ901029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.662",
+      "lon": "47.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əcəmi",
+      "en": "Ajami",
+      "slug": "ajami"
+    },
+    "code": {
+      "id": "AZ901012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.699",
+      "lon": "47.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əxşam",
+      "en": "Akhsham",
+      "slug": "akhsham"
+    },
+    "code": {
+      "id": "AZ901014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.744",
+      "lon": "47.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbbəsrə",
+      "en": "Arabbasra",
+      "slug": "arabbasra"
+    },
+    "code": {
+      "id": "AZ901003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.781",
+      "lon": "47.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aran",
+      "en": "Aran",
+      "slug": "aran"
+    },
+    "code": {
+      "id": "AZ901025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.63",
+      "lon": "46.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəş",
+      "en": "Arash",
+      "slug": "arash"
+    },
+    "code": {
+      "id": "AZ901004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.735",
+      "lon": "47.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Bucaq",
+      "en": "Ashaghi Bujag",
+      "slug": "ashaghi-bujag"
+    },
+    "code": {
+      "id": "AZ901007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.721",
+      "lon": "47.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Qarxun",
+      "en": "Ashaghi Garkhun",
+      "slug": "ashaghi-garkhun"
+    },
+    "code": {
+      "id": "AZ901034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.582",
+      "lon": "47.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Salamabad",
+      "en": "Ashaghi Salamabad",
+      "slug": "ashaghi-salamabad"
+    },
+    "code": {
+      "id": "AZ901010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.704",
+      "lon": "47.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balçılı",
+      "en": "Balchili",
+      "slug": "balchili"
+    },
+    "code": {
+      "id": "AZ901018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.678",
+      "lon": "47.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəydili",
+      "en": "Beydili",
+      "slug": "beydili"
+    },
+    "code": {
+      "id": "AZ901013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.717",
+      "lon": "47.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boşçalı",
+      "en": "Boshchali",
+      "slug": "boshchali"
+    },
+    "code": {
+      "id": "AZ901021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.734",
+      "lon": "47.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəlləklər",
+      "en": "Dallaklar",
+      "slug": "dallaklar"
+    },
+    "code": {
+      "id": "AZ901049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.459",
+      "lon": "47.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Duzdağ",
+      "en": "Duzdagh",
+      "slug": "duzdagh"
+    },
+    "code": {
+      "id": "AZ901030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.63",
+      "lon": "47.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraməmmədli",
+      "en": "Garamammadli",
+      "slug": "garamammadli"
+    },
+    "code": {
+      "id": "AZ901041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.537",
+      "lon": "47.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaramanlı",
+      "en": "Garamanli",
+      "slug": "garamanli"
+    },
+    "code": {
+      "id": "AZ901026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.483",
+      "lon": "46.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraoğlan",
+      "en": "Garaoghlan",
+      "slug": "garaoghlan"
+    },
+    "code": {
+      "id": "AZ901035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.658",
+      "lon": "47.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyük",
+      "en": "Goyuk",
+      "slug": "goyuk"
+    },
+    "code": {
+      "id": "AZ901028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.459",
+      "lon": "46.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoyunbinəsi",
+      "en": "Goyunbinasi",
+      "slug": "goyunbinasi"
+    },
+    "code": {
+      "id": "AZ901043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.512",
+      "lon": "47.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülövşə",
+      "en": "Gulovsha",
+      "slug": "gulovsha"
+    },
+    "code": {
+      "id": "AZ901006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.743",
+      "lon": "47.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçu",
+      "en": "Gushchu",
+      "slug": "gushchu"
+    },
+    "code": {
+      "id": "AZ901011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.695",
+      "lon": "47.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacımahmudlu",
+      "en": "Hajimahmudlu",
+      "slug": "hajimahmudlu"
+    },
+    "code": {
+      "id": "AZ901047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.484",
+      "lon": "47.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıselli",
+      "en": "Hajiselli",
+      "slug": "hajiselli"
+    },
+    "code": {
+      "id": "AZ901015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.717",
+      "lon": "47.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Havarlı",
+      "en": "Havarli",
+      "slug": "havarli"
+    },
+    "code": {
+      "id": "AZ901022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.742",
+      "lon": "47.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hürüuşağı",
+      "en": "Huruushaghi",
+      "slug": "huruushaghi"
+    },
+    "code": {
+      "id": "AZ901020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.719",
+      "lon": "47.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsmayılabad",
+      "en": "Ismayilabad",
+      "slug": "ismayilabad"
+    },
+    "code": {
+      "id": "AZ901040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.579",
+      "lon": "47.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cırdaxan",
+      "en": "Jirdakhan",
+      "slug": "jirdakhan"
+    },
+    "code": {
+      "id": "AZ901031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.642",
+      "lon": "47.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaldan",
+      "en": "Khaldan",
+      "slug": "khaldan"
+    },
+    "code": {
+      "id": "AZ901050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.712",
+      "lon": "47.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanabad",
+      "en": "Khanabad",
+      "slug": "khanabad"
+    },
+    "code": {
+      "id": "AZ901002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.793",
+      "lon": "47.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolanı",
+      "en": "Kolani",
+      "slug": "kolani"
+    },
+    "code": {
+      "id": "AZ901045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.487",
+      "lon": "47.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kövər",
+      "en": "Kovar",
+      "slug": "kovar"
+    },
+    "code": {
+      "id": "AZ901046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.503",
+      "lon": "47.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malbinəsi",
+      "en": "Malbinasi",
+      "slug": "malbinasi"
+    },
+    "code": {
+      "id": "AZ901044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.502",
+      "lon": "47.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Marzılı",
+      "en": "Marzili",
+      "slug": "marzili"
+    },
+    "code": {
+      "id": "AZ901016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.706",
+      "lon": "47.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meyvəli",
+      "en": "Meyvali",
+      "slug": "meyvali"
+    },
+    "code": {
+      "id": "AZ901023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.757",
+      "lon": "47.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəmirli",
+      "en": "Namirli",
+      "slug": "namirli"
+    },
+    "code": {
+      "id": "AZ901027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.468",
+      "lon": "46.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nərimanabad",
+      "en": "Narimanabad",
+      "slug": "narimanabad"
+    },
+    "code": {
+      "id": "AZ901036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.608",
+      "lon": "47.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nemətabad",
+      "en": "Nematabad",
+      "slug": "nematabad"
+    },
+    "code": {
+      "id": "AZ901037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.61",
+      "lon": "47.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nurallar",
+      "en": "Nurallar",
+      "slug": "nurallar"
+    },
+    "code": {
+      "id": "AZ901048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.476",
+      "lon": "47.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rüstəmli",
+      "en": "Rustamli",
+      "slug": "rustamli"
+    },
+    "code": {
+      "id": "AZ901042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.522",
+      "lon": "47.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salahlı",
+      "en": "Salahli",
+      "slug": "salahli"
+    },
+    "code": {
+      "id": "AZ901019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.688",
+      "lon": "47.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səmədabad",
+      "en": "Samadabad",
+      "slug": "samadabad"
+    },
+    "code": {
+      "id": "AZ901039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.587",
+      "lon": "47.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tanrıqulular",
+      "en": "Tanrigulular",
+      "slug": "tanrigulular"
+    },
+    "code": {
+      "id": "AZ901001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.714",
+      "lon": "46.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Varvara",
+      "en": "Varvara",
+      "slug": "varvara"
+    },
+    "code": {
+      "id": "AZ901017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.677",
+      "lon": "47.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yaldili",
+      "en": "Yaldili",
+      "slug": "yaldili"
+    },
+    "code": {
+      "id": "AZ901024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.622",
+      "lon": "46.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Çobankərə",
+      "en": "Yeni Chobankara",
+      "slug": "yeni-chobankara"
+    },
+    "code": {
+      "id": "AZ901038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.587",
+      "lon": "47.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenicə",
+      "en": "Yenija",
+      "slug": "yenija"
+    },
+    "code": {
+      "id": "AZ901008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.716",
+      "lon": "47.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "YEVLAX",
+      "en": "YEVLAKH",
+      "slug": "yevlakh"
+    },
+    "code": {
+      "id": "AZ901032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.612",
+      "lon": "47.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Salamabad",
+      "en": "Yukhari  Salamabad",
+      "slug": "yukhari-salamabad"
+    },
+    "code": {
+      "id": "AZ901009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.71",
+      "lon": "47.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Bucaq",
+      "en": "Yukhari Bujag",
+      "slug": "yukhari-bujag"
+    },
+    "code": {
+      "id": "AZ901005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.74",
+      "lon": "47.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ901033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Qarxun",
+      "en": "Yukhari Garkhun",
+      "slug": "yukhari-garkhun"
+    },
+    "code": {
+      "id": "AZ901033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ901",
+        "level": 1,
+        "name": {
+          "local": "Yevlax",
+          "en": "Yevlakh",
+          "slug": "yevlakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.615",
+      "lon": "47.193"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

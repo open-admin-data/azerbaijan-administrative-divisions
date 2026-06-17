@@ -1,0 +1,45 @@
+{
+  "id": "AZ402053",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Tala",
+    "en": "Yukhari Tala",
+    "slug": "yukhari-tala"
+  },
+  "code": {
+    "id": "AZ402053",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ402",
+    "level": 1,
+    "name": {
+      "local": "Zaqatala",
+      "en": "Zagatala",
+      "slug": "zagatala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.619",
+    "lon": "46.66"
+  },
+  "metadata": {},
+  "source": {}
+}

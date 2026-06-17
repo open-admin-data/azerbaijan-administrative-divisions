@@ -1,0 +1,45 @@
+{
+  "id": "AZ406042",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Seyidqışlaq",
+    "en": "Seyidgishlag",
+    "slug": "seyidgishlag"
+  },
+  "code": {
+    "id": "AZ406042",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ406",
+    "level": 1,
+    "name": {
+      "local": "Qəbələ",
+      "en": "Gabala",
+      "slug": "gabala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.916",
+    "lon": "47.933"
+  },
+  "metadata": {},
+  "source": {}
+}

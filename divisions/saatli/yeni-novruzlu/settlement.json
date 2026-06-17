@@ -1,0 +1,45 @@
+{
+  "id": "AZ908033",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeni Novruzlu",
+    "en": "Yeni Novruzlu",
+    "slug": "yeni-novruzlu"
+  },
+  "code": {
+    "id": "AZ908033",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ908",
+    "level": 1,
+    "name": {
+      "local": "Saatlı",
+      "en": "Saatli",
+      "slug": "saatli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.012",
+    "lon": "48.454"
+  },
+  "metadata": {},
+  "source": {}
+}

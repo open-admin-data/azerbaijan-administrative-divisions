@@ -1,0 +1,304 @@
+# Gakh — Azerbaijan Administrative Divisions
+
+> 59 settlements
+> Code: AZ403
+> Coordinates: 41.386, 46.844
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağçay (Aghchay)
+
+Code: AZ403030, Coordinates: 41.454, 47.011
+
+
+### Ağyazı (Aghyazi)
+
+Code: AZ403049, Coordinates: 41.252, 46.746
+
+
+### Əlibəyli (Alibeyli)
+
+Code: AZ403026, Coordinates: 41.376, 46.823
+
+
+### Almalı (Almali)
+
+Code: AZ403028, Coordinates: 41.336, 46.761
+
+
+### Amanlı (Amanli)
+
+Code: AZ403042, Coordinates: 41.289, 46.846
+
+
+### Əmbərçay (Ambarchay)
+
+Code: AZ403031, Coordinates: 41.379, 46.936
+
+
+### Əmircan (Amirjan)
+
+Code: AZ403023, Coordinates: 41.427, 46.864
+
+
+### Armudlu
+
+Code: AZ403003, Coordinates: 41.397, 47.048
+
+
+### Aşağı Malax (Ashaghi Malakh)
+
+Code: AZ403036, Coordinates: 41.372, 46.993
+
+
+### Bağtala (Baghtala)
+
+Code: AZ403056, Coordinates: 41.359, 46.823
+
+
+### Baydarlı (Baydarli)
+
+Code: AZ403044, Coordinates: 41.281, 46.87
+
+
+### Böyük Alatəmir (Boyuk Alatamir)
+
+Code: AZ403021, Coordinates: 41.415, 46.828
+
+
+### Çinarlı (Chinarli)
+
+Code: AZ403005, Coordinates: 41.467, 46.92
+
+
+### Çudulu (Chudulu)
+
+Code: AZ403019, Coordinates: 41.449, 46.782
+
+
+### Dəymədağlı (Daymadaghli)
+
+Code: AZ403029, Coordinates: 41.333, 46.78
+
+
+### Fıstıqlı (Fistigli)
+
+Code: AZ403020, Coordinates: 41.443, 46.803
+
+
+### QAX (GAKH)
+
+Code: AZ403052, Coordinates: 41.423, 46.922
+
+
+### Qax İngiloy (Gakh Ingiloy)
+
+Code: AZ403051, Coordinates: 41.418, 46.908
+
+
+### Qaxbaş (Gakhbash)
+
+Code: AZ403050, Coordinates: 41.434, 46.967
+
+
+### Qapıçay (Gapichay)
+
+Code: AZ403009, Coordinates: 41.49, 46.802
+
+
+### Qarabaldır (Garabaldir)
+
+Code: AZ403014, Coordinates: 41.408, 46.718
+
+
+### Qaradolaq (Garadolag)
+
+Code: AZ403047, Coordinates: 41.247, 46.789
+
+
+### Qarameşə (Garamesha)
+
+Code: AZ403058, Coordinates: 41.423, 46.827
+
+
+### Qaratala (Garatala)
+
+Code: AZ403039, Coordinates: 41.326, 46.871
+
+
+### Qaşqaçay (Gashgachay)
+
+Code: AZ403004, Coordinates: 41.386, 47.037
+
+
+### Qaysarlı (Gaysarli)
+
+Code: AZ403041, Coordinates: 41.298, 46.843
+
+
+### Qazmalar (Gazmalar)
+
+Code: AZ403045, Coordinates: 41.299, 46.88
+
+
+### Qımırlı (Gimirli)
+
+Code: AZ403035, Coordinates: 41.339, 46.896
+
+
+### Qındırğa (Gindirgha)
+
+Code: AZ403054, Coordinates: 41.38, 46.65
+
+
+### Qıpçaq (Gipchag)
+
+Code: AZ403040, Coordinates: 41.302, 46.835
+
+
+### Qorağan (Goraghan)
+
+Code: AZ403016, Coordinates: 41.384, 46.74
+
+
+### Güllük (Gulluk)
+
+Code: AZ403010, Coordinates: 41.503, 46.756
+
+
+### Qum (Gum)
+
+Code: AZ403024, Coordinates: 41.453, 46.906
+
+
+### İbaxlı (İbakhli)
+
+Code: AZ403032, Coordinates: 41.359, 46.861
+
+
+### İlisu (Ilisu)
+
+Code: AZ403002, Coordinates: 41.468, 47.054
+
+
+### İngiloy Kötüklü (İngiloy Kotuklu)
+
+Code: AZ403033, Coordinates: 41.337, 46.867
+
+
+### Cəlayir (Jalayir)
+
+Code: AZ403037, Coordinates: 41.319, 46.8
+
+
+### Keşqutan (Keshgutan)
+
+Code: AZ403055, Coordinates: 41.375, 46.911
+
+
+### Xələftala (Khalaftala)
+
+Code: AZ403034, Coordinates: 41.342, 46.884
+
+
+### Kiçik Alatəmir (Kichik Alatamir)
+
+Code: AZ403057, Coordinates: 41.404, 46.827
+
+
+### Ləkit (Lakit)
+
+Code: AZ403007, Coordinates: 41.48, 46.839
+
+
+### Ləkit Kötüklü (Lakit Kotuklu)
+
+Code: AZ403006, Coordinates: 41.514, 46.884
+
+
+### Ləkit Malax (Lakit Malakh)
+
+Code: AZ403059, Coordinates: 41.473, 46.869
+
+
+### Lələli (Lalali)
+
+Code: AZ403053, Coordinates: 41.349, 46.675
+
+
+### Lələpaşa (Lalapasha)
+
+Code: AZ403011, Coordinates: 41.433, 46.72
+
+
+### Marsan
+
+Code: AZ403017, Coordinates: 41.429, 46.763
+
+
+### Meşəbaş (Meshabash)
+
+Code: AZ403022, Coordinates: 41.411, 46.876
+
+
+### Oncallı (Onjalli)
+
+Code: AZ403043, Coordinates: 41.279, 46.86
+
+
+### Sarıbaş (Saribash)
+
+Code: AZ403001, Coordinates: 41.523, 47.074
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ403027, Coordinates: 41.354, 46.778
+
+
+### Şotavar (Shotavar)
+
+Code: AZ403015, Coordinates: 41.389, 46.718
+
+
+### Suskənd (Suskend)
+
+Code: AZ403025, Coordinates: 41.444, 46.875
+
+
+### Tanqıt (Tangit)
+
+Code: AZ403046, Coordinates: 41.282, 46.889
+
+
+### Tasmalı (Tasmali)
+
+Code: AZ403012, Coordinates: 41.428, 46.707
+
+
+### Turaclı (Turajli)
+
+Code: AZ403018, Coordinates: 41.414, 46.774
+
+
+### Üzümlükənd (Uzumlukend)
+
+Code: AZ403048, Coordinates: 41.198, 46.724
+
+
+### Uzuntala
+
+Code: AZ403038, Coordinates: 41.327, 46.856
+
+
+### Zərnə (Zarna)
+
+Code: AZ403008, Coordinates: 41.514, 46.821
+
+
+### Zəyəm (Zayam)
+
+Code: AZ403013, Coordinates: 41.413, 46.686
+
+

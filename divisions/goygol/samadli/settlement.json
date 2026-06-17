@@ -1,0 +1,45 @@
+{
+  "id": "AZ508044",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Səmədli",
+    "en": "Samadli",
+    "slug": "samadli"
+  },
+  "code": {
+    "id": "AZ508044",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.717",
+    "lon": "46.283"
+  },
+  "metadata": {},
+  "source": {}
+}

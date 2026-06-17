@@ -1,0 +1,45 @@
+{
+  "id": "AZ604048",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Malatkeşin",
+    "en": "Malatkeshin",
+    "slug": "malatkeshin"
+  },
+  "code": {
+    "id": "AZ604048",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ604",
+    "level": 1,
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.101",
+    "lon": "46.65"
+  },
+  "metadata": {},
+  "source": {}
+}

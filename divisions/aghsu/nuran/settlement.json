@@ -1,0 +1,45 @@
+{
+  "id": "AZ409034",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Nuran",
+    "en": "Nuran",
+    "slug": "nuran"
+  },
+  "code": {
+    "id": "AZ409034",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ409",
+    "level": 1,
+    "name": {
+      "local": "Ağsu",
+      "en": "Aghsu",
+      "slug": "aghsu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.674",
+    "lon": "48.394"
+  },
+  "metadata": {},
+  "source": {}
+}

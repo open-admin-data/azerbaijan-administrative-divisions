@@ -1,0 +1,45 @@
+{
+  "id": "AZ104001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaraxanbəyli",
+    "en": "Garakhanbeyli",
+    "slug": "garakhanbeyli"
+  },
+  "code": {
+    "id": "AZ104001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ104",
+    "level": 1,
+    "name": {
+      "local": "Naxçıvan",
+      "en": "Nakhchivan",
+      "slug": "nakhchivan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.191",
+    "lon": "45.392"
+  },
+  "metadata": {},
+  "source": {}
+}

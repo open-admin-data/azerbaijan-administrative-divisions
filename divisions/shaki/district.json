@@ -1,0 +1,33 @@
+{
+  "id": "AZ404",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Şəki",
+    "en": "Shaki",
+    "slug": "shaki"
+  },
+  "code": {
+    "id": "AZ404",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 71
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.111",
+    "lon": "47.165"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/shaki/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "AZ410",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Şamaxı",
+    "en": "Shamakhi",
+    "slug": "shamakhi"
+  },
+  "code": {
+    "id": "AZ410",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 63
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.644",
+    "lon": "48.629"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/shamakhi/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "AZ100706",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmircan",
+      "en": "Amirjan",
+      "slug": "amirjan"
+    },
+    "code": {
+      "id": "AZ100706",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1007",
+        "level": 1,
+        "name": {
+          "local": "Suraxanı",
+          "en": "Surakhani",
+          "slug": "surakhani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.421",
+      "lon": "49.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100702",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bülbülə",
+      "en": "Bulbula",
+      "slug": "bulbula"
+    },
+    "code": {
+      "id": "AZ100702",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1007",
+        "level": 1,
+        "name": {
+          "local": "Suraxanı",
+          "en": "Surakhani",
+          "slug": "surakhani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.436",
+      "lon": "49.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100705",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraçuxur",
+      "en": "Garachukhur",
+      "slug": "garachukhur"
+    },
+    "code": {
+      "id": "AZ100705",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1007",
+        "level": 1,
+        "name": {
+          "local": "Suraxanı",
+          "en": "Surakhani",
+          "slug": "surakhani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.4",
+      "lon": "49.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100701",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hövsan",
+      "en": "Hovsan",
+      "slug": "hovsan"
+    },
+    "code": {
+      "id": "AZ100701",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1007",
+        "level": 1,
+        "name": {
+          "local": "Suraxanı",
+          "en": "Surakhani",
+          "slug": "surakhani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.372",
+      "lon": "50.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100710",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ramana",
+      "en": "Ramana",
+      "slug": "ramana"
+    },
+    "code": {
+      "id": "AZ100710",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1007",
+        "level": 1,
+        "name": {
+          "local": "Suraxanı",
+          "en": "Surakhani",
+          "slug": "surakhani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.455",
+      "lon": "49.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100703",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Suraxanı",
+      "en": "Yeni Surakhani",
+      "slug": "yeni-surakhani"
+    },
+    "code": {
+      "id": "AZ100703",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1007",
+        "level": 1,
+        "name": {
+          "local": "Suraxanı",
+          "en": "Surakhani",
+          "slug": "surakhani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.427",
+      "lon": "50.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100704",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zığ",
+      "en": "Zigh",
+      "slug": "zigh"
+    },
+    "code": {
+      "id": "AZ100704",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1007",
+        "level": 1,
+        "name": {
+          "local": "Suraxanı",
+          "en": "Surakhani",
+          "slug": "surakhani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.369",
+      "lon": "49.987"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

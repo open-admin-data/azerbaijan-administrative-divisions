@@ -1,0 +1,45 @@
+{
+  "id": "AZ506027",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şahvələdli",
+    "en": "Shahvaladli",
+    "slug": "shahvaladli"
+  },
+  "code": {
+    "id": "AZ506027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ506",
+    "level": 1,
+    "name": {
+      "local": "Daşkəsən",
+      "en": "Dashkasan",
+      "slug": "dashkasan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.463",
+    "lon": "46.165"
+  },
+  "metadata": {},
+  "source": {}
+}

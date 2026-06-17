@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "AZ507009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədbəyli",
+      "en": "Ahmadbeyli",
+      "slug": "ahmadbeyli"
+    },
+    "code": {
+      "id": "AZ507009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.742",
+      "lon": "46.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alabaşlı",
+      "en": "Alabashli",
+      "slug": "alabashli"
+    },
+    "code": {
+      "id": "AZ507033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.784",
+      "lon": "46.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alıuşağı",
+      "en": "Aliushaghi",
+      "slug": "aliushaghi"
+    },
+    "code": {
+      "id": "AZ507005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.695",
+      "lon": "46.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Ağasıbəyli",
+      "en": "Ashaghi Aghasibeyli",
+      "slug": "ashaghi-aghasibeyli"
+    },
+    "code": {
+      "id": "AZ507026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.768",
+      "lon": "46.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağbanlar",
+      "en": "Baghbanlar",
+      "slug": "baghbanlar"
+    },
+    "code": {
+      "id": "AZ507034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.718",
+      "lon": "46.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Burunqovaq",
+      "en": "Burungovag",
+      "slug": "burungovag"
+    },
+    "code": {
+      "id": "AZ507004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.093",
+      "lon": "46.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çobanabdallı",
+      "en": "Chobanabdalli",
+      "slug": "chobanabdalli"
+    },
+    "code": {
+      "id": "AZ507011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.752",
+      "lon": "46.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    },
+    "code": {
+      "id": "AZ507016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.794",
+      "lon": "46.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qədili",
+      "en": "Gadili",
+      "slug": "gadili"
+    },
+    "code": {
+      "id": "AZ507022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.873",
+      "lon": "46.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraağaclı",
+      "en": "Garaaghajli",
+      "slug": "garaaghajli"
+    },
+    "code": {
+      "id": "AZ507021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.939",
+      "lon": "46.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraarx",
+      "en": "Garaarkh",
+      "slug": "garaarkh"
+    },
+    "code": {
+      "id": "AZ507024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.838",
+      "lon": "46.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabağlar",
+      "en": "Garabaghlar",
+      "slug": "garabaghlar"
+    },
+    "code": {
+      "id": "AZ507010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.753",
+      "lon": "46.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabağlı",
+      "en": "Garabaghli",
+      "slug": "garabaghli"
+    },
+    "code": {
+      "id": "AZ507003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.136",
+      "lon": "46.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarayeri",
+      "en": "Garayeri",
+      "slug": "garayeri"
+    },
+    "code": {
+      "id": "AZ507014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.787",
+      "lon": "46.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qiyaslı",
+      "en": "Giyasli",
+      "slug": "giyasli"
+    },
+    "code": {
+      "id": "AZ507008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.729",
+      "lon": "46.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qovlarsarı",
+      "en": "Govlarsari",
+      "slug": "govlarsari"
+    },
+    "code": {
+      "id": "AZ507013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.787",
+      "lon": "46.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıalılı",
+      "en": "Hajialili",
+      "slug": "hajialili"
+    },
+    "code": {
+      "id": "AZ507017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.807",
+      "lon": "46.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İnstitut",
+      "en": "İnstitut",
+      "slug": "institut"
+    },
+    "code": {
+      "id": "AZ507031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.724",
+      "lon": "46.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İstixana",
+      "en": "Istikhana",
+      "slug": "istikhana"
+    },
+    "code": {
+      "id": "AZ507032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.772",
+      "lon": "46.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəsəmən",
+      "en": "Kasaman",
+      "slug": "kasaman"
+    },
+    "code": {
+      "id": "AZ507001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.171",
+      "lon": "46.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köbər",
+      "en": "Kobar",
+      "slug": "kobar"
+    },
+    "code": {
+      "id": "AZ507020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.938",
+      "lon": "46.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lək",
+      "en": "Lak",
+      "slug": "lak"
+    },
+    "code": {
+      "id": "AZ507018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.793",
+      "lon": "46.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poylu",
+      "en": "Poylu",
+      "slug": "poylu"
+    },
+    "code": {
+      "id": "AZ507030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.14",
+      "lon": "46.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salahlı",
+      "en": "Salahli",
+      "slug": "salahli"
+    },
+    "code": {
+      "id": "AZ507002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.151",
+      "lon": "46.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "SAMUX",
+      "en": "SAMUKH",
+      "slug": "samukh"
+    },
+    "code": {
+      "id": "AZ507012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.763",
+      "lon": "46.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıqamış",
+      "en": "Sarigamish",
+      "slug": "sarigamish"
+    },
+    "code": {
+      "id": "AZ507015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.824",
+      "lon": "46.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıqaya",
+      "en": "Sarigaya",
+      "slug": "sarigaya"
+    },
+    "code": {
+      "id": "AZ507027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.79",
+      "lon": "46.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərkar",
+      "en": "Sarkar",
+      "slug": "sarkar"
+    },
+    "code": {
+      "id": "AZ507029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.761",
+      "lon": "46.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidlər",
+      "en": "Seyidlar",
+      "slug": "seyidlar"
+    },
+    "code": {
+      "id": "AZ507023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.847",
+      "lon": "46.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatlı",
+      "en": "Tatli",
+      "slug": "tatli"
+    },
+    "code": {
+      "id": "AZ507007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.72",
+      "lon": "46.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenibağ",
+      "en": "Yenibagh",
+      "slug": "yenibagh"
+    },
+    "code": {
+      "id": "AZ507035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.802",
+      "lon": "46.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ507019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.923",
+      "lon": "46.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Ağasıbəyli",
+      "en": "Yukhari Aghasibeyli",
+      "slug": "yukhari-aghasibeyli"
+    },
+    "code": {
+      "id": "AZ507025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.753",
+      "lon": "46.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zazalı",
+      "en": "Zazali",
+      "slug": "zazali"
+    },
+    "code": {
+      "id": "AZ507006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.714",
+      "lon": "46.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ507028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ziyadlı",
+      "en": "Ziyadli",
+      "slug": "ziyadli"
+    },
+    "code": {
+      "id": "AZ507028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ507",
+        "level": 1,
+        "name": {
+          "local": "Samux",
+          "en": "Samukh",
+          "slug": "samukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.768",
+      "lon": "46.36"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

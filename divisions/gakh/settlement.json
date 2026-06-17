@@ -1,0 +1,2657 @@
+[
+  {
+    "id": "AZ403030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağçay",
+      "en": "Aghchay",
+      "slug": "aghchay"
+    },
+    "code": {
+      "id": "AZ403030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.454",
+      "lon": "47.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağyazı",
+      "en": "Aghyazi",
+      "slug": "aghyazi"
+    },
+    "code": {
+      "id": "AZ403049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.252",
+      "lon": "46.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlibəyli",
+      "en": "Alibeyli",
+      "slug": "alibeyli"
+    },
+    "code": {
+      "id": "AZ403026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.376",
+      "lon": "46.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Almalı",
+      "en": "Almali",
+      "slug": "almali"
+    },
+    "code": {
+      "id": "AZ403028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.336",
+      "lon": "46.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Amanlı",
+      "en": "Amanli",
+      "slug": "amanli"
+    },
+    "code": {
+      "id": "AZ403042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.289",
+      "lon": "46.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmbərçay",
+      "en": "Ambarchay",
+      "slug": "ambarchay"
+    },
+    "code": {
+      "id": "AZ403031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.379",
+      "lon": "46.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmircan",
+      "en": "Amirjan",
+      "slug": "amirjan"
+    },
+    "code": {
+      "id": "AZ403023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.427",
+      "lon": "46.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Armudlu",
+      "en": "Armudlu",
+      "slug": "armudlu"
+    },
+    "code": {
+      "id": "AZ403003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.397",
+      "lon": "47.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Malax",
+      "en": "Ashaghi Malakh",
+      "slug": "ashaghi-malakh"
+    },
+    "code": {
+      "id": "AZ403036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.372",
+      "lon": "46.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağtala",
+      "en": "Baghtala",
+      "slug": "baghtala"
+    },
+    "code": {
+      "id": "AZ403056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.359",
+      "lon": "46.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baydarlı",
+      "en": "Baydarli",
+      "slug": "baydarli"
+    },
+    "code": {
+      "id": "AZ403044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.281",
+      "lon": "46.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Alatəmir",
+      "en": "Boyuk Alatamir",
+      "slug": "boyuk-alatamir"
+    },
+    "code": {
+      "id": "AZ403021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.415",
+      "lon": "46.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çinarlı",
+      "en": "Chinarli",
+      "slug": "chinarli"
+    },
+    "code": {
+      "id": "AZ403005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.467",
+      "lon": "46.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çudulu",
+      "en": "Chudulu",
+      "slug": "chudulu"
+    },
+    "code": {
+      "id": "AZ403019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.449",
+      "lon": "46.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəymədağlı",
+      "en": "Daymadaghli",
+      "slug": "daymadaghli"
+    },
+    "code": {
+      "id": "AZ403029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.333",
+      "lon": "46.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fıstıqlı",
+      "en": "Fistigli",
+      "slug": "fistigli"
+    },
+    "code": {
+      "id": "AZ403020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.443",
+      "lon": "46.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "QAX",
+      "en": "GAKH",
+      "slug": "gakh"
+    },
+    "code": {
+      "id": "AZ403052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.423",
+      "lon": "46.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qax İngiloy",
+      "en": "Gakh Ingiloy",
+      "slug": "gakh-ingiloy"
+    },
+    "code": {
+      "id": "AZ403051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.418",
+      "lon": "46.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaxbaş",
+      "en": "Gakhbash",
+      "slug": "gakhbash"
+    },
+    "code": {
+      "id": "AZ403050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.434",
+      "lon": "46.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qapıçay",
+      "en": "Gapichay",
+      "slug": "gapichay"
+    },
+    "code": {
+      "id": "AZ403009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.49",
+      "lon": "46.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabaldır",
+      "en": "Garabaldir",
+      "slug": "garabaldir"
+    },
+    "code": {
+      "id": "AZ403014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.408",
+      "lon": "46.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradolaq",
+      "en": "Garadolag",
+      "slug": "garadolag"
+    },
+    "code": {
+      "id": "AZ403047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.247",
+      "lon": "46.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarameşə",
+      "en": "Garamesha",
+      "slug": "garamesha"
+    },
+    "code": {
+      "id": "AZ403058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.423",
+      "lon": "46.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaratala",
+      "en": "Garatala",
+      "slug": "garatala"
+    },
+    "code": {
+      "id": "AZ403039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.326",
+      "lon": "46.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaşqaçay",
+      "en": "Gashgachay",
+      "slug": "gashgachay"
+    },
+    "code": {
+      "id": "AZ403004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.386",
+      "lon": "47.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaysarlı",
+      "en": "Gaysarli",
+      "slug": "gaysarli"
+    },
+    "code": {
+      "id": "AZ403041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.298",
+      "lon": "46.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazmalar",
+      "en": "Gazmalar",
+      "slug": "gazmalar"
+    },
+    "code": {
+      "id": "AZ403045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.299",
+      "lon": "46.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qımırlı",
+      "en": "Gimirli",
+      "slug": "gimirli"
+    },
+    "code": {
+      "id": "AZ403035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.339",
+      "lon": "46.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qındırğa",
+      "en": "Gindirgha",
+      "slug": "gindirgha"
+    },
+    "code": {
+      "id": "AZ403054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.38",
+      "lon": "46.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qıpçaq",
+      "en": "Gipchag",
+      "slug": "gipchag"
+    },
+    "code": {
+      "id": "AZ403040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.302",
+      "lon": "46.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qorağan",
+      "en": "Goraghan",
+      "slug": "goraghan"
+    },
+    "code": {
+      "id": "AZ403016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.384",
+      "lon": "46.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güllük",
+      "en": "Gulluk",
+      "slug": "gulluk"
+    },
+    "code": {
+      "id": "AZ403010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.503",
+      "lon": "46.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qum",
+      "en": "Gum",
+      "slug": "gum"
+    },
+    "code": {
+      "id": "AZ403024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.453",
+      "lon": "46.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İbaxlı",
+      "en": "İbakhli",
+      "slug": "ibakhli"
+    },
+    "code": {
+      "id": "AZ403032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.359",
+      "lon": "46.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İlisu",
+      "en": "Ilisu",
+      "slug": "ilisu"
+    },
+    "code": {
+      "id": "AZ403002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.468",
+      "lon": "47.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İngiloy Kötüklü",
+      "en": "İngiloy Kotuklu",
+      "slug": "ingiloy-kotuklu"
+    },
+    "code": {
+      "id": "AZ403033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.337",
+      "lon": "46.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəlayir",
+      "en": "Jalayir",
+      "slug": "jalayir"
+    },
+    "code": {
+      "id": "AZ403037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.319",
+      "lon": "46.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keşqutan",
+      "en": "Keshgutan",
+      "slug": "keshgutan"
+    },
+    "code": {
+      "id": "AZ403055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.375",
+      "lon": "46.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xələftala",
+      "en": "Khalaftala",
+      "slug": "khalaftala"
+    },
+    "code": {
+      "id": "AZ403034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.342",
+      "lon": "46.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiçik Alatəmir",
+      "en": "Kichik Alatamir",
+      "slug": "kichik-alatamir"
+    },
+    "code": {
+      "id": "AZ403057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.404",
+      "lon": "46.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləkit",
+      "en": "Lakit",
+      "slug": "lakit"
+    },
+    "code": {
+      "id": "AZ403007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.48",
+      "lon": "46.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləkit Kötüklü",
+      "en": "Lakit Kotuklu",
+      "slug": "lakit-kotuklu"
+    },
+    "code": {
+      "id": "AZ403006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.514",
+      "lon": "46.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləkit Malax",
+      "en": "Lakit Malakh",
+      "slug": "lakit-malakh"
+    },
+    "code": {
+      "id": "AZ403059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.473",
+      "lon": "46.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lələli",
+      "en": "Lalali",
+      "slug": "lalali"
+    },
+    "code": {
+      "id": "AZ403053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.349",
+      "lon": "46.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lələpaşa",
+      "en": "Lalapasha",
+      "slug": "lalapasha"
+    },
+    "code": {
+      "id": "AZ403011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.433",
+      "lon": "46.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Marsan",
+      "en": "Marsan",
+      "slug": "marsan"
+    },
+    "code": {
+      "id": "AZ403017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.429",
+      "lon": "46.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meşəbaş",
+      "en": "Meshabash",
+      "slug": "meshabash"
+    },
+    "code": {
+      "id": "AZ403022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.411",
+      "lon": "46.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oncallı",
+      "en": "Onjalli",
+      "slug": "onjalli"
+    },
+    "code": {
+      "id": "AZ403043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.279",
+      "lon": "46.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıbaş",
+      "en": "Saribash",
+      "slug": "saribash"
+    },
+    "code": {
+      "id": "AZ403001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.523",
+      "lon": "47.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ403027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.354",
+      "lon": "46.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şotavar",
+      "en": "Shotavar",
+      "slug": "shotavar"
+    },
+    "code": {
+      "id": "AZ403015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.389",
+      "lon": "46.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suskənd",
+      "en": "Suskend",
+      "slug": "suskend"
+    },
+    "code": {
+      "id": "AZ403025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.444",
+      "lon": "46.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tanqıt",
+      "en": "Tangit",
+      "slug": "tangit"
+    },
+    "code": {
+      "id": "AZ403046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.282",
+      "lon": "46.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tasmalı",
+      "en": "Tasmali",
+      "slug": "tasmali"
+    },
+    "code": {
+      "id": "AZ403012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.428",
+      "lon": "46.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Turaclı",
+      "en": "Turajli",
+      "slug": "turajli"
+    },
+    "code": {
+      "id": "AZ403018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.414",
+      "lon": "46.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üzümlükənd",
+      "en": "Uzumlukend",
+      "slug": "uzumlukend"
+    },
+    "code": {
+      "id": "AZ403048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.198",
+      "lon": "46.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uzuntala",
+      "en": "Uzuntala",
+      "slug": "uzuntala"
+    },
+    "code": {
+      "id": "AZ403038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.327",
+      "lon": "46.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərnə",
+      "en": "Zarna",
+      "slug": "zarna"
+    },
+    "code": {
+      "id": "AZ403008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.514",
+      "lon": "46.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ403013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəyəm",
+      "en": "Zayam",
+      "slug": "zayam"
+    },
+    "code": {
+      "id": "AZ403013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ403",
+        "level": 1,
+        "name": {
+          "local": "Qax",
+          "en": "Gakh",
+          "slug": "gakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.413",
+      "lon": "46.686"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

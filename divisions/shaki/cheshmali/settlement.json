@@ -1,0 +1,45 @@
+{
+  "id": "AZ404069",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çeşməli",
+    "en": "Cheshmali",
+    "slug": "cheshmali"
+  },
+  "code": {
+    "id": "AZ404069",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.131",
+    "lon": "47.153"
+  },
+  "metadata": {},
+  "source": {}
+}

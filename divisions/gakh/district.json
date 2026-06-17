@@ -1,0 +1,33 @@
+{
+  "id": "AZ403",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Qax",
+    "en": "Gakh",
+    "slug": "gakh"
+  },
+  "code": {
+    "id": "AZ403",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.386",
+    "lon": "46.844"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/gakh/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

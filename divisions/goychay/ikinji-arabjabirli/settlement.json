@@ -1,0 +1,45 @@
+{
+  "id": "AZ408003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İkinci Ərəbcəbirli",
+    "en": "Ikinji  Arabjabirli",
+    "slug": "ikinji-arabjabirli"
+  },
+  "code": {
+    "id": "AZ408003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ408",
+    "level": 1,
+    "name": {
+      "local": "Göyçay",
+      "en": "Goychay",
+      "slug": "goychay"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.649",
+    "lon": "47.688"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ809010",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bəşirbəyli",
+    "en": "Bashirbeyli",
+    "slug": "bashirbeyli"
+  },
+  "code": {
+    "id": "AZ809010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.855",
+    "lon": "48.938"
+  },
+  "metadata": {},
+  "source": {}
+}

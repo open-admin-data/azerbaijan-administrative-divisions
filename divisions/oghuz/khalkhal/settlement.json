@@ -1,0 +1,45 @@
+{
+  "id": "AZ405010",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xalxal",
+    "en": "Khalkhal",
+    "slug": "khalkhal"
+  },
+  "code": {
+    "id": "AZ405010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ405",
+    "level": 1,
+    "name": {
+      "local": "Oğuz",
+      "en": "Oghuz",
+      "slug": "oghuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.078",
+    "lon": "47.54"
+  },
+  "metadata": {},
+  "source": {}
+}

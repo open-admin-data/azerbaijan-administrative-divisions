@@ -1,0 +1,33 @@
+{
+  "id": "AZ910",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hacıqabul",
+    "en": "Hajigabul",
+    "slug": "hajigabul"
+  },
+  "code": {
+    "id": "AZ910",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.101",
+    "lon": "48.893"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/hajigabul/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

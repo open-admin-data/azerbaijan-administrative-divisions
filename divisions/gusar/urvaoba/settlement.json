@@ -1,0 +1,45 @@
+{
+  "id": "AZ301087",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Urvaoba",
+    "en": "Urvaoba",
+    "slug": "urvaoba"
+  },
+  "code": {
+    "id": "AZ301087",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.541",
+    "lon": "48.593"
+  },
+  "metadata": {},
+  "source": {}
+}

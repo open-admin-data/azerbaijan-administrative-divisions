@@ -1,0 +1,45 @@
+{
+  "id": "AZ607027",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Çəmənli",
+    "en": "Yukhari Chamanli",
+    "slug": "yukhari-chamanli"
+  },
+  "code": {
+    "id": "AZ607027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ607",
+    "level": 1,
+    "name": {
+      "local": "Beyləqan",
+      "en": "Beylagan",
+      "slug": "beylagan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ607",
+      "level": 1,
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.672",
+    "lon": "47.792"
+  },
+  "metadata": {},
+  "source": {}
+}

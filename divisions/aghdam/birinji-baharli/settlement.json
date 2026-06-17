@@ -1,0 +1,45 @@
+{
+  "id": "AZ609122",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Birinci Baharlı",
+    "en": "Birinji Baharli",
+    "slug": "birinji-baharli"
+  },
+  "code": {
+    "id": "AZ609122",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ609",
+    "level": 1,
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.107",
+    "lon": "47.06"
+  },
+  "metadata": {},
+  "source": {}
+}

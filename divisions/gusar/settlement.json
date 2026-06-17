@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "AZ301009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əcəxur",
+      "en": "Ajakhur",
+      "slug": "ajakhur"
+    },
+    "code": {
+      "id": "AZ301009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.457",
+      "lon": "48.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əcəxuroba",
+      "en": "Ajakhuroba",
+      "slug": "ajakhuroba"
+    },
+    "code": {
+      "id": "AZ301079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.727",
+      "lon": "48.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlix",
+      "en": "Alikh",
+      "slug": "alikh"
+    },
+    "code": {
+      "id": "AZ301084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.336",
+      "lon": "48.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əniq",
+      "en": "Anig",
+      "slug": "anig"
+    },
+    "code": {
+      "id": "AZ301001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.337",
+      "lon": "48.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əniqoba",
+      "en": "Anigoba",
+      "slug": "anigoba"
+    },
+    "code": {
+      "id": "AZ301071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.66",
+      "lon": "48.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arçan",
+      "en": "Archan",
+      "slug": "archan"
+    },
+    "code": {
+      "id": "AZ301088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.358",
+      "lon": "48.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Qələnxur",
+      "en": "Ashaghi Galankhur",
+      "slug": "ashaghi-galankhur"
+    },
+    "code": {
+      "id": "AZ301046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.499",
+      "lon": "48.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı İmamqulukənd",
+      "en": "Ashaghi Imamgulukend",
+      "slug": "ashaghi-imamgulukend"
+    },
+    "code": {
+      "id": "AZ301070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.665",
+      "lon": "48.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Ləgər",
+      "en": "Ashaghi Lagar",
+      "slug": "ashaghi-lagar"
+    },
+    "code": {
+      "id": "AZ301029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.496",
+      "lon": "48.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atlıxan",
+      "en": "Atlikhan",
+      "slug": "atlikhan"
+    },
+    "code": {
+      "id": "AZ301067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.505",
+      "lon": "48.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əvəcük",
+      "en": "Avajuk",
+      "slug": "avajuk"
+    },
+    "code": {
+      "id": "AZ301032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.468",
+      "lon": "48.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avaran",
+      "en": "Avaran",
+      "slug": "avaran"
+    },
+    "code": {
+      "id": "AZ301022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.427",
+      "lon": "48.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avaranqışlaq",
+      "en": "Avarangishlag",
+      "slug": "avarangishlag"
+    },
+    "code": {
+      "id": "AZ301057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.487",
+      "lon": "48.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bədirqala",
+      "en": "Badirgala",
+      "slug": "badirgala"
+    },
+    "code": {
+      "id": "AZ301028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.475",
+      "lon": "48.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bədişqala",
+      "en": "Badishgala",
+      "slug": "badishgala"
+    },
+    "code": {
+      "id": "AZ301034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.515",
+      "lon": "48.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Qusar",
+      "en": "Bala Gusar",
+      "slug": "bala-gusar"
+    },
+    "code": {
+      "id": "AZ301026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.448",
+      "lon": "48.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Muruq",
+      "en": "Boyuk Murug",
+      "slug": "boyuk-murug"
+    },
+    "code": {
+      "id": "AZ301008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.432",
+      "lon": "48.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çətgün",
+      "en": "Chatgun",
+      "slug": "chatgun"
+    },
+    "code": {
+      "id": "AZ301015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.344",
+      "lon": "48.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çiləgir",
+      "en": "Chilagir",
+      "slug": "chilagir"
+    },
+    "code": {
+      "id": "AZ301025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.398",
+      "lon": "48.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çubuqlu",
+      "en": "Chubuglu",
+      "slug": "chubuglu"
+    },
+    "code": {
+      "id": "AZ301062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.572",
+      "lon": "48.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düztahir",
+      "en": "Duztahir",
+      "slug": "duztahir"
+    },
+    "code": {
+      "id": "AZ301007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.41",
+      "lon": "48.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gədəzeyxur",
+      "en": "Gadazeykhur",
+      "slug": "gadazeykhur"
+    },
+    "code": {
+      "id": "AZ301030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.487",
+      "lon": "48.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalacıq",
+      "en": "Galajig",
+      "slug": "galajig"
+    },
+    "code": {
+      "id": "AZ301066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.511",
+      "lon": "48.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaratoba",
+      "en": "Garatoba",
+      "slug": "garatoba"
+    },
+    "code": {
+      "id": "AZ301076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.712",
+      "lon": "48.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qayakənd",
+      "en": "Gayakend",
+      "slug": "gayakend"
+    },
+    "code": {
+      "id": "AZ301024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.407",
+      "lon": "48.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gican",
+      "en": "Gijan",
+      "slug": "gijan"
+    },
+    "code": {
+      "id": "AZ301006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.388",
+      "lon": "48.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gicanoba",
+      "en": "Gijanoba",
+      "slug": "gijanoba"
+    },
+    "code": {
+      "id": "AZ301082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.617",
+      "lon": "48.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gilah",
+      "en": "Gilah",
+      "slug": "gilah"
+    },
+    "code": {
+      "id": "AZ301049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.476",
+      "lon": "48.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gilahoba",
+      "en": "Gilahoba",
+      "slug": "gilahoba"
+    },
+    "code": {
+      "id": "AZ301078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.724",
+      "lon": "48.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Girik",
+      "en": "Girik",
+      "slug": "girik"
+    },
+    "code": {
+      "id": "AZ301043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.533",
+      "lon": "48.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quxur",
+      "en": "Gukhur",
+      "slug": "gukhur"
+    },
+    "code": {
+      "id": "AZ301005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.389",
+      "lon": "48.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quxuroba",
+      "en": "Gukhuroba",
+      "slug": "gukhuroba"
+    },
+    "code": {
+      "id": "AZ301061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.587",
+      "lon": "48.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qullar",
+      "en": "Gullar",
+      "slug": "gullar"
+    },
+    "code": {
+      "id": "AZ301040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.64",
+      "lon": "48.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gündüzqala",
+      "en": "Gunduzgala",
+      "slug": "gunduzgala"
+    },
+    "code": {
+      "id": "AZ301035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.529",
+      "lon": "48.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "QUSAR",
+      "en": "GUSAR",
+      "slug": "gusar"
+    },
+    "code": {
+      "id": "AZ301023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.424",
+      "lon": "48.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quturğan",
+      "en": "Guturghan",
+      "slug": "guturghan"
+    },
+    "code": {
+      "id": "AZ301004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.365",
+      "lon": "48.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Haçatala",
+      "en": "Hachatala",
+      "slug": "hachatala"
+    },
+    "code": {
+      "id": "AZ301075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.707",
+      "lon": "48.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənqala",
+      "en": "Hasangala",
+      "slug": "hasangala"
+    },
+    "code": {
+      "id": "AZ301056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.452",
+      "lon": "48.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həzrə",
+      "en": "Hazra",
+      "slug": "hazra"
+    },
+    "code": {
+      "id": "AZ301045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.507",
+      "lon": "48.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həzrəoba",
+      "en": "Hazraoba",
+      "slug": "hazraoba"
+    },
+    "code": {
+      "id": "AZ301086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.693",
+      "lon": "48.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hil",
+      "en": "Hil",
+      "slug": "hil"
+    },
+    "code": {
+      "id": "AZ301033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.47",
+      "lon": "48.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hiloba",
+      "en": "Hiloba",
+      "slug": "hiloba"
+    },
+    "code": {
+      "id": "AZ301068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.634",
+      "lon": "48.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmamqulukənd",
+      "en": "Imamgulukend",
+      "slug": "imamgulukend"
+    },
+    "code": {
+      "id": "AZ301036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.554",
+      "lon": "48.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Caqar",
+      "en": "Jagar",
+      "slug": "jagar"
+    },
+    "code": {
+      "id": "AZ301016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.341",
+      "lon": "48.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Caqarqışlaq",
+      "en": "Jagargishlag",
+      "slug": "jagargishlag"
+    },
+    "code": {
+      "id": "AZ301064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.544",
+      "lon": "48.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cibir",
+      "en": "Jibir",
+      "slug": "jibir"
+    },
+    "code": {
+      "id": "AZ301044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.514",
+      "lon": "48.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kənarçay",
+      "en": "Kanarchay",
+      "slug": "kanarchay"
+    },
+    "code": {
+      "id": "AZ301083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.366",
+      "lon": "48.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xuluq",
+      "en": "Khulug",
+      "slug": "khulug"
+    },
+    "code": {
+      "id": "AZ301050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.466",
+      "lon": "48.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xuluqoba",
+      "en": "Khulugoba",
+      "slug": "khulugoba"
+    },
+    "code": {
+      "id": "AZ301080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.673",
+      "lon": "48.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xürəl",
+      "en": "Khural",
+      "slug": "khural"
+    },
+    "code": {
+      "id": "AZ301021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.433",
+      "lon": "48.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xuray",
+      "en": "Khuray",
+      "slug": "khuray"
+    },
+    "code": {
+      "id": "AZ301019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.364",
+      "lon": "48.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə Xudat",
+      "en": "Kohne Khudat",
+      "slug": "kohne-khudat"
+    },
+    "code": {
+      "id": "AZ301031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.458",
+      "lon": "48.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə Xudat qazmalar",
+      "en": "Kohne Khudat gazmalar",
+      "slug": "kohne-khudat-gazmalar"
+    },
+    "code": {
+      "id": "AZ301027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.459",
+      "lon": "48.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kufoba",
+      "en": "Kufoba",
+      "slug": "kufoba"
+    },
+    "code": {
+      "id": "AZ301055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.675",
+      "lon": "48.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kuzun",
+      "en": "Kuzun",
+      "slug": "kuzun"
+    },
+    "code": {
+      "id": "AZ301014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.335",
+      "lon": "48.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kuzunqışlaq",
+      "en": "Kuzungishlag",
+      "slug": "kuzungishlag"
+    },
+    "code": {
+      "id": "AZ301059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.501",
+      "lon": "48.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləgərqışlaq",
+      "en": "Lagargishlag",
+      "slug": "lagargishlag"
+    },
+    "code": {
+      "id": "AZ301060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.598",
+      "lon": "48.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləcət",
+      "en": "Lajat",
+      "slug": "lajat"
+    },
+    "code": {
+      "id": "AZ301042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.542",
+      "lon": "48.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Langi",
+      "en": "Langi",
+      "slug": "langi"
+    },
+    "code": {
+      "id": "AZ301063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.557",
+      "lon": "48.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Laza",
+      "en": "Laza",
+      "slug": "laza"
+    },
+    "code": {
+      "id": "AZ301003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.299",
+      "lon": "48.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minaxür",
+      "en": "Minakhur",
+      "slug": "minakhur"
+    },
+    "code": {
+      "id": "AZ301089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.522",
+      "lon": "48.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mucuq",
+      "en": "Mujug",
+      "slug": "mujug"
+    },
+    "code": {
+      "id": "AZ301010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.455",
+      "lon": "48.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mucuqoba",
+      "en": "Mujugoba",
+      "slug": "mujugoba"
+    },
+    "code": {
+      "id": "AZ301072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.678",
+      "lon": "48.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəcəfkənd",
+      "en": "Najafkend",
+      "slug": "najafkend"
+    },
+    "code": {
+      "id": "AZ301048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.49",
+      "lon": "48.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəcəfkəndoba",
+      "en": "Najafkendoba",
+      "slug": "najafkendoba"
+    },
+    "code": {
+      "id": "AZ301081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.723",
+      "lon": "48.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Piral",
+      "en": "Piral",
+      "slug": "piral"
+    },
+    "code": {
+      "id": "AZ301012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.491",
+      "lon": "48.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salahoba",
+      "en": "Salahoba",
+      "slug": "salahoba"
+    },
+    "code": {
+      "id": "AZ301074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.701",
+      "lon": "48.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Samur",
+      "en": "Samur",
+      "slug": "samur"
+    },
+    "code": {
+      "id": "AZ301039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.633",
+      "lon": "48.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şirvanlı",
+      "en": "Shirvanli",
+      "slug": "shirvanli"
+    },
+    "code": {
+      "id": "AZ301054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.696",
+      "lon": "48.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sudur",
+      "en": "Sudur",
+      "slug": "sudur"
+    },
+    "code": {
+      "id": "AZ301085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.375",
+      "lon": "48.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suduroba",
+      "en": "Suduroba",
+      "slug": "suduroba"
+    },
+    "code": {
+      "id": "AZ301038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.583",
+      "lon": "48.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suvacal",
+      "en": "Suvajal",
+      "slug": "suvajal"
+    },
+    "code": {
+      "id": "AZ301017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.341",
+      "lon": "48.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Torpaqkörpü",
+      "en": "Torpagkorpu",
+      "slug": "torpagkorpu"
+    },
+    "code": {
+      "id": "AZ301077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.707",
+      "lon": "48.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ukur",
+      "en": "Ukur",
+      "slug": "ukur"
+    },
+    "code": {
+      "id": "AZ301011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.474",
+      "lon": "48.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Urva",
+      "en": "Urva",
+      "slug": "urva"
+    },
+    "code": {
+      "id": "AZ301020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.399",
+      "lon": "48.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Urvaoba",
+      "en": "Urvaoba",
+      "slug": "urvaoba"
+    },
+    "code": {
+      "id": "AZ301087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.541",
+      "lon": "48.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üzdənoba",
+      "en": "Uzdanoba",
+      "slug": "uzdanoba"
+    },
+    "code": {
+      "id": "AZ301073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.687",
+      "lon": "48.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yasab",
+      "en": "Yasab",
+      "slug": "yasab"
+    },
+    "code": {
+      "id": "AZ301013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.491",
+      "lon": "48.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yasaboba",
+      "en": "Yasaboba",
+      "slug": "yasaboba"
+    },
+    "code": {
+      "id": "AZ301069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.638",
+      "lon": "48.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Həyat",
+      "en": "Yeni Hayat",
+      "slug": "yeni-hayat"
+    },
+    "code": {
+      "id": "AZ301065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.523",
+      "lon": "48.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Tahircal",
+      "en": "Yeni Tahirjal",
+      "slug": "yeni-tahirjal"
+    },
+    "code": {
+      "id": "AZ301041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.662",
+      "lon": "48.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yerği kek",
+      "en": "Yerghi kek",
+      "slug": "yerghi-kek"
+    },
+    "code": {
+      "id": "AZ301090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.349",
+      "lon": "48.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Qələnxur",
+      "en": "Yukhari Galankhur",
+      "slug": "yukhari-galankhur"
+    },
+    "code": {
+      "id": "AZ301047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.492",
+      "lon": "48.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Ləgər",
+      "en": "Yukhari Lagar",
+      "slug": "yukhari-lagar"
+    },
+    "code": {
+      "id": "AZ301018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.358",
+      "lon": "48.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Tahircal",
+      "en": "Yukhari Tahirjal",
+      "slug": "yukhari-tahirjal"
+    },
+    "code": {
+      "id": "AZ301052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.443",
+      "lon": "48.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Zeyxur",
+      "en": "Yukhari Zeykhur",
+      "slug": "yukhari-zeykhur"
+    },
+    "code": {
+      "id": "AZ301037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.572",
+      "lon": "48.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zindanmuruq",
+      "en": "Zindanmurug",
+      "slug": "zindanmurug"
+    },
+    "code": {
+      "id": "AZ301002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.331",
+      "lon": "48.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zindanmuruqqışlaq",
+      "en": "Zindanmuruggishlag",
+      "slug": "zindanmuruggishlag"
+    },
+    "code": {
+      "id": "AZ301058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.491",
+      "lon": "48.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zuxul",
+      "en": "Zukhul",
+      "slug": "zukhul"
+    },
+    "code": {
+      "id": "AZ301051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.489",
+      "lon": "48.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ301053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zuxuloba",
+      "en": "Zukhuloba",
+      "slug": "zukhuloba"
+    },
+    "code": {
+      "id": "AZ301053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ301",
+        "level": 1,
+        "name": {
+          "local": "Qusar",
+          "en": "Gusar",
+          "slug": "gusar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.714",
+      "lon": "48.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

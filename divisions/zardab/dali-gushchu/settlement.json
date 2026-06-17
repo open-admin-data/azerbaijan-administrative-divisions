@@ -1,0 +1,45 @@
+{
+  "id": "AZ905041",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dəli Quşçu",
+    "en": "Dali Gushchu",
+    "slug": "dali-gushchu"
+  },
+  "code": {
+    "id": "AZ905041",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ905",
+    "level": 1,
+    "name": {
+      "local": "Zərdab",
+      "en": "Zardab",
+      "slug": "zardab"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.218",
+    "lon": "47.751"
+  },
+  "metadata": {},
+  "source": {}
+}

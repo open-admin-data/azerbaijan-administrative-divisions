@@ -1,0 +1,45 @@
+{
+  "id": "AZ106010",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Saltaq",
+    "en": "Saltag",
+    "slug": "saltag"
+  },
+  "code": {
+    "id": "AZ106010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ106",
+    "level": 1,
+    "name": {
+      "local": "Culfa",
+      "en": "Julfa",
+      "slug": "julfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.153",
+    "lon": "45.669"
+  },
+  "metadata": {},
+  "source": {}
+}

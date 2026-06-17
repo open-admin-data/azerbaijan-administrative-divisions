@@ -1,0 +1,269 @@
+# Khojali — Azerbaijan Administrative Divisions
+
+> 52 settlements
+> Code: AZ701
+> Coordinates: 39.864, 46.779
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağbulaq (Aghbulag)
+
+Code: AZ701015, Coordinates: 39.877, 46.898
+
+
+### Ağgədik (Aghgadik)
+
+Code: AZ701050, Coordinates: 39.905, 46.847
+
+
+### Almalı (Almali)
+
+Code: AZ701041, Coordinates: 39.972, 46.687
+
+
+### Aranzəmin (Aranzamin)
+
+Code: AZ701017, Coordinates: 39.896, 46.894
+
+
+### Əsgəran (Asgaran)
+
+Code: AZ701002, Coordinates: 39.939, 46.833
+
+
+### Aşağı Qılıçbağ (Ashaghi Gilichbagh)
+
+Code: AZ701045, Coordinates: 39.946, 46.829
+
+
+### Aşağı Yemişcan (Ashaghi Yemishjan)
+
+Code: AZ701026, Coordinates: 39.741, 46.841
+
+
+### Badara
+
+Code: AZ701005, Coordinates: 39.925, 46.663
+
+
+### Baharlı (Baharli)
+
+Code: AZ701028, Coordinates: 39.684, 46.855
+
+
+### Ballıca (Ballija)
+
+Code: AZ701007, Coordinates: 39.868, 46.727
+
+
+### Başkənd (Bashkend)
+
+Code: AZ701012, Coordinates: 39.802, 46.658
+
+
+### Çanaqçı (Chanagchi)
+
+Code: AZ701023, Coordinates: 39.705, 46.829
+
+
+### Dağdağan (Daghdaghan)
+
+Code: AZ701013, Coordinates: 39.799, 46.823
+
+
+### Dağyurd (Daghyurd)
+
+Code: AZ701031, Coordinates: 39.723, 46.905
+
+
+### Dəhrəz (Dahraz)
+
+Code: AZ701016, Coordinates: 39.872, 46.873
+
+
+### Dəmirçilər (Damirchilar)
+
+Code: AZ701024, Coordinates: 39.714, 46.842
+
+
+### Daşbaşı (Dashbashi)
+
+Code: AZ701052, Coordinates: 40.006, 46.814
+
+
+### Daşbulaq (Dashbulag)
+
+Code: AZ701004, Coordinates: 39.929, 46.706
+
+
+### Daşkənd (Dashkend)
+
+Code: AZ701035, Coordinates: 39.8, 46.783
+
+
+### Fərrux (Farrukh)
+
+Code: AZ701021, Coordinates: 40.017, 46.802
+
+
+### Qarabulaq (Garabulag)
+
+Code: AZ701025, Coordinates: 39.707, 46.866
+
+
+### Qarakötük (Garakotuk)
+
+Code: AZ701040, Coordinates: 39.956, 46.698
+
+
+### Qayabaşı (Gayabashi)
+
+Code: AZ701037, Coordinates: 39.896, 46.701
+
+
+### Qışlaq (Gishlag)
+
+Code: AZ701003, Coordinates: 39.975, 46.717
+
+
+### Qızıloba (Giziloba)
+
+Code: AZ701032, Coordinates: 39.769, 46.854
+
+
+### Harov
+
+Code: AZ701014, Coordinates: 39.824, 46.849
+
+
+### Cəmilli (Jamilli)
+
+Code: AZ701008, Coordinates: 39.841, 46.722
+
+
+### Canhəsən (Janhasan)
+
+Code: AZ701022, Coordinates: 39.833, 46.692
+
+
+### Cavadlar (Javadlar)
+
+Code: AZ701010, Coordinates: 39.817, 46.672
+
+
+### Xaçmaç (Khachmach)
+
+Code: AZ701030, Coordinates: 39.753, 46.876
+
+
+### Xanabad (Khanabad)
+
+Code: AZ701001, Coordinates: 39.97, 46.817
+
+
+### Xanyeri (Khanyeri)
+
+Code: AZ701038, Coordinates: 39.936, 46.681
+
+
+### Xanyurdu (Khanyurdu)
+
+Code: AZ701036, Coordinates: 39.848, 46.741
+
+
+### XOCALI (KHOJALI)
+
+Code: AZ701043, Coordinates: 39.912, 46.794
+
+
+### Kosalar
+
+Code: AZ701009, Coordinates: 39.812, 46.677
+
+
+### Mədətkənd (Madatkend)
+
+Code: AZ701027, Coordinates: 39.7, 46.844
+
+
+### Mehdibəyli (Mehdibeyli)
+
+Code: AZ701006, Coordinates: 39.893, 46.735
+
+
+### Meşəli (Meshali)
+
+Code: AZ701039, Coordinates: 39.899, 46.619
+
+
+### Muxtar (Mukhtar)
+
+Code: AZ701033, Coordinates: 39.762, 46.776
+
+
+### Naxçıvanlı (Nakhchivanli)
+
+Code: AZ701019, Coordinates: 39.908, 46.875
+
+
+### Pircamal (Pirjamal)
+
+Code: AZ701018, Coordinates: 39.902, 46.884
+
+
+### Pirlər (Pirlar)
+
+Code: AZ701046, Coordinates: 39.99, 46.837
+
+
+### Sərdarkənd (Sardarkend)
+
+Code: AZ701047, Coordinates: 39.989, 46.764
+
+
+### Seyidbəyli (Seyidbeyli)
+
+Code: AZ701048, Coordinates: 39.986, 46.696
+
+
+### Şəlvə (Shalva)
+
+Code: AZ701049, Coordinates: 39.989, 46.714
+
+
+### Şuşikənd (Shushikend)
+
+Code: AZ701034, Coordinates: 39.771, 46.786
+
+
+### Sığnaq (Sighnag)
+
+Code: AZ701029, Coordinates: 39.722, 46.801
+
+
+### Suncinka (Sunjinka)
+
+Code: AZ701042, Coordinates: 39.944, 46.737
+
+
+### Təzəbinə (Tezebina)
+
+Code: AZ701044, Coordinates: 39.929, 46.777
+
+
+### Ulubaba
+
+Code: AZ701020, Coordinates: 40.015, 46.704
+
+
+### Yalobakənd (Yalobakend)
+
+Code: AZ701011, Coordinates: 39.812, 46.662
+
+
+### Yuxarı Yemişcan (Yukhari Yemishjan)
+
+Code: AZ701051, Coordinates: 39.742, 46.835
+
+

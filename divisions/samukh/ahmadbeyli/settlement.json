@@ -1,0 +1,45 @@
+{
+  "id": "AZ507009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əhmədbəyli",
+    "en": "Ahmadbeyli",
+    "slug": "ahmadbeyli"
+  },
+  "code": {
+    "id": "AZ507009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ507",
+    "level": 1,
+    "name": {
+      "local": "Samux",
+      "en": "Samukh",
+      "slug": "samukh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.742",
+    "lon": "46.471"
+  },
+  "metadata": {},
+  "source": {}
+}

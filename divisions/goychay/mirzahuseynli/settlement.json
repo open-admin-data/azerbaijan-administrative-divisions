@@ -1,0 +1,45 @@
+{
+  "id": "AZ408006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mirzəhüseynli",
+    "en": "Mirzahuseynli",
+    "slug": "mirzahuseynli"
+  },
+  "code": {
+    "id": "AZ408006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ408",
+    "level": 1,
+    "name": {
+      "local": "Göyçay",
+      "en": "Goychay",
+      "slug": "goychay"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.653",
+    "lon": "47.654"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ305006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əlməkolu",
+    "en": "Almakolu",
+    "slug": "almakolu"
+  },
+  "code": {
+    "id": "AZ305006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ305",
+    "level": 1,
+    "name": {
+      "local": "Siyəzən",
+      "en": "Siyazan",
+      "slug": "siyazan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.981",
+    "lon": "48.947"
+  },
+  "metadata": {},
+  "source": {}
+}

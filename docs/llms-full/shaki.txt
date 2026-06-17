@@ -1,0 +1,364 @@
+# Shaki — Azerbaijan Administrative Divisions
+
+> 71 settlements
+> Code: AZ404
+> Coordinates: 41.111, 47.165
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abbas
+
+Code: AZ404066, Coordinates: 41.299, 46.974
+
+
+### Əliyar (Aliyar)
+
+Code: AZ404036, Coordinates: 41.006, 47.253
+
+
+### Aran
+
+Code: AZ404068, Coordinates: 40.925, 47.154
+
+
+### Aşağı Daşağıl (Ashaghi Dashaghil)
+
+Code: AZ404057, Coordinates: 41.003, 47.327
+
+
+### Aşağı Göynük (Ashaghi Goynuk)
+
+Code: AZ404065, Coordinates: 41.282, 47.02
+
+
+### Aşağı Kəldək (Ashaghi Kaldak)
+
+Code: AZ404071, Coordinates: 41.048, 47.284
+
+
+### Aşağı Küngüt (Ashaghi Kungut)
+
+Code: AZ404034, Coordinates: 41.061, 47.254
+
+
+### Aşağı Layısqı (Ashaghi Layisgi)
+
+Code: AZ404008, Coordinates: 41.283, 46.972
+
+
+### Aşağı Şabalıd (Ashaghi Shabalid)
+
+Code: AZ404014, Coordinates: 41.281, 47.091
+
+
+### Aydınbulaq (Aydinbulag)
+
+Code: AZ404056, Coordinates: 40.992, 47.283
+
+
+### Babaratma
+
+Code: AZ404010, Coordinates: 41.19, 47.003
+
+
+### Baqqal (Baggal)
+
+Code: AZ404003, Coordinates: 41.335, 46.994
+
+
+### Baltalı (Baltali)
+
+Code: AZ404021, Coordinates: 41.183, 47.091
+
+
+### Baş Göynük (Bash Goynuk)
+
+Code: AZ404012, Coordinates: 41.327, 47.114
+
+
+### Baş Kəldək (Bash Kaldak)
+
+Code: AZ404060, Coordinates: 41.164, 47.335
+
+
+### Baş Küngüt (Bash Kungut)
+
+Code: AZ404041, Coordinates: 41.159, 47.321
+
+
+### Baş Layısqı (Bash Layisgi)
+
+Code: AZ404061, Coordinates: 41.351, 47.087
+
+
+### Baş Şabalıd (Bash Shabalid)
+
+Code: AZ404013, Coordinates: 41.303, 47.122
+
+
+### Baş Zəyzid (Bash Zayzid)
+
+Code: AZ404022, Coordinates: 41.187, 47.245
+
+
+### Bideyiz
+
+Code: AZ404039, Coordinates: 41.128, 47.311
+
+
+### Birinci Biləcik (Birinji Bilajik)
+
+Code: AZ404005, Coordinates: 41.333, 46.948
+
+
+### Bolludərə (Bolludere)
+
+Code: AZ404058, Coordinates: 40.832, 47.427
+
+
+### Böyük Dəhnə (Boyuk Dehne)
+
+Code: AZ404043, Coordinates: 40.973, 47.117
+
+
+### Çələbixan (Chalabikhan)
+
+Code: AZ404067, Coordinates: 41.066, 47.133
+
+
+### Çapağan (Chapaghan)
+
+Code: AZ404035, Coordinates: 41.071, 47.214
+
+
+### Çayqaraqoyunlu (Chaygaragoyunlu)
+
+Code: AZ404046, Coordinates: 40.84, 47.232
+
+
+### Çeşməli (Cheshmali)
+
+Code: AZ404069, Coordinates: 41.131, 47.153
+
+
+### Çolaqlı (Cholagli)
+
+Code: AZ404030, Coordinates: 41.03, 47.177
+
+
+### Daşbulaq (Dashbulag)
+
+Code: AZ404027, Coordinates: 41.079, 47.039
+
+
+### Daşüz (Dashuz)
+
+Code: AZ404026, Coordinates: 41.098, 47.084
+
+
+### Dərəcənnət (Derejannat)
+
+Code: AZ404055, Coordinates: 40.979, 47.178
+
+
+### Fazıl (Fazil)
+
+Code: AZ404033, Coordinates: 41.035, 47.232
+
+
+### Qaradağlı (Garadaghli)
+
+Code: AZ404011, Coordinates: 41.175, 47.011
+
+
+### Qaratorpaq (Garatorpag)
+
+Code: AZ404059, Coordinates: 40.792, 47.5
+
+
+### Qayabaşı (Gayabashi)
+
+Code: AZ404050, Coordinates: 40.89, 47.351
+
+
+### Qırxbulaq (Girkhbulag)
+
+Code: AZ404038, Coordinates: 41.143, 47.253
+
+
+### Qızılarx (Gizilarkh)
+
+Code: AZ404064, Coordinates: 41.07, 47.155
+
+
+### Qoxmuq (Gokhmug)
+
+Code: AZ404019, Coordinates: 41.21, 47.144
+
+
+### Göybulaq (Goybulag)
+
+Code: AZ404029, Coordinates: 41.047, 47.148
+
+
+### Qozlubulaq (Gozlubulag)
+
+Code: AZ404049, Coordinates: 40.916, 47.302
+
+
+### Qudula (Gudula)
+
+Code: AZ404025, Coordinates: 41.15, 47.043
+
+
+### Qumux (Gumukh)
+
+Code: AZ404062, Coordinates: 41.362, 47.08
+
+
+### İbrahimkənd (Ibrahimkend)
+
+Code: AZ404032, Coordinates: 41.021, 47.228
+
+
+### İkinci Biləcik (Ikinji Bilajik)
+
+Code: AZ404006, Coordinates: 41.318, 46.957
+
+
+### İnçə (Incha)
+
+Code: AZ404016, Coordinates: 41.253, 47.105
+
+
+### Cəfərabad (Jafarabad)
+
+Code: AZ404031, Coordinates: 41.021, 47.163
+
+
+### Cəyirli (Jayirli)
+
+Code: AZ404048, Coordinates: 40.887, 47.271
+
+
+### Cumakənd (Jumakend)
+
+Code: AZ404004, Coordinates: 41.212, 46.937
+
+
+### Cunud (Junud)
+
+Code: AZ404001, Coordinates: 41.349, 47.048
+
+
+### Kəhrizoba (Kahrizoba)
+
+Code: AZ404053, Coordinates: 40.985, 47.197
+
+
+### Kiçik Dəhnə (Kichik Dehne)
+
+Code: AZ404042, Coordinates: 40.994, 47.085
+
+
+### Kiş (Kish)
+
+Code: AZ404018, Coordinates: 41.251, 47.19
+
+
+### Köbər Zəyzid (Kobar Zayzid)
+
+Code: AZ404037, Coordinates: 41.114, 47.251
+
+
+### Köndələn (Kondelen)
+
+Code: AZ404009, Coordinates: 41.268, 47.023
+
+
+### Kosalı (Kosali)
+
+Code: AZ404063, Coordinates: 41.077, 47.156
+
+
+### Küdürlü (Kudurlu)
+
+Code: AZ404028, Coordinates: 41.08, 47.124
+
+
+### Oxud (Okhud)
+
+Code: AZ404017, Coordinates: 41.237, 47.157
+
+
+### Oraban
+
+Code: AZ404040, Coordinates: 41.145, 47.345
+
+
+### Orta Zəyzid (Orta Zayzid)
+
+Code: AZ404024, Coordinates: 41.169, 47.248
+
+
+### Öryət (Oryat)
+
+Code: AZ404070, Coordinates: 41.116, 47.121
+
+
+### Sarıca (Sarija)
+
+Code: AZ404051, Coordinates: 40.873, 47.343
+
+
+### Şəki (Shaki)
+
+Code: AZ404045, Coordinates: 40.907, 47.212
+
+
+### ŞƏKİ (SHAKI)
+
+Code: AZ404020, Coordinates: 41.185, 47.174
+
+
+### Şin (Shin)
+
+Code: AZ404002, Coordinates: 41.355, 47.115
+
+
+### Şirinbulaq (Shirinbulag)
+
+Code: AZ404052, Coordinates: 40.964, 47.232
+
+
+### Şorsu (Shorsu)
+
+Code: AZ404007, Coordinates: 41.158, 46.991
+
+
+### Suçma (Suchma)
+
+Code: AZ404044, Coordinates: 40.959, 47.134
+
+
+### Təpəcənnət (Tepejannat)
+
+Code: AZ404054, Coordinates: 40.981, 47.193
+
+
+### Turan
+
+Code: AZ404047, Coordinates: 40.857, 47.246
+
+
+### Vərəzət (Varazat)
+
+Code: AZ404023, Coordinates: 41.176, 47.23
+
+
+### Zunud
+
+Code: AZ404015, Coordinates: 41.268, 47.11
+
+

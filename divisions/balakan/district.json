@@ -1,0 +1,33 @@
+{
+  "id": "AZ401",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Balakən",
+    "en": "Balakan",
+    "slug": "balakan"
+  },
+  "code": {
+    "id": "AZ401",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.685",
+    "lon": "46.352"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/balakan/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

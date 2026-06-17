@@ -1,0 +1,45 @@
+{
+  "id": "AZ606059",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Böyük Bəhmənli",
+    "en": "Boyuk Bahmanli",
+    "slug": "boyuk-bahmanli"
+  },
+  "code": {
+    "id": "AZ606059",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.516",
+    "lon": "47.5"
+  },
+  "metadata": {},
+  "source": {}
+}

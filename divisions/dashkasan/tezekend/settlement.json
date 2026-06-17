@@ -1,0 +1,45 @@
+{
+  "id": "AZ506011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Təzəkənd",
+    "en": "Tezekend",
+    "slug": "tezekend"
+  },
+  "code": {
+    "id": "AZ506011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ506",
+    "level": 1,
+    "name": {
+      "local": "Daşkəsən",
+      "en": "Dashkasan",
+      "slug": "dashkasan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.46",
+    "lon": "45.932"
+  },
+  "metadata": {},
+  "source": {}
+}

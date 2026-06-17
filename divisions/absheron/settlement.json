@@ -1,0 +1,767 @@
+[
+  {
+    "id": "AZ308011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Güzdək",
+      "en": "Ashaghi Guzdek",
+      "slug": "ashaghi-guzdek"
+    },
+    "code": {
+      "id": "AZ308011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.48",
+      "lon": "49.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digah",
+      "en": "Digah",
+      "slug": "digah"
+    },
+    "code": {
+      "id": "AZ308002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.492",
+      "lon": "49.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fatmayı",
+      "en": "Fatmayi",
+      "slug": "fatmayi"
+    },
+    "code": {
+      "id": "AZ308012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.53",
+      "lon": "49.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qobu",
+      "en": "Gobu",
+      "slug": "gobu"
+    },
+    "code": {
+      "id": "AZ308008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.4",
+      "lon": "49.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qobustan",
+      "en": "Gobustan",
+      "slug": "gobustan"
+    },
+    "code": {
+      "id": "AZ308016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.498",
+      "lon": "49.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Görədil",
+      "en": "Goradil",
+      "slug": "goradil"
+    },
+    "code": {
+      "id": "AZ308004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.544",
+      "lon": "49.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güzdək",
+      "en": "Guzdek",
+      "slug": "guzdek"
+    },
+    "code": {
+      "id": "AZ308009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.372",
+      "lon": "49.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hökməli",
+      "en": "Hokmali",
+      "slug": "hokmali"
+    },
+    "code": {
+      "id": "AZ308007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.437",
+      "lon": "49.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ceyranbatan",
+      "en": "Jeyranbatan",
+      "slug": "jeyranbatan"
+    },
+    "code": {
+      "id": "AZ308013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.543",
+      "lon": "49.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "XIRDALAN",
+      "en": "KHIRDALAN",
+      "slug": "khirdalan"
+    },
+    "code": {
+      "id": "AZ308006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.454",
+      "lon": "49.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədli",
+      "en": "Mammadli",
+      "slug": "mammadli"
+    },
+    "code": {
+      "id": "AZ308001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.504",
+      "lon": "49.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Masazır",
+      "en": "Masazir",
+      "slug": "masazir"
+    },
+    "code": {
+      "id": "AZ308014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.476",
+      "lon": "49.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehdiabad",
+      "en": "Mehdiabad",
+      "slug": "mehdiabad"
+    },
+    "code": {
+      "id": "AZ308003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.497",
+      "lon": "49.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Novxanı",
+      "en": "Novkhani",
+      "slug": "novkhani"
+    },
+    "code": {
+      "id": "AZ308005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.539",
+      "lon": "49.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəkəşkül",
+      "en": "Pirekeshkul",
+      "slug": "pirekeshkul"
+    },
+    "code": {
+      "id": "AZ308015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.527",
+      "lon": "49.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saray",
+      "en": "Saray",
+      "slug": "saray"
+    },
+    "code": {
+      "id": "AZ308010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.532",
+      "lon": "49.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ308016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəfəq",
+      "en": "Shafag",
+      "slug": "shafag"
+    },
+    "code": {
+      "id": "AZ308016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ308",
+        "level": 1,
+        "name": {
+          "local": "Abşeron",
+          "en": "Absheron",
+          "slug": "absheron"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.557",
+      "lon": "49.586"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

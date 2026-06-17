@@ -1,0 +1,45 @@
+{
+  "id": "AZ503009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Öysüzlü",
+    "en": "Yukhari Oysuzlu",
+    "slug": "yukhari-oysuzlu"
+  },
+  "code": {
+    "id": "AZ503009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.952",
+    "lon": "45.578"
+  },
+  "metadata": {},
+  "source": {}
+}

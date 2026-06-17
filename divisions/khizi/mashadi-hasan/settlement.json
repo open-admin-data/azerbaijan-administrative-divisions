@@ -1,0 +1,45 @@
+{
+  "id": "AZ306021",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Məşədi Həsən",
+    "en": "Mashadi Hasan",
+    "slug": "mashadi-hasan"
+  },
+  "code": {
+    "id": "AZ306021",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ306",
+    "level": 1,
+    "name": {
+      "local": "Xızı",
+      "en": "Khizi",
+      "slug": "khizi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.823",
+    "lon": "49.357"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ508026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "GÖYGÖL",
+    "en": "GOYGOL",
+    "slug": "goygol"
+  },
+  "code": {
+    "id": "AZ508026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.584",
+    "lon": "46.322"
+  },
+  "metadata": {},
+  "source": {}
+}

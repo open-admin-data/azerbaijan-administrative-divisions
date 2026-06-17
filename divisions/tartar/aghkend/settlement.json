@@ -1,0 +1,45 @@
+{
+  "id": "AZ611007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ağkənd",
+    "en": "Aghkend",
+    "slug": "aghkend"
+  },
+  "code": {
+    "id": "AZ611007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ611",
+    "level": 1,
+    "name": {
+      "local": "Tərtər",
+      "en": "Tartar",
+      "slug": "tartar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.403",
+    "lon": "46.907"
+  },
+  "metadata": {},
+  "source": {}
+}

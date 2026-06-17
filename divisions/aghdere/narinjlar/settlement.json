@@ -1,0 +1,45 @@
+{
+  "id": "AZ601119",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Narınclar",
+    "en": "Narinjlar",
+    "slug": "narinjlar"
+  },
+  "code": {
+    "id": "AZ601119",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ612",
+    "level": 1,
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.037",
+    "lon": "46.41"
+  },
+  "metadata": {},
+  "source": {}
+}

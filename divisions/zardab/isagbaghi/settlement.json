@@ -1,0 +1,45 @@
+{
+  "id": "AZ905029",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İsaqbağı",
+    "en": "Isagbaghi",
+    "slug": "isagbaghi"
+  },
+  "code": {
+    "id": "AZ905029",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ905",
+    "level": 1,
+    "name": {
+      "local": "Zərdab",
+      "en": "Zardab",
+      "slug": "zardab"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.181",
+    "lon": "47.762"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ905016",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Məmmədqasımlı",
+    "en": "Mammadgasimli",
+    "slug": "mammadgasimli"
+  },
+  "code": {
+    "id": "AZ905016",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ905",
+    "level": 1,
+    "name": {
+      "local": "Zərdab",
+      "en": "Zardab",
+      "slug": "zardab"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.202",
+    "lon": "47.591"
+  },
+  "metadata": {},
+  "source": {}
+}

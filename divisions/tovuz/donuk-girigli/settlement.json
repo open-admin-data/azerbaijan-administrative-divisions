@@ -1,0 +1,45 @@
+{
+  "id": "AZ503054",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dönük Qırıqlı",
+    "en": "Donuk Girigli",
+    "slug": "donuk-girigli"
+  },
+  "code": {
+    "id": "AZ503054",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.934",
+    "lon": "45.756"
+  },
+  "metadata": {},
+  "source": {}
+}

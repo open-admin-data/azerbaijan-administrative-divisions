@@ -1,0 +1,45 @@
+{
+  "id": "AZ303087",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mahmudqışlaq",
+    "en": "Mahmudgishlag",
+    "slug": "mahmudgishlag"
+  },
+  "code": {
+    "id": "AZ303087",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.264",
+    "lon": "48.751"
+  },
+  "metadata": {},
+  "source": {}
+}

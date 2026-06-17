@@ -1,0 +1,45 @@
+{
+  "id": "AZ504018",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şeidlər",
+    "en": "Sheidlar",
+    "slug": "sheidlar"
+  },
+  "code": {
+    "id": "AZ504018",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ504",
+    "level": 1,
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.778",
+    "lon": "45.931"
+  },
+  "metadata": {},
+  "source": {}
+}

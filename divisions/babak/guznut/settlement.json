@@ -1,0 +1,45 @@
+{
+  "id": "AZ103034",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Güznüt",
+    "en": "Guznut",
+    "slug": "guznut"
+  },
+  "code": {
+    "id": "AZ103034",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ103",
+    "level": 1,
+    "name": {
+      "local": "Babək",
+      "en": "Babak",
+      "slug": "babak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.131",
+    "lon": "45.536"
+  },
+  "metadata": {},
+  "source": {}
+}

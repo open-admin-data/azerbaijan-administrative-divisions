@@ -1,0 +1,45 @@
+{
+  "id": "AZ701026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Yemişcan",
+    "en": "Ashaghi Yemishjan",
+    "slug": "ashaghi-yemishjan"
+  },
+  "code": {
+    "id": "AZ701026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ701",
+    "level": 1,
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.741",
+    "lon": "46.841"
+  },
+  "metadata": {},
+  "source": {}
+}

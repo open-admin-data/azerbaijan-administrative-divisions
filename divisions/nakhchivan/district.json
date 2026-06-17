@@ -1,0 +1,33 @@
+{
+  "id": "AZ104",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Naxçıvan",
+    "en": "Nakhchivan",
+    "slug": "nakhchivan"
+  },
+  "code": {
+    "id": "AZ104",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.192",
+    "lon": "45.4"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/nakhchivan/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

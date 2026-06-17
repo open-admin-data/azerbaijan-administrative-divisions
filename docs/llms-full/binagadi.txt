@@ -1,0 +1,39 @@
+# Binagadi — Azerbaijan Administrative Divisions
+
+> 6 settlements
+> Code: AZ1001
+> Coordinates: 40.444, 49.773
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### 28 May
+
+Code: AZ100106, Coordinates: 40.461, 49.64
+
+
+### Biləcəri (Bilajari)
+
+Code: AZ100103, Coordinates: 40.438, 49.808
+
+
+### Binəqədi (Binagadi)
+
+Code: AZ100101, Coordinates: 40.471, 49.831
+
+
+### Xocəsən (Khojasan)
+
+Code: AZ100105, Coordinates: 40.422, 49.765
+
+
+### M.Ə.Rəsulzadə (M.A.Rasulzada)
+
+Code: AZ100104, Coordinates: 40.434, 49.837
+
+
+### Sulutəpə (Sulutepe)
+
+Code: AZ100102, Coordinates: 40.436, 49.759
+
+

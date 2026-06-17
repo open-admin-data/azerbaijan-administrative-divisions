@@ -1,0 +1,33 @@
+{
+  "id": "AZ1007",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suraxanı",
+    "en": "Surakhani",
+    "slug": "surakhani"
+  },
+  "code": {
+    "id": "AZ1007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.411",
+    "lon": "50.008"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/surakhani/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

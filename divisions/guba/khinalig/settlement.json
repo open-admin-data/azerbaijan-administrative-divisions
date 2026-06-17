@@ -1,0 +1,45 @@
+{
+  "id": "AZ303139",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xınalıq",
+    "en": "Khinalig",
+    "slug": "khinalig"
+  },
+  "code": {
+    "id": "AZ303139",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.179",
+    "lon": "48.126"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ302009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ağyazı Buduq",
+    "en": "Aghyazi Budug",
+    "slug": "aghyazi-budug"
+  },
+  "code": {
+    "id": "AZ302009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ302",
+    "level": 1,
+    "name": {
+      "local": "Xaçmaz",
+      "en": "Khachmaz",
+      "slug": "khachmaz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.397",
+    "lon": "48.73"
+  },
+  "metadata": {},
+  "source": {}
+}

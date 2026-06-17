@@ -1,0 +1,45 @@
+{
+  "id": "AZ606011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Aybasanlı",
+    "en": "Yukhari Aybasanli",
+    "slug": "yukhari-aybasanli"
+  },
+  "code": {
+    "id": "AZ606011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.596",
+    "lon": "47.171"
+  },
+  "metadata": {},
+  "source": {}
+}

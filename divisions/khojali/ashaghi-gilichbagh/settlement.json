@@ -1,0 +1,45 @@
+{
+  "id": "AZ701045",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Qılıçbağ",
+    "en": "Ashaghi Gilichbagh",
+    "slug": "ashaghi-gilichbagh"
+  },
+  "code": {
+    "id": "AZ701045",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ701",
+    "level": 1,
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.946",
+    "lon": "46.829"
+  },
+  "metadata": {},
+  "source": {}
+}

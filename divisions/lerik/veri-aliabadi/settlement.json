@@ -1,0 +1,45 @@
+{
+  "id": "AZ803102",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Veri Əliabadı",
+    "en": "Veri Aliabadi",
+    "slug": "veri-aliabadi"
+  },
+  "code": {
+    "id": "AZ803102",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.679",
+    "lon": "48.552"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ303136",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Təngəaltı",
+    "en": "Tangaalti",
+    "slug": "tangaalti"
+  },
+  "code": {
+    "id": "AZ303136",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.207",
+    "lon": "48.621"
+  },
+  "metadata": {},
+  "source": {}
+}

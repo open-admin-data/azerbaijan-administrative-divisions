@@ -1,0 +1,45 @@
+{
+  "id": "AZ402024",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Çardaxlar",
+    "en": "Yukhari Chardakhlar",
+    "slug": "yukhari-chardakhlar"
+  },
+  "code": {
+    "id": "AZ402024",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ402",
+    "level": 1,
+    "name": {
+      "local": "Zaqatala",
+      "en": "Zagatala",
+      "slug": "zagatala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.578",
+    "lon": "46.754"
+  },
+  "metadata": {},
+  "source": {}
+}

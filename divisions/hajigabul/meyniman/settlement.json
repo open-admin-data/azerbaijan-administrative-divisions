@@ -1,0 +1,45 @@
+{
+  "id": "AZ910028",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Meyniman",
+    "en": "Meyniman",
+    "slug": "meyniman"
+  },
+  "code": {
+    "id": "AZ910028",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ910",
+    "level": 1,
+    "name": {
+      "local": "Hacıqabul",
+      "en": "Hajigabul",
+      "slug": "hajigabul"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.032",
+    "lon": "48.758"
+  },
+  "metadata": {},
+  "source": {}
+}

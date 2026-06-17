@@ -1,0 +1,45 @@
+{
+  "id": "AZ301069",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yasaboba",
+    "en": "Yasaboba",
+    "slug": "yasaboba"
+  },
+  "code": {
+    "id": "AZ301069",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.638",
+    "lon": "48.579"
+  },
+  "metadata": {},
+  "source": {}
+}

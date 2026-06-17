@@ -1,0 +1,45 @@
+{
+  "id": "AZ503015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Öysüzlü",
+    "en": "Ashaghi Oysuzlu",
+    "slug": "ashaghi-oysuzlu"
+  },
+  "code": {
+    "id": "AZ503015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.971",
+    "lon": "45.594"
+  },
+  "metadata": {},
+  "source": {}
+}

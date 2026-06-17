@@ -1,0 +1,45 @@
+{
+  "id": "AZ106004",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Milax",
+    "en": "Milakh",
+    "slug": "milakh"
+  },
+  "code": {
+    "id": "AZ106004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ106",
+    "level": 1,
+    "name": {
+      "local": "Culfa",
+      "en": "Julfa",
+      "slug": "julfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.271",
+    "lon": "45.74"
+  },
+  "metadata": {},
+  "source": {}
+}

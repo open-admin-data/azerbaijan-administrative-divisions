@@ -1,0 +1,45 @@
+{
+  "id": "AZ501025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hüseynbəyli",
+    "en": "Huseynbeyli",
+    "slug": "huseynbeyli"
+  },
+  "code": {
+    "id": "AZ501025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ501",
+    "level": 1,
+    "name": {
+      "local": "Qazax",
+      "en": "Gazakh",
+      "slug": "gazakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.113",
+    "lon": "45.364"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ100601",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Maştağa",
+    "en": "Mashtagha",
+    "slug": "mashtagha"
+  },
+  "code": {
+    "id": "AZ100601",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1006",
+    "level": 1,
+    "name": {
+      "local": "Sabunçu",
+      "en": "Sabunchu",
+      "slug": "sabunchu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1006",
+      "level": 1,
+      "name": {
+        "local": "Sabunçu",
+        "en": "Sabunchu",
+        "slug": "sabunchu"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.535",
+    "lon": "50.004"
+  },
+  "metadata": {},
+  "source": {}
+}

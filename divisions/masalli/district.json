@@ -1,0 +1,33 @@
+{
+  "id": "AZ805",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Masallı",
+    "en": "Masalli",
+    "slug": "masalli"
+  },
+  "code": {
+    "id": "AZ805",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.015",
+    "lon": "48.674"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/masalli/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

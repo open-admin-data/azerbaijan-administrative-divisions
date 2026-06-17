@@ -1,0 +1,3962 @@
+[
+  {
+    "id": "AZ804085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abasallı",
+      "en": "Abasalli",
+      "slug": "abasalli"
+    },
+    "code": {
+      "id": "AZ804085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.891",
+      "lon": "48.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abbasabad",
+      "en": "Abbasabad",
+      "slug": "abbasabad"
+    },
+    "code": {
+      "id": "AZ804057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.868",
+      "lon": "48.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abdinli",
+      "en": "Abdinli",
+      "slug": "abdinli"
+    },
+    "code": {
+      "id": "AZ804041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.922",
+      "lon": "48.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alçabulaq",
+      "en": "Alchabulag",
+      "slug": "alchabulag"
+    },
+    "code": {
+      "id": "AZ804023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.935",
+      "lon": "48.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Allar",
+      "en": "Allar",
+      "slug": "allar"
+    },
+    "code": {
+      "id": "AZ804070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.799",
+      "lon": "48.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əngəvül",
+      "en": "Angavul",
+      "slug": "angavul"
+    },
+    "code": {
+      "id": "AZ804062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.889",
+      "lon": "48.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Anzov",
+      "en": "Anzov",
+      "slug": "anzov"
+    },
+    "code": {
+      "id": "AZ804053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.87",
+      "lon": "48.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərsilə",
+      "en": "Arsila",
+      "slug": "arsila"
+    },
+    "code": {
+      "id": "AZ804019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.975",
+      "lon": "48.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərus",
+      "en": "Arus",
+      "slug": "arus"
+    },
+    "code": {
+      "id": "AZ804021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.947",
+      "lon": "48.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arvana",
+      "en": "Arvana",
+      "slug": "arvana"
+    },
+    "code": {
+      "id": "AZ804073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.828",
+      "lon": "48.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Astanlı",
+      "en": "Ashaghi Astanli",
+      "slug": "ashaghi-astanli"
+    },
+    "code": {
+      "id": "AZ804003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.041",
+      "lon": "48.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avaş",
+      "en": "Avash",
+      "slug": "avash"
+    },
+    "code": {
+      "id": "AZ804051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.894",
+      "lon": "48.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əvçədulan",
+      "en": "Avchadulan",
+      "slug": "avchadulan"
+    },
+    "code": {
+      "id": "AZ804065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.916",
+      "lon": "48.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avun",
+      "en": "Avun",
+      "slug": "avun"
+    },
+    "code": {
+      "id": "AZ804080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.862",
+      "lon": "48.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avur",
+      "en": "Avur",
+      "slug": "avur"
+    },
+    "code": {
+      "id": "AZ804046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.887",
+      "lon": "48.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bərcan",
+      "en": "Barjan",
+      "slug": "barjan"
+    },
+    "code": {
+      "id": "AZ804008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.017",
+      "lon": "48.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilnə",
+      "en": "Bilna",
+      "slug": "bilna"
+    },
+    "code": {
+      "id": "AZ804059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.87",
+      "lon": "48.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bozayran",
+      "en": "Bozayran",
+      "slug": "bozayran"
+    },
+    "code": {
+      "id": "AZ804032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.895",
+      "lon": "48.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bürzünbül",
+      "en": "Burzunbul",
+      "slug": "burzunbul"
+    },
+    "code": {
+      "id": "AZ804058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.882",
+      "lon": "48.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çanaqbulaq",
+      "en": "Chanagbulag",
+      "slug": "chanagbulag"
+    },
+    "code": {
+      "id": "AZ804005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.021",
+      "lon": "48.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çay Üzü",
+      "en": "Chay Uzu",
+      "slug": "chay-uzu"
+    },
+    "code": {
+      "id": "AZ804048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.887",
+      "lon": "48.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağ Üzü",
+      "en": "Dagh Uzu",
+      "slug": "dagh-uzu"
+    },
+    "code": {
+      "id": "AZ804047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.868",
+      "lon": "48.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəlləkli",
+      "en": "Dallakli",
+      "slug": "dallakli"
+    },
+    "code": {
+      "id": "AZ804030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.912",
+      "lon": "48.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəryavar",
+      "en": "Daryavar",
+      "slug": "daryavar"
+    },
+    "code": {
+      "id": "AZ804076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.907",
+      "lon": "48.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Deman",
+      "en": "Deman",
+      "slug": "deman"
+    },
+    "code": {
+      "id": "AZ804086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.863",
+      "lon": "48.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eçara",
+      "en": "Echara",
+      "slug": "echara"
+    },
+    "code": {
+      "id": "AZ804017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.997",
+      "lon": "48.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fındıqlıqışlaq",
+      "en": "Findigligishlag",
+      "slug": "findigligishlag"
+    },
+    "code": {
+      "id": "AZ804072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.822",
+      "lon": "48.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qabaqdibi",
+      "en": "Gabagdibi",
+      "slug": "gabagdibi"
+    },
+    "code": {
+      "id": "AZ804026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.915",
+      "lon": "48.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqaya",
+      "en": "Garagaya",
+      "slug": "garagaya"
+    },
+    "code": {
+      "id": "AZ804081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.854",
+      "lon": "48.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaravuldaş",
+      "en": "Garavuldash",
+      "slug": "garavuldash"
+    },
+    "code": {
+      "id": "AZ804087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.827",
+      "lon": "48.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gərsava",
+      "en": "Garsava",
+      "slug": "garsava"
+    },
+    "code": {
+      "id": "AZ804045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.88",
+      "lon": "48.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gavran",
+      "en": "Gavran",
+      "slug": "gavran"
+    },
+    "code": {
+      "id": "AZ804033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.895",
+      "lon": "48.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gendərə",
+      "en": "Gendere",
+      "slug": "gendere"
+    },
+    "code": {
+      "id": "AZ804002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.052",
+      "lon": "48.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gilar",
+      "en": "Gilar",
+      "slug": "gilar"
+    },
+    "code": {
+      "id": "AZ804040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.918",
+      "lon": "48.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gölyeri",
+      "en": "Golyeri",
+      "slug": "golyeri"
+    },
+    "code": {
+      "id": "AZ804009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.009",
+      "lon": "48.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gügəvar",
+      "en": "Gugavar",
+      "slug": "gugavar"
+    },
+    "code": {
+      "id": "AZ804012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.966",
+      "lon": "48.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hamarkənd",
+      "en": "Hamarkend",
+      "slug": "hamarkend"
+    },
+    "code": {
+      "id": "AZ804054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.865",
+      "lon": "48.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Honuba",
+      "en": "Honuba",
+      "slug": "honuba"
+    },
+    "code": {
+      "id": "AZ804011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.971",
+      "lon": "48.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Honuba Şıxlar",
+      "en": "Honuba Shikhlar",
+      "slug": "honuba-shikhlar"
+    },
+    "code": {
+      "id": "AZ804013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.957",
+      "lon": "48.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Horavar",
+      "en": "Horavar",
+      "slug": "horavar"
+    },
+    "code": {
+      "id": "AZ804061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.897",
+      "lon": "48.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Horonu",
+      "en": "Horonu",
+      "slug": "horonu"
+    },
+    "code": {
+      "id": "AZ804067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.941",
+      "lon": "48.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cirimbel",
+      "en": "Jirimbel",
+      "slug": "jirimbel"
+    },
+    "code": {
+      "id": "AZ804038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.912",
+      "lon": "48.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keçələkəran",
+      "en": "Kechalakaran",
+      "slug": "kechalakaran"
+    },
+    "code": {
+      "id": "AZ804066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.929",
+      "lon": "48.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanbulaq",
+      "en": "Khanbulag",
+      "slug": "khanbulag"
+    },
+    "code": {
+      "id": "AZ804042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.933",
+      "lon": "48.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köryədi",
+      "en": "Koryadi",
+      "slug": "koryadi"
+    },
+    "code": {
+      "id": "AZ804027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.916",
+      "lon": "48.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürəkçi",
+      "en": "Kurakchi",
+      "slug": "kurakchi"
+    },
+    "code": {
+      "id": "AZ804044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.887",
+      "lon": "48.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləzir",
+      "en": "Lazir",
+      "slug": "lazir"
+    },
+    "code": {
+      "id": "AZ804001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.01",
+      "lon": "48.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləzran",
+      "en": "Lazran",
+      "slug": "lazran"
+    },
+    "code": {
+      "id": "AZ804018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.99",
+      "lon": "48.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikli",
+      "en": "Malikli",
+      "slug": "malikli"
+    },
+    "code": {
+      "id": "AZ804084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.962",
+      "lon": "48.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamulğan",
+      "en": "Mamulghan",
+      "slug": "mamulghan"
+    },
+    "code": {
+      "id": "AZ804037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.906",
+      "lon": "48.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirimli",
+      "en": "Mirimli",
+      "slug": "mirimli"
+    },
+    "code": {
+      "id": "AZ804020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.962",
+      "lon": "48.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mişkireyn",
+      "en": "Mishkireyn",
+      "slug": "mishkireyn"
+    },
+    "code": {
+      "id": "AZ804025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.922",
+      "lon": "48.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Musa",
+      "en": "Musa",
+      "slug": "musa"
+    },
+    "code": {
+      "id": "AZ804028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.025",
+      "lon": "48.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nisəqələ",
+      "en": "Nisagala",
+      "slug": "nisagala"
+    },
+    "code": {
+      "id": "AZ804049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.88",
+      "lon": "48.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Odurakəran",
+      "en": "Odurakaran",
+      "slug": "odurakaran"
+    },
+    "code": {
+      "id": "AZ804022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.939",
+      "lon": "48.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ökü",
+      "en": "Oku",
+      "slug": "oku"
+    },
+    "code": {
+      "id": "AZ804036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.903",
+      "lon": "48.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Osnakəran",
+      "en": "Osnakaran",
+      "slug": "osnakaran"
+    },
+    "code": {
+      "id": "AZ804052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.876",
+      "lon": "48.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ostayır",
+      "en": "Ostayir",
+      "slug": "ostayir"
+    },
+    "code": {
+      "id": "AZ804029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.915",
+      "lon": "48.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Peştəsər",
+      "en": "Peshtasar",
+      "slug": "peshtasar"
+    },
+    "code": {
+      "id": "AZ804074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.854",
+      "lon": "48.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirembel",
+      "en": "Pirembel",
+      "slug": "pirembel"
+    },
+    "code": {
+      "id": "AZ804043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.921",
+      "lon": "48.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Porsova",
+      "en": "Porsova",
+      "slug": "porsova"
+    },
+    "code": {
+      "id": "AZ804014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.977",
+      "lon": "48.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Separadi",
+      "en": "Separadi",
+      "slug": "separadi"
+    },
+    "code": {
+      "id": "AZ804069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.93",
+      "lon": "48.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəfəqli",
+      "en": "Shafagli",
+      "slug": "shafagli"
+    },
+    "code": {
+      "id": "AZ804039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.9",
+      "lon": "48.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şələ",
+      "en": "Shala",
+      "slug": "shala"
+    },
+    "code": {
+      "id": "AZ804082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.982",
+      "lon": "48.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxhüseynli",
+      "en": "Shikhhuseynli",
+      "slug": "shikhhuseynli"
+    },
+    "code": {
+      "id": "AZ804071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.813",
+      "lon": "48.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ804007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.012",
+      "lon": "48.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şiləvəngə",
+      "en": "Shilavanga",
+      "slug": "shilavanga"
+    },
+    "code": {
+      "id": "AZ804035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.901",
+      "lon": "48.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şovut",
+      "en": "Shovut",
+      "slug": "shovut"
+    },
+    "code": {
+      "id": "AZ804015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.962",
+      "lon": "48.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sırıq",
+      "en": "Sirig",
+      "slug": "sirig"
+    },
+    "code": {
+      "id": "AZ804075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.918",
+      "lon": "48.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Solqard",
+      "en": "Solgard",
+      "slug": "solgard"
+    },
+    "code": {
+      "id": "AZ804056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.859",
+      "lon": "48.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tahirli",
+      "en": "Tahirli",
+      "slug": "tahirli"
+    },
+    "code": {
+      "id": "AZ804034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.953",
+      "lon": "48.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Telavar",
+      "en": "Telavar",
+      "slug": "telavar"
+    },
+    "code": {
+      "id": "AZ804016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.979",
+      "lon": "48.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Teşkan",
+      "en": "Teshkan",
+      "slug": "teshkan"
+    },
+    "code": {
+      "id": "AZ804079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.915",
+      "lon": "48.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ804010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.004",
+      "lon": "48.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tiləkənd",
+      "en": "Tilakend",
+      "slug": "tilakend"
+    },
+    "code": {
+      "id": "AZ804083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.952",
+      "lon": "48.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Urakəran",
+      "en": "Urakaran",
+      "slug": "urakaran"
+    },
+    "code": {
+      "id": "AZ804050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.881",
+      "lon": "48.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vəlixanlı",
+      "en": "Valikhanli",
+      "slug": "valikhanli"
+    },
+    "code": {
+      "id": "AZ804024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.929",
+      "lon": "48.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vərgədüz",
+      "en": "Vargaduz",
+      "slug": "vargaduz"
+    },
+    "code": {
+      "id": "AZ804060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.899",
+      "lon": "48.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vərov",
+      "en": "Varov",
+      "slug": "varov"
+    },
+    "code": {
+      "id": "AZ804064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.91",
+      "lon": "48.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "YARDIMLI",
+      "en": "YARDIMLI",
+      "slug": "yardimli"
+    },
+    "code": {
+      "id": "AZ804031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.909",
+      "lon": "48.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Abdinli",
+      "en": "Yeni Abdinli",
+      "slug": "yeni-abdinli"
+    },
+    "code": {
+      "id": "AZ804088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.928",
+      "lon": "48.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yolocaq",
+      "en": "Yolojag",
+      "slug": "yolojag"
+    },
+    "code": {
+      "id": "AZ804068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.93",
+      "lon": "48.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Astanlı",
+      "en": "Yukhari Astanli",
+      "slug": "yukhari-astanli"
+    },
+    "code": {
+      "id": "AZ804004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.035",
+      "lon": "48.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəngələ",
+      "en": "Zangala",
+      "slug": "zangala"
+    },
+    "code": {
+      "id": "AZ804063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.894",
+      "lon": "48.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəngəran",
+      "en": "Zengaran",
+      "slug": "zengaran"
+    },
+    "code": {
+      "id": "AZ804055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.86",
+      "lon": "48.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zevin",
+      "en": "Zevin",
+      "slug": "zevin"
+    },
+    "code": {
+      "id": "AZ804006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.024",
+      "lon": "48.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zeynələzir",
+      "en": "Zeynalazir",
+      "slug": "zeynalazir"
+    },
+    "code": {
+      "id": "AZ804078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.95",
+      "lon": "48.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ804077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Jiy",
+      "en": "Zhiy",
+      "slug": "zhiy"
+    },
+    "code": {
+      "id": "AZ804077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ804",
+        "level": 1,
+        "name": {
+          "local": "Yardımlı",
+          "en": "Yardimli",
+          "slug": "yardimli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.962",
+      "lon": "48.364"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,459 @@
+# Gusar — Azerbaijan Administrative Divisions
+
+> 90 settlements
+> Code: AZ301
+> Coordinates: 41.511, 48.368
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əcəxur (Ajakhur)
+
+Code: AZ301009, Coordinates: 41.457, 48.188
+
+
+### Əcəxuroba (Ajakhuroba)
+
+Code: AZ301079, Coordinates: 41.727, 48.523
+
+
+### Əlix (Alikh)
+
+Code: AZ301084, Coordinates: 41.336, 48.04
+
+
+### Əniq (Anig)
+
+Code: AZ301001, Coordinates: 41.337, 48.224
+
+
+### Əniqoba (Anigoba)
+
+Code: AZ301071, Coordinates: 41.66, 48.578
+
+
+### Arçan (Archan)
+
+Code: AZ301088, Coordinates: 41.358, 48.065
+
+
+### Aşağı Qələnxur (Ashaghi Galankhur)
+
+Code: AZ301046, Coordinates: 41.499, 48.151
+
+
+### Aşağı İmamqulukənd (Ashaghi Imamgulukend)
+
+Code: AZ301070, Coordinates: 41.665, 48.501
+
+
+### Aşağı Ləgər (Ashaghi Lagar)
+
+Code: AZ301029, Coordinates: 41.496, 48.453
+
+
+### Atlıxan (Atlikhan)
+
+Code: AZ301067, Coordinates: 41.505, 48.569
+
+
+### Əvəcük (Avajuk)
+
+Code: AZ301032, Coordinates: 41.468, 48.39
+
+
+### Avaran
+
+Code: AZ301022, Coordinates: 41.427, 48.386
+
+
+### Avaranqışlaq (Avarangishlag)
+
+Code: AZ301057, Coordinates: 41.487, 48.567
+
+
+### Bədirqala (Badirgala)
+
+Code: AZ301028, Coordinates: 41.475, 48.492
+
+
+### Bədişqala (Badishgala)
+
+Code: AZ301034, Coordinates: 41.515, 48.422
+
+
+### Bala Qusar (Bala Gusar)
+
+Code: AZ301026, Coordinates: 41.448, 48.483
+
+
+### Böyük Muruq (Boyuk Murug)
+
+Code: AZ301008, Coordinates: 41.432, 48.176
+
+
+### Çətgün (Chatgun)
+
+Code: AZ301015, Coordinates: 41.344, 48.164
+
+
+### Çiləgir (Chilagir)
+
+Code: AZ301025, Coordinates: 41.398, 48.368
+
+
+### Çubuqlu (Chubuglu)
+
+Code: AZ301062, Coordinates: 41.572, 48.559
+
+
+### Düztahir (Duztahir)
+
+Code: AZ301007, Coordinates: 41.41, 48.153
+
+
+### Gədəzeyxur (Gadazeykhur)
+
+Code: AZ301030, Coordinates: 41.487, 48.425
+
+
+### Qalacıq (Galajig)
+
+Code: AZ301066, Coordinates: 41.511, 48.514
+
+
+### Qaratoba (Garatoba)
+
+Code: AZ301076, Coordinates: 41.712, 48.559
+
+
+### Qayakənd (Gayakend)
+
+Code: AZ301024, Coordinates: 41.407, 48.41
+
+
+### Gican (Gijan)
+
+Code: AZ301006, Coordinates: 41.388, 48.116
+
+
+### Gicanoba (Gijanoba)
+
+Code: AZ301082, Coordinates: 41.617, 48.528
+
+
+### Gilah
+
+Code: AZ301049, Coordinates: 41.476, 48.173
+
+
+### Gilahoba
+
+Code: AZ301078, Coordinates: 41.724, 48.574
+
+
+### Girik
+
+Code: AZ301043, Coordinates: 41.533, 48.282
+
+
+### Quxur (Gukhur)
+
+Code: AZ301005, Coordinates: 41.389, 48.035
+
+
+### Quxuroba (Gukhuroba)
+
+Code: AZ301061, Coordinates: 41.587, 48.533
+
+
+### Qullar (Gullar)
+
+Code: AZ301040, Coordinates: 41.64, 48.474
+
+
+### Gündüzqala (Gunduzgala)
+
+Code: AZ301035, Coordinates: 41.529, 48.434
+
+
+### QUSAR (GUSAR)
+
+Code: AZ301023, Coordinates: 41.424, 48.421
+
+
+### Quturğan (Guturghan)
+
+Code: AZ301004, Coordinates: 41.365, 48.043
+
+
+### Haçatala (Hachatala)
+
+Code: AZ301075, Coordinates: 41.707, 48.57
+
+
+### Həsənqala (Hasangala)
+
+Code: AZ301056, Coordinates: 41.452, 48.507
+
+
+### Həzrə (Hazra)
+
+Code: AZ301045, Coordinates: 41.507, 48.249
+
+
+### Həzrəoba (Hazraoba)
+
+Code: AZ301086, Coordinates: 41.693, 48.556
+
+
+### Hil
+
+Code: AZ301033, Coordinates: 41.47, 48.342
+
+
+### Hiloba
+
+Code: AZ301068, Coordinates: 41.634, 48.54
+
+
+### İmamqulukənd (Imamgulukend)
+
+Code: AZ301036, Coordinates: 41.554, 48.434
+
+
+### Caqar (Jagar)
+
+Code: AZ301016, Coordinates: 41.341, 48.193
+
+
+### Caqarqışlaq (Jagargishlag)
+
+Code: AZ301064, Coordinates: 41.544, 48.553
+
+
+### Cibir (Jibir)
+
+Code: AZ301044, Coordinates: 41.514, 48.317
+
+
+### Kənarçay (Kanarchay)
+
+Code: AZ301083, Coordinates: 41.366, 48.072
+
+
+### Xuluq (Khulug)
+
+Code: AZ301050, Coordinates: 41.466, 48.151
+
+
+### Xuluqoba (Khulugoba)
+
+Code: AZ301080, Coordinates: 41.673, 48.561
+
+
+### Xürəl (Khural)
+
+Code: AZ301021, Coordinates: 41.433, 48.353
+
+
+### Xuray (Khuray)
+
+Code: AZ301019, Coordinates: 41.364, 48.303
+
+
+### Köhnə Xudat (Kohne Khudat)
+
+Code: AZ301031, Coordinates: 41.458, 48.419
+
+
+### Köhnə Xudat qazmalar (Kohne Khudat gazmalar)
+
+Code: AZ301027, Coordinates: 41.459, 48.469
+
+
+### Kufoba
+
+Code: AZ301055, Coordinates: 41.675, 48.463
+
+
+### Kuzun
+
+Code: AZ301014, Coordinates: 41.335, 48.138
+
+
+### Kuzunqışlaq (Kuzungishlag)
+
+Code: AZ301059, Coordinates: 41.501, 48.621
+
+
+### Ləgərqışlaq (Lagargishlag)
+
+Code: AZ301060, Coordinates: 41.598, 48.589
+
+
+### Ləcət (Lajat)
+
+Code: AZ301042, Coordinates: 41.542, 48.316
+
+
+### Langi
+
+Code: AZ301063, Coordinates: 41.557, 48.536
+
+
+### Laza
+
+Code: AZ301003, Coordinates: 41.299, 48.114
+
+
+### Minaxür (Minakhur)
+
+Code: AZ301089, Coordinates: 41.522, 48.55
+
+
+### Mucuq (Mujug)
+
+Code: AZ301010, Coordinates: 41.455, 48.227
+
+
+### Mucuqoba (Mujugoba)
+
+Code: AZ301072, Coordinates: 41.678, 48.501
+
+
+### Nəcəfkənd (Najafkend)
+
+Code: AZ301048, Coordinates: 41.49, 48.189
+
+
+### Nəcəfkəndoba (Najafkendoba)
+
+Code: AZ301081, Coordinates: 41.723, 48.544
+
+
+### Piral
+
+Code: AZ301012, Coordinates: 41.491, 48.285
+
+
+### Salahoba
+
+Code: AZ301074, Coordinates: 41.701, 48.511
+
+
+### Samur
+
+Code: AZ301039, Coordinates: 41.633, 48.431
+
+
+### Şirvanlı (Shirvanli)
+
+Code: AZ301054, Coordinates: 41.696, 48.489
+
+
+### Sudur
+
+Code: AZ301085, Coordinates: 41.375, 48.031
+
+
+### Suduroba
+
+Code: AZ301038, Coordinates: 41.583, 48.433
+
+
+### Suvacal (Suvajal)
+
+Code: AZ301017, Coordinates: 41.341, 48.24
+
+
+### Torpaqkörpü (Torpagkorpu)
+
+Code: AZ301077, Coordinates: 41.707, 48.541
+
+
+### Ukur
+
+Code: AZ301011, Coordinates: 41.474, 48.218
+
+
+### Urva
+
+Code: AZ301020, Coordinates: 41.399, 48.334
+
+
+### Urvaoba
+
+Code: AZ301087, Coordinates: 41.541, 48.593
+
+
+### Üzdənoba (Uzdanoba)
+
+Code: AZ301073, Coordinates: 41.687, 48.515
+
+
+### Yasab
+
+Code: AZ301013, Coordinates: 41.491, 48.32
+
+
+### Yasaboba
+
+Code: AZ301069, Coordinates: 41.638, 48.579
+
+
+### Yeni Həyat (Yeni Hayat)
+
+Code: AZ301065, Coordinates: 41.523, 48.501
+
+
+### Yeni Tahircal (Yeni Tahirjal)
+
+Code: AZ301041, Coordinates: 41.662, 48.44
+
+
+### Yerği kek (Yerghi kek)
+
+Code: AZ301090, Coordinates: 41.349, 48.058
+
+
+### Yuxarı Qələnxur (Yukhari Galankhur)
+
+Code: AZ301047, Coordinates: 41.492, 48.129
+
+
+### Yuxarı Ləgər (Yukhari Lagar)
+
+Code: AZ301018, Coordinates: 41.358, 48.274
+
+
+### Yuxarı Tahircal (Yukhari Tahirjal)
+
+Code: AZ301052, Coordinates: 41.443, 48.076
+
+
+### Yuxarı Zeyxur (Yukhari Zeykhur)
+
+Code: AZ301037, Coordinates: 41.572, 48.381
+
+
+### Zindanmuruq (Zindanmurug)
+
+Code: AZ301002, Coordinates: 41.331, 48.189
+
+
+### Zindanmuruqqışlaq (Zindanmuruggishlag)
+
+Code: AZ301058, Coordinates: 41.491, 48.6
+
+
+### Zuxul (Zukhul)
+
+Code: AZ301051, Coordinates: 41.489, 48.08
+
+
+### Zuxuloba (Zukhuloba)
+
+Code: AZ301053, Coordinates: 41.714, 48.484
+
+

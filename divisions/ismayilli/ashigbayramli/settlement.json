@@ -1,0 +1,45 @@
+{
+  "id": "AZ407028",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşıqbayramlı",
+    "en": "Ashigbayramli",
+    "slug": "ashigbayramli"
+  },
+  "code": {
+    "id": "AZ407028",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ407",
+    "level": 1,
+    "name": {
+      "local": "İsmayıllı",
+      "en": "Ismayilli",
+      "slug": "ismayilli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.714",
+    "lon": "48.046"
+  },
+  "metadata": {},
+  "source": {}
+}

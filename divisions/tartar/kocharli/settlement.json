@@ -1,0 +1,45 @@
+{
+  "id": "AZ611051",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Köçərli",
+    "en": "Kocharli",
+    "slug": "kocharli"
+  },
+  "code": {
+    "id": "AZ611051",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ611",
+    "level": 1,
+    "name": {
+      "local": "Tərtər",
+      "en": "Tartar",
+      "slug": "tartar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.269",
+    "lon": "47.082"
+  },
+  "metadata": {},
+  "source": {}
+}

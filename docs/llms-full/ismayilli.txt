@@ -1,0 +1,549 @@
+# Ismayilli — Azerbaijan Administrative Divisions
+
+> 108 settlements
+> Code: AZ407
+> Coordinates: 40.773, 48.213
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağbulaq (Aghbulag)
+
+Code: AZ407040, Coordinates: 40.711, 48.247
+
+
+### Əhən (Ahan)
+
+Code: AZ407086, Coordinates: 40.853, 48.416
+
+
+### Ərəkit (Arakit)
+
+Code: AZ407084, Coordinates: 40.85, 48.391
+
+
+### Aşağı Zərnava (Ashaghi Zarnava)
+
+Code: AZ407102, Coordinates: 40.622, 48.154
+
+
+### Aşıqbayramlı (Ashigbayramli)
+
+Code: AZ407028, Coordinates: 40.714, 48.046
+
+
+### Əyyubbəyli (Ayyubbeyli)
+
+Code: AZ407009, Coordinates: 40.626, 48.232
+
+
+### Bağəli (Baghali)
+
+Code: AZ407076, Coordinates: 40.85, 48.344
+
+
+### Bəhliyan (Bahliyan)
+
+Code: AZ407042, Coordinates: 40.673, 48.302
+
+
+### Balik
+
+Code: AZ407099, Coordinates: 40.76, 48.074
+
+
+### Basqal (Basgal)
+
+Code: AZ407056, Coordinates: 40.75, 48.388
+
+
+### Bilistan
+
+Code: AZ407017, Coordinates: 40.664, 48.273
+
+
+### Birinci Yeniyol (Birinji Yeniyol)
+
+Code: AZ407065, Coordinates: 40.757, 48.284
+
+
+### Bizlan
+
+Code: AZ407048, Coordinates: 40.721, 48.393
+
+
+### Burovdal
+
+Code: AZ407093, Coordinates: 40.941, 48.37
+
+
+### Buynuz
+
+Code: AZ407019, Coordinates: 40.917, 48.063
+
+
+### Çəmənli (Chamanli)
+
+Code: AZ407107, Coordinates: 40.867, 47.998
+
+
+### Çəndahar (Chandahar)
+
+Code: AZ407091, Coordinates: 40.917, 48.406
+
+
+### Çərmədil (Charmadil)
+
+Code: AZ407103, Coordinates: 40.564, 48.185
+
+
+### Çayqovuşan (Chaygovushan)
+
+Code: AZ407021, Coordinates: 40.936, 48.079
+
+
+### Dahar
+
+Code: AZ407080, Coordinates: 40.882, 48.298
+
+
+### Diyallı (Diyalli)
+
+Code: AZ407104, Coordinates: 40.768, 48.229
+
+
+### Duvaryan
+
+Code: AZ407090, Coordinates: 40.901, 48.417
+
+
+### Elabad
+
+Code: AZ407108, Coordinates: 40.733, 47.829
+
+
+### Enişdibi (Enishdibi)
+
+Code: AZ407031, Coordinates: 40.735, 48.064
+
+
+### Qalagah (Galagah)
+
+Code: AZ407005, Coordinates: 40.714, 47.94
+
+
+### Qalacıq (Galajig)
+
+Code: AZ407022, Coordinates: 40.958, 48.046
+
+
+### Qalınçaq (Galinchag)
+
+Code: AZ407094, Coordinates: 40.819, 48.09
+
+
+### Gəndov (Gandov)
+
+Code: AZ407105, Coordinates: 40.817, 48.318
+
+
+### Gənzə (Ganza)
+
+Code: AZ407037, Coordinates: 40.68, 48.204
+
+
+### Qaraqaya (Garagaya)
+
+Code: AZ407061, Coordinates: 40.784, 48.31
+
+
+### Qarakolluq (Garakollug)
+
+Code: AZ407027, Coordinates: 40.704, 48.045
+
+
+### Gəraybəyli (Garaybeyli)
+
+Code: AZ407010, Coordinates: 40.629, 48.21
+
+
+### Qərsələ (Garsala)
+
+Code: AZ407100, Coordinates: 40.782, 48.275
+
+
+### Qıçatan (Gichatan)
+
+Code: AZ407049, Coordinates: 40.729, 48.429
+
+
+### Gideyli
+
+Code: AZ407003, Coordinates: 40.748, 47.84
+
+
+### Girk
+
+Code: AZ407036, Coordinates: 40.68, 48.109
+
+
+### Qoşakənd (Goshakend)
+
+Code: AZ407039, Coordinates: 40.71, 48.226
+
+
+### Qoydan (Goydan)
+
+Code: AZ407088, Coordinates: 40.885, 48.432
+
+
+### Göytəpə (Goytepe)
+
+Code: AZ407097, Coordinates: 40.785, 48.08
+
+
+### Qubaxəlilli (Gubakhalilli)
+
+Code: AZ407016, Coordinates: 40.611, 48.126
+
+
+### Qurbanəfəndi (Gurbanafandi)
+
+Code: AZ407071, Coordinates: 40.872, 48.104
+
+
+### Quşencə (Gushenja)
+
+Code: AZ407032, Coordinates: 40.736, 48.111
+
+
+### Güyüm (Guyum)
+
+Code: AZ407067, Coordinates: 40.783, 48.225
+
+
+### Həftəsov (Haftasov)
+
+Code: AZ407089, Coordinates: 40.884, 48.406
+
+
+### Hacıhətəmli (Hajihatamli)
+
+Code: AZ407007, Coordinates: 40.7, 47.905
+
+
+### Hapıtlı (Hapitli)
+
+Code: AZ407026, Coordinates: 40.694, 48.04
+
+
+### İkinci Yeniyol (Ikinji Yeniyol)
+
+Code: AZ407064, Coordinates: 40.757, 48.258
+
+
+### İSMAYILLI (ISMAYILLI)
+
+Code: AZ407098, Coordinates: 40.785, 48.162
+
+
+### İstisu (Istisu)
+
+Code: AZ407020, Coordinates: 40.942, 48.072
+
+
+### İvanovka (Ivanovka)
+
+Code: AZ407030, Coordinates: 40.747, 48.031
+
+
+### Cülyan (Julyan)
+
+Code: AZ407069, Coordinates: 40.813, 48.17
+
+
+### Kələzeyvə (Kalazeyva)
+
+Code: AZ407051, Coordinates: 40.755, 48.462
+
+
+### Kəlbənd (Kalband)
+
+Code: AZ407014, Coordinates: 40.663, 48.128
+
+
+### Kəlfərəc (Kalfaraj)
+
+Code: AZ407058, Coordinates: 40.773, 48.363
+
+
+### Kənəə (Kanaa)
+
+Code: AZ407106, Coordinates: 40.838, 48.313
+
+
+### Keşxurt (Keshkhurt)
+
+Code: AZ407015, Coordinates: 40.661, 48.163
+
+
+### Keyvəndi (Keyvandi)
+
+Code: AZ407043, Coordinates: 40.69, 48.314
+
+
+### Xəlilli (Khalilli)
+
+Code: AZ407011, Coordinates: 40.617, 48.197
+
+
+### Xanagah (Khanagah)
+
+Code: AZ407070, Coordinates: 40.844, 48.144
+
+
+### Xankəndi (Khankendi)
+
+Code: AZ407053, Coordinates: 40.757, 48.416
+
+
+### Ximran (Khimran)
+
+Code: AZ407087, Coordinates: 40.866, 48.423
+
+
+### Köhnədaxar (Kohnedakhar)
+
+Code: AZ407072, Coordinates: 40.811, 48.292
+
+
+### Külüllü (Kulullu)
+
+Code: AZ407012, Coordinates: 40.602, 48.158
+
+
+### Kürd Eldarbəyli (Kurd Eldarbeyli)
+
+Code: AZ407002, Coordinates: 40.761, 47.848
+
+
+### Kürdmaşı (Kurdmashi)
+
+Code: AZ407013, Coordinates: 40.672, 48.032
+
+
+### Kürdüvan (Kurduvan)
+
+Code: AZ407054, Coordinates: 40.753, 48.41
+
+
+### Lahıc (Lahij)
+
+Code: AZ407085, Coordinates: 40.845, 48.383
+
+
+### Maçaxı (Machakhi)
+
+Code: AZ407101, Coordinates: 40.749, 48.313
+
+
+### Mingə (Minga)
+
+Code: AZ407044, Coordinates: 40.708, 48.319
+
+
+### Mollaisaqlı (Mollaisagli)
+
+Code: AZ407008, Coordinates: 40.681, 47.883
+
+
+### Müdri (Mudri)
+
+Code: AZ407082, Coordinates: 40.872, 48.332
+
+
+### Müdrisə (Mudrisa)
+
+Code: AZ407077, Coordinates: 40.862, 48.318
+
+
+### Mücü (Muju)
+
+Code: AZ407059, Coordinates: 40.783, 48.408
+
+
+### Mücühəftəran (Mujuhaftaran)
+
+Code: AZ407096, Coordinates: 40.797, 48.046
+
+
+### Mulux (Mulukh)
+
+Code: AZ407078, Coordinates: 40.87, 48.3
+
+
+### Müşkəmir (Mushkamir)
+
+Code: AZ407073, Coordinates: 40.82, 48.334
+
+
+### Namazgah
+
+Code: AZ407074, Coordinates: 40.835, 48.331
+
+
+### Nanıc (Nanij)
+
+Code: AZ407081, Coordinates: 40.889, 48.32
+
+
+### Pirəbülqasım (Pirabulgasim)
+
+Code: AZ407045, Coordinates: 40.694, 48.348
+
+
+### Pirəqanım (Piraganim)
+
+Code: AZ407075, Coordinates: 40.852, 48.339
+
+
+### Ruşan (Rushan)
+
+Code: AZ407095, Coordinates: 40.802, 48.001
+
+
+### Sədiyan (Sadiyan)
+
+Code: AZ407066, Coordinates: 40.778, 48.249
+
+
+### Sərdahar (Sardahar)
+
+Code: AZ407060, Coordinates: 40.776, 48.325
+
+
+### Sərsurə (Sarsura)
+
+Code: AZ407050, Coordinates: 40.749, 48.449
+
+
+### Şəbiyan (Shabiyan)
+
+Code: AZ407041, Coordinates: 40.687, 48.287
+
+
+### Şirvanmeşə (Shirvanmesha)
+
+Code: AZ407023, Coordinates: 40.891, 48.062
+
+
+### Şükürçü (Shukurchu)
+
+Code: AZ407035, Coordinates: 40.692, 48.074
+
+
+### Soltankənd (Soltankend)
+
+Code: AZ407006, Coordinates: 40.702, 47.965
+
+
+### Sulut
+
+Code: AZ407052, Coordinates: 40.764, 48.457
+
+
+### Sumağallı (Sumaghalli)
+
+Code: AZ407018, Coordinates: 40.916, 48.045
+
+
+### Tağlabiyan (Taghlabiyan)
+
+Code: AZ407057, Coordinates: 40.772, 48.38
+
+
+### Talış (Talish)
+
+Code: AZ407029, Coordinates: 40.729, 48.055
+
+
+### Talıstan (Talistan)
+
+Code: AZ407068, Coordinates: 40.796, 48.195
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ407063, Coordinates: 40.74, 48.274
+
+
+### Tircan (Tirjan)
+
+Code: AZ407046, Coordinates: 40.737, 48.334
+
+
+### Topçu (Topchu)
+
+Code: AZ407024, Coordinates: 40.874, 48.064
+
+
+### Tubukənd (Tubukend)
+
+Code: AZ407038, Coordinates: 40.706, 48.191
+
+
+### Uştal (Ushtal)
+
+Code: AZ407004, Coordinates: 40.708, 47.996
+
+
+### Uştalqışlaq (Ushtalgishlag)
+
+Code: AZ407025, Coordinates: 40.679, 47.998
+
+
+### Vəng (Vang)
+
+Code: AZ407001, Coordinates: 40.809, 47.934
+
+
+### Vaşa (Vasha)
+
+Code: AZ407083, Coordinates: 40.872, 48.356
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ407034, Coordinates: 40.698, 48.076
+
+
+### Yuxarı Cülyan (Yukhari Julyan)
+
+Code: AZ407079, Coordinates: 40.877, 48.282
+
+
+### Zarat
+
+Code: AZ407092, Coordinates: 40.923, 48.407
+
+
+### Zərgəran (Zargaran)
+
+Code: AZ407047, Coordinates: 40.734, 48.368
+
+
+### Zərnava (Zarnava)
+
+Code: AZ407062, Coordinates: 40.8, 48.35
+
+
+### Zeyvə (Zeyva)
+
+Code: AZ407055, Coordinates: 40.752, 48.399
+
+
+### Zoğallıq (Zoghallig)
+
+Code: AZ407033, Coordinates: 40.721, 48.108
+
+

@@ -1,0 +1,24 @@
+# Naftalan — Azerbaijan Administrative Divisions
+
+> 3 settlements
+> Code: AZ510
+> Coordinates: 40.5, 46.815
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Qaşaltı Qaraqoyunlu (Gashalti Garagoyunlu)
+
+Code: AZ510001, Coordinates: 40.486, 46.782
+
+
+### Qasımbəyli (Gasimbeyli)
+
+Code: AZ510003, Coordinates: 40.506, 46.84
+
+
+### NAFTALAN
+
+Code: AZ510002, Coordinates: 40.507, 46.823
+
+

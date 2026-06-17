@@ -1,0 +1,45 @@
+{
+  "id": "AZ307004",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaracüzlü",
+    "en": "Garajuzlu",
+    "slug": "garajuzlu"
+  },
+  "code": {
+    "id": "AZ307004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ307",
+    "level": 1,
+    "name": {
+      "local": "Qobustan",
+      "en": "Gobustan",
+      "slug": "gobustan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.576",
+    "lon": "49.08"
+  },
+  "metadata": {},
+  "source": {}
+}

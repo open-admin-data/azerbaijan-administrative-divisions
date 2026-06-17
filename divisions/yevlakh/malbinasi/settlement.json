@@ -1,0 +1,45 @@
+{
+  "id": "AZ901044",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Malbinəsi",
+    "en": "Malbinasi",
+    "slug": "malbinasi"
+  },
+  "code": {
+    "id": "AZ901044",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ901",
+    "level": 1,
+    "name": {
+      "local": "Yevlax",
+      "en": "Yevlakh",
+      "slug": "yevlakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.502",
+    "lon": "47.087"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,2792 @@
+[
+  {
+    "id": "AZ402019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abaəli",
+      "en": "Abaali",
+      "slug": "abaali"
+    },
+    "code": {
+      "id": "AZ402019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.605",
+      "lon": "46.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axaxdərə",
+      "en": "Akhakhdere",
+      "slug": "akhakhdere"
+    },
+    "code": {
+      "id": "AZ402014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.661",
+      "lon": "46.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ələsgər",
+      "en": "Alasgar",
+      "slug": "alasgar"
+    },
+    "code": {
+      "id": "AZ402033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.572",
+      "lon": "46.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliabad",
+      "en": "Aliabad",
+      "slug": "aliabad"
+    },
+    "code": {
+      "id": "AZ402040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.479",
+      "lon": "46.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Çardaxlar",
+      "en": "Ashaghi Chardakhlar",
+      "slug": "ashaghi-chardakhlar"
+    },
+    "code": {
+      "id": "AZ402009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.544",
+      "lon": "46.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Tala",
+      "en": "Ashaghi Tala",
+      "slug": "ashaghi-tala"
+    },
+    "code": {
+      "id": "AZ402054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.604",
+      "lon": "46.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əzgilli",
+      "en": "Azgilli",
+      "slug": "azgilli"
+    },
+    "code": {
+      "id": "AZ402036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.563",
+      "lon": "46.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəhmətli",
+      "en": "Bahmatli",
+      "slug": "bahmatli"
+    },
+    "code": {
+      "id": "AZ402041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.456",
+      "lon": "46.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bazar",
+      "en": "Bazar",
+      "slug": "bazar"
+    },
+    "code": {
+      "id": "AZ402028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.542",
+      "lon": "46.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beretbinə",
+      "en": "Beretbina",
+      "slug": "beretbina"
+    },
+    "code": {
+      "id": "AZ402062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.64",
+      "lon": "46.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bozbinə",
+      "en": "Bozbina",
+      "slug": "bozbina"
+    },
+    "code": {
+      "id": "AZ402058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.571",
+      "lon": "46.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çobankol",
+      "en": "Chobankol",
+      "slug": "chobankol"
+    },
+    "code": {
+      "id": "AZ402027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.536",
+      "lon": "46.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çökəkoba",
+      "en": "Chokakoba",
+      "slug": "chokakoba"
+    },
+    "code": {
+      "id": "AZ402017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.625",
+      "lon": "46.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çüdülübinə",
+      "en": "Chudulubina",
+      "slug": "chudulubina"
+    },
+    "code": {
+      "id": "AZ402023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.537",
+      "lon": "46.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağlı",
+      "en": "Daghli",
+      "slug": "daghli"
+    },
+    "code": {
+      "id": "AZ402022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.525",
+      "lon": "46.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Danaçı",
+      "en": "Danachi",
+      "slug": "danachi"
+    },
+    "code": {
+      "id": "AZ402008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.553",
+      "lon": "46.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dardoqqaz",
+      "en": "Dardoggaz",
+      "slug": "dardoggaz"
+    },
+    "code": {
+      "id": "AZ402018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.609",
+      "lon": "46.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Faldarlı",
+      "en": "Faldarli",
+      "slug": "faldarli"
+    },
+    "code": {
+      "id": "AZ402048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.471",
+      "lon": "46.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fındıqlı",
+      "en": "Findigli",
+      "slug": "findigli"
+    },
+    "code": {
+      "id": "AZ402003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.583",
+      "lon": "46.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəbizdərə",
+      "en": "Gabizdere",
+      "slug": "gabizdere"
+    },
+    "code": {
+      "id": "AZ402001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.696",
+      "lon": "46.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalal",
+      "en": "Galal",
+      "slug": "galal"
+    },
+    "code": {
+      "id": "AZ402037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.556",
+      "lon": "46.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qandax",
+      "en": "Gandakh",
+      "slug": "gandakh"
+    },
+    "code": {
+      "id": "AZ402047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.472",
+      "lon": "46.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarqay",
+      "en": "Gargay",
+      "slug": "gargay"
+    },
+    "code": {
+      "id": "AZ402038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.555",
+      "lon": "46.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qımır",
+      "en": "Gimir",
+      "slug": "gimir"
+    },
+    "code": {
+      "id": "AZ402029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.528",
+      "lon": "46.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyəm",
+      "en": "Goyam",
+      "slug": "goyam"
+    },
+    "code": {
+      "id": "AZ402049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.616",
+      "lon": "46.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gözbarax",
+      "en": "Gozbarakh",
+      "slug": "gozbarakh"
+    },
+    "code": {
+      "id": "AZ402030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.52",
+      "lon": "46.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənbinə",
+      "en": "Hasanbina",
+      "slug": "hasanbina"
+    },
+    "code": {
+      "id": "AZ402007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.543",
+      "lon": "46.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Höytala",
+      "en": "Hoytala",
+      "slug": "hoytala"
+    },
+    "code": {
+      "id": "AZ402020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.574",
+      "lon": "46.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Car",
+      "en": "Jar",
+      "slug": "jar"
+    },
+    "code": {
+      "id": "AZ402052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.663",
+      "lon": "46.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cicibinə",
+      "en": "Jijibina",
+      "slug": "jijibina"
+    },
+    "code": {
+      "id": "AZ402061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.673",
+      "lon": "46.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cimcimax",
+      "en": "Jimjimakh",
+      "slug": "jimjimakh"
+    },
+    "code": {
+      "id": "AZ402035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.597",
+      "lon": "46.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəpənəkçi",
+      "en": "Kapanakchi",
+      "slug": "kapanakchi"
+    },
+    "code": {
+      "id": "AZ402046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.456",
+      "lon": "46.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kebeloba",
+      "en": "Kebeloba",
+      "slug": "kebeloba"
+    },
+    "code": {
+      "id": "AZ402015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.641",
+      "lon": "46.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanməmmədbinə",
+      "en": "Khanmammadbina",
+      "slug": "khanmammadbina"
+    },
+    "code": {
+      "id": "AZ402006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.548",
+      "lon": "46.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdəmir",
+      "en": "Kurdamir",
+      "slug": "kurdamir"
+    },
+    "code": {
+      "id": "AZ402043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.417",
+      "lon": "46.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Laqodexbinə",
+      "en": "Lagodekhbina",
+      "slug": "lagodekhbina"
+    },
+    "code": {
+      "id": "AZ402013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.572",
+      "lon": "46.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lahıc",
+      "en": "Lahij",
+      "slug": "lahij"
+    },
+    "code": {
+      "id": "AZ402042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.431",
+      "lon": "46.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maqov",
+      "en": "Magov",
+      "slug": "magov"
+    },
+    "code": {
+      "id": "AZ402021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.591",
+      "lon": "46.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamqabinə",
+      "en": "Mamgabina",
+      "slug": "mamgabina"
+    },
+    "code": {
+      "id": "AZ402057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.56",
+      "lon": "46.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamrux",
+      "en": "Mamrukh",
+      "slug": "mamrukh"
+    },
+    "code": {
+      "id": "AZ402031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.542",
+      "lon": "46.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Masqarabinə",
+      "en": "Masgarabina",
+      "slug": "masgarabina"
+    },
+    "code": {
+      "id": "AZ402005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.557",
+      "lon": "46.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mazıx",
+      "en": "Mazikh",
+      "slug": "mazikh"
+    },
+    "code": {
+      "id": "AZ402012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.656",
+      "lon": "46.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mişleş",
+      "en": "Mishlesh",
+      "slug": "mishlesh"
+    },
+    "code": {
+      "id": "AZ402034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.655",
+      "lon": "46.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mosul",
+      "en": "Mosul",
+      "slug": "mosul"
+    },
+    "code": {
+      "id": "AZ402045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.445",
+      "lon": "46.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ402011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.474",
+      "lon": "46.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mücəkbinə",
+      "en": "Mujakbina",
+      "slug": "mujakbina"
+    },
+    "code": {
+      "id": "AZ402055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.552",
+      "lon": "46.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muxax",
+      "en": "Mukhakh",
+      "slug": "mukhakh"
+    },
+    "code": {
+      "id": "AZ402025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.568",
+      "lon": "46.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paşan",
+      "en": "Pashan",
+      "slug": "pashan"
+    },
+    "code": {
+      "id": "AZ402002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.603",
+      "lon": "46.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sabunçu",
+      "en": "Sabunchu",
+      "slug": "sabunchu"
+    },
+    "code": {
+      "id": "AZ402032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.587",
+      "lon": "46.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sumaylı",
+      "en": "Sumayli",
+      "slug": "sumayli"
+    },
+    "code": {
+      "id": "AZ402050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.615",
+      "lon": "46.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçüncü Tala",
+      "en": "Uchunju Tala",
+      "slug": "uchunju-tala"
+    },
+    "code": {
+      "id": "AZ402056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.556",
+      "lon": "46.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uzunqazmalar",
+      "en": "Uzungazmalar",
+      "slug": "uzungazmalar"
+    },
+    "code": {
+      "id": "AZ402010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.514",
+      "lon": "46.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uzuntala",
+      "en": "Uzuntala",
+      "slug": "uzuntala"
+    },
+    "code": {
+      "id": "AZ402060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.623",
+      "lon": "46.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vöhtala",
+      "en": "Vohtala",
+      "slug": "vohtala"
+    },
+    "code": {
+      "id": "AZ402059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.579",
+      "lon": "46.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yengiyan",
+      "en": "Yengiyan",
+      "slug": "yengiyan"
+    },
+    "code": {
+      "id": "AZ402044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.467",
+      "lon": "46.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Suvagil",
+      "en": "Yeni Suvagil",
+      "slug": "yeni-suvagil"
+    },
+    "code": {
+      "id": "AZ402039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.478",
+      "lon": "46.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yolayrıc",
+      "en": "Yolayrij",
+      "slug": "yolayrij"
+    },
+    "code": {
+      "id": "AZ402004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.56",
+      "lon": "46.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Çardaxlar",
+      "en": "Yukhari Chardakhlar",
+      "slug": "yukhari-chardakhlar"
+    },
+    "code": {
+      "id": "AZ402024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.578",
+      "lon": "46.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Tala",
+      "en": "Yukhari Tala",
+      "slug": "yukhari-tala"
+    },
+    "code": {
+      "id": "AZ402053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.619",
+      "lon": "46.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ZAQATALA",
+      "en": "ZAGATALA",
+      "slug": "zagatala"
+    },
+    "code": {
+      "id": "AZ402016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.634",
+      "lon": "46.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəyəm",
+      "en": "Zayam",
+      "slug": "zayam"
+    },
+    "code": {
+      "id": "AZ402026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.555",
+      "lon": "46.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ402051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zilban",
+      "en": "Zilban",
+      "slug": "zilban"
+    },
+    "code": {
+      "id": "AZ402051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ402",
+      "level": 1,
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ402",
+        "level": 1,
+        "name": {
+          "local": "Zaqatala",
+          "en": "Zagatala",
+          "slug": "zagatala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.644",
+      "lon": "46.665"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

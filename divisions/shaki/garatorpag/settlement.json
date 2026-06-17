@@ -1,0 +1,45 @@
+{
+  "id": "AZ404059",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaratorpaq",
+    "en": "Garatorpag",
+    "slug": "garatorpag"
+  },
+  "code": {
+    "id": "AZ404059",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.792",
+    "lon": "47.5"
+  },
+  "metadata": {},
+  "source": {}
+}

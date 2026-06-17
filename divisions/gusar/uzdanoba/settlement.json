@@ -1,0 +1,45 @@
+{
+  "id": "AZ301073",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Üzdənoba",
+    "en": "Uzdanoba",
+    "slug": "uzdanoba"
+  },
+  "code": {
+    "id": "AZ301073",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.687",
+    "lon": "48.515"
+  },
+  "metadata": {},
+  "source": {}
+}

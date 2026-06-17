@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "AZ808019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağalıkənd",
+      "en": "Aghalikend",
+      "slug": "aghalikend"
+    },
+    "code": {
+      "id": "AZ808019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.374",
+      "lon": "48.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağayrı",
+      "en": "Aghayri",
+      "slug": "aghayri"
+    },
+    "code": {
+      "id": "AZ808006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.524",
+      "lon": "48.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliabad",
+      "en": "Aliabad",
+      "slug": "aliabad"
+    },
+    "code": {
+      "id": "AZ808011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.471",
+      "lon": "48.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Amankənd",
+      "en": "Amankend",
+      "slug": "amankend"
+    },
+    "code": {
+      "id": "AZ808018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.382",
+      "lon": "48.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aranlı",
+      "en": "Aranli",
+      "slug": "aranli"
+    },
+    "code": {
+      "id": "AZ808026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.509",
+      "lon": "48.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arazbarı",
+      "en": "Arazbari",
+      "slug": "arazbari"
+    },
+    "code": {
+      "id": "AZ808022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.579",
+      "lon": "48.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əsgərabad",
+      "en": "Asgarabad",
+      "slug": "asgarabad"
+    },
+    "code": {
+      "id": "AZ808015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.429",
+      "lon": "48.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Cürəli",
+      "en": "Ashaghi Jurali",
+      "slug": "ashaghi-jurali"
+    },
+    "code": {
+      "id": "AZ808016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.414",
+      "lon": "48.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağbanlar",
+      "en": "Baghbanlar",
+      "slug": "baghbanlar"
+    },
+    "code": {
+      "id": "AZ808010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.492",
+      "lon": "48.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəydili",
+      "en": "Beydili",
+      "slug": "beydili"
+    },
+    "code": {
+      "id": "AZ808024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.459",
+      "lon": "48.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "BİLƏSUVAR",
+      "en": "BILASUVAR",
+      "slug": "bilasuvar"
+    },
+    "code": {
+      "id": "AZ808013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.456",
+      "lon": "48.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaylı",
+      "en": "Chayli",
+      "slug": "chayli"
+    },
+    "code": {
+      "id": "AZ808008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.496",
+      "lon": "48.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çinarlı",
+      "en": "Chinarli",
+      "slug": "chinarli"
+    },
+    "code": {
+      "id": "AZ808009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.502",
+      "lon": "48.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərvişli",
+      "en": "Darvishli",
+      "slug": "darvishli"
+    },
+    "code": {
+      "id": "AZ808017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.402",
+      "lon": "48.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ808007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.518",
+      "lon": "48.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsmətli",
+      "en": "Ismatli",
+      "slug": "ismatli"
+    },
+    "code": {
+      "id": "AZ808005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.53",
+      "lon": "48.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xırmandalı",
+      "en": "Khirmandali",
+      "slug": "khirmandali"
+    },
+    "code": {
+      "id": "AZ808014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.451",
+      "lon": "48.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğan",
+      "en": "Mughan",
+      "slug": "mughan"
+    },
+    "code": {
+      "id": "AZ808023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.434",
+      "lon": "48.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nərimankənd",
+      "en": "Narimankend",
+      "slug": "narimankend"
+    },
+    "code": {
+      "id": "AZ808002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.532",
+      "lon": "48.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəsimi",
+      "en": "Nasimi",
+      "slug": "nasimi"
+    },
+    "code": {
+      "id": "AZ808003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.534",
+      "lon": "48.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovçubərə",
+      "en": "Ovchubara",
+      "slug": "ovchubara"
+    },
+    "code": {
+      "id": "AZ808021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.363",
+      "lon": "48.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səmədabad",
+      "en": "Samadabad",
+      "slug": "samadabad"
+    },
+    "code": {
+      "id": "AZ808001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.542",
+      "lon": "48.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ808025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.356",
+      "lon": "48.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Ağalı",
+      "en": "Yukhari Aghali",
+      "slug": "yukhari-aghali"
+    },
+    "code": {
+      "id": "AZ808004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.425",
+      "lon": "48.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Cürəli",
+      "en": "Yukhari Jurali",
+      "slug": "yukhari-jurali"
+    },
+    "code": {
+      "id": "AZ808020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.365",
+      "lon": "48.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ808012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəhmətabad",
+      "en": "Zahmatabad",
+      "slug": "zahmatabad"
+    },
+    "code": {
+      "id": "AZ808012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ808",
+      "level": 1,
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ808",
+        "level": 1,
+        "name": {
+          "local": "Biləsuvar",
+          "en": "Bilasuvar",
+          "slug": "bilasuvar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.473",
+      "lon": "48.575"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

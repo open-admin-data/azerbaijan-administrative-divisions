@@ -1,0 +1,33 @@
+{
+  "id": "AZ907",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "İmişli",
+    "en": "Imishli",
+    "slug": "imishli"
+  },
+  "code": {
+    "id": "AZ907",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 51
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.858",
+    "lon": "48.072"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/imishli/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

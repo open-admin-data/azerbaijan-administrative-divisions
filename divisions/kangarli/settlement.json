@@ -1,0 +1,497 @@
+[
+  {
+    "id": "AZ108008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyükdüz",
+      "en": "Boyukduz",
+      "slug": "boyukduz"
+    },
+    "code": {
+      "id": "AZ108008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.284",
+      "lon": "45.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ108006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çalxanqala",
+      "en": "Chalkhangala",
+      "slug": "chalkhangala"
+    },
+    "code": {
+      "id": "AZ108006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.446",
+      "lon": "45.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ108001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qabıllı",
+      "en": "Gabilli",
+      "slug": "gabilli"
+    },
+    "code": {
+      "id": "AZ108001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.429",
+      "lon": "45.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ108004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabağlar",
+      "en": "Garabaghlar",
+      "slug": "garabaghlar"
+    },
+    "code": {
+      "id": "AZ108004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.426",
+      "lon": "45.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ108002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qıvraq",
+      "en": "Givrag",
+      "slug": "givrag"
+    },
+    "code": {
+      "id": "AZ108002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.402",
+      "lon": "45.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ108007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xıncab",
+      "en": "Khinjab",
+      "slug": "khinjab"
+    },
+    "code": {
+      "id": "AZ108007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.399",
+      "lon": "45.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ108009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xok",
+      "en": "Khok",
+      "slug": "khok"
+    },
+    "code": {
+      "id": "AZ108009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.375",
+      "lon": "45.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ108003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahtaxtı",
+      "en": "Shahtakhti",
+      "slug": "shahtakhti"
+    },
+    "code": {
+      "id": "AZ108003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.372",
+      "lon": "45.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ108010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ108010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.395",
+      "lon": "45.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ108011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Kərki",
+      "en": "Yeni Karki",
+      "slug": "yeni-karki"
+    },
+    "code": {
+      "id": "AZ108011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.31",
+      "lon": "45.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ108005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yurdçu",
+      "en": "Yurdchu",
+      "slug": "yurdchu"
+    },
+    "code": {
+      "id": "AZ108005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ108",
+        "level": 1,
+        "name": {
+          "local": "Kəngərli",
+          "en": "Kangarli",
+          "slug": "kangarli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.408",
+      "lon": "45.148"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

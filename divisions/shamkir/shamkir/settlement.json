@@ -1,0 +1,45 @@
+{
+  "id": "AZ504037",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "ŞƏMKİR",
+    "en": "SHAMKIR",
+    "slug": "shamkir"
+  },
+  "code": {
+    "id": "AZ504037",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ504",
+    "level": 1,
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.824",
+    "lon": "46.025"
+  },
+  "metadata": {},
+  "source": {}
+}

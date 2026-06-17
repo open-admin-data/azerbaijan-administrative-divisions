@@ -1,0 +1,45 @@
+{
+  "id": "AZ101201",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Pirallahı",
+    "en": "Pirallahi",
+    "slug": "pirallahi"
+  },
+  "code": {
+    "id": "AZ101201",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1012",
+    "level": 1,
+    "name": {
+      "local": "Pirallahı",
+      "en": "Pirallahi",
+      "slug": "pirallahi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1012",
+      "level": 1,
+      "name": {
+        "local": "Pirallahı",
+        "en": "Pirallahi",
+        "slug": "pirallahi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.47",
+    "lon": "50.328"
+  },
+  "metadata": {},
+  "source": {}
+}

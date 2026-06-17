@@ -1,0 +1,45 @@
+{
+  "id": "AZ303142",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Atuc",
+    "en": "Ashaghi Atuj",
+    "slug": "ashaghi-atuj"
+  },
+  "code": {
+    "id": "AZ303142",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.446",
+    "lon": "48.57"
+  },
+  "metadata": {},
+  "source": {}
+}

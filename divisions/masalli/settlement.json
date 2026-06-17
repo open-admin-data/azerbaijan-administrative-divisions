@@ -1,0 +1,4637 @@
+[
+  {
+    "id": "AZ805091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abasbəyli",
+      "en": "Abasbeyli",
+      "slug": "abasbeyli"
+    },
+    "code": {
+      "id": "AZ805091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.025",
+      "lon": "48.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağakişibəyli",
+      "en": "Aghakishibeyli",
+      "slug": "aghakishibeyli"
+    },
+    "code": {
+      "id": "AZ805081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.062",
+      "lon": "48.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədli",
+      "en": "Ahmadli",
+      "slug": "ahmadli"
+    },
+    "code": {
+      "id": "AZ805006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.107",
+      "lon": "48.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alışanlı",
+      "en": "Alishanli",
+      "slug": "alishanli"
+    },
+    "code": {
+      "id": "AZ805080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.06",
+      "lon": "48.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Allahyarlı",
+      "en": "Allahyarli",
+      "slug": "allahyarli"
+    },
+    "code": {
+      "id": "AZ805021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.017",
+      "lon": "48.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmirtürbə",
+      "en": "Amirturbe",
+      "slug": "amirturbe"
+    },
+    "code": {
+      "id": "AZ805103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.038",
+      "lon": "48.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəb",
+      "en": "Arab",
+      "slug": "arab"
+    },
+    "code": {
+      "id": "AZ805002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.143",
+      "lon": "48.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərkivan",
+      "en": "Arkivan",
+      "slug": "arkivan"
+    },
+    "code": {
+      "id": "AZ805018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.007",
+      "lon": "48.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşurlu",
+      "en": "Ashurlu",
+      "slug": "ashurlu"
+    },
+    "code": {
+      "id": "AZ805088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.956",
+      "lon": "48.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ətcələr",
+      "en": "Atjalar",
+      "slug": "atjalar"
+    },
+    "code": {
+      "id": "AZ805079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.06",
+      "lon": "48.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əzizabad",
+      "en": "Azizabad",
+      "slug": "azizabad"
+    },
+    "code": {
+      "id": "AZ805047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.983",
+      "lon": "48.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babakücə",
+      "en": "Babakuja",
+      "slug": "babakuja"
+    },
+    "code": {
+      "id": "AZ805050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.965",
+      "lon": "48.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babaser",
+      "en": "Babaser",
+      "slug": "babaser"
+    },
+    "code": {
+      "id": "AZ805058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.943",
+      "lon": "48.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bədəlan",
+      "en": "Badalan",
+      "slug": "badalan"
+    },
+    "code": {
+      "id": "AZ805057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.952",
+      "lon": "48.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağıroba",
+      "en": "Baghiroba",
+      "slug": "baghiroba"
+    },
+    "code": {
+      "id": "AZ805099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.962",
+      "lon": "48.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Kolatan",
+      "en": "Bala Kolatan",
+      "slug": "bala-kolatan"
+    },
+    "code": {
+      "id": "AZ805094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.972",
+      "lon": "48.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Təklə",
+      "en": "Bala Takla",
+      "slug": "bala-takla"
+    },
+    "code": {
+      "id": "AZ805012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.082",
+      "lon": "48.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Banbaşı",
+      "en": "Banbashi",
+      "slug": "banbashi"
+    },
+    "code": {
+      "id": "AZ805019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.04",
+      "lon": "48.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binə Xocavar",
+      "en": "Bina Khojavar",
+      "slug": "bina-khojavar"
+    },
+    "code": {
+      "id": "AZ805011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.065",
+      "lon": "48.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Səmədxanlı",
+      "en": "Birinji Samadkhanli",
+      "slug": "birinji-samadkhanli"
+    },
+    "code": {
+      "id": "AZ805014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.055",
+      "lon": "48.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Tiyaqanı",
+      "en": "Birinji Tiyagani",
+      "slug": "birinji-tiyagani"
+    },
+    "code": {
+      "id": "AZ805062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.915",
+      "lon": "48.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Yeddioymaq",
+      "en": "Birinji Yeddioymag",
+      "slug": "birinji-yeddioymag"
+    },
+    "code": {
+      "id": "AZ805038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.028",
+      "lon": "48.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boradigah",
+      "en": "Boradigah",
+      "slug": "boradigah"
+    },
+    "code": {
+      "id": "AZ805067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.916",
+      "lon": "48.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Xocavar",
+      "en": "Boyuk Khojavar",
+      "slug": "boyuk-khojavar"
+    },
+    "code": {
+      "id": "AZ805095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.051",
+      "lon": "48.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Kolatan",
+      "en": "Boyuk Kolatan",
+      "slug": "boyuk-kolatan"
+    },
+    "code": {
+      "id": "AZ805053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.966",
+      "lon": "48.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaxırlı",
+      "en": "Chakhirli",
+      "slug": "chakhirli"
+    },
+    "code": {
+      "id": "AZ805007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.09",
+      "lon": "48.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çayqıraq",
+      "en": "Chaygirag",
+      "slug": "chaygirag"
+    },
+    "code": {
+      "id": "AZ805056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.963",
+      "lon": "48.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəlləkli",
+      "en": "Dallakli",
+      "slug": "dallakli"
+    },
+    "code": {
+      "id": "AZ805089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.085",
+      "lon": "48.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəlləkoba",
+      "en": "Dallakoba",
+      "slug": "dallakoba"
+    },
+    "code": {
+      "id": "AZ805055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.971",
+      "lon": "48.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəmbəlov",
+      "en": "Dambalov",
+      "slug": "dambalov"
+    },
+    "code": {
+      "id": "AZ805043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.979",
+      "lon": "48.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəmirçi",
+      "en": "Damirchi",
+      "slug": "damirchi"
+    },
+    "code": {
+      "id": "AZ805098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.948",
+      "lon": "48.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əminli",
+      "en": "Eminli",
+      "slug": "eminli"
+    },
+    "code": {
+      "id": "AZ805032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.103",
+      "lon": "48.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qədirli",
+      "en": "Gadirli",
+      "slug": "gadirli"
+    },
+    "code": {
+      "id": "AZ805035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.074",
+      "lon": "48.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarğalıq",
+      "en": "Garghalig",
+      "slug": "garghalig"
+    },
+    "code": {
+      "id": "AZ805033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.079",
+      "lon": "48.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəriblər",
+      "en": "Gariblar",
+      "slug": "gariblar"
+    },
+    "code": {
+      "id": "AZ805046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39",
+      "lon": "48.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımlı",
+      "en": "Gasimli",
+      "slug": "gasimli"
+    },
+    "code": {
+      "id": "AZ805093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.024",
+      "lon": "48.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəzvinoba",
+      "en": "Gazvinoba",
+      "slug": "gazvinoba"
+    },
+    "code": {
+      "id": "AZ805102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.903",
+      "lon": "48.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılağac",
+      "en": "Gizilaghaj",
+      "slug": "gizilaghaj"
+    },
+    "code": {
+      "id": "AZ805037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.037",
+      "lon": "48.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılavar",
+      "en": "Gizilavar",
+      "slug": "gizilavar"
+    },
+    "code": {
+      "id": "AZ805087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.963",
+      "lon": "48.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qodman",
+      "en": "Godman",
+      "slug": "godman"
+    },
+    "code": {
+      "id": "AZ805048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.98",
+      "lon": "48.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyəçöl",
+      "en": "Goyachol",
+      "slug": "goyachol"
+    },
+    "code": {
+      "id": "AZ805071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.994",
+      "lon": "48.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güllütəpə",
+      "en": "Gullutepe",
+      "slug": "gullutepe"
+    },
+    "code": {
+      "id": "AZ805023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.042",
+      "lon": "48.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıtəpə",
+      "en": "Hajitepe",
+      "slug": "hajitepe"
+    },
+    "code": {
+      "id": "AZ805003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.138",
+      "lon": "48.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənli",
+      "en": "Hasanli",
+      "slug": "hasanli"
+    },
+    "code": {
+      "id": "AZ805027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.111",
+      "lon": "48.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hişkədərə",
+      "en": "Hishkadere",
+      "slug": "hishkadere"
+    },
+    "code": {
+      "id": "AZ805065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.907",
+      "lon": "48.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynhacılı",
+      "en": "Huseynhajili",
+      "slug": "huseynhajili"
+    },
+    "code": {
+      "id": "AZ805040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.038",
+      "lon": "48.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Səmədxanlı",
+      "en": "Ikinji Samadkhanli",
+      "slug": "ikinji-samadkhanli"
+    },
+    "code": {
+      "id": "AZ805016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.041",
+      "lon": "48.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Yeddioymaq",
+      "en": "Ikinji Yeddioymag",
+      "slug": "ikinji-yeddioymag"
+    },
+    "code": {
+      "id": "AZ805039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.018",
+      "lon": "48.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmanlı",
+      "en": "Imanli",
+      "slug": "imanli"
+    },
+    "code": {
+      "id": "AZ805010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.076",
+      "lon": "48.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsi",
+      "en": "Isi",
+      "slug": "isi"
+    },
+    "code": {
+      "id": "AZ805045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.99",
+      "lon": "48.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəlbəhüseynli",
+      "en": "Kalbahuseynli",
+      "slug": "kalbahuseynli"
+    },
+    "code": {
+      "id": "AZ805009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.084",
+      "lon": "48.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlfələr",
+      "en": "Khalfalar",
+      "slug": "khalfalar"
+    },
+    "code": {
+      "id": "AZ805092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.019",
+      "lon": "48.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xallıcalı",
+      "en": "Khallijali",
+      "slug": "khallijali"
+    },
+    "code": {
+      "id": "AZ805034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.067",
+      "lon": "48.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanalıyan",
+      "en": "Khanaliyan",
+      "slug": "khanaliyan"
+    },
+    "code": {
+      "id": "AZ805060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.941",
+      "lon": "48.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xıl",
+      "en": "Khil",
+      "slug": "khil"
+    },
+    "code": {
+      "id": "AZ805070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.974",
+      "lon": "48.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xırmandalı",
+      "en": "Khirmandali",
+      "slug": "khirmandali"
+    },
+    "code": {
+      "id": "AZ805001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.16",
+      "lon": "48.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xoşçobanlı",
+      "en": "Khoshchobanli",
+      "slug": "khoshchobanli"
+    },
+    "code": {
+      "id": "AZ805085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.126",
+      "lon": "48.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə  Alvadı",
+      "en": "Kohne  Alvadi",
+      "slug": "kohne-alvadi"
+    },
+    "code": {
+      "id": "AZ805096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.055",
+      "lon": "48.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə Zuvand",
+      "en": "Kohne Zuvand",
+      "slug": "kohne-zuvand"
+    },
+    "code": {
+      "id": "AZ805100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.005",
+      "lon": "48.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köcəkli",
+      "en": "Kojakli",
+      "slug": "kojakli"
+    },
+    "code": {
+      "id": "AZ805030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.122",
+      "lon": "48.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kubin",
+      "en": "Kubin",
+      "slug": "kubin"
+    },
+    "code": {
+      "id": "AZ805063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.906",
+      "lon": "48.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdəbazlı",
+      "en": "Kurdabazli",
+      "slug": "kurdabazli"
+    },
+    "code": {
+      "id": "AZ805013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.076",
+      "lon": "48.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləngan",
+      "en": "Langan",
+      "slug": "langan"
+    },
+    "code": {
+      "id": "AZ805005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.119",
+      "lon": "48.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lürən",
+      "en": "Luran",
+      "slug": "luran"
+    },
+    "code": {
+      "id": "AZ805072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.991",
+      "lon": "48.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahmudavar",
+      "en": "Mahmudavar",
+      "slug": "mahmudavar"
+    },
+    "code": {
+      "id": "AZ805074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.894",
+      "lon": "48.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədxanlı",
+      "en": "Mammadkhanli",
+      "slug": "mammadkhanli"
+    },
+    "code": {
+      "id": "AZ805029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.1",
+      "lon": "48.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədoba",
+      "en": "Mammadoba",
+      "slug": "mammadoba"
+    },
+    "code": {
+      "id": "AZ805059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.926",
+      "lon": "48.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədrzakücə",
+      "en": "Mammadrzakuja",
+      "slug": "mammadrzakuja"
+    },
+    "code": {
+      "id": "AZ805049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.975",
+      "lon": "48.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "MASALLI",
+      "en": "MASALLI",
+      "slug": "masalli"
+    },
+    "code": {
+      "id": "AZ805017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.031",
+      "lon": "48.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meşəkanarı",
+      "en": "Meshakanari",
+      "slug": "meshakanari"
+    },
+    "code": {
+      "id": "AZ805025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.068",
+      "lon": "48.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mişkəmi",
+      "en": "Mishkami",
+      "slug": "mishkami"
+    },
+    "code": {
+      "id": "AZ805082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.907",
+      "lon": "48.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Miyanku",
+      "en": "Miyanku",
+      "slug": "miyanku"
+    },
+    "code": {
+      "id": "AZ805064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.898",
+      "lon": "48.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Molalan",
+      "en": "Molalan",
+      "slug": "molalan"
+    },
+    "code": {
+      "id": "AZ805077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.895",
+      "lon": "48.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollahəsənli",
+      "en": "Mollahasanli",
+      "slug": "mollahasanli"
+    },
+    "code": {
+      "id": "AZ805084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.128",
+      "lon": "48.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollaoba",
+      "en": "Mollaoba",
+      "slug": "mollaoba"
+    },
+    "code": {
+      "id": "AZ805097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.935",
+      "lon": "48.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Musakücə",
+      "en": "Musakuja",
+      "slug": "musakuja"
+    },
+    "code": {
+      "id": "AZ805042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.012",
+      "lon": "48.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəzəroba",
+      "en": "Nazaroba",
+      "slug": "nazaroba"
+    },
+    "code": {
+      "id": "AZ805075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.886",
+      "lon": "48.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ninəlov",
+      "en": "Ninalov",
+      "slug": "ninalov"
+    },
+    "code": {
+      "id": "AZ805051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.961",
+      "lon": "48.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Öncəqala",
+      "en": "Onjagala",
+      "slug": "onjagala"
+    },
+    "code": {
+      "id": "AZ805041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.033",
+      "lon": "48.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pircana",
+      "en": "Pirjana",
+      "slug": "pirjana"
+    },
+    "code": {
+      "id": "AZ805073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.986",
+      "lon": "48.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rüdəkənar",
+      "en": "Rudakanar",
+      "slug": "rudakanar"
+    },
+    "code": {
+      "id": "AZ805076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.865",
+      "lon": "48.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərçuvar",
+      "en": "Sarchuvar",
+      "slug": "sarchuvar"
+    },
+    "code": {
+      "id": "AZ805069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.961",
+      "lon": "48.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıcəfərli",
+      "en": "Sarijafarli",
+      "slug": "sarijafarli"
+    },
+    "code": {
+      "id": "AZ805008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.079",
+      "lon": "48.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəhriyar",
+      "en": "Shahriyar",
+      "slug": "shahriyar"
+    },
+    "code": {
+      "id": "AZ805031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.1",
+      "lon": "48.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şərəfə",
+      "en": "Sharafa",
+      "slug": "sharafa"
+    },
+    "code": {
+      "id": "AZ805015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.072",
+      "lon": "48.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şatıroba",
+      "en": "Shatiroba",
+      "slug": "shatiroba"
+    },
+    "code": {
+      "id": "AZ805066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.921",
+      "lon": "48.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ805044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.984",
+      "lon": "48.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ805090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.01",
+      "lon": "48.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sığdaş",
+      "en": "Sighdash",
+      "slug": "sighdash"
+    },
+    "code": {
+      "id": "AZ805052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.957",
+      "lon": "48.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sığıncaq",
+      "en": "Sighinjag",
+      "slug": "sighinjag"
+    },
+    "code": {
+      "id": "AZ805086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.12",
+      "lon": "48.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sirəbil",
+      "en": "Sirabil",
+      "slug": "sirabil"
+    },
+    "code": {
+      "id": "AZ805068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.943",
+      "lon": "48.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təkdam",
+      "en": "Takdam",
+      "slug": "takdam"
+    },
+    "code": {
+      "id": "AZ805028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.115",
+      "lon": "48.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təklə",
+      "en": "Takla",
+      "slug": "takla"
+    },
+    "code": {
+      "id": "AZ805004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.132",
+      "lon": "48.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatyanoba",
+      "en": "Tatyanoba",
+      "slug": "tatyanoba"
+    },
+    "code": {
+      "id": "AZ805022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.043",
+      "lon": "48.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzə Alvadı",
+      "en": "Teze Alvadi",
+      "slug": "teze-alvadi"
+    },
+    "code": {
+      "id": "AZ805026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.087",
+      "lon": "48.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ805078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.961",
+      "lon": "48.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tüklə",
+      "en": "Tukla",
+      "slug": "tukla"
+    },
+    "code": {
+      "id": "AZ805061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.92",
+      "lon": "48.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkoba",
+      "en": "Turkoba",
+      "slug": "turkoba"
+    },
+    "code": {
+      "id": "AZ805083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.919",
+      "lon": "48.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Viləş",
+      "en": "Vilash",
+      "slug": "vilash"
+    },
+    "code": {
+      "id": "AZ805036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.041",
+      "lon": "48.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Zuvand",
+      "en": "Yeni Zuvand",
+      "slug": "yeni-zuvand"
+    },
+    "code": {
+      "id": "AZ805101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.043",
+      "lon": "48.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeyənkənd",
+      "en": "Yeyankend",
+      "slug": "yeyankend"
+    },
+    "code": {
+      "id": "AZ805020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.03",
+      "lon": "48.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yolağac",
+      "en": "Yolaghaj",
+      "slug": "yolaghaj"
+    },
+    "code": {
+      "id": "AZ805024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.013",
+      "lon": "48.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ805054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yusifli",
+      "en": "Yusifli",
+      "slug": "yusifli"
+    },
+    "code": {
+      "id": "AZ805054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ805",
+        "level": 1,
+        "name": {
+          "local": "Masallı",
+          "en": "Masalli",
+          "slug": "masalli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.978",
+      "lon": "48.667"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

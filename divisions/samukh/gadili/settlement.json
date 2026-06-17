@@ -1,0 +1,45 @@
+{
+  "id": "AZ507022",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qədili",
+    "en": "Gadili",
+    "slug": "gadili"
+  },
+  "code": {
+    "id": "AZ507022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ507",
+    "level": 1,
+    "name": {
+      "local": "Samux",
+      "en": "Samukh",
+      "slug": "samukh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.873",
+    "lon": "46.305"
+  },
+  "metadata": {},
+  "source": {}
+}

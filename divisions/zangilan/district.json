@@ -1,0 +1,33 @@
+{
+  "id": "AZ604",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zəngilan",
+    "en": "Zangilan",
+    "slug": "zangilan"
+  },
+  "code": {
+    "id": "AZ604",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 85
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.11",
+    "lon": "46.639"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/zangilan/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

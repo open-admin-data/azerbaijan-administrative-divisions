@@ -1,0 +1,45 @@
+{
+  "id": "AZ503002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Mülkülü",
+    "en": "Ashaghi Mulkulu",
+    "slug": "ashaghi-mulkulu"
+  },
+  "code": {
+    "id": "AZ503002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.049",
+    "lon": "45.62"
+  },
+  "metadata": {},
+  "source": {}
+}

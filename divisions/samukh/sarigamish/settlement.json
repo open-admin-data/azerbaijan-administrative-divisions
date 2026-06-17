@@ -1,0 +1,45 @@
+{
+  "id": "AZ507015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sarıqamış",
+    "en": "Sarigamish",
+    "slug": "sarigamish"
+  },
+  "code": {
+    "id": "AZ507015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ507",
+    "level": 1,
+    "name": {
+      "local": "Samux",
+      "en": "Samukh",
+      "slug": "samukh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.824",
+    "lon": "46.333"
+  },
+  "metadata": {},
+  "source": {}
+}

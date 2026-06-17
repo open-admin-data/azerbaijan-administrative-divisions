@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "AZ106013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əbrəqunus",
+      "en": "Abragunus",
+      "slug": "abragunus"
+    },
+    "code": {
+      "id": "AZ106013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.136",
+      "lon": "45.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlincə",
+      "en": "Alinja",
+      "slug": "alinja"
+    },
+    "code": {
+      "id": "AZ106023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.177",
+      "lon": "45.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəfsə",
+      "en": "Arafsa",
+      "slug": "arafsa"
+    },
+    "code": {
+      "id": "AZ106003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.293",
+      "lon": "45.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəzin",
+      "en": "Arazin",
+      "slug": "arazin"
+    },
+    "code": {
+      "id": "AZ106015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.112",
+      "lon": "45.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bənəniyar",
+      "en": "Bananiyar",
+      "slug": "bananiyar"
+    },
+    "code": {
+      "id": "AZ106011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.148",
+      "lon": "45.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boyəhməd",
+      "en": "Boyahmad",
+      "slug": "boyahmad"
+    },
+    "code": {
+      "id": "AZ106001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.268",
+      "lon": "45.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dizə",
+      "en": "Diza",
+      "slug": "diza"
+    },
+    "code": {
+      "id": "AZ106017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.009",
+      "lon": "45.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gal",
+      "en": "Gal",
+      "slug": "gal"
+    },
+    "code": {
+      "id": "AZ106018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.121",
+      "lon": "45.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazançı",
+      "en": "Gazanchi",
+      "slug": "gazanchi"
+    },
+    "code": {
+      "id": "AZ106006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.24",
+      "lon": "45.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılca",
+      "en": "Gizilja",
+      "slug": "gizilja"
+    },
+    "code": {
+      "id": "AZ106014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.122",
+      "lon": "45.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göydərə",
+      "en": "Goydere",
+      "slug": "goydere"
+    },
+    "code": {
+      "id": "AZ106009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.163",
+      "lon": "45.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülüstan",
+      "en": "Gulustan",
+      "slug": "gulustan"
+    },
+    "code": {
+      "id": "AZ106020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.983",
+      "lon": "45.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Camaldın",
+      "en": "Jamaldin",
+      "slug": "jamaldin"
+    },
+    "code": {
+      "id": "AZ106016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.091",
+      "lon": "45.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "CULFA",
+      "en": "JULFA",
+      "slug": "julfa"
+    },
+    "code": {
+      "id": "AZ106021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.957",
+      "lon": "45.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanəgah",
+      "en": "Khanagah",
+      "slug": "khanagah"
+    },
+    "code": {
+      "id": "AZ106007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.191",
+      "lon": "45.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xoşkeşin",
+      "en": "Khoshkeshin",
+      "slug": "khoshkeshin"
+    },
+    "code": {
+      "id": "AZ106008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.169",
+      "lon": "45.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kırna",
+      "en": "Kirna",
+      "slug": "kirna"
+    },
+    "code": {
+      "id": "AZ106012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.138",
+      "lon": "45.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləkətağ",
+      "en": "Lakatagh",
+      "slug": "lakatagh"
+    },
+    "code": {
+      "id": "AZ106002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.29",
+      "lon": "45.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Milax",
+      "en": "Milakh",
+      "slug": "milakh"
+    },
+    "code": {
+      "id": "AZ106004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.271",
+      "lon": "45.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saltaq",
+      "en": "Saltag",
+      "slug": "saltag"
+    },
+    "code": {
+      "id": "AZ106010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.153",
+      "lon": "45.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şurud",
+      "en": "Shurud",
+      "slug": "shurud"
+    },
+    "code": {
+      "id": "AZ106019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.147",
+      "lon": "45.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Teyvaz",
+      "en": "Teyvaz",
+      "slug": "teyvaz"
+    },
+    "code": {
+      "id": "AZ106005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.257",
+      "lon": "45.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ106022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yaycı",
+      "en": "Yayji",
+      "slug": "yayji"
+    },
+    "code": {
+      "id": "AZ106022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ106",
+        "level": 1,
+        "name": {
+          "local": "Culfa",
+          "en": "Julfa",
+          "slug": "julfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.949",
+      "lon": "45.73"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

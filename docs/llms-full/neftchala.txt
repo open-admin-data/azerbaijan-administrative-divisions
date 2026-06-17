@@ -1,0 +1,269 @@
+# Neftchala — Azerbaijan Administrative Divisions
+
+> 52 settlements
+> Code: AZ807
+> Coordinates: 39.383, 49.069
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abasalılı (Abasalili)
+
+Code: AZ807023, Coordinates: 39.436, 49.078
+
+
+### Ərəbqardaşbəyli (Arabgardashbeyli)
+
+Code: AZ807011, Coordinates: 39.53, 49.015
+
+
+### Aşağı Qaramanlı (Ashaghi Garamanli)
+
+Code: AZ807020, Coordinates: 39.428, 49.038
+
+
+### Aşağı Surra (Ashaghi Surra)
+
+Code: AZ807014, Coordinates: 39.482, 49.003
+
+
+### Astanlı (Astanli)
+
+Code: AZ807021, Coordinates: 39.431, 49.061
+
+
+### Bala Surra
+
+Code: AZ807012, Coordinates: 39.517, 49.016
+
+
+### Ballıcalı (Ballijali)
+
+Code: AZ807024, Coordinates: 39.415, 49.076
+
+
+### Bankə (Banka)
+
+Code: AZ807030, Coordinates: 39.414, 49.248
+
+
+### Beştalı (Beshtali)
+
+Code: AZ807009, Coordinates: 39.567, 49.007
+
+
+### Birinci Qaralı (Birinji Garali)
+
+Code: AZ807018, Coordinates: 39.446, 49.024
+
+
+### Boyat
+
+Code: AZ807025, Coordinates: 39.401, 49.084
+
+
+### Dalğalı (Dalghali)
+
+Code: AZ807048, Coordinates: 39.17, 49.228
+
+
+### Dördlər (Dordlar)
+
+Code: AZ807007, Coordinates: 39.329, 48.799
+
+
+### Dördlər (Dordlar)
+
+Code: AZ807022, Coordinates: 39.43, 49.089
+
+
+### Qaçaqkənd (Gachagkend)
+
+Code: AZ807003, Coordinates: 39.39, 48.785
+
+
+### Qədimkənd (Gadimkend)
+
+Code: AZ807019, Coordinates: 39.436, 49.023
+
+
+### Qaraqaşlı (Garagashli)
+
+Code: AZ807001, Coordinates: 39.589, 48.992
+
+
+### Qazaxbərəsi (Gazakhbarasi)
+
+Code: AZ807005, Coordinates: 39.366, 48.78
+
+
+### Qırmızı Şəfəq (Girmizi Shafag)
+
+Code: AZ807034, Coordinates: 39.378, 49.32
+
+
+### Qırmızıkənd (Girmizikend)
+
+Code: AZ807006, Coordinates: 39.339, 48.762
+
+
+### Qızqayıtdı (Gizgayitdi)
+
+Code: AZ807043, Coordinates: 39.222, 49.177
+
+
+### Haqverdilər (Hagverdilar)
+
+Code: AZ807047, Coordinates: 39.275, 49.145
+
+
+### Həsənabad (Hasanabad)
+
+Code: AZ807036, Coordinates: 39.335, 49.216
+
+
+### İkinci Qaralı (Ikinji Garali)
+
+Code: AZ807016, Coordinates: 39.453, 49.031
+
+
+### Cəngan (Jangan)
+
+Code: AZ807010, Coordinates: 39.56, 49.022
+
+
+### Xanməmmədli (Khanmammadli)
+
+Code: AZ807002, Coordinates: 39.397, 48.792
+
+
+### Xəzər (Khazar)
+
+Code: AZ807041, Coordinates: 39.26, 48.922
+
+
+### Xıllı (Khilli)
+
+Code: AZ807026, Coordinates: 39.426, 49.11
+
+
+### Xol Qarabucaq (Khol Garabujag)
+
+Code: AZ807038, Coordinates: 39.305, 48.825
+
+
+### Xol Qaraqaşlı (Khol Garagashli)
+
+Code: AZ807039, Coordinates: 39.309, 48.834
+
+
+### Xoltəzəkənd (Kholtezekend)
+
+Code: AZ807040, Coordinates: 39.285, 48.859
+
+
+### Kür Qarabucaq (Kur Garabujag)
+
+Code: AZ807017, Coordinates: 39.466, 49.015
+
+
+### Kürdili (Kurdili)
+
+Code: AZ807049, Coordinates: 38.988, 49.146
+
+
+### Kürkənd (Kurkend)
+
+Code: AZ807031, Coordinates: 39.402, 49.259
+
+
+### 1 N-li  Mayak (Mayak 1)
+
+Code: AZ807035, Coordinates: 39.367, 49.34
+
+
+### 2 N-li Mayak (Mayak 2)
+
+Code: AZ807050, Coordinates: 39.362, 49.338
+
+
+### Mikayıllı (Mikayilli)
+
+Code: AZ807044, Coordinates: 39.216, 49.19
+
+
+### Mirzəqurbanlı (Mirzagurbanli)
+
+Code: AZ807028, Coordinates: 39.418, 49.175
+
+
+### Mürsəqulu (Mursagulu)
+
+Code: AZ807037, Coordinates: 39.325, 48.807
+
+
+### NEFTÇALA (NEFTCHALA)
+
+Code: AZ807032, Coordinates: 39.377, 49.241
+
+
+### Pirəbbə (Pirabba)
+
+Code: AZ807013, Coordinates: 39.497, 49.009
+
+
+### Ramazanlı (Ramazanli)
+
+Code: AZ807004, Coordinates: 39.38, 48.785
+
+
+### Sahiloba
+
+Code: AZ807046, Coordinates: 39.133, 49.209
+
+
+### Sarıqamış (Sarigamish)
+
+Code: AZ807045, Coordinates: 39.213, 49.227
+
+
+### Şirvanlı (Shirvanli)
+
+Code: AZ807052, Coordinates: 39.492, 49.266
+
+
+### Şorkənd (Shorkend)
+
+Code: AZ807008, Coordinates: 39.608, 49.001
+
+
+### Sübh (Subh)
+
+Code: AZ807051, Coordinates: 39.379, 49.353
+
+
+### Tatarməhlə (Tatarmahla)
+
+Code: AZ807027, Coordinates: 39.431, 49.116
+
+
+### Uzunbabalı (Uzunbabali)
+
+Code: AZ807029, Coordinates: 39.418, 49.211
+
+
+### Yeniqışlaq (Yenigishlag)
+
+Code: AZ807042, Coordinates: 39.268, 49.215
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ807033, Coordinates: 39.399, 49.276
+
+
+### Yuxarı Qaramanlı (Yukhari Garamanli)
+
+Code: AZ807015, Coordinates: 39.468, 49.031
+
+

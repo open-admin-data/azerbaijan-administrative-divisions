@@ -1,0 +1,45 @@
+{
+  "id": "AZ610022",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əliyanlı",
+    "en": "Aliyanli",
+    "slug": "aliyanli"
+  },
+  "code": {
+    "id": "AZ610022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ610",
+    "level": 1,
+    "name": {
+      "local": "Bərdə",
+      "en": "Barda",
+      "slug": "barda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.341",
+    "lon": "47.13"
+  },
+  "metadata": {},
+  "source": {}
+}

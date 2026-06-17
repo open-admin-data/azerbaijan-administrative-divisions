@@ -1,0 +1,45 @@
+{
+  "id": "AZ908040",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Fətəlikənd",
+    "en": "Fatalikend",
+    "slug": "fatalikend"
+  },
+  "code": {
+    "id": "AZ908040",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ908",
+    "level": 1,
+    "name": {
+      "local": "Saatlı",
+      "en": "Saatli",
+      "slug": "saatli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.875",
+    "lon": "48.558"
+  },
+  "metadata": {},
+  "source": {}
+}

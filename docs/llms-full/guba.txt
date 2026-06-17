@@ -1,0 +1,794 @@
+# Guba — Azerbaijan Administrative Divisions
+
+> 157 settlements
+> Code: AZ303
+> Coordinates: 41.264, 48.564
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Adur
+
+Code: AZ303014, Coordinates: 41.123, 48.302
+
+
+### Afurca (Afurja)
+
+Code: AZ303054, Coordinates: 41.164, 48.617
+
+
+### Ağbil (Aghbil)
+
+Code: AZ303107, Coordinates: 41.425, 48.563
+
+
+### Alekseyevka
+
+Code: AZ303101, Coordinates: 41.378, 48.574
+
+
+### Əlibəyqışlaq (Alibeygishlag)
+
+Code: AZ303106, Coordinates: 41.414, 48.54
+
+
+### Alıc (Alij)
+
+Code: AZ303024, Coordinates: 41.252, 48.481
+
+
+### Əlik (Alik)
+
+Code: AZ303016, Coordinates: 41.176, 48.237
+
+
+### Əliməmmədoba (Alimammadoba)
+
+Code: AZ303112, Coordinates: 41.451, 48.674
+
+
+### Alpan
+
+Code: AZ303093, Coordinates: 41.385, 48.428
+
+
+### Amsar
+
+Code: AZ303067, Coordinates: 41.327, 48.536
+
+
+### Amsarqışlaq (Amsargishlag)
+
+Code: AZ303119, Coordinates: 41.38, 48.682
+
+
+### Ərməki (Armaki)
+
+Code: AZ303065, Coordinates: 41.279, 48.507
+
+
+### Ərməkiqışlaq (Armakigishlag)
+
+Code: AZ303127, Coordinates: 41.424, 48.637
+
+
+### Aşağı Xuc (Ashaghi  Khuj)
+
+Code: AZ303130, Coordinates: 41.441, 48.523
+
+
+### Aşağı Atuc (Ashaghi Atuj)
+
+Code: AZ303142, Coordinates: 41.446, 48.57
+
+
+### Aşağı Tüləkəran (Ashaghi Tulakaran)
+
+Code: AZ303027, Coordinates: 41.268, 48.439
+
+
+### Əski İqrığ (Aski Igrigh)
+
+Code: AZ303066, Coordinates: 41.322, 48.511
+
+
+### Aspərəsti (Asparasti)
+
+Code: AZ303085, Coordinates: 41.272, 48.704
+
+
+### Atuc (Atuj)
+
+Code: AZ303050, Coordinates: 41.109, 48.612
+
+
+### Aydınkənd (Aydinkend)
+
+Code: AZ303048, Coordinates: 41.126, 48.566
+
+
+### Bad
+
+Code: AZ303156, Coordinates: 41.244, 48.55
+
+
+### Bağbanlı (Baghbanli)
+
+Code: AZ303122, Coordinates: 41.38, 48.648
+
+
+### Bağçalı (Baghchali)
+
+Code: AZ303057, Coordinates: 41.236, 48.58
+
+
+### Bərğov (Barghov)
+
+Code: AZ303116, Coordinates: 41.358, 48.795
+
+
+### Barlı (Barli)
+
+Code: AZ303120, Coordinates: 41.404, 48.675
+
+
+### Birinci Nügədi (Birinji Nughadi)
+
+Code: AZ303099, Coordinates: 41.327, 48.562
+
+
+### Buduq (Budug)
+
+Code: AZ303141, Coordinates: 41.183, 48.37
+
+
+### Çarxaçu (Charkhachu)
+
+Code: AZ303003, Coordinates: 40.948, 48.703
+
+
+### Çartəpə (Chartepe)
+
+Code: AZ303097, Coordinates: 41.439, 48.492
+
+
+### Çaydüzü (Chayduzu)
+
+Code: AZ303109, Coordinates: 41.465, 48.646
+
+
+### Çayqışlaq (Chaygishlag)
+
+Code: AZ303145, Coordinates: 41.237, 48.753
+
+
+### Çiçi (Chichi)
+
+Code: AZ303078, Coordinates: 41.214, 48.679
+
+
+### Dağlı (Daghli)
+
+Code: AZ303144, Coordinates: 41.369, 48.492
+
+
+### Dağüstü (Daghustu)
+
+Code: AZ303140, Coordinates: 41.193, 48.391
+
+
+### Dalaqo (Dalago)
+
+Code: AZ303149, Coordinates: 41.16, 48.56
+
+
+### Dalıqaya (Daligaya)
+
+Code: AZ303022, Coordinates: 41.173, 48.448
+
+
+### Dəlləkli (Dallakli)
+
+Code: AZ303126, Coordinates: 41.408, 48.596
+
+
+### Dərk (Dark)
+
+Code: AZ303009, Coordinates: 41.083, 48.423
+
+
+### Davudoba
+
+Code: AZ303108, Coordinates: 41.441, 48.622
+
+
+### Dəhnə (Dehne)
+
+Code: AZ303143, Coordinates: 41.271, 48.591
+
+
+### Digah
+
+Code: AZ303092, Coordinates: 41.39, 48.477
+
+
+### Fırıq (Firig)
+
+Code: AZ303052, Coordinates: 41.146, 48.625
+
+
+### Qəçrəş (Gachrash)
+
+Code: AZ303033, Coordinates: 41.322, 48.389
+
+
+### Gədik (Gadik)
+
+Code: AZ303089, Coordinates: 41.303, 48.797
+
+
+### Gədikqışlaq (Gadikgishlag)
+
+Code: AZ303148, Coordinates: 41.327, 48.825
+
+
+### Qacar Zeyid (Gajar Zeyid)
+
+Code: AZ303123, Coordinates: 41.373, 48.64
+
+
+### Qələdüz (Galaduz)
+
+Code: AZ303096, Coordinates: 41.351, 48.444
+
+
+### Qalagah (Galagah)
+
+Code: AZ303157, Coordinates: 41.247, 48.561
+
+
+### Qalayxudat (Galaykhudat)
+
+Code: AZ303019, Coordinates: 41.199, 48.188
+
+
+### Qamqam (Gamgam)
+
+Code: AZ303060, Coordinates: 41.263, 48.616
+
+
+### Qənidərə (Ganidere)
+
+Code: AZ303135, Coordinates: 41.222, 48.734
+
+
+### Gənclər (Ganjlar)
+
+Code: AZ303111, Coordinates: 41.479, 48.627
+
+
+### Qaraçay (Garachay)
+
+Code: AZ303124, Coordinates: 41.356, 48.645
+
+
+### Gəray (Garay)
+
+Code: AZ303041, Coordinates: 41.331, 48.333
+
+
+### Qarxun (Garkhun)
+
+Code: AZ303013, Coordinates: 41.121, 48.332
+
+
+### Qarovulüstü (Garovulustu)
+
+Code: AZ303044, Coordinates: 41.041, 48.604
+
+
+### Qasımqışlaq (Gasimgishlag)
+
+Code: AZ303088, Coordinates: 41.27, 48.751
+
+
+### Qayadalı (Gayadali)
+
+Code: AZ303010, Coordinates: 41.124, 48.455
+
+
+### Qımıl (Gimil)
+
+Code: AZ303036, Coordinates: 41.294, 48.34
+
+
+### Qımılqazma (Gimilgazma)
+
+Code: AZ303037, Coordinates: 41.287, 48.355
+
+
+### Qımılqışlaq (Gimilgishlag)
+
+Code: AZ303154, Coordinates: 41.469, 48.7
+
+
+### Qırmızı Qəsəbə (Girmizi Gasaba)
+
+Code: AZ303103, Coordinates: 41.371, 48.516
+
+
+### Gömürdəhnə (Gomurdehne)
+
+Code: AZ303133, Coordinates: 41.106, 48.734
+
+
+### Qonaqkənd (Gonagkend)
+
+Code: AZ303046, Coordinates: 41.073, 48.612
+
+
+### Qorxmazoba (Gorkhmazoba)
+
+Code: AZ303084, Coordinates: 41.267, 48.693
+
+
+### Qrız (Griz)
+
+Code: AZ303018, Coordinates: 41.214, 48.243
+
+
+### Qrızdəhnə (Grizdehne)
+
+Code: AZ303020, Coordinates: 41.237, 48.304
+
+
+### QUBA (GUBA)
+
+Code: AZ303098, Coordinates: 41.361, 48.52
+
+
+### Güləzi (Gulazi)
+
+Code: AZ303053, Coordinates: 41.161, 48.587
+
+
+### Gültəpə (Gultepe)
+
+Code: AZ303030, Coordinates: 41.293, 48.473
+
+
+### Güneyməhlə (Guneymehle)
+
+Code: AZ303070, Coordinates: 41.262, 48.578
+
+
+### Gürdəh (Gurdah)
+
+Code: AZ303055, Coordinates: 41.177, 48.51
+
+
+### Hacıağalar (Hajiaghalar)
+
+Code: AZ303059, Coordinates: 41.246, 48.61
+
+
+### Hacıqaib (Hajigaib)
+
+Code: AZ303129, Coordinates: 41.427, 48.656
+
+
+### Hacıhüseynli (Hajihuseynli)
+
+Code: AZ303110, Coordinates: 41.452, 48.643
+
+
+### Haputlu
+
+Code: AZ303015, Coordinates: 41.144, 48.214
+
+
+### İbrahimhaput
+
+Code: AZ303147, Coordinates: 41.347, 48.797
+
+
+### İdrisiqışlaq (Idrisigishlag)
+
+Code: AZ303090, Coordinates: 41.325, 48.807
+
+
+### İqrığ (Igrigh)
+
+Code: AZ303125, Coordinates: 41.364, 48.6
+
+
+### İkinci Nügədi (Ikinji Nughadi)
+
+Code: AZ303068, Coordinates: 41.319, 48.592
+
+
+### İsnov (Isnov)
+
+Code: AZ303086, Coordinates: 41.265, 48.732
+
+
+### İsnovqışlaq (Isnovgishlag)
+
+Code: AZ303151, Coordinates: 41.343, 48.753
+
+
+### İspik (Ispik)
+
+Code: AZ303032, Coordinates: 41.309, 48.413
+
+
+### Cadarı (Jadari)
+
+Code: AZ303155, Coordinates: 41.254, 48.597
+
+
+### Cağacıq (Jaghajig)
+
+Code: AZ303117, Coordinates: 41.344, 48.725
+
+
+### Cek (Jek)
+
+Code: AZ303017, Coordinates: 41.194, 48.237
+
+
+### Cimi (Jimi)
+
+Code: AZ303045, Coordinates: 41.054, 48.566
+
+
+### Cindar (Jindar)
+
+Code: AZ303062, Coordinates: 41.259, 48.565
+
+
+### Kələbağ (Kalabagh)
+
+Code: AZ303153, Coordinates: 41.244, 48.593
+
+
+### Kələnov (Kalanov)
+
+Code: AZ303082, Coordinates: 41.248, 48.736
+
+
+### Xaltan (Khaltan)
+
+Code: AZ303004, Coordinates: 40.974, 48.685
+
+
+### Xanəgah (Khanagah)
+
+Code: AZ303137, Coordinates: 41.221, 48.541
+
+
+### Xanagahyolu (Khanagahyolu)
+
+Code: AZ303134, Coordinates: 41.166, 48.54
+
+
+### Xaruşa (Kharusha)
+
+Code: AZ303075, Coordinates: 41.29, 48.696
+
+
+### Xaşı (Khashi)
+
+Code: AZ303042, Coordinates: 41.026, 48.666
+
+
+### Xaspolad (Khaspolad)
+
+Code: AZ303083, Coordinates: 41.255, 48.713
+
+
+### Xınalıq (Khinalig)
+
+Code: AZ303139, Coordinates: 41.179, 48.126
+
+
+### Xırt (Khirt)
+
+Code: AZ303049, Coordinates: 41.128, 48.586
+
+
+### Xucbala (Khujbala)
+
+Code: AZ303091, Coordinates: 41.415, 48.465
+
+
+### Küçeyi (Kucheyi)
+
+Code: AZ303073, Coordinates: 41.328, 48.704
+
+
+### Kunxırt (Kunkhirt)
+
+Code: AZ303051, Coordinates: 41.145, 48.599
+
+
+### Küpçal (Kupchal)
+
+Code: AZ303034, Coordinates: 41.332, 48.38
+
+
+### Küpçalqışlaq (Kupchalgishlag)
+
+Code: AZ303113, Coordinates: 41.433, 48.687
+
+
+### Kürkün (Kurkun)
+
+Code: AZ303094, Coordinates: 41.373, 48.36
+
+
+### Küsnət (Kusnat)
+
+Code: AZ303038, Coordinates: 41.275, 48.323
+
+
+### Küsnətqazma (Kusnatgazma)
+
+Code: AZ303039, Coordinates: 41.271, 48.333
+
+
+### Mahmudqışlaq (Mahmudgishlag)
+
+Code: AZ303087, Coordinates: 41.264, 48.751
+
+
+### Məckəxacə (Majkakhaja)
+
+Code: AZ303056, Coordinates: 41.24, 48.56
+
+
+### Mirzəqasım (Mirzagasim)
+
+Code: AZ303128, Coordinates: 41.417, 48.659
+
+
+### Mirzəqışlaq (Mirzagishlag)
+
+Code: AZ303118, Coordinates: 41.366, 48.709
+
+
+### Mirzəməmmədkənd (Mirzamammadkend)
+
+Code: AZ303102, Coordinates: 41.379, 48.526
+
+
+### Möhüc (Mohuj)
+
+Code: AZ303031, Coordinates: 41.299, 48.44
+
+
+### Muçu (Muchu)
+
+Code: AZ303001, Coordinates: 40.931, 48.738
+
+
+### Nohurdüzü (Nohurduzu)
+
+Code: AZ303047, Coordinates: 41.089, 48.53
+
+
+### Nöydün (Noydun)
+
+Code: AZ303063, Coordinates: 41.264, 48.543
+
+
+### Nütəh (Nutah)
+
+Code: AZ303005, Coordinates: 40.995, 48.689
+
+
+### Ördüc (Orduj)
+
+Code: AZ303132, Coordinates: 41.106, 48.678
+
+
+### Orta Xuc (Orta Khuj)
+
+Code: AZ303152, Coordinates: 41.441, 48.512
+
+
+### Paşaoba (Pashaoba)
+
+Code: AZ303115, Coordinates: 41.339, 48.766
+
+
+### Pirvahid
+
+Code: AZ303072, Coordinates: 41.328, 48.671
+
+
+### Puçuq (Puchug)
+
+Code: AZ303043, Coordinates: 41.063, 48.68
+
+
+### Püstəqasım (Pustagasim)
+
+Code: AZ303069, Coordinates: 41.282, 48.596
+
+
+### Rəngdar (Rangdar)
+
+Code: AZ303002, Coordinates: 40.933, 48.719
+
+
+### Raziyələr (Raziyalar)
+
+Code: AZ303079, Coordinates: 41.221, 48.692
+
+
+### Ruçuq (Ruchug)
+
+Code: AZ303150, Coordinates: 41.124, 48.63
+
+
+### Rük (Ruk)
+
+Code: AZ303012, Coordinates: 41.142, 48.353
+
+
+### Rustov
+
+Code: AZ303061, Coordinates: 41.249, 48.57
+
+
+### Səbətlər (Sabatlar)
+
+Code: AZ303077, Coordinates: 41.226, 48.648
+
+
+### Şuduq (Shudug)
+
+Code: AZ303064, Coordinates: 41.251, 48.519
+
+
+### Sırt Çiçi (Sirt Chichi)
+
+Code: AZ303080, Coordinates: 41.227, 48.676
+
+
+### Sofikənd (Sofikend)
+
+Code: AZ303071, Coordinates: 41.285, 48.628
+
+
+### Söhüb (Sohub)
+
+Code: AZ303011, Coordinates: 41.148, 48.397
+
+
+### Susay
+
+Code: AZ303040, Coordinates: 41.308, 48.29
+
+
+### Susayqışlaq (Susaygishlag)
+
+Code: AZ303131, Coordinates: 41.47, 48.585
+
+
+### Talabı (Talabi)
+
+Code: AZ303076, Coordinates: 41.266, 48.66
+
+
+### Talabıqışlaq (Talabigishlag)
+
+Code: AZ303074, Coordinates: 41.317, 48.721
+
+
+### Talış (Talish)
+
+Code: AZ303008, Coordinates: 41.094, 48.432
+
+
+### Təngəaltı (Tangaalti)
+
+Code: AZ303136, Coordinates: 41.207, 48.621
+
+
+### Timiryazev
+
+Code: AZ303100, Coordinates: 41.366, 48.565
+
+
+### Toxmar (Tokhmar)
+
+Code: AZ303138, Coordinates: 41.264, 48.634
+
+
+### Tülər (Tular)
+
+Code: AZ303025, Coordinates: 41.265, 48.457
+
+
+### Üçgün (Uchgun)
+
+Code: AZ303035, Coordinates: 41.325, 48.375
+
+
+### Utuq (Utug)
+
+Code: AZ303006, Coordinates: 40.993, 48.613
+
+
+### Uzunmeşə (Uzunmesha)
+
+Code: AZ303095, Coordinates: 41.356, 48.366
+
+
+### Vəlvələ (Valvala)
+
+Code: AZ303114, Coordinates: 41.337, 48.778
+
+
+### Vladimirovka
+
+Code: AZ303104, Coordinates: 41.397, 48.547
+
+
+### Yalavanc (Yalavanj)
+
+Code: AZ303146, Coordinates: 41.218, 49.1
+
+
+### Yekdar
+
+Code: AZ303058, Coordinates: 41.231, 48.6
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ303028, Coordinates: 41.281, 48.431
+
+
+### Yerfi
+
+Code: AZ303007, Coordinates: 41.098, 48.483
+
+
+### Yuxarı Tüləkəran (Yukhari  Tulakaran)
+
+Code: AZ303029, Coordinates: 41.265, 48.414
+
+
+### Yuxarı Digah (Yukhari Digah)
+
+Code: AZ303026, Coordinates: 41.269, 48.499
+
+
+### Zərdabi (Zardabi)
+
+Code: AZ303121, Coordinates: 41.397, 48.642
+
+
+### Zərqava (Zargava)
+
+Code: AZ303081, Coordinates: 41.241, 48.697
+
+
+### Zeyid
+
+Code: AZ303021, Coordinates: 41.182, 48.331
+
+
+### Zıxır (Zikhir)
+
+Code: AZ303023, Coordinates: 41.178, 48.471
+
+
+### Zizik
+
+Code: AZ303105, Coordinates: 41.391, 48.576
+
+

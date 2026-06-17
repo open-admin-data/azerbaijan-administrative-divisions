@@ -1,0 +1,45 @@
+{
+  "id": "AZ904003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qazıqumlaq",
+    "en": "Gazigumlag",
+    "slug": "gazigumlag"
+  },
+  "code": {
+    "id": "AZ904003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ904",
+    "level": 1,
+    "name": {
+      "local": "Ucar",
+      "en": "Ujar",
+      "slug": "ujar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.534",
+    "lon": "47.531"
+  },
+  "metadata": {},
+  "source": {}
+}

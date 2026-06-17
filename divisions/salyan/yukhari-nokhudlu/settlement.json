@@ -1,0 +1,45 @@
+{
+  "id": "AZ809020",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Noxudlu",
+    "en": "Yukhari Nokhudlu",
+    "slug": "yukhari-nokhudlu"
+  },
+  "code": {
+    "id": "AZ809020",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.65",
+    "lon": "48.937"
+  },
+  "metadata": {},
+  "source": {}
+}

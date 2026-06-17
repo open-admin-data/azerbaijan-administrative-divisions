@@ -1,0 +1,45 @@
+{
+  "id": "AZ102015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çomaxtur",
+    "en": "Chomakhtur",
+    "slug": "chomakhtur"
+  },
+  "code": {
+    "id": "AZ102015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ102",
+    "level": 1,
+    "name": {
+      "local": "Şərur",
+      "en": "Sharur",
+      "slug": "sharur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.538",
+    "lon": "44.976"
+  },
+  "metadata": {},
+  "source": {}
+}

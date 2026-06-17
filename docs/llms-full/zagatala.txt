@@ -1,0 +1,319 @@
+# Zagatala — Azerbaijan Administrative Divisions
+
+> 62 settlements
+> Code: AZ402
+> Coordinates: 41.564, 46.603
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abaəli (Abaali)
+
+Code: AZ402019, Coordinates: 41.605, 46.542
+
+
+### Axaxdərə (Akhakhdere)
+
+Code: AZ402014, Coordinates: 41.661, 46.654
+
+
+### Ələsgər (Alasgar)
+
+Code: AZ402033, Coordinates: 41.572, 46.781
+
+
+### Əliabad (Aliabad)
+
+Code: AZ402040, Coordinates: 41.479, 46.62
+
+
+### Aşağı Çardaxlar (Ashaghi Chardakhlar)
+
+Code: AZ402009, Coordinates: 41.544, 46.352
+
+
+### Aşağı Tala (Ashaghi Tala)
+
+Code: AZ402054, Coordinates: 41.604, 46.644
+
+
+### Əzgilli (Azgilli)
+
+Code: AZ402036, Coordinates: 41.563, 46.862
+
+
+### Bəhmətli (Bahmatli)
+
+Code: AZ402041, Coordinates: 41.456, 46.636
+
+
+### Bazar
+
+Code: AZ402028, Coordinates: 41.542, 46.665
+
+
+### Beretbinə (Beretbina)
+
+Code: AZ402062, Coordinates: 41.64, 46.484
+
+
+### Bozbinə (Bozbina)
+
+Code: AZ402058, Coordinates: 41.571, 46.527
+
+
+### Çobankol (Chobankol)
+
+Code: AZ402027, Coordinates: 41.536, 46.701
+
+
+### Çökəkoba (Chokakoba)
+
+Code: AZ402017, Coordinates: 41.625, 46.629
+
+
+### Çüdülübinə (Chudulubina)
+
+Code: AZ402023, Coordinates: 41.537, 46.587
+
+
+### Dağlı (Daghli)
+
+Code: AZ402022, Coordinates: 41.525, 46.53
+
+
+### Danaçı (Danachi)
+
+Code: AZ402008, Coordinates: 41.553, 46.423
+
+
+### Dardoqqaz (Dardoggaz)
+
+Code: AZ402018, Coordinates: 41.609, 46.555
+
+
+### Faldarlı (Faldarli)
+
+Code: AZ402048, Coordinates: 41.471, 46.519
+
+
+### Fındıqlı (Findigli)
+
+Code: AZ402003, Coordinates: 41.583, 46.445
+
+
+### Qəbizdərə (Gabizdere)
+
+Code: AZ402001, Coordinates: 41.696, 46.588
+
+
+### Qalal (Galal)
+
+Code: AZ402037, Coordinates: 41.556, 46.88
+
+
+### Qandax (Gandakh)
+
+Code: AZ402047, Coordinates: 41.472, 46.54
+
+
+### Qarqay (Gargay)
+
+Code: AZ402038, Coordinates: 41.555, 46.897
+
+
+### Qımır (Gimir)
+
+Code: AZ402029, Coordinates: 41.528, 46.676
+
+
+### Göyəm (Goyam)
+
+Code: AZ402049, Coordinates: 41.616, 46.6
+
+
+### Gözbarax (Gozbarakh)
+
+Code: AZ402030, Coordinates: 41.52, 46.738
+
+
+### Həsənbinə (Hasanbina)
+
+Code: AZ402007, Coordinates: 41.543, 46.485
+
+
+### Höytala (Hoytala)
+
+Code: AZ402020, Coordinates: 41.574, 46.485
+
+
+### Car (Jar)
+
+Code: AZ402052, Coordinates: 41.663, 46.676
+
+
+### Cicibinə (Jijibina)
+
+Code: AZ402061, Coordinates: 41.673, 46.494
+
+
+### Cimcimax (Jimjimakh)
+
+Code: AZ402035, Coordinates: 41.597, 46.863
+
+
+### Kəpənəkçi (Kapanakchi)
+
+Code: AZ402046, Coordinates: 41.456, 46.541
+
+
+### Kebeloba
+
+Code: AZ402015, Coordinates: 41.641, 46.645
+
+
+### Xanməmmədbinə (Khanmammadbina)
+
+Code: AZ402006, Coordinates: 41.548, 46.493
+
+
+### Kürdəmir (Kurdamir)
+
+Code: AZ402043, Coordinates: 41.417, 46.618
+
+
+### Laqodexbinə (Lagodekhbina)
+
+Code: AZ402013, Coordinates: 41.572, 46.546
+
+
+### Lahıc (Lahij)
+
+Code: AZ402042, Coordinates: 41.431, 46.65
+
+
+### Maqov (Magov)
+
+Code: AZ402021, Coordinates: 41.591, 46.496
+
+
+### Mamqabinə (Mamgabina)
+
+Code: AZ402057, Coordinates: 41.56, 46.521
+
+
+### Mamrux (Mamrukh)
+
+Code: AZ402031, Coordinates: 41.542, 46.767
+
+
+### Masqarabinə (Masgarabina)
+
+Code: AZ402005, Coordinates: 41.557, 46.493
+
+
+### Mazıx (Mazikh)
+
+Code: AZ402012, Coordinates: 41.656, 46.583
+
+
+### Mişleş (Mishlesh)
+
+Code: AZ402034, Coordinates: 41.655, 46.715
+
+
+### Mosul
+
+Code: AZ402045, Coordinates: 41.445, 46.575
+
+
+### Muğanlı (Mughanli)
+
+Code: AZ402011, Coordinates: 41.474, 46.487
+
+
+### Mücəkbinə (Mujakbina)
+
+Code: AZ402055, Coordinates: 41.552, 46.525
+
+
+### Muxax (Mukhakh)
+
+Code: AZ402025, Coordinates: 41.568, 46.702
+
+
+### Paşan (Pashan)
+
+Code: AZ402002, Coordinates: 41.603, 46.478
+
+
+### Sabunçu (Sabunchu)
+
+Code: AZ402032, Coordinates: 41.587, 46.793
+
+
+### Sumaylı (Sumayli)
+
+Code: AZ402050, Coordinates: 41.615, 46.572
+
+
+### Üçüncü Tala (Uchunju Tala)
+
+Code: AZ402056, Coordinates: 41.556, 46.51
+
+
+### Uzunqazmalar (Uzungazmalar)
+
+Code: AZ402010, Coordinates: 41.514, 46.426
+
+
+### Uzuntala
+
+Code: AZ402060, Coordinates: 41.623, 46.428
+
+
+### Vöhtala (Vohtala)
+
+Code: AZ402059, Coordinates: 41.579, 46.517
+
+
+### Yengiyan
+
+Code: AZ402044, Coordinates: 41.467, 46.574
+
+
+### Yeni Suvagil
+
+Code: AZ402039, Coordinates: 41.478, 46.705
+
+
+### Yolayrıc (Yolayrij)
+
+Code: AZ402004, Coordinates: 41.56, 46.479
+
+
+### Yuxarı Çardaxlar (Yukhari Chardakhlar)
+
+Code: AZ402024, Coordinates: 41.578, 46.754
+
+
+### Yuxarı Tala (Yukhari Tala)
+
+Code: AZ402053, Coordinates: 41.619, 46.66
+
+
+### ZAQATALA (ZAGATALA)
+
+Code: AZ402016, Coordinates: 41.634, 46.651
+
+
+### Zəyəm (Zayam)
+
+Code: AZ402026, Coordinates: 41.555, 46.712
+
+
+### Zilban
+
+Code: AZ402051, Coordinates: 41.644, 46.665
+
+

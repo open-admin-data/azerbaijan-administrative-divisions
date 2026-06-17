@@ -1,0 +1,2837 @@
+[
+  {
+    "id": "AZ410009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adnalı",
+      "en": "Adnali",
+      "slug": "adnali"
+    },
+    "code": {
+      "id": "AZ410009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.571",
+      "lon": "48.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədli",
+      "en": "Ahmadli",
+      "slug": "ahmadli"
+    },
+    "code": {
+      "id": "AZ410050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.737",
+      "lon": "48.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Acıdərə",
+      "en": "Ajidere",
+      "slug": "ajidere"
+    },
+    "code": {
+      "id": "AZ410062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.526",
+      "lon": "48.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əngəxaran",
+      "en": "Angakharan",
+      "slug": "angakharan"
+    },
+    "code": {
+      "id": "AZ410036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.671",
+      "lon": "48.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərçiman",
+      "en": "Archiman",
+      "slug": "archiman"
+    },
+    "code": {
+      "id": "AZ410053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.819",
+      "lon": "48.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşkar",
+      "en": "Ashkar",
+      "slug": "ashkar"
+    },
+    "code": {
+      "id": "AZ410027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.465",
+      "lon": "48.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avaxıl",
+      "en": "Avakhil",
+      "slug": "avakhil"
+    },
+    "code": {
+      "id": "AZ410052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.797",
+      "lon": "48.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağırlı",
+      "en": "Baghirli",
+      "slug": "baghirli"
+    },
+    "code": {
+      "id": "AZ410031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.457",
+      "lon": "48.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Çağan",
+      "en": "Birinji Chaghan",
+      "slug": "birinji-chaghan"
+    },
+    "code": {
+      "id": "AZ410041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.725",
+      "lon": "48.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Çaylı",
+      "en": "Birinji Chayli",
+      "slug": "birinji-chayli"
+    },
+    "code": {
+      "id": "AZ410026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.466",
+      "lon": "48.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Xınıslı",
+      "en": "Boyuk Khinisli",
+      "slug": "boyuk-khinisli"
+    },
+    "code": {
+      "id": "AZ410019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.655",
+      "lon": "48.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çarhan",
+      "en": "Charhan",
+      "slug": "charhan"
+    },
+    "code": {
+      "id": "AZ410010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.552",
+      "lon": "48.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çıraqlı",
+      "en": "Chiragli",
+      "slug": "chiragli"
+    },
+    "code": {
+      "id": "AZ410014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.546",
+      "lon": "48.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çöl Göylər",
+      "en": "Chol Goylar",
+      "slug": "chol-goylar"
+    },
+    "code": {
+      "id": "AZ410028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.423",
+      "lon": "48.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çuxuryurd",
+      "en": "Chukhuryurd",
+      "slug": "chukhuryurd"
+    },
+    "code": {
+      "id": "AZ410039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.713",
+      "lon": "48.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dədəgünəş",
+      "en": "Dadagunash",
+      "slug": "dadagunash"
+    },
+    "code": {
+      "id": "AZ410040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.712",
+      "lon": "48.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağ Bağırlı",
+      "en": "Dagh Baghirli",
+      "slug": "dagh-baghirli"
+    },
+    "code": {
+      "id": "AZ410023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.506",
+      "lon": "48.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəmirçi",
+      "en": "Damirchi",
+      "slug": "damirchi"
+    },
+    "code": {
+      "id": "AZ410054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.839",
+      "lon": "48.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaladərəsi",
+      "en": "Galaderesi",
+      "slug": "galaderesi"
+    },
+    "code": {
+      "id": "AZ410045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.757",
+      "lon": "48.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaleybuğurd",
+      "en": "Galeybughurd",
+      "slug": "galeybughurd"
+    },
+    "code": {
+      "id": "AZ410044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.755",
+      "lon": "48.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaravəlli",
+      "en": "Garavalli",
+      "slug": "garavalli"
+    },
+    "code": {
+      "id": "AZ410005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.632",
+      "lon": "48.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızmeydan",
+      "en": "Gizmeydan",
+      "slug": "gizmeydan"
+    },
+    "code": {
+      "id": "AZ410056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.773",
+      "lon": "48.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qonaqkənd",
+      "en": "Gonagkend",
+      "slug": "gonagkend"
+    },
+    "code": {
+      "id": "AZ410038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.692",
+      "lon": "48.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göylər Dağ",
+      "en": "Goylar  Dagh",
+      "slug": "goylar-dagh"
+    },
+    "code": {
+      "id": "AZ410025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.491",
+      "lon": "48.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ410032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.636",
+      "lon": "48.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qurdtəpə",
+      "en": "Gurdtepe",
+      "slug": "gurdtepe"
+    },
+    "code": {
+      "id": "AZ410034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.676",
+      "lon": "48.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçu",
+      "en": "Gushchu",
+      "slug": "gushchu"
+    },
+    "code": {
+      "id": "AZ410061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.44",
+      "lon": "48.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıqədirli",
+      "en": "Hajigadirli",
+      "slug": "hajigadirli"
+    },
+    "code": {
+      "id": "AZ410029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.413",
+      "lon": "48.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacılı",
+      "en": "Hajili",
+      "slug": "hajili"
+    },
+    "code": {
+      "id": "AZ410051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.737",
+      "lon": "48.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həmyəli",
+      "en": "Hamyali",
+      "slug": "hamyali"
+    },
+    "code": {
+      "id": "AZ410021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.661",
+      "lon": "48.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Çaylı",
+      "en": "Ikinji  Chayli",
+      "slug": "ikinji-chayli"
+    },
+    "code": {
+      "id": "AZ410022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.653",
+      "lon": "48.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Çağan",
+      "en": "Ikinji Chaghan",
+      "slug": "ikinji-chaghan"
+    },
+    "code": {
+      "id": "AZ410042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.724",
+      "lon": "48.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Cabanı",
+      "en": "Ikinji Jabani",
+      "slug": "ikinji-jabani"
+    },
+    "code": {
+      "id": "AZ410020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.662",
+      "lon": "48.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cabanı",
+      "en": "Jabani",
+      "slug": "jabani"
+    },
+    "code": {
+      "id": "AZ410037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.669",
+      "lon": "48.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kələxana",
+      "en": "Kalakhana",
+      "slug": "kalakhana"
+    },
+    "code": {
+      "id": "AZ410007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.591",
+      "lon": "48.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərkənc",
+      "en": "Karkanj",
+      "slug": "karkanj"
+    },
+    "code": {
+      "id": "AZ410008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.583",
+      "lon": "48.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keçməddin",
+      "en": "Kechmaddin",
+      "slug": "kechmaddin"
+    },
+    "code": {
+      "id": "AZ410043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.748",
+      "lon": "48.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Laləzar",
+      "en": "Lalazar",
+      "slug": "lalazar"
+    },
+    "code": {
+      "id": "AZ410060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.454",
+      "lon": "48.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mədrəsə",
+      "en": "Madrasa",
+      "slug": "madrasa"
+    },
+    "code": {
+      "id": "AZ410006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.613",
+      "lon": "48.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlhəm",
+      "en": "Malham",
+      "slug": "malham"
+    },
+    "code": {
+      "id": "AZ410035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.691",
+      "lon": "48.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikçobanlı",
+      "en": "Malikchobanli",
+      "slug": "malikchobanli"
+    },
+    "code": {
+      "id": "AZ410013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.54",
+      "lon": "48.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlcək",
+      "en": "Maljak",
+      "slug": "maljak"
+    },
+    "code": {
+      "id": "AZ410004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.636",
+      "lon": "48.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mərzəndiyə",
+      "en": "Marzandiya",
+      "slug": "marzandiya"
+    },
+    "code": {
+      "id": "AZ410015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.59",
+      "lon": "48.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meysəri",
+      "en": "Meysari",
+      "slug": "meysari"
+    },
+    "code": {
+      "id": "AZ410018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.665",
+      "lon": "48.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirikənd",
+      "en": "Mirikend",
+      "slug": "mirikend"
+    },
+    "code": {
+      "id": "AZ410003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.646",
+      "lon": "48.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ410002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.665",
+      "lon": "48.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nağaraxana",
+      "en": "Nagharakhana",
+      "slug": "nagharakhana"
+    },
+    "code": {
+      "id": "AZ410047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.745",
+      "lon": "48.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nüydi",
+      "en": "Nuydi",
+      "slug": "nuydi"
+    },
+    "code": {
+      "id": "AZ410012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.528",
+      "lon": "48.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovçulu",
+      "en": "Ovchulu",
+      "slug": "ovchulu"
+    },
+    "code": {
+      "id": "AZ410030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.448",
+      "lon": "48.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirbəyli",
+      "en": "Pirbeyli",
+      "slug": "pirbeyli"
+    },
+    "code": {
+      "id": "AZ410058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.835",
+      "lon": "48.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sabir",
+      "en": "Sabir",
+      "slug": "sabir"
+    },
+    "code": {
+      "id": "AZ410016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.586",
+      "lon": "48.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sabirli",
+      "en": "Sabirli",
+      "slug": "sabirli"
+    },
+    "code": {
+      "id": "AZ410011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.552",
+      "lon": "48.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səfalı",
+      "en": "Safali",
+      "slug": "safali"
+    },
+    "code": {
+      "id": "AZ410055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.848",
+      "lon": "48.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəhriyar",
+      "en": "Shahriyar",
+      "slug": "shahriyar"
+    },
+    "code": {
+      "id": "AZ410063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.611",
+      "lon": "48.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ŞAMAXI",
+      "en": "SHAMAKHI",
+      "slug": "shamakhi"
+    },
+    "code": {
+      "id": "AZ410017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.636",
+      "lon": "48.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şərədil",
+      "en": "Sharadil",
+      "slug": "sharadil"
+    },
+    "code": {
+      "id": "AZ410033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.62",
+      "lon": "48.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şirvan",
+      "en": "Shirvan",
+      "slug": "shirvan"
+    },
+    "code": {
+      "id": "AZ410001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.652",
+      "lon": "48.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sis",
+      "en": "Sis",
+      "slug": "sis"
+    },
+    "code": {
+      "id": "AZ410046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.763",
+      "lon": "48.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talışnuru",
+      "en": "Talishnuru",
+      "slug": "talishnuru"
+    },
+    "code": {
+      "id": "AZ410048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.77",
+      "lon": "48.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Qızmeydan",
+      "en": "Yeni Gizmeydan",
+      "slug": "yeni-gizmeydan"
+    },
+    "code": {
+      "id": "AZ410057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.786",
+      "lon": "48.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ410024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.504",
+      "lon": "48.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yusif Məmmədəliyev",
+      "en": "Yusif Mammadaliyev",
+      "slug": "yusif-mammadaliyev"
+    },
+    "code": {
+      "id": "AZ410049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.785",
+      "lon": "48.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ410059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zarat Xeybəri",
+      "en": "Zarat Kheybari",
+      "slug": "zarat-kheybari"
+    },
+    "code": {
+      "id": "AZ410059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ410",
+        "level": 1,
+        "name": {
+          "local": "Şamaxı",
+          "en": "Shamakhi",
+          "slug": "shamakhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.904",
+      "lon": "48.548"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

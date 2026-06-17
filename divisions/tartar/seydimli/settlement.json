@@ -1,0 +1,45 @@
+{
+  "id": "AZ611010",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Seydimli",
+    "en": "Seydimli",
+    "slug": "seydimli"
+  },
+  "code": {
+    "id": "AZ611010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ611",
+    "level": 1,
+    "name": {
+      "local": "Tərtər",
+      "en": "Tartar",
+      "slug": "tartar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.369",
+    "lon": "46.929"
+  },
+  "metadata": {},
+  "source": {}
+}

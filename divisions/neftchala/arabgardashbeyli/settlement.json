@@ -1,0 +1,45 @@
+{
+  "id": "AZ807011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ərəbqardaşbəyli",
+    "en": "Arabgardashbeyli",
+    "slug": "arabgardashbeyli"
+  },
+  "code": {
+    "id": "AZ807011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ807",
+    "level": 1,
+    "name": {
+      "local": "Neftçala",
+      "en": "Neftchala",
+      "slug": "neftchala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.53",
+    "lon": "49.015"
+  },
+  "metadata": {},
+  "source": {}
+}

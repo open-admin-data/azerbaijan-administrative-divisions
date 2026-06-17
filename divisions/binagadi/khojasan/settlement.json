@@ -1,0 +1,45 @@
+{
+  "id": "AZ100105",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xocəsən",
+    "en": "Khojasan",
+    "slug": "khojasan"
+  },
+  "code": {
+    "id": "AZ100105",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1001",
+    "level": 1,
+    "name": {
+      "local": "Binəqədi",
+      "en": "Binagadi",
+      "slug": "binagadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1001",
+      "level": 1,
+      "name": {
+        "local": "Binəqədi",
+        "en": "Binagadi",
+        "slug": "binagadi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.422",
+    "lon": "49.765"
+  },
+  "metadata": {},
+  "source": {}
+}

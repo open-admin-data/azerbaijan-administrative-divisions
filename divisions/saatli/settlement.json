@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "AZ908023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əbil",
+      "en": "Abil",
+      "slug": "abil"
+    },
+    "code": {
+      "id": "AZ908023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.942",
+      "lon": "48.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədbəyli",
+      "en": "Ahmadbeyli",
+      "slug": "ahmadbeyli"
+    },
+    "code": {
+      "id": "AZ908021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.884",
+      "lon": "48.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliabad",
+      "en": "Aliabad",
+      "slug": "aliabad"
+    },
+    "code": {
+      "id": "AZ908024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.863",
+      "lon": "48.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlisoltanlı",
+      "en": "Alisoltanli",
+      "slug": "alisoltanli"
+    },
+    "code": {
+      "id": "AZ908011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.9",
+      "lon": "48.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azadkənd",
+      "en": "Azadkend",
+      "slug": "azadkend"
+    },
+    "code": {
+      "id": "AZ908030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.791",
+      "lon": "48.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəylər",
+      "en": "Beylar",
+      "slug": "beylar"
+    },
+    "code": {
+      "id": "AZ908036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.907",
+      "lon": "48.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəylik",
+      "en": "Beylik",
+      "slug": "beylik"
+    },
+    "code": {
+      "id": "AZ908015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.969",
+      "lon": "48.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çolpı",
+      "en": "Cholpi",
+      "slug": "cholpi"
+    },
+    "code": {
+      "id": "AZ908044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.88",
+      "lon": "48.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dədə Qorqud",
+      "en": "Dada Gorgud",
+      "slug": "dada-gorgud"
+    },
+    "code": {
+      "id": "AZ908020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.868",
+      "lon": "48.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəlilər",
+      "en": "Dalilar",
+      "slug": "dalilar"
+    },
+    "code": {
+      "id": "AZ908009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.982",
+      "lon": "48.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fətəlikənd",
+      "en": "Fatalikend",
+      "slug": "fatalikend"
+    },
+    "code": {
+      "id": "AZ908040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.875",
+      "lon": "48.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qara Nuru",
+      "en": "Gara Nuru",
+      "slug": "gara-nuru"
+    },
+    "code": {
+      "id": "AZ908017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.92",
+      "lon": "48.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaracalar",
+      "en": "Garajalar",
+      "slug": "garajalar"
+    },
+    "code": {
+      "id": "AZ908004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.881",
+      "lon": "48.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaralar",
+      "en": "Garalar",
+      "slug": "garalar"
+    },
+    "code": {
+      "id": "AZ908002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.868",
+      "lon": "48.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazanbatan",
+      "en": "Gazanbatan",
+      "slug": "gazanbatan"
+    },
+    "code": {
+      "id": "AZ908016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.929",
+      "lon": "48.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Genişkənd",
+      "en": "Genishkend",
+      "slug": "genishkend"
+    },
+    "code": {
+      "id": "AZ908019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.88",
+      "lon": "48.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qıraqlı",
+      "en": "Giragli",
+      "slug": "giragli"
+    },
+    "code": {
+      "id": "AZ908014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.953",
+      "lon": "48.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gomuşçu",
+      "en": "Gomushchu",
+      "slug": "gomushchu"
+    },
+    "code": {
+      "id": "AZ908003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.873",
+      "lon": "48.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ908037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.862",
+      "lon": "48.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıqasımlı",
+      "en": "Hajigasimli",
+      "slug": "hajigasimli"
+    },
+    "code": {
+      "id": "AZ908006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.93",
+      "lon": "48.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Heydərabad",
+      "en": "Heydarabad",
+      "slug": "heydarabad"
+    },
+    "code": {
+      "id": "AZ908038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.857",
+      "lon": "48.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəfərxan",
+      "en": "Jafarkhan",
+      "slug": "jafarkhan"
+    },
+    "code": {
+      "id": "AZ908022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.939",
+      "lon": "48.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kamallı",
+      "en": "Kamalli",
+      "slug": "kamalli"
+    },
+    "code": {
+      "id": "AZ908005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.922",
+      "lon": "48.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədabad",
+      "en": "Mammadabad",
+      "slug": "mammadabad"
+    },
+    "code": {
+      "id": "AZ908018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.867",
+      "lon": "48.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məzrəli",
+      "en": "Mazrali",
+      "slug": "mazrali"
+    },
+    "code": {
+      "id": "AZ908041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.914",
+      "lon": "48.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mircəlal",
+      "en": "Mirjalal",
+      "slug": "mirjalal"
+    },
+    "code": {
+      "id": "AZ908028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.841",
+      "lon": "48.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollavazlı",
+      "en": "Mollavazli",
+      "slug": "mollavazli"
+    },
+    "code": {
+      "id": "AZ908012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.917",
+      "lon": "48.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Musalı",
+      "en": "Musali",
+      "slug": "musali"
+    },
+    "code": {
+      "id": "AZ908007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.955",
+      "lon": "48.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mustafabəyli",
+      "en": "Mustafabeyli",
+      "slug": "mustafabeyli"
+    },
+    "code": {
+      "id": "AZ908034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.962",
+      "lon": "48.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nabatkənd",
+      "en": "Nabatkend",
+      "slug": "nabatkend"
+    },
+    "code": {
+      "id": "AZ908026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.889",
+      "lon": "48.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Naharlı",
+      "en": "Naharli",
+      "slug": "naharli"
+    },
+    "code": {
+      "id": "AZ908042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.919",
+      "lon": "48.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nərimanov",
+      "en": "Narimanov",
+      "slug": "narimanov"
+    },
+    "code": {
+      "id": "AZ908008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.967",
+      "lon": "48.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəsimikənd",
+      "en": "Nasimikend",
+      "slug": "nasimikend"
+    },
+    "code": {
+      "id": "AZ908029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.837",
+      "lon": "48.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Novruzlu",
+      "en": "Novruzlu",
+      "slug": "novruzlu"
+    },
+    "code": {
+      "id": "AZ908032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.014",
+      "lon": "48.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Muğan",
+      "en": "Orta Mughan",
+      "slug": "orta-mughan"
+    },
+    "code": {
+      "id": "AZ908027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.908",
+      "lon": "48.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Potubəyli",
+      "en": "Potubeyli",
+      "slug": "potubeyli"
+    },
+    "code": {
+      "id": "AZ908010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.893",
+      "lon": "48.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "SAATLI",
+      "en": "SAATLI",
+      "slug": "saatli"
+    },
+    "code": {
+      "id": "AZ908013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.935",
+      "lon": "48.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıcalar",
+      "en": "Sarijalar",
+      "slug": "sarijalar"
+    },
+    "code": {
+      "id": "AZ908039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.942",
+      "lon": "48.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidlər",
+      "en": "Seyidlar",
+      "slug": "seyidlar"
+    },
+    "code": {
+      "id": "AZ908035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.889",
+      "lon": "48.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şirinbəyli",
+      "en": "Shirinbeyli",
+      "slug": "shirinbeyli"
+    },
+    "code": {
+      "id": "AZ908025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.87",
+      "lon": "48.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sımada",
+      "en": "Simada",
+      "slug": "simada"
+    },
+    "code": {
+      "id": "AZ908031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.764",
+      "lon": "48.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soltanabad",
+      "en": "Soltanabad",
+      "slug": "soltanabad"
+    },
+    "code": {
+      "id": "AZ908043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.849",
+      "lon": "48.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Varxan",
+      "en": "Varkhan",
+      "slug": "varkhan"
+    },
+    "code": {
+      "id": "AZ908001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.864",
+      "lon": "48.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ908033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Novruzlu",
+      "en": "Yeni Novruzlu",
+      "slug": "yeni-novruzlu"
+    },
+    "code": {
+      "id": "AZ908033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ908",
+        "level": 1,
+        "name": {
+          "local": "Saatlı",
+          "en": "Saatli",
+          "slug": "saatli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.012",
+      "lon": "48.454"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "AZ405031",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çayqovuşan",
+    "en": "Chaygovushan",
+    "slug": "chaygovushan"
+  },
+  "code": {
+    "id": "AZ405031",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ405",
+    "level": 1,
+    "name": {
+      "local": "Oğuz",
+      "en": "Oghuz",
+      "slug": "oghuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.789",
+    "lon": "47.576"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,19 @@
+# Ganja — Azerbaijan Administrative Divisions
+
+> 2 settlements
+> Code: AZ2002
+> Coordinates: 40.465, 46.332
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Göygöl (Goygol)
+
+Code: AZ2002008, Coordinates: 40.416, 46.33
+
+
+### Hacıkənd (Hajikend)
+
+Code: AZ2002007, Coordinates: 40.513, 46.334
+
+

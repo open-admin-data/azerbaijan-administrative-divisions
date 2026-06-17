@@ -1,0 +1,45 @@
+{
+  "id": "AZ803117",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hüseynabad",
+    "en": "Huseynabad",
+    "slug": "huseynabad"
+  },
+  "code": {
+    "id": "AZ803117",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.633",
+    "lon": "48.335"
+  },
+  "metadata": {},
+  "source": {}
+}

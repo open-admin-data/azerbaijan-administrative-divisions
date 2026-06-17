@@ -1,0 +1,45 @@
+{
+  "id": "AZ305027",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çarxana",
+    "en": "Charkhana",
+    "slug": "charkhana"
+  },
+  "code": {
+    "id": "AZ305027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ305",
+    "level": 1,
+    "name": {
+      "local": "Siyəzən",
+      "en": "Siyazan",
+      "slug": "siyazan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.044",
+    "lon": "49.063"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ304025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sumağava",
+    "en": "Sumaghava",
+    "slug": "sumaghava"
+  },
+  "code": {
+    "id": "AZ304025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ304",
+    "level": 1,
+    "name": {
+      "local": "Şabran",
+      "en": "Shabran",
+      "slug": "shabran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.203",
+    "lon": "48.812"
+  },
+  "metadata": {},
+  "source": {}
+}

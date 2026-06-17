@@ -1,0 +1,45 @@
+{
+  "id": "AZ609124",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Birinci Dördyol",
+    "en": "Birinji Dordyol",
+    "slug": "birinji-dordyol"
+  },
+  "code": {
+    "id": "AZ609124",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ609",
+    "level": 1,
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.241",
+    "lon": "47.077"
+  },
+  "metadata": {},
+  "source": {}
+}

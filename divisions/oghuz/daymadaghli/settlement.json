@@ -1,0 +1,45 @@
+{
+  "id": "AZ405025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dəymədağlı",
+    "en": "Daymadaghli",
+    "slug": "daymadaghli"
+  },
+  "code": {
+    "id": "AZ405025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ405",
+    "level": 1,
+    "name": {
+      "local": "Oğuz",
+      "en": "Oghuz",
+      "slug": "oghuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.944",
+    "lon": "47.607"
+  },
+  "metadata": {},
+  "source": {}
+}

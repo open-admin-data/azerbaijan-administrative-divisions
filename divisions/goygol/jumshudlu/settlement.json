@@ -1,0 +1,45 @@
+{
+  "id": "AZ508038",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Cümşüdlü",
+    "en": "Jumshudlu",
+    "slug": "jumshudlu"
+  },
+  "code": {
+    "id": "AZ508038",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.667",
+    "lon": "46.268"
+  },
+  "metadata": {},
+  "source": {}
+}

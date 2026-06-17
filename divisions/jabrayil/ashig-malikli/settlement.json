@@ -1,0 +1,45 @@
+{
+  "id": "AZ605087",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşıq Məlikli",
+    "en": "Ashig  Malikli",
+    "slug": "ashig-malikli"
+  },
+  "code": {
+    "id": "AZ605087",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ605",
+    "level": 1,
+    "name": {
+      "local": "Cəbrayıl",
+      "en": "Jabrayil",
+      "slug": "jabrayil"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ605",
+      "level": 1,
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.446",
+    "lon": "46.922"
+  },
+  "metadata": {},
+  "source": {}
+}

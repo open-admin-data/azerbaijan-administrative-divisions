@@ -1,0 +1,3332 @@
+[
+  {
+    "id": "AZ903027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abad",
+      "en": "Abad",
+      "slug": "abad"
+    },
+    "code": {
+      "id": "AZ903027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.467",
+      "lon": "47.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "AĞDAŞ",
+      "en": "AGHDASH",
+      "slug": "aghdash"
+    },
+    "code": {
+      "id": "AZ903050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.644",
+      "lon": "47.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağcaqovaq",
+      "en": "Aghjagovag",
+      "slug": "aghjagovag"
+    },
+    "code": {
+      "id": "AZ903020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.584",
+      "lon": "47.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağzıbir",
+      "en": "Aghzibir",
+      "slug": "aghzibir"
+    },
+    "code": {
+      "id": "AZ903023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.41",
+      "lon": "47.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmirarx",
+      "en": "Amirarkh",
+      "slug": "amirarkh"
+    },
+    "code": {
+      "id": "AZ903035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.556",
+      "lon": "47.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmirmahmud",
+      "en": "Amirmahmud",
+      "slug": "amirmahmud"
+    },
+    "code": {
+      "id": "AZ903066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.598",
+      "lon": "47.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəb",
+      "en": "Arab",
+      "slug": "arab"
+    },
+    "code": {
+      "id": "AZ903019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.671",
+      "lon": "47.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbocağı",
+      "en": "Arabojaghi",
+      "slug": "arabojaghi"
+    },
+    "code": {
+      "id": "AZ903013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.733",
+      "lon": "47.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbşəki",
+      "en": "Arabshaki",
+      "slug": "arabshaki"
+    },
+    "code": {
+      "id": "AZ903051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.565",
+      "lon": "47.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Ağcayazı",
+      "en": "Ashaghi Aghjayazi",
+      "slug": "ashaghi-aghjayazi"
+    },
+    "code": {
+      "id": "AZ903015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.694",
+      "lon": "47.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Qəsil",
+      "en": "Ashaghi Gasil",
+      "slug": "ashaghi-gasil"
+    },
+    "code": {
+      "id": "AZ903060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.621",
+      "lon": "47.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Qobuüstü",
+      "en": "Ashaghi Gobuustu",
+      "slug": "ashaghi-gobuustu"
+    },
+    "code": {
+      "id": "AZ903003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.7",
+      "lon": "47.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Ləki",
+      "en": "Ashaghi Laki",
+      "slug": "ashaghi-laki"
+    },
+    "code": {
+      "id": "AZ903031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.51",
+      "lon": "47.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Nemətabad",
+      "en": "Ashaghi Nematabad",
+      "slug": "ashaghi-nematabad"
+    },
+    "code": {
+      "id": "AZ903002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.683",
+      "lon": "47.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Zeynəddin",
+      "en": "Ashaghi Zeynaddin",
+      "slug": "ashaghi-zeynaddin"
+    },
+    "code": {
+      "id": "AZ903047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.654",
+      "lon": "47.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəylik",
+      "en": "Beylik",
+      "slug": "beylik"
+    },
+    "code": {
+      "id": "AZ903072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.607",
+      "lon": "47.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binələr",
+      "en": "Binalar",
+      "slug": "binalar"
+    },
+    "code": {
+      "id": "AZ903036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.577",
+      "lon": "47.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Aral",
+      "en": "Birinji Aral",
+      "slug": "birinji-aral"
+    },
+    "code": {
+      "id": "AZ903062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.603",
+      "lon": "47.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bulaqotağı",
+      "en": "Bulagotaghi",
+      "slug": "bulagotaghi"
+    },
+    "code": {
+      "id": "AZ903054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.661",
+      "lon": "47.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Davudlu",
+      "en": "Davudlu",
+      "slug": "davudlu"
+    },
+    "code": {
+      "id": "AZ903037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.593",
+      "lon": "47.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəhnəxəlil",
+      "en": "Dehnekhalil",
+      "slug": "dehnekhalil"
+    },
+    "code": {
+      "id": "AZ903016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.679",
+      "lon": "47.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eymur",
+      "en": "Eymur",
+      "slug": "eymur"
+    },
+    "code": {
+      "id": "AZ903052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.548",
+      "lon": "47.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ903048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.628",
+      "lon": "47.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradeyin",
+      "en": "Garadeyin",
+      "slug": "garadeyin"
+    },
+    "code": {
+      "id": "AZ903053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.522",
+      "lon": "47.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarağan Saatlı",
+      "en": "Garaghan Saatli",
+      "slug": "garaghan-saatli"
+    },
+    "code": {
+      "id": "AZ903067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.603",
+      "lon": "47.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarağan Sədi",
+      "en": "Garaghan Sadi",
+      "slug": "garaghan-sadi"
+    },
+    "code": {
+      "id": "AZ903058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.642",
+      "lon": "47.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarağan Şıxlar",
+      "en": "Garaghan Shikhlar",
+      "slug": "garaghan-shikhlar"
+    },
+    "code": {
+      "id": "AZ903059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.649",
+      "lon": "47.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraoğlan",
+      "en": "Garaoghlan",
+      "slug": "garaoghlan"
+    },
+    "code": {
+      "id": "AZ903025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.444",
+      "lon": "47.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarasuqumlaq",
+      "en": "Garasugumlag",
+      "slug": "garasugumlag"
+    },
+    "code": {
+      "id": "AZ903044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.651",
+      "lon": "47.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəribli",
+      "en": "Garibli",
+      "slug": "garibli"
+    },
+    "code": {
+      "id": "AZ903043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.62",
+      "lon": "47.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qobuüstü",
+      "en": "Gobuustu",
+      "slug": "gobuustu"
+    },
+    "code": {
+      "id": "AZ903004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.713",
+      "lon": "47.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qolqəti",
+      "en": "Golgati",
+      "slug": "golgati"
+    },
+    "code": {
+      "id": "AZ903071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.672",
+      "lon": "47.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoşaqovaq",
+      "en": "Goshagovag",
+      "slug": "goshagovag"
+    },
+    "code": {
+      "id": "AZ903012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.716",
+      "lon": "47.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qulbəndə",
+      "en": "Gulbanda",
+      "slug": "gulbanda"
+    },
+    "code": {
+      "id": "AZ903057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.632",
+      "lon": "47.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gürcüva",
+      "en": "Gurjuva",
+      "slug": "gurjuva"
+    },
+    "code": {
+      "id": "AZ903049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.619",
+      "lon": "47.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güvəkənd",
+      "en": "Guvakend",
+      "slug": "guvakend"
+    },
+    "code": {
+      "id": "AZ903034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.558",
+      "lon": "47.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacılar",
+      "en": "Hajilar",
+      "slug": "hajilar"
+    },
+    "code": {
+      "id": "AZ903006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.722",
+      "lon": "47.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hapıtlı",
+      "en": "Hapitli",
+      "slug": "hapitli"
+    },
+    "code": {
+      "id": "AZ903028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.492",
+      "lon": "47.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüşün",
+      "en": "Hushun",
+      "slug": "hushun"
+    },
+    "code": {
+      "id": "AZ903017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.682",
+      "lon": "47.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Aral",
+      "en": "Ikinji Aral",
+      "slug": "ikinji-aral"
+    },
+    "code": {
+      "id": "AZ903074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.597",
+      "lon": "47.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cardam",
+      "en": "Jardam",
+      "slug": "jardam"
+    },
+    "code": {
+      "id": "AZ903069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.573",
+      "lon": "47.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cücük",
+      "en": "Jujuk",
+      "slug": "jujuk"
+    },
+    "code": {
+      "id": "AZ903041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.605",
+      "lon": "47.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cüvə",
+      "en": "Juva",
+      "slug": "juva"
+    },
+    "code": {
+      "id": "AZ903009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.691",
+      "lon": "47.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xınaxlı",
+      "en": "Khinakhli",
+      "slug": "khinakhli"
+    },
+    "code": {
+      "id": "AZ903021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.356",
+      "lon": "47.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xosrov",
+      "en": "Khosrov",
+      "slug": "khosrov"
+    },
+    "code": {
+      "id": "AZ903065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.631",
+      "lon": "47.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Korarx",
+      "en": "Korarkh",
+      "slug": "korarkh"
+    },
+    "code": {
+      "id": "AZ903010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.684",
+      "lon": "47.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kotanarx",
+      "en": "Kotanarkh",
+      "slug": "kotanarkh"
+    },
+    "code": {
+      "id": "AZ903039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.589",
+      "lon": "47.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kotavan",
+      "en": "Kotavan",
+      "slug": "kotavan"
+    },
+    "code": {
+      "id": "AZ903022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.371",
+      "lon": "47.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kükəl",
+      "en": "Kukal",
+      "slug": "kukal"
+    },
+    "code": {
+      "id": "AZ903018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.671",
+      "lon": "47.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləki",
+      "en": "Laki",
+      "slug": "laki"
+    },
+    "code": {
+      "id": "AZ903032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.552",
+      "lon": "47.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malay",
+      "en": "Malay",
+      "slug": "malay"
+    },
+    "code": {
+      "id": "AZ903042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.605",
+      "lon": "47.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mürsəl",
+      "en": "Mursal",
+      "slug": "mursal"
+    },
+    "code": {
+      "id": "AZ903073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.624",
+      "lon": "47.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nehrəxəlil",
+      "en": "Nehrakhalil",
+      "slug": "nehrakhalil"
+    },
+    "code": {
+      "id": "AZ903038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.571",
+      "lon": "47.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Qəsil",
+      "en": "Orta Gasil",
+      "slug": "orta-gasil"
+    },
+    "code": {
+      "id": "AZ903056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.639",
+      "lon": "47.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Ləki",
+      "en": "Orta Laki",
+      "slug": "orta-laki"
+    },
+    "code": {
+      "id": "AZ903030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.518",
+      "lon": "47.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovçulu",
+      "en": "Ovchulu",
+      "slug": "ovchulu"
+    },
+    "code": {
+      "id": "AZ903026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.451",
+      "lon": "47.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəyir",
+      "en": "Pirayir",
+      "slug": "pirayir"
+    },
+    "code": {
+      "id": "AZ903040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.608",
+      "lon": "47.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəzə",
+      "en": "Piraza",
+      "slug": "piraza"
+    },
+    "code": {
+      "id": "AZ903024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.415",
+      "lon": "47.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirkəkə",
+      "en": "Pirkaka",
+      "slug": "pirkaka"
+    },
+    "code": {
+      "id": "AZ903007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.711",
+      "lon": "47.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sadavat",
+      "en": "Sadavat",
+      "slug": "sadavat"
+    },
+    "code": {
+      "id": "AZ903064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.626",
+      "lon": "47.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəkili",
+      "en": "Shakili",
+      "slug": "shakili"
+    },
+    "code": {
+      "id": "AZ903011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.694",
+      "lon": "47.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəmsabad",
+      "en": "Shamsabad",
+      "slug": "shamsabad"
+    },
+    "code": {
+      "id": "AZ903063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.617",
+      "lon": "47.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlı",
+      "en": "Shikhli",
+      "slug": "shikhli"
+    },
+    "code": {
+      "id": "AZ903008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.665",
+      "lon": "47.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şordəhnə",
+      "en": "Shordehne",
+      "slug": "shordehne"
+    },
+    "code": {
+      "id": "AZ903061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.619",
+      "lon": "47.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatlar",
+      "en": "Tatlar",
+      "slug": "tatlar"
+    },
+    "code": {
+      "id": "AZ903046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.649",
+      "lon": "47.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tofiqi",
+      "en": "Tofigi",
+      "slug": "tofigi"
+    },
+    "code": {
+      "id": "AZ903068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.578",
+      "lon": "47.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türyançay",
+      "en": "Turyanchay",
+      "slug": "turyanchay"
+    },
+    "code": {
+      "id": "AZ903070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.705",
+      "lon": "47.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeniarx",
+      "en": "Yeniarkh",
+      "slug": "yeniarkh"
+    },
+    "code": {
+      "id": "AZ903045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.651",
+      "lon": "47.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenicə",
+      "en": "Yenija",
+      "slug": "yenija"
+    },
+    "code": {
+      "id": "AZ903033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.542",
+      "lon": "47.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ903001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.678",
+      "lon": "47.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Ağcayazı",
+      "en": "Yukhari Aghjayazi",
+      "slug": "yukhari-aghjayazi"
+    },
+    "code": {
+      "id": "AZ903014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.702",
+      "lon": "47.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Qəsil",
+      "en": "Yukhari Gasil",
+      "slug": "yukhari-gasil"
+    },
+    "code": {
+      "id": "AZ903055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.65",
+      "lon": "47.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Ləki",
+      "en": "Yukhari Laki",
+      "slug": "yukhari-laki"
+    },
+    "code": {
+      "id": "AZ903029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.528",
+      "lon": "47.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ903005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Nemətabad",
+      "en": "Yukhari Nematabad",
+      "slug": "yukhari-nematabad"
+    },
+    "code": {
+      "id": "AZ903005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ903",
+        "level": 1,
+        "name": {
+          "local": "Ağdaş",
+          "en": "Aghdash",
+          "slug": "aghdash"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.713",
+      "lon": "47.318"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

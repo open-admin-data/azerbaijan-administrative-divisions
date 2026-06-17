@@ -1,0 +1,33 @@
+{
+  "id": "AZ306",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xızı",
+    "en": "Khizi",
+    "slug": "khizi"
+  },
+  "code": {
+    "id": "AZ306",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.841",
+    "lon": "49.13"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/khizi/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

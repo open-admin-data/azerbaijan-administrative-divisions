@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "AZ406003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abrıx",
+      "en": "Abrikh",
+      "slug": "abrikh"
+    },
+    "code": {
+      "id": "AZ406003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.037",
+      "lon": "47.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmirvan",
+      "en": "Amirvan",
+      "slug": "amirvan"
+    },
+    "code": {
+      "id": "AZ406055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.829",
+      "lon": "47.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aydınqışlaq",
+      "en": "Aydingishlag",
+      "slug": "aydingishlag"
+    },
+    "code": {
+      "id": "AZ406033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.921",
+      "lon": "47.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayramkoxalı",
+      "en": "Bayramkokhali",
+      "slug": "bayramkokhali"
+    },
+    "code": {
+      "id": "AZ406054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.791",
+      "lon": "47.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəyli",
+      "en": "Beyli",
+      "slug": "beyli"
+    },
+    "code": {
+      "id": "AZ406011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.816",
+      "lon": "47.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bılıx",
+      "en": "Bilikh",
+      "slug": "bilikh"
+    },
+    "code": {
+      "id": "AZ406050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.82",
+      "lon": "47.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Əmili",
+      "en": "Boyuk Amili",
+      "slug": "boyuk-amili"
+    },
+    "code": {
+      "id": "AZ406021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.858",
+      "lon": "47.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Pirəli",
+      "en": "Boyuk Pirali",
+      "slug": "boyuk-pirali"
+    },
+    "code": {
+      "id": "AZ406032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.91",
+      "lon": "47.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bum",
+      "en": "Bum",
+      "slug": "bum"
+    },
+    "code": {
+      "id": "AZ406005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.012",
+      "lon": "47.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bunud",
+      "en": "Bunud",
+      "slug": "bunud"
+    },
+    "code": {
+      "id": "AZ406044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.916",
+      "lon": "47.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çarxana",
+      "en": "Charkhana",
+      "slug": "charkhana"
+    },
+    "code": {
+      "id": "AZ406017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.837",
+      "lon": "47.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çuxur Qəbələ",
+      "en": "Chukhur Gabala",
+      "slug": "chukhur-gabala"
+    },
+    "code": {
+      "id": "AZ406019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.889",
+      "lon": "47.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dandıx",
+      "en": "Dandikh",
+      "slug": "dandikh"
+    },
+    "code": {
+      "id": "AZ406002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.022",
+      "lon": "47.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşca",
+      "en": "Dashja",
+      "slug": "dashja"
+    },
+    "code": {
+      "id": "AZ406035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.944",
+      "lon": "47.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dizaxlı",
+      "en": "Dizakhli",
+      "slug": "dizakhli"
+    },
+    "code": {
+      "id": "AZ406064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.849",
+      "lon": "47.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "QƏBƏLƏ",
+      "en": "GABALA",
+      "slug": "gabala"
+    },
+    "code": {
+      "id": "AZ406039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.982",
+      "lon": "47.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəmərvan",
+      "en": "Gamarvan",
+      "slug": "gamarvan"
+    },
+    "code": {
+      "id": "AZ406007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.06",
+      "lon": "47.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradeyin",
+      "en": "Garadeyin",
+      "slug": "garadeyin"
+    },
+    "code": {
+      "id": "AZ406013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.819",
+      "lon": "47.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşlar",
+      "en": "Gushlar",
+      "slug": "gushlar"
+    },
+    "code": {
+      "id": "AZ406012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.828",
+      "lon": "47.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıalılı",
+      "en": "Hajialili",
+      "slug": "hajialili"
+    },
+    "code": {
+      "id": "AZ406023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.841",
+      "lon": "47.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həmzəli",
+      "en": "Hamzali",
+      "slug": "hamzali"
+    },
+    "code": {
+      "id": "AZ406006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.997",
+      "lon": "47.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həzrə",
+      "en": "Hazra",
+      "slug": "hazra"
+    },
+    "code": {
+      "id": "AZ406045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.911",
+      "lon": "47.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmamlı",
+      "en": "Imamli",
+      "slug": "imamli"
+    },
+    "code": {
+      "id": "AZ406038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.944",
+      "lon": "47.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cığatelli",
+      "en": "Jighatelli",
+      "slug": "jighatelli"
+    },
+    "code": {
+      "id": "AZ406037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.973",
+      "lon": "47.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Corlu",
+      "en": "Jorlu",
+      "slug": "jorlu"
+    },
+    "code": {
+      "id": "AZ406030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.931",
+      "lon": "47.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xırxatala",
+      "en": "Khirkhatala",
+      "slug": "khirkhatala"
+    },
+    "code": {
+      "id": "AZ406036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.961",
+      "lon": "47.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiçik Əmili",
+      "en": "Kichik Amili",
+      "slug": "kichik-amili"
+    },
+    "code": {
+      "id": "AZ406046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.85",
+      "lon": "47.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiçik Pirəli",
+      "en": "Kichik Pirali",
+      "slug": "kichik-pirali"
+    },
+    "code": {
+      "id": "AZ406031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.917",
+      "lon": "47.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kötüklü",
+      "en": "Kotuklu",
+      "slug": "kotuklu"
+    },
+    "code": {
+      "id": "AZ406061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.988",
+      "lon": "47.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürd",
+      "en": "Kurd",
+      "slug": "kurd"
+    },
+    "code": {
+      "id": "AZ406014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.805",
+      "lon": "47.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küsnət",
+      "en": "Kusnat",
+      "slug": "kusnat"
+    },
+    "code": {
+      "id": "AZ406009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.024",
+      "lon": "47.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Laza",
+      "en": "Laza",
+      "slug": "laza"
+    },
+    "code": {
+      "id": "AZ406008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.047",
+      "lon": "47.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikli",
+      "en": "Malikli",
+      "slug": "malikli"
+    },
+    "code": {
+      "id": "AZ406052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.798",
+      "lon": "47.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamaylı",
+      "en": "Mamayli",
+      "slug": "mamayli"
+    },
+    "code": {
+      "id": "AZ406015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.82",
+      "lon": "47.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədağalı",
+      "en": "Mammadaghali",
+      "slug": "mammadaghali"
+    },
+    "code": {
+      "id": "AZ406056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.864",
+      "lon": "47.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mıxlıqovaq",
+      "en": "Mikhligovag",
+      "slug": "mikhligovag"
+    },
+    "code": {
+      "id": "AZ406057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.985",
+      "lon": "47.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəbəyli",
+      "en": "Mirzabeyli",
+      "slug": "mirzabeyli"
+    },
+    "code": {
+      "id": "AZ406029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.917",
+      "lon": "47.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollaşıxalı",
+      "en": "Mollashikhali",
+      "slug": "mollashikhali"
+    },
+    "code": {
+      "id": "AZ406048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.839",
+      "lon": "47.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nic",
+      "en": "Nij",
+      "slug": "nij"
+    },
+    "code": {
+      "id": "AZ406028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.932",
+      "lon": "47.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nohurqışlaq",
+      "en": "Nohurgishlag",
+      "slug": "nohurgishlag"
+    },
+    "code": {
+      "id": "AZ406040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.944",
+      "lon": "47.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovcullu",
+      "en": "Ovjullu",
+      "slug": "ovjullu"
+    },
+    "code": {
+      "id": "AZ406016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.827",
+      "lon": "47.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıhacallı",
+      "en": "Sarihajalli",
+      "slug": "sarihajalli"
+    },
+    "code": {
+      "id": "AZ406063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.838",
+      "lon": "47.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Savalan",
+      "en": "Savalan",
+      "slug": "savalan"
+    },
+    "code": {
+      "id": "AZ406010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.784",
+      "lon": "47.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidqışlaq",
+      "en": "Seyidgishlag",
+      "slug": "seyidgishlag"
+    },
+    "code": {
+      "id": "AZ406042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.916",
+      "lon": "47.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəfili",
+      "en": "Shafili",
+      "slug": "shafili"
+    },
+    "code": {
+      "id": "AZ406018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.841",
+      "lon": "47.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şamlı",
+      "en": "Shamli",
+      "slug": "shamli"
+    },
+    "code": {
+      "id": "AZ406022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.848",
+      "lon": "47.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siləyli",
+      "en": "Silayli",
+      "slug": "silayli"
+    },
+    "code": {
+      "id": "AZ406053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.785",
+      "lon": "47.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sırt Yengicə",
+      "en": "Sirt Yengija",
+      "slug": "sirt-yengija"
+    },
+    "code": {
+      "id": "AZ406062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.862",
+      "lon": "47.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Solquca",
+      "en": "Solguja",
+      "slug": "solguja"
+    },
+    "code": {
+      "id": "AZ406001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.033",
+      "lon": "47.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soltannuxa",
+      "en": "Soltannukha",
+      "slug": "soltannukha"
+    },
+    "code": {
+      "id": "AZ406024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.888",
+      "lon": "47.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tikanlı",
+      "en": "Tikanli",
+      "slug": "tikanli"
+    },
+    "code": {
+      "id": "AZ406004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.03",
+      "lon": "47.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Topbağ",
+      "en": "Topbagh",
+      "slug": "topbagh"
+    },
+    "code": {
+      "id": "AZ406051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.821",
+      "lon": "47.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tövlə",
+      "en": "Tovla",
+      "slug": "tovla"
+    },
+    "code": {
+      "id": "AZ406020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.884",
+      "lon": "47.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tüntül",
+      "en": "Tuntul",
+      "slug": "tuntul"
+    },
+    "code": {
+      "id": "AZ406041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.918",
+      "lon": "47.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uludaş",
+      "en": "Uludash",
+      "slug": "uludash"
+    },
+    "code": {
+      "id": "AZ406058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.98",
+      "lon": "47.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vəndam",
+      "en": "Vandam",
+      "slug": "vandam"
+    },
+    "code": {
+      "id": "AZ406043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.945",
+      "lon": "47.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yemişanlı",
+      "en": "Yemishanli",
+      "slug": "yemishanli"
+    },
+    "code": {
+      "id": "AZ406059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.965",
+      "lon": "47.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yengicə",
+      "en": "Yengija",
+      "slug": "yengija"
+    },
+    "code": {
+      "id": "AZ406025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.875",
+      "lon": "47.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Dizaxlı",
+      "en": "Yeni Dizakhli",
+      "slug": "yeni-dizakhli"
+    },
+    "code": {
+      "id": "AZ406027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.858",
+      "lon": "47.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ406049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.83",
+      "lon": "47.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zalam",
+      "en": "Zalam",
+      "slug": "zalam"
+    },
+    "code": {
+      "id": "AZ406047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.849",
+      "lon": "47.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zarağan",
+      "en": "Zaraghan",
+      "slug": "zaraghan"
+    },
+    "code": {
+      "id": "AZ406034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.94",
+      "lon": "47.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərgərli",
+      "en": "Zargarli",
+      "slug": "zargarli"
+    },
+    "code": {
+      "id": "AZ406060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.995",
+      "lon": "47.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ406026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zirik",
+      "en": "Zirik",
+      "slug": "zirik"
+    },
+    "code": {
+      "id": "AZ406026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ406",
+      "level": 1,
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ406",
+        "level": 1,
+        "name": {
+          "local": "Qəbələ",
+          "en": "Gabala",
+          "slug": "gabala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.857",
+      "lon": "47.658"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

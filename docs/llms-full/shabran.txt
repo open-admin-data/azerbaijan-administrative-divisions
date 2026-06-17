@@ -1,0 +1,354 @@
+# Shabran — Azerbaijan Administrative Divisions
+
+> 69 settlements
+> Code: AZ304
+> Coordinates: 41.203, 48.886
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağalıq (Aghalig)
+
+Code: AZ304007, Coordinates: 41.33, 48.876
+
+
+### Ağbaş (Aghbash)
+
+Code: AZ304051, Coordinates: 41.113, 49.099
+
+
+### Əmirxanlı (Amirkhanli)
+
+Code: AZ304041, Coordinates: 41.128, 48.928
+
+
+### Ərəblər (Arablar)
+
+Code: AZ304062, Coordinates: 41.275, 48.853
+
+
+### Aygünlü (Aygunlu)
+
+Code: AZ304015, Coordinates: 41.296, 48.859
+
+
+### Bilici Qorğan (Biliji Gorghan)
+
+Code: AZ304028, Coordinates: 41.164, 48.814
+
+
+### Borbor
+
+Code: AZ304009, Coordinates: 41.316, 48.901
+
+
+### Çaraq (Charag)
+
+Code: AZ304047, Coordinates: 41.08, 48.914
+
+
+### Çayqaraqaşlı (Chaygaragashli)
+
+Code: AZ304058, Coordinates: 41.379, 49.032
+
+
+### Çinarlar (Chinarlar)
+
+Code: AZ304033, Coordinates: 41.132, 48.803
+
+
+### Çölquşçu (Cholgushchu)
+
+Code: AZ304049, Coordinates: 41.335, 49.009
+
+
+### Çovurar (Chovurar)
+
+Code: AZ304063, Coordinates: 40.954, 48.805
+
+
+### Çuxurazəmi (Chukhurazami)
+
+Code: AZ304003, Coordinates: 40.967, 48.808
+
+
+### Dağ Bilici (Dagh Biliji)
+
+Code: AZ304021, Coordinates: 41.212, 48.854
+
+
+### Daşlıyataq (Dashliyatag)
+
+Code: AZ304052, Coordinates: 41.335, 48.84
+
+
+### Dəvəçi (Davachi)
+
+Code: AZ304038, Coordinates: 41.238, 48.937
+
+
+### Dəhnə (Dehne)
+
+Code: AZ304005, Coordinates: 41.046, 48.725
+
+
+### Düz Bilici (Duz Biliji)
+
+Code: AZ304029, Coordinates: 41.159, 48.845
+
+
+### Qələgah (Galagah)
+
+Code: AZ304020, Coordinates: 41.217, 48.87
+
+
+### Gəndov (Gandov)
+
+Code: AZ304014, Coordinates: 41.258, 48.9
+
+
+### Qaraçaylı (Garachayli)
+
+Code: AZ304056, Coordinates: 41.366, 48.918
+
+
+### Qəriblik (Gariblik)
+
+Code: AZ304004, Coordinates: 40.951, 48.784
+
+
+### Qazbabalı (Gazbabali)
+
+Code: AZ304042, Coordinates: 41.119, 48.942
+
+
+### Qızılqazma (Gizilgazma)
+
+Code: AZ304002, Coordinates: 40.963, 48.829
+
+
+### Qorğan (Gorghan)
+
+Code: AZ304027, Coordinates: 41.17, 48.804
+
+
+### Güləh (Gulah)
+
+Code: AZ304061, Coordinates: 41.07, 48.948
+
+
+### Günəşli (Gunashli)
+
+Code: AZ304006, Coordinates: 41.32, 48.819
+
+
+### Hacıqaraqaşlı (Hajigaragashli)
+
+Code: AZ304059, Coordinates: 41.337, 49.069
+
+
+### Hacıiskəndərli (Hajiiskandarli)
+
+Code: AZ304048, Coordinates: 41.075, 48.901
+
+
+### İzmara (Izmara)
+
+Code: AZ304065, Coordinates: 41.162, 48.843
+
+
+### Ceyranlı (Jeyranli)
+
+Code: AZ304039, Coordinates: 41.15, 48.93
+
+
+### Xəlfələr (Khalfalar)
+
+Code: AZ304034, Coordinates: 41.174, 48.902
+
+
+### Xəlilli (Khalilli)
+
+Code: AZ304013, Coordinates: 41.301, 48.983
+
+
+### Xırdaoymaq (Khirdaoymag)
+
+Code: AZ304055, Coordinates: 41.368, 48.888
+
+
+### Kilvar
+
+Code: AZ304031, Coordinates: 41.206, 48.759
+
+
+### Kyünçal (Kyunchal)
+
+Code: AZ304045, Coordinates: 41.083, 48.821
+
+
+### Ləcədi (Lajadi)
+
+Code: AZ304019, Coordinates: 41.227, 48.862
+
+
+### Leyti
+
+Code: AZ304018, Coordinates: 41.242, 48.843
+
+
+### Liman
+
+Code: AZ304068, Coordinates: 41.263, 48.991
+
+
+### Məliklər (Maliklar)
+
+Code: AZ304012, Coordinates: 41.279, 48.924
+
+
+### Meytablı (Meytabli)
+
+Code: AZ304064, Coordinates: 41.328, 48.93
+
+
+### Mollakamallı (Mollakamalli)
+
+Code: AZ304066, Coordinates: 41.247, 48.941
+
+
+### Mumlu
+
+Code: AZ304022, Coordinates: 41.211, 48.834
+
+
+### Nohurlar
+
+Code: AZ304069, Coordinates: 41.102, 48.774
+
+
+### Padar
+
+Code: AZ304008, Coordinates: 41.317, 48.892
+
+
+### Pirəbədil (Pirabadil)
+
+Code: AZ304024, Coordinates: 41.207, 48.8
+
+
+### Pirəmsən (Piramsan)
+
+Code: AZ304017, Coordinates: 41.271, 48.864
+
+
+### Rəhimli (Rahimli)
+
+Code: AZ304010, Coordinates: 41.314, 48.913
+
+
+### Sarvan
+
+Code: AZ304050, Coordinates: 41.285, 49.02
+
+
+### ŞABRAN (SHABRAN)
+
+Code: AZ304036, Coordinates: 41.197, 49
+
+
+### Şahnəzərli (Shahnazarli)
+
+Code: AZ304016, Coordinates: 41.287, 48.877
+
+
+### Sincanboyad (Sinjanboyad)
+
+Code: AZ304037, Coordinates: 41.217, 48.962
+
+
+### Söhbətli (Sohbatli)
+
+Code: AZ304053, Coordinates: 41.362, 48.856
+
+
+### Sumağava (Sumaghava)
+
+Code: AZ304025, Coordinates: 41.203, 48.812
+
+
+### Sumağava Qazma (Sumaghava Gazma)
+
+Code: AZ304026, Coordinates: 41.189, 48.819
+
+
+### Surra
+
+Code: AZ304035, Coordinates: 41.181, 48.964
+
+
+### Taxtalar (Takhtalar)
+
+Code: AZ304060, Coordinates: 41.197, 48.939
+
+
+### Təkyə (Takya)
+
+Code: AZ304046, Coordinates: 41.079, 48.886
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ304054, Coordinates: 41.347, 48.888
+
+
+### Udulu
+
+Code: AZ304057, Coordinates: 41.34, 48.921
+
+
+### Uqah (Ugah)
+
+Code: AZ304044, Coordinates: 41.089, 48.861
+
+
+### Üzümlü (Uzumlu)
+
+Code: AZ304043, Coordinates: 41.144, 48.97
+
+
+### Uzunboyad
+
+Code: AZ304011, Coordinates: 41.29, 48.916
+
+
+### Vələsli (Valasli)
+
+Code: AZ304040, Coordinates: 41.141, 48.931
+
+
+### Yeləkəsən (Yelakasan)
+
+Code: AZ304067, Coordinates: 41.165, 48.89
+
+
+### Zağlı (Zaghli)
+
+Code: AZ304030, Coordinates: 41.149, 48.833
+
+
+### Zeyvə (Zeyva)
+
+Code: AZ304032, Coordinates: 41.197, 48.748
+
+
+### Zöhrabkənd (Zohrabkend)
+
+Code: AZ304001, Coordinates: 40.975, 48.853
+
+
+### Zöhramı (Zohrami)
+
+Code: AZ304023, Coordinates: 41.218, 48.811
+
+

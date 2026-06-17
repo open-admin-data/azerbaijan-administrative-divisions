@@ -1,0 +1,114 @@
+# Garadagh — Azerbaijan Administrative Divisions
+
+> 21 settlements
+> Code: AZ1002
+> Coordinates: 40.174, 49.527
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ələt (Alat)
+
+Code: AZ100206, Coordinates: 39.953, 49.406
+
+
+### Baş Ələt (Bash Alat)
+
+Code: AZ100216, Coordinates: 39.972, 49.402
+
+
+### Çeyildağ (Cheyildagh)
+
+Code: AZ100205, Coordinates: 40.282, 49.278
+
+
+### Qaradağ (Garadagh)
+
+Code: AZ100215, Coordinates: 40.24, 49.587
+
+
+### Qarakosa (Garakosa)
+
+Code: AZ100221, Coordinates: 39.94, 49.392
+
+
+### Qızıldaş (Gizildash)
+
+Code: AZ100207, Coordinates: 40.305, 49.599
+
+
+### Qobustan (Gobustan)
+
+Code: AZ100203, Coordinates: 40.08, 49.405
+
+
+### Heybət (Heybat)
+
+Code: AZ100219, Coordinates: 40.339, 49.771
+
+
+### Korgöz (Korgoz)
+
+Code: AZ100208, Coordinates: 40.305, 49.629
+
+
+### Kotal
+
+Code: AZ100217, Coordinates: 39.986, 49.431
+
+
+### Lökbatan (Lokbatan)
+
+Code: AZ100211, Coordinates: 40.329, 49.739
+
+
+### Müşfiqabad (Mushfigabad)
+
+Code: AZ100213, Coordinates: 40.469, 49.625
+
+
+### Pirsaat
+
+Code: AZ100201, Coordinates: 39.906, 49.415
+
+
+### Puta
+
+Code: AZ100209, Coordinates: 40.296, 49.661
+
+
+### Sahil
+
+Code: AZ100210, Coordinates: 40.224, 49.574
+
+
+### Sanqaçal (Sangachal)
+
+Code: AZ100204, Coordinates: 40.167, 49.462
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ100202, Coordinates: 40.022, 49.432
+
+
+### Şonqar (Shongar)
+
+Code: AZ100214, Coordinates: 40.321, 49.6
+
+
+### Şubanı (Shubani)
+
+Code: AZ100212, Coordinates: 40.365, 49.762
+
+
+### Ümid (Umid)
+
+Code: AZ100220, Coordinates: 40.199, 49.507
+
+
+### Yeni Ələt (Yeni Alat)
+
+Code: AZ100218, Coordinates: 39.944, 49.4
+
+

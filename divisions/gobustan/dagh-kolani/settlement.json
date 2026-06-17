@@ -1,0 +1,45 @@
+{
+  "id": "AZ307033",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dağ Kolanı",
+    "en": "Dagh Kolani",
+    "slug": "dagh-kolani"
+  },
+  "code": {
+    "id": "AZ307033",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ307",
+    "level": 1,
+    "name": {
+      "local": "Qobustan",
+      "en": "Gobustan",
+      "slug": "gobustan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ307",
+      "level": 1,
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.373",
+    "lon": "48.795"
+  },
+  "metadata": {},
+  "source": {}
+}

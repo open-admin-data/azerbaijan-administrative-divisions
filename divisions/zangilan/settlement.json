@@ -1,0 +1,3827 @@
+[
+  {
+    "id": "AZ604082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağ oyuq",
+      "en": "Agh oyug",
+      "slug": "agh-oyug"
+    },
+    "code": {
+      "id": "AZ604082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.106",
+      "lon": "46.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağakişilər",
+      "en": "Aghakishilar",
+      "slug": "aghakishilar"
+    },
+    "code": {
+      "id": "AZ604022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.221",
+      "lon": "46.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbənd",
+      "en": "Aghbend",
+      "slug": "aghbend"
+    },
+    "code": {
+      "id": "AZ604074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.895",
+      "lon": "46.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbiz",
+      "en": "Aghbiz",
+      "slug": "aghbiz"
+    },
+    "code": {
+      "id": "AZ604023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.21",
+      "lon": "46.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağkənd",
+      "en": "Aghkend",
+      "slug": "aghkend"
+    },
+    "code": {
+      "id": "AZ604001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.191",
+      "lon": "46.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aladin",
+      "en": "Aladin",
+      "slug": "aladin"
+    },
+    "code": {
+      "id": "AZ604032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.151",
+      "lon": "46.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmirxanlı",
+      "en": "Amirkhanli",
+      "slug": "amirkhanli"
+    },
+    "code": {
+      "id": "AZ604072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.939",
+      "lon": "46.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Gəyəli",
+      "en": "Ashaghi Gayali",
+      "slug": "ashaghi-gayali"
+    },
+    "code": {
+      "id": "AZ604040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.146",
+      "lon": "46.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Yeməzli",
+      "en": "Ashaghi Yemazli",
+      "slug": "ashaghi-yemazli"
+    },
+    "code": {
+      "id": "AZ604024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.203",
+      "lon": "46.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babaylı",
+      "en": "Babayli",
+      "slug": "babayli"
+    },
+    "code": {
+      "id": "AZ604016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.17",
+      "lon": "46.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baharlı",
+      "en": "Baharli",
+      "slug": "baharli"
+    },
+    "code": {
+      "id": "AZ604069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.019",
+      "lon": "46.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bartaz",
+      "en": "Bartaz",
+      "slug": "bartaz"
+    },
+    "code": {
+      "id": "AZ604075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.981",
+      "lon": "46.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bartaz",
+      "en": "Bartaz",
+      "slug": "bartaz"
+    },
+    "code": {
+      "id": "AZ604080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.956",
+      "lon": "46.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beşdəli",
+      "en": "Beshdali",
+      "slug": "beshdali"
+    },
+    "code": {
+      "id": "AZ604045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.097",
+      "lon": "46.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Ağalı",
+      "en": "Birinji Aghali",
+      "slug": "birinji-aghali"
+    },
+    "code": {
+      "id": "AZ604008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.185",
+      "lon": "46.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Alıbəyli",
+      "en": "Birinji Alibeyli",
+      "slug": "birinji-alibeyli"
+    },
+    "code": {
+      "id": "AZ604012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.163",
+      "lon": "46.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Gilətağ",
+      "en": "Boyuk Gilatagh",
+      "slug": "boyuk-gilatagh"
+    },
+    "code": {
+      "id": "AZ604029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.17",
+      "lon": "46.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bürünlü",
+      "en": "Burunlu",
+      "slug": "burunlu"
+    },
+    "code": {
+      "id": "AZ604038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.16",
+      "lon": "46.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çöpədərə",
+      "en": "Chopadere",
+      "slug": "chopadere"
+    },
+    "code": {
+      "id": "AZ604076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.006",
+      "lon": "46.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəlləkli",
+      "en": "Dallakli",
+      "slug": "dallakli"
+    },
+    "code": {
+      "id": "AZ604070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.988",
+      "lon": "46.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərə Gilətağ",
+      "en": "Dere Gilatagh",
+      "slug": "dere-gilatagh"
+    },
+    "code": {
+      "id": "AZ604035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.153",
+      "lon": "46.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərəli",
+      "en": "Dereli",
+      "slug": "dereli"
+    },
+    "code": {
+      "id": "AZ604084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.197",
+      "lon": "46.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradərə",
+      "en": "Garadere",
+      "slug": "garadere"
+    },
+    "code": {
+      "id": "AZ604067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.029",
+      "lon": "46.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaragöl",
+      "en": "Garagol",
+      "slug": "garagol"
+    },
+    "code": {
+      "id": "AZ604042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.124",
+      "lon": "46.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaragöz",
+      "en": "Garagoz",
+      "slug": "garagoz"
+    },
+    "code": {
+      "id": "AZ604068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.022",
+      "lon": "46.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarqulu",
+      "en": "Gargulu",
+      "slug": "gargulu"
+    },
+    "code": {
+      "id": "AZ604071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.976",
+      "lon": "46.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazançı",
+      "en": "Gazanchi",
+      "slug": "gazanchi"
+    },
+    "code": {
+      "id": "AZ604002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.186",
+      "lon": "46.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Genlik",
+      "en": "Genlik",
+      "slug": "genlik"
+    },
+    "code": {
+      "id": "AZ604047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.109",
+      "lon": "46.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qıraq Müşlan",
+      "en": "Girag Mushlan",
+      "slug": "girag-mushlan"
+    },
+    "code": {
+      "id": "AZ604057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.066",
+      "lon": "46.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günqışlaq",
+      "en": "Gungishlag",
+      "slug": "gungishlag"
+    },
+    "code": {
+      "id": "AZ604005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.166",
+      "lon": "46.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quyudərə Xəştab",
+      "en": "Guyudere Khashtab",
+      "slug": "guyudere-khashtab"
+    },
+    "code": {
+      "id": "AZ604028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.174",
+      "lon": "46.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacallı",
+      "en": "Hajalli",
+      "slug": "hajalli"
+    },
+    "code": {
+      "id": "AZ604021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.116",
+      "lon": "46.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həkəri",
+      "en": "Hakari",
+      "slug": "hakari"
+    },
+    "code": {
+      "id": "AZ604083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.124",
+      "lon": "46.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Havalı",
+      "en": "Havali",
+      "slug": "havali"
+    },
+    "code": {
+      "id": "AZ604019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.149",
+      "lon": "46.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İçəri Müşlan",
+      "en": "Icheri Mushlan",
+      "slug": "icheri-mushlan"
+    },
+    "code": {
+      "id": "AZ604054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.073",
+      "lon": "46.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Ağalı",
+      "en": "Ikinji Aghali",
+      "slug": "ikinji-aghali"
+    },
+    "code": {
+      "id": "AZ604009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.179",
+      "lon": "46.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Alıbəyli",
+      "en": "Ikinji Alibeyli",
+      "slug": "ikinji-alibeyli"
+    },
+    "code": {
+      "id": "AZ604013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.155",
+      "lon": "46.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsgəndərbəyli",
+      "en": "Isgandarbeyli",
+      "slug": "isgandarbeyli"
+    },
+    "code": {
+      "id": "AZ604030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.189",
+      "lon": "46.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cahangirbəyli",
+      "en": "Jahangirbeyli",
+      "slug": "jahangirbeyli"
+    },
+    "code": {
+      "id": "AZ604060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.053",
+      "lon": "46.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Canbar",
+      "en": "Janbar",
+      "slug": "janbar"
+    },
+    "code": {
+      "id": "AZ604006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.157",
+      "lon": "46.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keçikli",
+      "en": "Kechikli",
+      "slug": "kechikli"
+    },
+    "code": {
+      "id": "AZ604043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.098",
+      "lon": "46.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xumarlı",
+      "en": "Khumarli",
+      "slug": "khumarli"
+    },
+    "code": {
+      "id": "AZ604015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.144",
+      "lon": "46.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xurama",
+      "en": "Khurama",
+      "slug": "khurama"
+    },
+    "code": {
+      "id": "AZ604063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.086",
+      "lon": "46.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolluqışlaq",
+      "en": "Kollugishlag",
+      "slug": "kollugishlag"
+    },
+    "code": {
+      "id": "AZ604050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.068",
+      "lon": "46.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malatkeşin",
+      "en": "Malatkeshin",
+      "slug": "malatkeshin"
+    },
+    "code": {
+      "id": "AZ604048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.101",
+      "lon": "46.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikli",
+      "en": "Malikli",
+      "slug": "malikli"
+    },
+    "code": {
+      "id": "AZ604055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.072",
+      "lon": "46.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədbəyli",
+      "en": "Mammadbeyli",
+      "slug": "mammadbeyli"
+    },
+    "code": {
+      "id": "AZ604017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.161",
+      "lon": "46.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədiismayıllı",
+      "en": "Mashadiismayilli",
+      "slug": "mashadiismayilli"
+    },
+    "code": {
+      "id": "AZ604052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.069",
+      "lon": "46.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mincivan",
+      "en": "Minjivan",
+      "slug": "minjivan"
+    },
+    "code": {
+      "id": "AZ604079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.03",
+      "lon": "46.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəhəsənli",
+      "en": "Mirzahasanli",
+      "slug": "mirzahasanli"
+    },
+    "code": {
+      "id": "AZ604033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.156",
+      "lon": "46.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ604031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.158",
+      "lon": "46.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ604062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.092",
+      "lon": "46.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəcəflər",
+      "en": "Najaflar",
+      "slug": "najaflar"
+    },
+    "code": {
+      "id": "AZ604077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.115",
+      "lon": "46.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ördəkli",
+      "en": "Ordakli",
+      "slug": "ordakli"
+    },
+    "code": {
+      "id": "AZ604066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.039",
+      "lon": "46.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Yeməzli",
+      "en": "Orta Yemazli",
+      "slug": "orta-yemazli"
+    },
+    "code": {
+      "id": "AZ604026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.196",
+      "lon": "46.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirveys",
+      "en": "Pirveys",
+      "slug": "pirveys"
+    },
+    "code": {
+      "id": "AZ604004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.162",
+      "lon": "46.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəbənd",
+      "en": "Raband",
+      "slug": "raband"
+    },
+    "code": {
+      "id": "AZ604011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.174",
+      "lon": "46.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəzdərə",
+      "en": "Razdere",
+      "slug": "razdere"
+    },
+    "code": {
+      "id": "AZ604051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.066",
+      "lon": "46.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıqışlaq",
+      "en": "Sarigishlag",
+      "slug": "sarigishlag"
+    },
+    "code": {
+      "id": "AZ604046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.111",
+      "lon": "46.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıl",
+      "en": "Saril",
+      "slug": "saril"
+    },
+    "code": {
+      "id": "AZ604014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.152",
+      "lon": "46.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarılı Xəştab",
+      "en": "Sarili Khashtab",
+      "slug": "sarili-khashtab"
+    },
+    "code": {
+      "id": "AZ604025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.211",
+      "lon": "46.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidlər",
+      "en": "Seyidlar",
+      "slug": "seyidlar"
+    },
+    "code": {
+      "id": "AZ604037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.199",
+      "lon": "46.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəfibəyli",
+      "en": "Shafibeyli",
+      "slug": "shafibeyli"
+    },
+    "code": {
+      "id": "AZ604053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.066",
+      "lon": "46.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şamlı",
+      "en": "Shamli",
+      "slug": "shamli"
+    },
+    "code": {
+      "id": "AZ604036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.149",
+      "lon": "46.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şərifan",
+      "en": "Sharifan",
+      "slug": "sharifan"
+    },
+    "code": {
+      "id": "AZ604020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.134",
+      "lon": "46.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şərikan",
+      "en": "Sharikan",
+      "slug": "sharikan"
+    },
+    "code": {
+      "id": "AZ604078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.177",
+      "lon": "46.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şatarız",
+      "en": "Shatariz",
+      "slug": "shatariz"
+    },
+    "code": {
+      "id": "AZ604044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.09",
+      "lon": "46.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şayıflı",
+      "en": "Shayifli",
+      "slug": "shayifli"
+    },
+    "code": {
+      "id": "AZ604039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.138",
+      "lon": "46.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sobu",
+      "en": "Sobu",
+      "slug": "sobu"
+    },
+    "code": {
+      "id": "AZ604065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.03",
+      "lon": "46.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tağlı",
+      "en": "Taghli",
+      "slug": "taghli"
+    },
+    "code": {
+      "id": "AZ604085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.125",
+      "lon": "46.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatar",
+      "en": "Tatar",
+      "slug": "tatar"
+    },
+    "code": {
+      "id": "AZ604059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.059",
+      "lon": "46.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tiri",
+      "en": "Tiri",
+      "slug": "tiri"
+    },
+    "code": {
+      "id": "AZ604064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.035",
+      "lon": "46.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Turabad",
+      "en": "Turabad",
+      "slug": "turabad"
+    },
+    "code": {
+      "id": "AZ604061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.044",
+      "lon": "46.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçüncü Ağalı",
+      "en": "Uchunju Aghali",
+      "slug": "uchunju-aghali"
+    },
+    "code": {
+      "id": "AZ604010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.175",
+      "lon": "46.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üdgün",
+      "en": "Udgun",
+      "slug": "udgun"
+    },
+    "code": {
+      "id": "AZ604058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.056",
+      "lon": "46.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vəliqulubəyli",
+      "en": "Valigulubeyli",
+      "slug": "valigulubeyli"
+    },
+    "code": {
+      "id": "AZ604081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.028",
+      "lon": "46.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vənədli",
+      "en": "Vanadli",
+      "slug": "vanadli"
+    },
+    "code": {
+      "id": "AZ604034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.153",
+      "lon": "46.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vejnəli",
+      "en": "Vezhnali",
+      "slug": "vezhnali"
+    },
+    "code": {
+      "id": "AZ604073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.931",
+      "lon": "46.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ604007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.19",
+      "lon": "46.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Gəyəli",
+      "en": "Yukhari Gayali",
+      "slug": "yukhari-gayali"
+    },
+    "code": {
+      "id": "AZ604003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.182",
+      "lon": "46.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Yeməzli",
+      "en": "Yukhari Yemazli",
+      "slug": "yukhari-yemazli"
+    },
+    "code": {
+      "id": "AZ604027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.194",
+      "lon": "46.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yusiflər",
+      "en": "Yusiflar",
+      "slug": "yusiflar"
+    },
+    "code": {
+      "id": "AZ604041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.121",
+      "lon": "46.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    },
+    "code": {
+      "id": "AZ604056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.068",
+      "lon": "46.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ZƏNGİLAN",
+      "en": "ZANGILAN",
+      "slug": "zangilan"
+    },
+    "code": {
+      "id": "AZ604049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.082",
+      "lon": "46.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ604018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərnəli",
+      "en": "Zarnali",
+      "slug": "zarnali"
+    },
+    "code": {
+      "id": "AZ604018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ604",
+        "level": 1,
+        "name": {
+          "local": "Zəngilan",
+          "en": "Zangilan",
+          "slug": "zangilan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.151",
+      "lon": "46.826"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

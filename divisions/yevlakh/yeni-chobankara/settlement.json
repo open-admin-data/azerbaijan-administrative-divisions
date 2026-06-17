@@ -1,0 +1,45 @@
+{
+  "id": "AZ901038",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeni Çobankərə",
+    "en": "Yeni Chobankara",
+    "slug": "yeni-chobankara"
+  },
+  "code": {
+    "id": "AZ901038",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ901",
+    "level": 1,
+    "name": {
+      "local": "Yevlax",
+      "en": "Yevlakh",
+      "slug": "yevlakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ901",
+      "level": 1,
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.587",
+    "lon": "47.038"
+  },
+  "metadata": {},
+  "source": {}
+}

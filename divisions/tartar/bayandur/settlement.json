@@ -1,0 +1,45 @@
+{
+  "id": "AZ611040",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bayandur",
+    "en": "Bayandur",
+    "slug": "bayandur"
+  },
+  "code": {
+    "id": "AZ611040",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ611",
+    "level": 1,
+    "name": {
+      "local": "Tərtər",
+      "en": "Tartar",
+      "slug": "tartar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.332",
+    "lon": "46.995"
+  },
+  "metadata": {},
+  "source": {}
+}

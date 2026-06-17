@@ -1,0 +1,3107 @@
+[
+  {
+    "id": "AZ304007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağalıq",
+      "en": "Aghalig",
+      "slug": "aghalig"
+    },
+    "code": {
+      "id": "AZ304007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.33",
+      "lon": "48.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbaş",
+      "en": "Aghbash",
+      "slug": "aghbash"
+    },
+    "code": {
+      "id": "AZ304051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.113",
+      "lon": "49.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmirxanlı",
+      "en": "Amirkhanli",
+      "slug": "amirkhanli"
+    },
+    "code": {
+      "id": "AZ304041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.128",
+      "lon": "48.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəblər",
+      "en": "Arablar",
+      "slug": "arablar"
+    },
+    "code": {
+      "id": "AZ304062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.275",
+      "lon": "48.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aygünlü",
+      "en": "Aygunlu",
+      "slug": "aygunlu"
+    },
+    "code": {
+      "id": "AZ304015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.296",
+      "lon": "48.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilici Qorğan",
+      "en": "Biliji Gorghan",
+      "slug": "biliji-gorghan"
+    },
+    "code": {
+      "id": "AZ304028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.164",
+      "lon": "48.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Borbor",
+      "en": "Borbor",
+      "slug": "borbor"
+    },
+    "code": {
+      "id": "AZ304009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.316",
+      "lon": "48.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaraq",
+      "en": "Charag",
+      "slug": "charag"
+    },
+    "code": {
+      "id": "AZ304047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.08",
+      "lon": "48.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çayqaraqaşlı",
+      "en": "Chaygaragashli",
+      "slug": "chaygaragashli"
+    },
+    "code": {
+      "id": "AZ304058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.379",
+      "lon": "49.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çinarlar",
+      "en": "Chinarlar",
+      "slug": "chinarlar"
+    },
+    "code": {
+      "id": "AZ304033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.132",
+      "lon": "48.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çölquşçu",
+      "en": "Cholgushchu",
+      "slug": "cholgushchu"
+    },
+    "code": {
+      "id": "AZ304049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.335",
+      "lon": "49.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çovurar",
+      "en": "Chovurar",
+      "slug": "chovurar"
+    },
+    "code": {
+      "id": "AZ304063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.954",
+      "lon": "48.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çuxurazəmi",
+      "en": "Chukhurazami",
+      "slug": "chukhurazami"
+    },
+    "code": {
+      "id": "AZ304003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.967",
+      "lon": "48.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağ Bilici",
+      "en": "Dagh Biliji",
+      "slug": "dagh-biliji"
+    },
+    "code": {
+      "id": "AZ304021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.212",
+      "lon": "48.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşlıyataq",
+      "en": "Dashliyatag",
+      "slug": "dashliyatag"
+    },
+    "code": {
+      "id": "AZ304052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.335",
+      "lon": "48.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəvəçi",
+      "en": "Davachi",
+      "slug": "davachi"
+    },
+    "code": {
+      "id": "AZ304038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.238",
+      "lon": "48.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəhnə",
+      "en": "Dehne",
+      "slug": "dehne"
+    },
+    "code": {
+      "id": "AZ304005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.046",
+      "lon": "48.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düz Bilici",
+      "en": "Duz Biliji",
+      "slug": "duz-biliji"
+    },
+    "code": {
+      "id": "AZ304029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.159",
+      "lon": "48.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qələgah",
+      "en": "Galagah",
+      "slug": "galagah"
+    },
+    "code": {
+      "id": "AZ304020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.217",
+      "lon": "48.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəndov",
+      "en": "Gandov",
+      "slug": "gandov"
+    },
+    "code": {
+      "id": "AZ304014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.258",
+      "lon": "48.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraçaylı",
+      "en": "Garachayli",
+      "slug": "garachayli"
+    },
+    "code": {
+      "id": "AZ304056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.366",
+      "lon": "48.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəriblik",
+      "en": "Gariblik",
+      "slug": "gariblik"
+    },
+    "code": {
+      "id": "AZ304004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.951",
+      "lon": "48.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazbabalı",
+      "en": "Gazbabali",
+      "slug": "gazbabali"
+    },
+    "code": {
+      "id": "AZ304042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.119",
+      "lon": "48.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılqazma",
+      "en": "Gizilgazma",
+      "slug": "gizilgazma"
+    },
+    "code": {
+      "id": "AZ304002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.963",
+      "lon": "48.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qorğan",
+      "en": "Gorghan",
+      "slug": "gorghan"
+    },
+    "code": {
+      "id": "AZ304027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.17",
+      "lon": "48.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güləh",
+      "en": "Gulah",
+      "slug": "gulah"
+    },
+    "code": {
+      "id": "AZ304061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.07",
+      "lon": "48.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ304006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.32",
+      "lon": "48.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıqaraqaşlı",
+      "en": "Hajigaragashli",
+      "slug": "hajigaragashli"
+    },
+    "code": {
+      "id": "AZ304059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.337",
+      "lon": "49.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıiskəndərli",
+      "en": "Hajiiskandarli",
+      "slug": "hajiiskandarli"
+    },
+    "code": {
+      "id": "AZ304048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.075",
+      "lon": "48.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İzmara",
+      "en": "Izmara",
+      "slug": "izmara"
+    },
+    "code": {
+      "id": "AZ304065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.162",
+      "lon": "48.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ceyranlı",
+      "en": "Jeyranli",
+      "slug": "jeyranli"
+    },
+    "code": {
+      "id": "AZ304039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.15",
+      "lon": "48.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlfələr",
+      "en": "Khalfalar",
+      "slug": "khalfalar"
+    },
+    "code": {
+      "id": "AZ304034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.174",
+      "lon": "48.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlilli",
+      "en": "Khalilli",
+      "slug": "khalilli"
+    },
+    "code": {
+      "id": "AZ304013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.301",
+      "lon": "48.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xırdaoymaq",
+      "en": "Khirdaoymag",
+      "slug": "khirdaoymag"
+    },
+    "code": {
+      "id": "AZ304055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.368",
+      "lon": "48.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kilvar",
+      "en": "Kilvar",
+      "slug": "kilvar"
+    },
+    "code": {
+      "id": "AZ304031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.206",
+      "lon": "48.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kyünçal",
+      "en": "Kyunchal",
+      "slug": "kyunchal"
+    },
+    "code": {
+      "id": "AZ304045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.083",
+      "lon": "48.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləcədi",
+      "en": "Lajadi",
+      "slug": "lajadi"
+    },
+    "code": {
+      "id": "AZ304019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.227",
+      "lon": "48.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leyti",
+      "en": "Leyti",
+      "slug": "leyti"
+    },
+    "code": {
+      "id": "AZ304018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.242",
+      "lon": "48.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Liman",
+      "en": "Liman",
+      "slug": "liman"
+    },
+    "code": {
+      "id": "AZ304068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.263",
+      "lon": "48.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məliklər",
+      "en": "Maliklar",
+      "slug": "maliklar"
+    },
+    "code": {
+      "id": "AZ304012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.279",
+      "lon": "48.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meytablı",
+      "en": "Meytabli",
+      "slug": "meytabli"
+    },
+    "code": {
+      "id": "AZ304064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.328",
+      "lon": "48.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollakamallı",
+      "en": "Mollakamalli",
+      "slug": "mollakamalli"
+    },
+    "code": {
+      "id": "AZ304066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.247",
+      "lon": "48.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mumlu",
+      "en": "Mumlu",
+      "slug": "mumlu"
+    },
+    "code": {
+      "id": "AZ304022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.211",
+      "lon": "48.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nohurlar",
+      "en": "Nohurlar",
+      "slug": "nohurlar"
+    },
+    "code": {
+      "id": "AZ304069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.102",
+      "lon": "48.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Padar",
+      "en": "Padar",
+      "slug": "padar"
+    },
+    "code": {
+      "id": "AZ304008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.317",
+      "lon": "48.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəbədil",
+      "en": "Pirabadil",
+      "slug": "pirabadil"
+    },
+    "code": {
+      "id": "AZ304024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.207",
+      "lon": "48.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəmsən",
+      "en": "Piramsan",
+      "slug": "piramsan"
+    },
+    "code": {
+      "id": "AZ304017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.271",
+      "lon": "48.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəhimli",
+      "en": "Rahimli",
+      "slug": "rahimli"
+    },
+    "code": {
+      "id": "AZ304010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.314",
+      "lon": "48.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarvan",
+      "en": "Sarvan",
+      "slug": "sarvan"
+    },
+    "code": {
+      "id": "AZ304050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.285",
+      "lon": "49.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ŞABRAN",
+      "en": "SHABRAN",
+      "slug": "shabran"
+    },
+    "code": {
+      "id": "AZ304036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.197",
+      "lon": "49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahnəzərli",
+      "en": "Shahnazarli",
+      "slug": "shahnazarli"
+    },
+    "code": {
+      "id": "AZ304016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.287",
+      "lon": "48.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sincanboyad",
+      "en": "Sinjanboyad",
+      "slug": "sinjanboyad"
+    },
+    "code": {
+      "id": "AZ304037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.217",
+      "lon": "48.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Söhbətli",
+      "en": "Sohbatli",
+      "slug": "sohbatli"
+    },
+    "code": {
+      "id": "AZ304053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.362",
+      "lon": "48.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sumağava",
+      "en": "Sumaghava",
+      "slug": "sumaghava"
+    },
+    "code": {
+      "id": "AZ304025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.203",
+      "lon": "48.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sumağava Qazma",
+      "en": "Sumaghava Gazma",
+      "slug": "sumaghava-gazma"
+    },
+    "code": {
+      "id": "AZ304026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.189",
+      "lon": "48.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Surra",
+      "en": "Surra",
+      "slug": "surra"
+    },
+    "code": {
+      "id": "AZ304035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.181",
+      "lon": "48.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Taxtalar",
+      "en": "Takhtalar",
+      "slug": "takhtalar"
+    },
+    "code": {
+      "id": "AZ304060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.197",
+      "lon": "48.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təkyə",
+      "en": "Takya",
+      "slug": "takya"
+    },
+    "code": {
+      "id": "AZ304046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.079",
+      "lon": "48.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ304054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.347",
+      "lon": "48.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Udulu",
+      "en": "Udulu",
+      "slug": "udulu"
+    },
+    "code": {
+      "id": "AZ304057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.34",
+      "lon": "48.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uqah",
+      "en": "Ugah",
+      "slug": "ugah"
+    },
+    "code": {
+      "id": "AZ304044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.089",
+      "lon": "48.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üzümlü",
+      "en": "Uzumlu",
+      "slug": "uzumlu"
+    },
+    "code": {
+      "id": "AZ304043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.144",
+      "lon": "48.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uzunboyad",
+      "en": "Uzunboyad",
+      "slug": "uzunboyad"
+    },
+    "code": {
+      "id": "AZ304011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.29",
+      "lon": "48.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vələsli",
+      "en": "Valasli",
+      "slug": "valasli"
+    },
+    "code": {
+      "id": "AZ304040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.141",
+      "lon": "48.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeləkəsən",
+      "en": "Yelakasan",
+      "slug": "yelakasan"
+    },
+    "code": {
+      "id": "AZ304067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.165",
+      "lon": "48.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zağlı",
+      "en": "Zaghli",
+      "slug": "zaghli"
+    },
+    "code": {
+      "id": "AZ304030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.149",
+      "lon": "48.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zeyvə",
+      "en": "Zeyva",
+      "slug": "zeyva"
+    },
+    "code": {
+      "id": "AZ304032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.197",
+      "lon": "48.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zöhrabkənd",
+      "en": "Zohrabkend",
+      "slug": "zohrabkend"
+    },
+    "code": {
+      "id": "AZ304001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.975",
+      "lon": "48.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ304023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zöhramı",
+      "en": "Zohrami",
+      "slug": "zohrami"
+    },
+    "code": {
+      "id": "AZ304023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ304",
+        "level": 1,
+        "name": {
+          "local": "Şabran",
+          "en": "Shabran",
+          "slug": "shabran"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.218",
+      "lon": "48.811"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

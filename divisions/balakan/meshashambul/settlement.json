@@ -1,0 +1,45 @@
+{
+  "id": "AZ401024",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Meşəşambul",
+    "en": "Meshashambul",
+    "slug": "meshashambul"
+  },
+  "code": {
+    "id": "AZ401024",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ401",
+    "level": 1,
+    "name": {
+      "local": "Balakən",
+      "en": "Balakan",
+      "slug": "balakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.707",
+    "lon": "46.284"
+  },
+  "metadata": {},
+  "source": {}
+}

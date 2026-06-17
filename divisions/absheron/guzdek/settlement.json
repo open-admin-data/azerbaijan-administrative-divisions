@@ -1,0 +1,45 @@
+{
+  "id": "AZ308009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Güzdək",
+    "en": "Guzdek",
+    "slug": "guzdek"
+  },
+  "code": {
+    "id": "AZ308009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ308",
+    "level": 1,
+    "name": {
+      "local": "Abşeron",
+      "en": "Absheron",
+      "slug": "absheron"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.372",
+    "lon": "49.677"
+  },
+  "metadata": {},
+  "source": {}
+}

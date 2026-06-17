@@ -1,0 +1,45 @@
+{
+  "id": "AZ801010",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şıxəməhlə",
+    "en": "Shikhamahla",
+    "slug": "shikhamahla"
+  },
+  "code": {
+    "id": "AZ801010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ801",
+    "level": 1,
+    "name": {
+      "local": "Astara",
+      "en": "Astara",
+      "slug": "astara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.573",
+    "lon": "48.794"
+  },
+  "metadata": {},
+  "source": {}
+}

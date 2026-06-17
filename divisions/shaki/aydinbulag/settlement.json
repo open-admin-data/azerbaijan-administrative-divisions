@@ -1,0 +1,45 @@
+{
+  "id": "AZ404056",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aydınbulaq",
+    "en": "Aydinbulag",
+    "slug": "aydinbulag"
+  },
+  "code": {
+    "id": "AZ404056",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.992",
+    "lon": "47.283"
+  },
+  "metadata": {},
+  "source": {}
+}

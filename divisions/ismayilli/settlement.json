@@ -1,0 +1,4862 @@
+[
+  {
+    "id": "AZ407040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbulaq",
+      "en": "Aghbulag",
+      "slug": "aghbulag"
+    },
+    "code": {
+      "id": "AZ407040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.711",
+      "lon": "48.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhən",
+      "en": "Ahan",
+      "slug": "ahan"
+    },
+    "code": {
+      "id": "AZ407086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.853",
+      "lon": "48.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəkit",
+      "en": "Arakit",
+      "slug": "arakit"
+    },
+    "code": {
+      "id": "AZ407084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.85",
+      "lon": "48.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Zərnava",
+      "en": "Ashaghi Zarnava",
+      "slug": "ashaghi-zarnava"
+    },
+    "code": {
+      "id": "AZ407102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.622",
+      "lon": "48.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşıqbayramlı",
+      "en": "Ashigbayramli",
+      "slug": "ashigbayramli"
+    },
+    "code": {
+      "id": "AZ407028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.714",
+      "lon": "48.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əyyubbəyli",
+      "en": "Ayyubbeyli",
+      "slug": "ayyubbeyli"
+    },
+    "code": {
+      "id": "AZ407009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.626",
+      "lon": "48.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağəli",
+      "en": "Baghali",
+      "slug": "baghali"
+    },
+    "code": {
+      "id": "AZ407076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.85",
+      "lon": "48.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəhliyan",
+      "en": "Bahliyan",
+      "slug": "bahliyan"
+    },
+    "code": {
+      "id": "AZ407042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.673",
+      "lon": "48.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balik",
+      "en": "Balik",
+      "slug": "balik"
+    },
+    "code": {
+      "id": "AZ407099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.76",
+      "lon": "48.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Basqal",
+      "en": "Basgal",
+      "slug": "basgal"
+    },
+    "code": {
+      "id": "AZ407056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.75",
+      "lon": "48.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilistan",
+      "en": "Bilistan",
+      "slug": "bilistan"
+    },
+    "code": {
+      "id": "AZ407017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.664",
+      "lon": "48.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Yeniyol",
+      "en": "Birinji Yeniyol",
+      "slug": "birinji-yeniyol"
+    },
+    "code": {
+      "id": "AZ407065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.757",
+      "lon": "48.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bizlan",
+      "en": "Bizlan",
+      "slug": "bizlan"
+    },
+    "code": {
+      "id": "AZ407048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.721",
+      "lon": "48.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Burovdal",
+      "en": "Burovdal",
+      "slug": "burovdal"
+    },
+    "code": {
+      "id": "AZ407093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.941",
+      "lon": "48.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Buynuz",
+      "en": "Buynuz",
+      "slug": "buynuz"
+    },
+    "code": {
+      "id": "AZ407019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.917",
+      "lon": "48.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407107",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çəmənli",
+      "en": "Chamanli",
+      "slug": "chamanli"
+    },
+    "code": {
+      "id": "AZ407107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.867",
+      "lon": "47.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çəndahar",
+      "en": "Chandahar",
+      "slug": "chandahar"
+    },
+    "code": {
+      "id": "AZ407091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.917",
+      "lon": "48.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çərmədil",
+      "en": "Charmadil",
+      "slug": "charmadil"
+    },
+    "code": {
+      "id": "AZ407103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.564",
+      "lon": "48.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çayqovuşan",
+      "en": "Chaygovushan",
+      "slug": "chaygovushan"
+    },
+    "code": {
+      "id": "AZ407021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.936",
+      "lon": "48.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dahar",
+      "en": "Dahar",
+      "slug": "dahar"
+    },
+    "code": {
+      "id": "AZ407080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.882",
+      "lon": "48.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diyallı",
+      "en": "Diyalli",
+      "slug": "diyalli"
+    },
+    "code": {
+      "id": "AZ407104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.768",
+      "lon": "48.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Duvaryan",
+      "en": "Duvaryan",
+      "slug": "duvaryan"
+    },
+    "code": {
+      "id": "AZ407090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.901",
+      "lon": "48.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407108",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elabad",
+      "en": "Elabad",
+      "slug": "elabad"
+    },
+    "code": {
+      "id": "AZ407108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.733",
+      "lon": "47.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Enişdibi",
+      "en": "Enishdibi",
+      "slug": "enishdibi"
+    },
+    "code": {
+      "id": "AZ407031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.735",
+      "lon": "48.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalagah",
+      "en": "Galagah",
+      "slug": "galagah"
+    },
+    "code": {
+      "id": "AZ407005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.714",
+      "lon": "47.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalacıq",
+      "en": "Galajig",
+      "slug": "galajig"
+    },
+    "code": {
+      "id": "AZ407022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.958",
+      "lon": "48.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalınçaq",
+      "en": "Galinchag",
+      "slug": "galinchag"
+    },
+    "code": {
+      "id": "AZ407094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.819",
+      "lon": "48.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəndov",
+      "en": "Gandov",
+      "slug": "gandov"
+    },
+    "code": {
+      "id": "AZ407105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.817",
+      "lon": "48.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gənzə",
+      "en": "Ganza",
+      "slug": "ganza"
+    },
+    "code": {
+      "id": "AZ407037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.68",
+      "lon": "48.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqaya",
+      "en": "Garagaya",
+      "slug": "garagaya"
+    },
+    "code": {
+      "id": "AZ407061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.784",
+      "lon": "48.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarakolluq",
+      "en": "Garakollug",
+      "slug": "garakollug"
+    },
+    "code": {
+      "id": "AZ407027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.704",
+      "lon": "48.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəraybəyli",
+      "en": "Garaybeyli",
+      "slug": "garaybeyli"
+    },
+    "code": {
+      "id": "AZ407010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.629",
+      "lon": "48.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qərsələ",
+      "en": "Garsala",
+      "slug": "garsala"
+    },
+    "code": {
+      "id": "AZ407100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.782",
+      "lon": "48.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qıçatan",
+      "en": "Gichatan",
+      "slug": "gichatan"
+    },
+    "code": {
+      "id": "AZ407049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.729",
+      "lon": "48.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gideyli",
+      "en": "Gideyli",
+      "slug": "gideyli"
+    },
+    "code": {
+      "id": "AZ407003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.748",
+      "lon": "47.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Girk",
+      "en": "Girk",
+      "slug": "girk"
+    },
+    "code": {
+      "id": "AZ407036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.68",
+      "lon": "48.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoşakənd",
+      "en": "Goshakend",
+      "slug": "goshakend"
+    },
+    "code": {
+      "id": "AZ407039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.71",
+      "lon": "48.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoydan",
+      "en": "Goydan",
+      "slug": "goydan"
+    },
+    "code": {
+      "id": "AZ407088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.885",
+      "lon": "48.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göytəpə",
+      "en": "Goytepe",
+      "slug": "goytepe"
+    },
+    "code": {
+      "id": "AZ407097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.785",
+      "lon": "48.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qubaxəlilli",
+      "en": "Gubakhalilli",
+      "slug": "gubakhalilli"
+    },
+    "code": {
+      "id": "AZ407016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.611",
+      "lon": "48.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qurbanəfəndi",
+      "en": "Gurbanafandi",
+      "slug": "gurbanafandi"
+    },
+    "code": {
+      "id": "AZ407071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.872",
+      "lon": "48.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşencə",
+      "en": "Gushenja",
+      "slug": "gushenja"
+    },
+    "code": {
+      "id": "AZ407032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.736",
+      "lon": "48.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güyüm",
+      "en": "Guyum",
+      "slug": "guyum"
+    },
+    "code": {
+      "id": "AZ407067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.783",
+      "lon": "48.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həftəsov",
+      "en": "Haftasov",
+      "slug": "haftasov"
+    },
+    "code": {
+      "id": "AZ407089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.884",
+      "lon": "48.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıhətəmli",
+      "en": "Hajihatamli",
+      "slug": "hajihatamli"
+    },
+    "code": {
+      "id": "AZ407007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.7",
+      "lon": "47.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hapıtlı",
+      "en": "Hapitli",
+      "slug": "hapitli"
+    },
+    "code": {
+      "id": "AZ407026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.694",
+      "lon": "48.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Yeniyol",
+      "en": "Ikinji Yeniyol",
+      "slug": "ikinji-yeniyol"
+    },
+    "code": {
+      "id": "AZ407064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.757",
+      "lon": "48.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İSMAYILLI",
+      "en": "ISMAYILLI",
+      "slug": "ismayilli"
+    },
+    "code": {
+      "id": "AZ407098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.785",
+      "lon": "48.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İstisu",
+      "en": "Istisu",
+      "slug": "istisu"
+    },
+    "code": {
+      "id": "AZ407020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.942",
+      "lon": "48.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İvanovka",
+      "en": "Ivanovka",
+      "slug": "ivanovka"
+    },
+    "code": {
+      "id": "AZ407030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.747",
+      "lon": "48.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cülyan",
+      "en": "Julyan",
+      "slug": "julyan"
+    },
+    "code": {
+      "id": "AZ407069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.813",
+      "lon": "48.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kələzeyvə",
+      "en": "Kalazeyva",
+      "slug": "kalazeyva"
+    },
+    "code": {
+      "id": "AZ407051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.755",
+      "lon": "48.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəlbənd",
+      "en": "Kalband",
+      "slug": "kalband"
+    },
+    "code": {
+      "id": "AZ407014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.663",
+      "lon": "48.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəlfərəc",
+      "en": "Kalfaraj",
+      "slug": "kalfaraj"
+    },
+    "code": {
+      "id": "AZ407058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.773",
+      "lon": "48.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kənəə",
+      "en": "Kanaa",
+      "slug": "kanaa"
+    },
+    "code": {
+      "id": "AZ407106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.838",
+      "lon": "48.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keşxurt",
+      "en": "Keshkhurt",
+      "slug": "keshkhurt"
+    },
+    "code": {
+      "id": "AZ407015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.661",
+      "lon": "48.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keyvəndi",
+      "en": "Keyvandi",
+      "slug": "keyvandi"
+    },
+    "code": {
+      "id": "AZ407043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.69",
+      "lon": "48.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlilli",
+      "en": "Khalilli",
+      "slug": "khalilli"
+    },
+    "code": {
+      "id": "AZ407011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.617",
+      "lon": "48.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanagah",
+      "en": "Khanagah",
+      "slug": "khanagah"
+    },
+    "code": {
+      "id": "AZ407070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.844",
+      "lon": "48.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xankəndi",
+      "en": "Khankendi",
+      "slug": "khankendi"
+    },
+    "code": {
+      "id": "AZ407053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.757",
+      "lon": "48.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ximran",
+      "en": "Khimran",
+      "slug": "khimran"
+    },
+    "code": {
+      "id": "AZ407087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.866",
+      "lon": "48.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnədaxar",
+      "en": "Kohnedakhar",
+      "slug": "kohnedakhar"
+    },
+    "code": {
+      "id": "AZ407072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.811",
+      "lon": "48.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Külüllü",
+      "en": "Kulullu",
+      "slug": "kulullu"
+    },
+    "code": {
+      "id": "AZ407012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.602",
+      "lon": "48.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürd Eldarbəyli",
+      "en": "Kurd Eldarbeyli",
+      "slug": "kurd-eldarbeyli"
+    },
+    "code": {
+      "id": "AZ407002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.761",
+      "lon": "47.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdmaşı",
+      "en": "Kurdmashi",
+      "slug": "kurdmashi"
+    },
+    "code": {
+      "id": "AZ407013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.672",
+      "lon": "48.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdüvan",
+      "en": "Kurduvan",
+      "slug": "kurduvan"
+    },
+    "code": {
+      "id": "AZ407054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.753",
+      "lon": "48.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lahıc",
+      "en": "Lahij",
+      "slug": "lahij"
+    },
+    "code": {
+      "id": "AZ407085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.845",
+      "lon": "48.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maçaxı",
+      "en": "Machakhi",
+      "slug": "machakhi"
+    },
+    "code": {
+      "id": "AZ407101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.749",
+      "lon": "48.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mingə",
+      "en": "Minga",
+      "slug": "minga"
+    },
+    "code": {
+      "id": "AZ407044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.708",
+      "lon": "48.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollaisaqlı",
+      "en": "Mollaisagli",
+      "slug": "mollaisagli"
+    },
+    "code": {
+      "id": "AZ407008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.681",
+      "lon": "47.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müdri",
+      "en": "Mudri",
+      "slug": "mudri"
+    },
+    "code": {
+      "id": "AZ407082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.872",
+      "lon": "48.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müdrisə",
+      "en": "Mudrisa",
+      "slug": "mudrisa"
+    },
+    "code": {
+      "id": "AZ407077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.862",
+      "lon": "48.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mücü",
+      "en": "Muju",
+      "slug": "muju"
+    },
+    "code": {
+      "id": "AZ407059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.783",
+      "lon": "48.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mücühəftəran",
+      "en": "Mujuhaftaran",
+      "slug": "mujuhaftaran"
+    },
+    "code": {
+      "id": "AZ407096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.797",
+      "lon": "48.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mulux",
+      "en": "Mulukh",
+      "slug": "mulukh"
+    },
+    "code": {
+      "id": "AZ407078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.87",
+      "lon": "48.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müşkəmir",
+      "en": "Mushkamir",
+      "slug": "mushkamir"
+    },
+    "code": {
+      "id": "AZ407073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.82",
+      "lon": "48.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Namazgah",
+      "en": "Namazgah",
+      "slug": "namazgah"
+    },
+    "code": {
+      "id": "AZ407074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.835",
+      "lon": "48.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nanıc",
+      "en": "Nanij",
+      "slug": "nanij"
+    },
+    "code": {
+      "id": "AZ407081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.889",
+      "lon": "48.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəbülqasım",
+      "en": "Pirabulgasim",
+      "slug": "pirabulgasim"
+    },
+    "code": {
+      "id": "AZ407045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.694",
+      "lon": "48.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəqanım",
+      "en": "Piraganim",
+      "slug": "piraganim"
+    },
+    "code": {
+      "id": "AZ407075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.852",
+      "lon": "48.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ruşan",
+      "en": "Rushan",
+      "slug": "rushan"
+    },
+    "code": {
+      "id": "AZ407095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.802",
+      "lon": "48.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sədiyan",
+      "en": "Sadiyan",
+      "slug": "sadiyan"
+    },
+    "code": {
+      "id": "AZ407066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.778",
+      "lon": "48.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərdahar",
+      "en": "Sardahar",
+      "slug": "sardahar"
+    },
+    "code": {
+      "id": "AZ407060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.776",
+      "lon": "48.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərsurə",
+      "en": "Sarsura",
+      "slug": "sarsura"
+    },
+    "code": {
+      "id": "AZ407050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.749",
+      "lon": "48.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəbiyan",
+      "en": "Shabiyan",
+      "slug": "shabiyan"
+    },
+    "code": {
+      "id": "AZ407041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.687",
+      "lon": "48.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şirvanmeşə",
+      "en": "Shirvanmesha",
+      "slug": "shirvanmesha"
+    },
+    "code": {
+      "id": "AZ407023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.891",
+      "lon": "48.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şükürçü",
+      "en": "Shukurchu",
+      "slug": "shukurchu"
+    },
+    "code": {
+      "id": "AZ407035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.692",
+      "lon": "48.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soltankənd",
+      "en": "Soltankend",
+      "slug": "soltankend"
+    },
+    "code": {
+      "id": "AZ407006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.702",
+      "lon": "47.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sulut",
+      "en": "Sulut",
+      "slug": "sulut"
+    },
+    "code": {
+      "id": "AZ407052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.764",
+      "lon": "48.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sumağallı",
+      "en": "Sumaghalli",
+      "slug": "sumaghalli"
+    },
+    "code": {
+      "id": "AZ407018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.916",
+      "lon": "48.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tağlabiyan",
+      "en": "Taghlabiyan",
+      "slug": "taghlabiyan"
+    },
+    "code": {
+      "id": "AZ407057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.772",
+      "lon": "48.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talış",
+      "en": "Talish",
+      "slug": "talish"
+    },
+    "code": {
+      "id": "AZ407029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.729",
+      "lon": "48.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talıstan",
+      "en": "Talistan",
+      "slug": "talistan"
+    },
+    "code": {
+      "id": "AZ407068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.796",
+      "lon": "48.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ407063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.74",
+      "lon": "48.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tircan",
+      "en": "Tirjan",
+      "slug": "tirjan"
+    },
+    "code": {
+      "id": "AZ407046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.737",
+      "lon": "48.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Topçu",
+      "en": "Topchu",
+      "slug": "topchu"
+    },
+    "code": {
+      "id": "AZ407024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.874",
+      "lon": "48.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tubukənd",
+      "en": "Tubukend",
+      "slug": "tubukend"
+    },
+    "code": {
+      "id": "AZ407038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.706",
+      "lon": "48.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uştal",
+      "en": "Ushtal",
+      "slug": "ushtal"
+    },
+    "code": {
+      "id": "AZ407004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.708",
+      "lon": "47.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uştalqışlaq",
+      "en": "Ushtalgishlag",
+      "slug": "ushtalgishlag"
+    },
+    "code": {
+      "id": "AZ407025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.679",
+      "lon": "47.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vəng",
+      "en": "Vang",
+      "slug": "vang"
+    },
+    "code": {
+      "id": "AZ407001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.809",
+      "lon": "47.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vaşa",
+      "en": "Vasha",
+      "slug": "vasha"
+    },
+    "code": {
+      "id": "AZ407083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.872",
+      "lon": "48.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ407034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.698",
+      "lon": "48.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Cülyan",
+      "en": "Yukhari Julyan",
+      "slug": "yukhari-julyan"
+    },
+    "code": {
+      "id": "AZ407079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.877",
+      "lon": "48.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zarat",
+      "en": "Zarat",
+      "slug": "zarat"
+    },
+    "code": {
+      "id": "AZ407092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.923",
+      "lon": "48.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərgəran",
+      "en": "Zargaran",
+      "slug": "zargaran"
+    },
+    "code": {
+      "id": "AZ407047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.734",
+      "lon": "48.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərnava",
+      "en": "Zarnava",
+      "slug": "zarnava"
+    },
+    "code": {
+      "id": "AZ407062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.8",
+      "lon": "48.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zeyvə",
+      "en": "Zeyva",
+      "slug": "zeyva"
+    },
+    "code": {
+      "id": "AZ407055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.752",
+      "lon": "48.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ407033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zoğallıq",
+      "en": "Zoghallig",
+      "slug": "zoghallig"
+    },
+    "code": {
+      "id": "AZ407033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ407",
+        "level": 1,
+        "name": {
+          "local": "İsmayıllı",
+          "en": "Ismayilli",
+          "slug": "ismayilli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.721",
+      "lon": "48.108"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "AZ701051",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Yemişcan",
+    "en": "Yukhari Yemishjan",
+    "slug": "yukhari-yemishjan"
+  },
+  "code": {
+    "id": "AZ701051",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ701",
+    "level": 1,
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.742",
+    "lon": "46.835"
+  },
+  "metadata": {},
+  "source": {}
+}

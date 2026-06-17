@@ -1,0 +1,33 @@
+{
+  "id": "AZ508",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Göygöl",
+    "en": "Goygol",
+    "slug": "goygol"
+  },
+  "code": {
+    "id": "AZ508",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.58",
+    "lon": "46.309"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/goygol/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

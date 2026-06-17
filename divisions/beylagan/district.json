@@ -1,0 +1,33 @@
+{
+  "id": "AZ607",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Beyləqan",
+    "en": "Beylagan",
+    "slug": "beylagan"
+  },
+  "code": {
+    "id": "AZ607",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.76",
+    "lon": "47.692"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/beylagan/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

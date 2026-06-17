@@ -1,0 +1,33 @@
+{
+  "id": "AZ1003",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xəzər",
+    "en": "Khazar",
+    "slug": "khazar"
+  },
+  "code": {
+    "id": "AZ1003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.451",
+    "lon": "50.17"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/khazar/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

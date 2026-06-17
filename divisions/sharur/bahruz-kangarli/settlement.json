@@ -1,0 +1,45 @@
+{
+  "id": "AZ102001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bəhruz Kəngərli",
+    "en": "Bahruz Kangarli",
+    "slug": "bahruz-kangarli"
+  },
+  "code": {
+    "id": "AZ102001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ102",
+    "level": 1,
+    "name": {
+      "local": "Şərur",
+      "en": "Sharur",
+      "slug": "sharur"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.58",
+    "lon": "45.028"
+  },
+  "metadata": {},
+  "source": {}
+}

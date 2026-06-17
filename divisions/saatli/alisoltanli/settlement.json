@@ -1,0 +1,45 @@
+{
+  "id": "AZ908011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əlisoltanlı",
+    "en": "Alisoltanli",
+    "slug": "alisoltanli"
+  },
+  "code": {
+    "id": "AZ908011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ908",
+    "level": 1,
+    "name": {
+      "local": "Saatlı",
+      "en": "Saatli",
+      "slug": "saatli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ908",
+      "level": 1,
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatli",
+        "slug": "saatli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.9",
+    "lon": "48.324"
+  },
+  "metadata": {},
+  "source": {}
+}

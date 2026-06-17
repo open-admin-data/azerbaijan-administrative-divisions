@@ -1,0 +1,45 @@
+{
+  "id": "AZ104005",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacıniyyət",
+    "en": "Hajiniyyat",
+    "slug": "hajiniyyat"
+  },
+  "code": {
+    "id": "AZ104005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ104",
+    "level": 1,
+    "name": {
+      "local": "Naxçıvan",
+      "en": "Nakhchivan",
+      "slug": "nakhchivan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.176",
+    "lon": "45.418"
+  },
+  "metadata": {},
+  "source": {}
+}

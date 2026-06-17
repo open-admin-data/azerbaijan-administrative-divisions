@@ -1,0 +1,45 @@
+{
+  "id": "AZ606018",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Seyidmahmudlu",
+    "en": "Seyidmahmudlu",
+    "slug": "seyidmahmudlu"
+  },
+  "code": {
+    "id": "AZ606018",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.606",
+    "lon": "47.209"
+  },
+  "metadata": {},
+  "source": {}
+}

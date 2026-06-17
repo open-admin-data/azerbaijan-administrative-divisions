@@ -1,0 +1,45 @@
+{
+  "id": "AZ303056",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Məckəxacə",
+    "en": "Majkakhaja",
+    "slug": "majkakhaja"
+  },
+  "code": {
+    "id": "AZ303056",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.24",
+    "lon": "48.56"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ504034",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dəllər Daşbulaq",
+    "en": "Dallar Dashbulag",
+    "slug": "dallar-dashbulag"
+  },
+  "code": {
+    "id": "AZ504034",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ504",
+    "level": 1,
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.903",
+    "lon": "46.043"
+  },
+  "metadata": {},
+  "source": {}
+}

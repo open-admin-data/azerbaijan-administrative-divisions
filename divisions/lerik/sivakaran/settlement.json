@@ -1,0 +1,45 @@
+{
+  "id": "AZ803111",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sivəkəran",
+    "en": "Sivakaran",
+    "slug": "sivakaran"
+  },
+  "code": {
+    "id": "AZ803111",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.754",
+    "lon": "48.614"
+  },
+  "metadata": {},
+  "source": {}
+}

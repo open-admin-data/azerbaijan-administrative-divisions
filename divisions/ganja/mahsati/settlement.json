@@ -1,0 +1,45 @@
+{
+  "id": "AZ2001002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Məhsəti",
+    "en": "Mahsati",
+    "slug": "mahsati"
+  },
+  "code": {
+    "id": "AZ2001002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ2001",
+    "level": 1,
+    "name": {
+      "local": "Gəncə",
+      "en": "Ganja",
+      "slug": "ganja"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ2001",
+      "level": 1,
+      "name": {
+        "local": "Gəncə",
+        "en": "Ganja",
+        "slug": "ganja"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.711",
+    "lon": "46.329"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,2657 @@
+[
+  {
+    "id": "AZ401056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abjit",
+      "en": "Abzhit",
+      "slug": "abzhit"
+    },
+    "code": {
+      "id": "AZ401056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.712",
+      "lon": "46.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağkilsə",
+      "en": "Aghkilsa",
+      "slug": "aghkilsa"
+    },
+    "code": {
+      "id": "AZ401030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.691",
+      "lon": "46.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Acılıqbinə",
+      "en": "Ajiligbina",
+      "slug": "ajiligbina"
+    },
+    "code": {
+      "id": "AZ401026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.678",
+      "lon": "46.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əyritala",
+      "en": "Ayritala",
+      "slug": "ayritala"
+    },
+    "code": {
+      "id": "AZ401013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.652",
+      "lon": "46.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "BALAKƏN",
+      "en": "BALAKAN",
+      "slug": "balakan"
+    },
+    "code": {
+      "id": "AZ401041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.722",
+      "lon": "46.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayrambinə",
+      "en": "Bayrambina",
+      "slug": "bayrambina"
+    },
+    "code": {
+      "id": "AZ401003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.656",
+      "lon": "46.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beçeqarbinə",
+      "en": "Bechegarbina",
+      "slug": "bechegarbina"
+    },
+    "code": {
+      "id": "AZ401008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.635",
+      "lon": "46.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bedağar",
+      "en": "Bedaghar",
+      "slug": "bedaghar"
+    },
+    "code": {
+      "id": "AZ401053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.696",
+      "lon": "46.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beretbinə",
+      "en": "Beretbina",
+      "slug": "beretbina"
+    },
+    "code": {
+      "id": "AZ401057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.644",
+      "lon": "46.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyüktala",
+      "en": "Boyuktala",
+      "slug": "boyuktala"
+    },
+    "code": {
+      "id": "AZ401054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.709",
+      "lon": "46.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çorçorbinə",
+      "en": "Chorchorbina",
+      "slug": "chorchorbina"
+    },
+    "code": {
+      "id": "AZ401047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.746",
+      "lon": "46.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Darvazbinə",
+      "en": "Darvazbina",
+      "slug": "darvazbina"
+    },
+    "code": {
+      "id": "AZ401006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.62",
+      "lon": "46.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qabaqçöl",
+      "en": "Gabagchol",
+      "slug": "gabagchol"
+    },
+    "code": {
+      "id": "AZ401052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.711",
+      "lon": "46.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qadaşbinə",
+      "en": "Gadashbina",
+      "slug": "gadashbina"
+    },
+    "code": {
+      "id": "AZ401015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.649",
+      "lon": "46.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qamıştala",
+      "en": "Gamishtala",
+      "slug": "gamishtala"
+    },
+    "code": {
+      "id": "AZ401018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.631",
+      "lon": "46.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarahacılı",
+      "en": "Garahajili",
+      "slug": "garahajili"
+    },
+    "code": {
+      "id": "AZ401010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.615",
+      "lon": "46.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaracabinə",
+      "en": "Garajabina",
+      "slug": "garajabina"
+    },
+    "code": {
+      "id": "AZ401020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.667",
+      "lon": "46.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gərəkli",
+      "en": "Garakli",
+      "slug": "garakli"
+    },
+    "code": {
+      "id": "AZ401001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.755",
+      "lon": "46.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaravəli",
+      "en": "Garavali",
+      "slug": "garavali"
+    },
+    "code": {
+      "id": "AZ401016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.644",
+      "lon": "46.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasbinə",
+      "en": "Gasbina",
+      "slug": "gasbina"
+    },
+    "code": {
+      "id": "AZ401002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.698",
+      "lon": "46.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaysa",
+      "en": "Gaysa",
+      "slug": "gaysa"
+    },
+    "code": {
+      "id": "AZ401055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.703",
+      "lon": "46.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazbölük",
+      "en": "Gazboluk",
+      "slug": "gazboluk"
+    },
+    "code": {
+      "id": "AZ401027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.681",
+      "lon": "46.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazma",
+      "en": "Gazma",
+      "slug": "gazma"
+    },
+    "code": {
+      "id": "AZ401037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.69",
+      "lon": "46.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyəmtala",
+      "en": "Goyamtala",
+      "slug": "goyamtala"
+    },
+    "code": {
+      "id": "AZ401059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.611",
+      "lon": "46.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyrüclük",
+      "en": "Goyrujluk",
+      "slug": "goyrujluk"
+    },
+    "code": {
+      "id": "AZ401045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.731",
+      "lon": "46.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qullar",
+      "en": "Gullar",
+      "slug": "gullar"
+    },
+    "code": {
+      "id": "AZ401042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.733",
+      "lon": "46.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülüzanbinə",
+      "en": "Guluzanbina",
+      "slug": "guluzanbina"
+    },
+    "code": {
+      "id": "AZ401005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.651",
+      "lon": "46.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hənifə",
+      "en": "Hanifa",
+      "slug": "hanifa"
+    },
+    "code": {
+      "id": "AZ401038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.709",
+      "lon": "46.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hetovlar",
+      "en": "Hetovlar",
+      "slug": "hetovlar"
+    },
+    "code": {
+      "id": "AZ401036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.704",
+      "lon": "46.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsaxlıgirmə",
+      "en": "Isakhligirma",
+      "slug": "isakhligirma"
+    },
+    "code": {
+      "id": "AZ401028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.671",
+      "lon": "46.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İtitala",
+      "en": "İtitala",
+      "slug": "ititala"
+    },
+    "code": {
+      "id": "AZ401007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.581",
+      "lon": "46.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cederovtala",
+      "en": "Jederovtala",
+      "slug": "jederovtala"
+    },
+    "code": {
+      "id": "AZ401032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.704",
+      "lon": "46.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cillik",
+      "en": "Jillik",
+      "slug": "jillik"
+    },
+    "code": {
+      "id": "AZ401050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.69",
+      "lon": "46.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cincartala",
+      "en": "Jinjartala",
+      "slug": "jinjartala"
+    },
+    "code": {
+      "id": "AZ401004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.666",
+      "lon": "46.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Katex",
+      "en": "Katekh",
+      "slug": "katekh"
+    },
+    "code": {
+      "id": "AZ401021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.647",
+      "lon": "46.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xalatala",
+      "en": "Khalatala",
+      "slug": "khalatala"
+    },
+    "code": {
+      "id": "AZ401023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.725",
+      "lon": "46.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kilsəbuqov",
+      "en": "Kilsabugov",
+      "slug": "kilsabugov"
+    },
+    "code": {
+      "id": "AZ401031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.697",
+      "lon": "46.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kortala",
+      "en": "Kortala",
+      "slug": "kortala"
+    },
+    "code": {
+      "id": "AZ401009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.619",
+      "lon": "46.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahamalar",
+      "en": "Mahamalar",
+      "slug": "mahamalar"
+    },
+    "code": {
+      "id": "AZ401040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.738",
+      "lon": "46.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikzadə",
+      "en": "Malikzada",
+      "slug": "malikzada"
+    },
+    "code": {
+      "id": "AZ401034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.672",
+      "lon": "46.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mazımçay",
+      "en": "Mazimchay",
+      "slug": "mazimchay"
+    },
+    "code": {
+      "id": "AZ401044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.806",
+      "lon": "46.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mazımqarışan",
+      "en": "Mazimgarishan",
+      "slug": "mazimgarishan"
+    },
+    "code": {
+      "id": "AZ401058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.64",
+      "lon": "46.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mazımüstü",
+      "en": "Mazimustu",
+      "slug": "mazimustu"
+    },
+    "code": {
+      "id": "AZ401048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.74",
+      "lon": "46.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meşəşambul",
+      "en": "Meshashambul",
+      "slug": "meshashambul"
+    },
+    "code": {
+      "id": "AZ401024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.707",
+      "lon": "46.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollaçıbinə",
+      "en": "Mollachibina",
+      "slug": "mollachibina"
+    },
+    "code": {
+      "id": "AZ401019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.644",
+      "lon": "46.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Murğuztala",
+      "en": "Murghuztala",
+      "slug": "murghuztala"
+    },
+    "code": {
+      "id": "AZ401012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.658",
+      "lon": "46.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Öküzovtala",
+      "en": "Okuzovtala",
+      "slug": "okuzovtala"
+    },
+    "code": {
+      "id": "AZ401049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.676",
+      "lon": "46.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirqax",
+      "en": "Pirgakh",
+      "slug": "pirgakh"
+    },
+    "code": {
+      "id": "AZ401014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.649",
+      "lon": "46.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poştbinə",
+      "en": "Poshtbina",
+      "slug": "poshtbina"
+    },
+    "code": {
+      "id": "AZ401046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.777",
+      "lon": "46.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Püştətala",
+      "en": "Pushtatala",
+      "slug": "pushtatala"
+    },
+    "code": {
+      "id": "AZ401017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.635",
+      "lon": "46.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Roçəhməd",
+      "en": "Rochahmad",
+      "slug": "rochahmad"
+    },
+    "code": {
+      "id": "AZ401011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.652",
+      "lon": "46.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıbulaq",
+      "en": "Saribulag",
+      "slug": "saribulag"
+    },
+    "code": {
+      "id": "AZ401029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.676",
+      "lon": "46.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şambul",
+      "en": "Shambul",
+      "slug": "shambul"
+    },
+    "code": {
+      "id": "AZ401025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.693",
+      "lon": "46.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şambulbinə",
+      "en": "Shambulbina",
+      "slug": "shambulbina"
+    },
+    "code": {
+      "id": "AZ401033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.668",
+      "lon": "46.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şərif",
+      "en": "Sharif",
+      "slug": "sharif"
+    },
+    "code": {
+      "id": "AZ401022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.729",
+      "lon": "46.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Solban",
+      "en": "Solban",
+      "slug": "solban"
+    },
+    "code": {
+      "id": "AZ401043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.732",
+      "lon": "46.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talalar",
+      "en": "Talalar",
+      "slug": "talalar"
+    },
+    "code": {
+      "id": "AZ401035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.713",
+      "lon": "46.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tülü",
+      "en": "Tulu",
+      "slug": "tulu"
+    },
+    "code": {
+      "id": "AZ401039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.724",
+      "lon": "46.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ401051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Şərif",
+      "en": "Yeni Sharif",
+      "slug": "yeni-sharif"
+    },
+    "code": {
+      "id": "AZ401051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ401",
+        "level": 1,
+        "name": {
+          "local": "Balakən",
+          "en": "Balakan",
+          "slug": "balakan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.745",
+      "lon": "46.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

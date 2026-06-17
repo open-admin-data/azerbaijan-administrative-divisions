@@ -1,0 +1,45 @@
+{
+  "id": "AZ503016",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Quşçu",
+    "en": "Ashaghi Gushchu",
+    "slug": "ashaghi-gushchu"
+  },
+  "code": {
+    "id": "AZ503016",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.956",
+    "lon": "45.675"
+  },
+  "metadata": {},
+  "source": {}
+}

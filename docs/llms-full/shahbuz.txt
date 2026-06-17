@@ -1,0 +1,129 @@
+# Shahbuz — Azerbaijan Administrative Divisions
+
+> 24 settlements
+> Code: AZ105
+> Coordinates: 39.436, 45.61
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağbulaq (Aghbulag)
+
+Code: AZ105021, Coordinates: 39.447, 45.721
+
+
+### Aşağı Qışlaq (Ashaghi Gishlag)
+
+Code: AZ105022, Coordinates: 39.466, 45.702
+
+
+### Ayrınc (Ayrinj)
+
+Code: AZ105006, Coordinates: 39.434, 45.586
+
+
+### Badamlı (Badamli)
+
+Code: AZ105014, Coordinates: 39.424, 45.513
+
+
+### Badamlı (Badamli)
+
+Code: AZ105015, Coordinates: 39.45, 45.529
+
+
+### Biçənək (Bichanak)
+
+Code: AZ105024, Coordinates: 39.501, 45.763
+
+
+### Daylaqlı (Daylagli)
+
+Code: AZ105009, Coordinates: 39.395, 45.537
+
+
+### Qızıl Qışlaq (Gizil Gishlag)
+
+Code: AZ105004, Coordinates: 39.496, 45.61
+
+
+### Gömür (Gomur)
+
+Code: AZ105007, Coordinates: 39.462, 45.751
+
+
+### Güney Qışlaq (Guney Gishlag)
+
+Code: AZ105005, Coordinates: 39.514, 45.581
+
+
+### Keçili (Kechili)
+
+Code: AZ105019, Coordinates: 39.373, 45.718
+
+
+### Kiçikoba (Kichikoba)
+
+Code: AZ105010, Coordinates: 39.391, 45.546
+
+
+### Kolanı (Kolani)
+
+Code: AZ105020, Coordinates: 39.455, 45.685
+
+
+### Kükü (Kuku)
+
+Code: AZ105003, Coordinates: 39.523, 45.623
+
+
+### Külüs (Kulus)
+
+Code: AZ105018, Coordinates: 39.363, 45.659
+
+
+### Mahmudoba
+
+Code: AZ105016, Coordinates: 39.41, 45.627
+
+
+### Mərəlik (Maralik)
+
+Code: AZ105012, Coordinates: 39.377, 45.502
+
+
+### Nursu
+
+Code: AZ105017, Coordinates: 39.398, 45.672
+
+
+### Sələsüz (Salasuz)
+
+Code: AZ105013, Coordinates: 39.397, 45.505
+
+
+### Şada (Shada)
+
+Code: AZ105002, Coordinates: 39.484, 45.495
+
+
+### ŞAHBUZ (SHAHBUZ)
+
+Code: AZ105008, Coordinates: 39.409, 45.579
+
+
+### Şahbuzkənd (Shahbuzkend)
+
+Code: AZ105011, Coordinates: 39.38, 45.578
+
+
+### Türkeş (Turkesh)
+
+Code: AZ105001, Coordinates: 39.422, 45.471
+
+
+### Yuxarı Qışlaq (Yukhari Gishlag)
+
+Code: AZ105023, Coordinates: 39.501, 45.694
+
+

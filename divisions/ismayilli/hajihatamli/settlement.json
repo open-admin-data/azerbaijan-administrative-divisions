@@ -1,0 +1,45 @@
+{
+  "id": "AZ407007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacıhətəmli",
+    "en": "Hajihatamli",
+    "slug": "hajihatamli"
+  },
+  "code": {
+    "id": "AZ407007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ407",
+    "level": 1,
+    "name": {
+      "local": "İsmayıllı",
+      "en": "Ismayilli",
+      "slug": "ismayilli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.7",
+    "lon": "47.905"
+  },
+  "metadata": {},
+  "source": {}
+}

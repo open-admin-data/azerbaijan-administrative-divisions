@@ -1,0 +1,227 @@
+[
+  {
+    "id": "AZ101005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəmirçi",
+      "en": "Damirchi",
+      "slug": "damirchi"
+    },
+    "code": {
+      "id": "AZ101005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ101",
+      "level": 1,
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ101",
+        "level": 1,
+        "name": {
+          "local": "Sədərək",
+          "en": "Sadarak",
+          "slug": "sadarak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.617",
+      "lon": "44.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ101003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraağac",
+      "en": "Garaaghaj",
+      "slug": "garaaghaj"
+    },
+    "code": {
+      "id": "AZ101003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ101",
+      "level": 1,
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ101",
+        "level": 1,
+        "name": {
+          "local": "Sədərək",
+          "en": "Sadarak",
+          "slug": "sadarak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.707",
+      "lon": "44.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ101002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Heydərabad",
+      "en": "Heydarabad",
+      "slug": "heydarabad"
+    },
+    "code": {
+      "id": "AZ101002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ101",
+      "level": 1,
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ101",
+        "level": 1,
+        "name": {
+          "local": "Sədərək",
+          "en": "Sadarak",
+          "slug": "sadarak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.723",
+      "lon": "44.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ101004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərki",
+      "en": "Karki",
+      "slug": "karki"
+    },
+    "code": {
+      "id": "AZ101004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ101",
+      "level": 1,
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ101",
+        "level": 1,
+        "name": {
+          "local": "Sədərək",
+          "en": "Sadarak",
+          "slug": "sadarak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.791",
+      "lon": "44.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ101001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sədərək",
+      "en": "Sadarak",
+      "slug": "sadarak"
+    },
+    "code": {
+      "id": "AZ101001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ101",
+      "level": 1,
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ101",
+        "level": 1,
+        "name": {
+          "local": "Sədərək",
+          "en": "Sadarak",
+          "slug": "sadarak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.718",
+      "lon": "44.883"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

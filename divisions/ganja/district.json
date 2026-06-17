@@ -1,0 +1,33 @@
+{
+  "id": "AZ2002",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gəncə",
+    "en": "Ganja",
+    "slug": "ganja"
+  },
+  "code": {
+    "id": "AZ2002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.465",
+    "lon": "46.332"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/ganja/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

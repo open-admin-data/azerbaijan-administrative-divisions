@@ -1,0 +1,45 @@
+{
+  "id": "AZ105011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şahbuzkənd",
+    "en": "Shahbuzkend",
+    "slug": "shahbuzkend"
+  },
+  "code": {
+    "id": "AZ105011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ105",
+    "level": 1,
+    "name": {
+      "local": "Şahbuz",
+      "en": "Shahbuz",
+      "slug": "shahbuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.38",
+    "lon": "45.578"
+  },
+  "metadata": {},
+  "source": {}
+}

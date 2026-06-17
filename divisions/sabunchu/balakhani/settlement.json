@@ -1,0 +1,45 @@
+{
+  "id": "AZ100604",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Balaxanı",
+    "en": "Balakhani",
+    "slug": "balakhani"
+  },
+  "code": {
+    "id": "AZ100604",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1006",
+    "level": 1,
+    "name": {
+      "local": "Sabunçu",
+      "en": "Sabunchu",
+      "slug": "sabunchu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1006",
+      "level": 1,
+      "name": {
+        "local": "Sabunçu",
+        "en": "Sabunchu",
+        "slug": "sabunchu"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.46",
+    "lon": "49.924"
+  },
+  "metadata": {},
+  "source": {}
+}

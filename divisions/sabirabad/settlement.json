@@ -1,0 +1,3377 @@
+[
+  {
+    "id": "AZ909067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədabad",
+      "en": "Ahmadabad",
+      "slug": "ahmadabad"
+    },
+    "code": {
+      "id": "AZ909067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.984",
+      "lon": "48.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axısxa",
+      "en": "Akhiskha",
+      "slug": "akhiskha"
+    },
+    "code": {
+      "id": "AZ909061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.092",
+      "lon": "48.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axtaçı",
+      "en": "Akhtachi",
+      "slug": "akhtachi"
+    },
+    "code": {
+      "id": "AZ909018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.966",
+      "lon": "48.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axtaçı Muğan",
+      "en": "Akhtachi Mughan",
+      "slug": "akhtachi-mughan"
+    },
+    "code": {
+      "id": "AZ909052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.016",
+      "lon": "48.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlicanlı",
+      "en": "Alijanli",
+      "slug": "alijanli"
+    },
+    "code": {
+      "id": "AZ909039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.04",
+      "lon": "48.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliləmbəyli",
+      "en": "Alilambeyli",
+      "slug": "alilambeyli"
+    },
+    "code": {
+      "id": "AZ909004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.829",
+      "lon": "48.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əsədli",
+      "en": "Asadli",
+      "slug": "asadli"
+    },
+    "code": {
+      "id": "AZ909050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.011",
+      "lon": "48.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əsgərbəyli",
+      "en": "Asgarbeyli",
+      "slug": "asgarbeyli"
+    },
+    "code": {
+      "id": "AZ909041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.029",
+      "lon": "48.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ətcələr",
+      "en": "Atjalar",
+      "slug": "atjalar"
+    },
+    "code": {
+      "id": "AZ909054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.045",
+      "lon": "48.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azadkənd",
+      "en": "Azadkend",
+      "slug": "azadkend"
+    },
+    "code": {
+      "id": "AZ909028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.816",
+      "lon": "48.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Həşimxanlı",
+      "en": "Bala Hashimkhanli",
+      "slug": "bala-hashimkhanli"
+    },
+    "code": {
+      "id": "AZ909003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.801",
+      "lon": "48.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balakənd",
+      "en": "Balakend",
+      "slug": "balakend"
+    },
+    "code": {
+      "id": "AZ909073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.956",
+      "lon": "48.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balvar",
+      "en": "Balvar",
+      "slug": "balvar"
+    },
+    "code": {
+      "id": "AZ909068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.056",
+      "lon": "48.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beşdəli",
+      "en": "Beshdali",
+      "slug": "beshdali"
+    },
+    "code": {
+      "id": "AZ909025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.885",
+      "lon": "48.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bulaqlı",
+      "en": "Bulagli",
+      "slug": "bulagli"
+    },
+    "code": {
+      "id": "AZ909069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.974",
+      "lon": "48.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bulduq",
+      "en": "Buldug",
+      "slug": "buldug"
+    },
+    "code": {
+      "id": "AZ909055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.059",
+      "lon": "48.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çiçəkli",
+      "en": "Chichakli",
+      "slug": "chichakli"
+    },
+    "code": {
+      "id": "AZ909032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.712",
+      "lon": "48.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çığırğan",
+      "en": "Chighirghan",
+      "slug": "chighirghan"
+    },
+    "code": {
+      "id": "AZ909029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.77",
+      "lon": "48.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çöl Ağaməmmədli",
+      "en": "Chol Aghamammadli",
+      "slug": "chol-aghamammadli"
+    },
+    "code": {
+      "id": "AZ909006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.847",
+      "lon": "48.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çöl Beşdəli",
+      "en": "Chol Beshdali",
+      "slug": "chol-beshdali"
+    },
+    "code": {
+      "id": "AZ909007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.891",
+      "lon": "48.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çöl Dəllək",
+      "en": "Chol Dallak",
+      "slug": "chol-dallak"
+    },
+    "code": {
+      "id": "AZ909005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.834",
+      "lon": "48.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dadaşbəyli",
+      "en": "Dadashbeyli",
+      "slug": "dadashbeyli"
+    },
+    "code": {
+      "id": "AZ909022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.953",
+      "lon": "48.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəfərli",
+      "en": "Gafarli",
+      "slug": "gafarli"
+    },
+    "code": {
+      "id": "AZ909072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.022",
+      "lon": "48.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalağayın",
+      "en": "Galaghayin",
+      "slug": "galaghayin"
+    },
+    "code": {
+      "id": "AZ909035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.982",
+      "lon": "48.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraağac",
+      "en": "Garaaghaj",
+      "slug": "garaaghaj"
+    },
+    "code": {
+      "id": "AZ909024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.905",
+      "lon": "48.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqaşlı",
+      "en": "Garagashli",
+      "slug": "garagashli"
+    },
+    "code": {
+      "id": "AZ909065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.095",
+      "lon": "48.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaragüney",
+      "en": "Garaguney",
+      "slug": "garaguney"
+    },
+    "code": {
+      "id": "AZ909021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.961",
+      "lon": "48.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaralar",
+      "en": "Garalar",
+      "slug": "garalar"
+    },
+    "code": {
+      "id": "AZ909051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.047",
+      "lon": "48.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaralı",
+      "en": "Garali",
+      "slug": "garali"
+    },
+    "code": {
+      "id": "AZ909059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.066",
+      "lon": "48.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaratəpə",
+      "en": "Garatepe",
+      "slug": "garatepe"
+    },
+    "code": {
+      "id": "AZ909016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.961",
+      "lon": "48.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaratuğay",
+      "en": "Garatughay",
+      "slug": "garatughay"
+    },
+    "code": {
+      "id": "AZ909074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.994",
+      "lon": "48.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qardaşkənd",
+      "en": "Gardashkend",
+      "slug": "gardashkend"
+    },
+    "code": {
+      "id": "AZ909009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.874",
+      "lon": "48.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımbəyli",
+      "en": "Gasimbeyli",
+      "slug": "gasimbeyli"
+    },
+    "code": {
+      "id": "AZ909044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.035",
+      "lon": "48.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəzli",
+      "en": "Gazli",
+      "slug": "gazli"
+    },
+    "code": {
+      "id": "AZ909070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.093",
+      "lon": "48.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güdəcühür",
+      "en": "Gudajuhur",
+      "slug": "gudajuhur"
+    },
+    "code": {
+      "id": "AZ909019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.993",
+      "lon": "48.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quruzma",
+      "en": "Guruzma",
+      "slug": "guruzma"
+    },
+    "code": {
+      "id": "AZ909064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.088",
+      "lon": "48.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıbəbir",
+      "en": "Hajibabir",
+      "slug": "hajibabir"
+    },
+    "code": {
+      "id": "AZ909008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.861",
+      "lon": "48.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənli",
+      "en": "Hasanli",
+      "slug": "hasanli"
+    },
+    "code": {
+      "id": "AZ909047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.055",
+      "lon": "48.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həşimxanlı",
+      "en": "Hashimkhanli",
+      "slug": "hashimkhanli"
+    },
+    "code": {
+      "id": "AZ909053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.029",
+      "lon": "48.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəngan",
+      "en": "Jangan",
+      "slug": "jangan"
+    },
+    "code": {
+      "id": "AZ909031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.725",
+      "lon": "48.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cavad",
+      "en": "Javad",
+      "slug": "javad"
+    },
+    "code": {
+      "id": "AZ909038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.03",
+      "lon": "48.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlfəli",
+      "en": "Khalfali",
+      "slug": "khalfali"
+    },
+    "code": {
+      "id": "AZ909014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.952",
+      "lon": "48.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xankeçən",
+      "en": "Khankechan",
+      "slug": "khankechan"
+    },
+    "code": {
+      "id": "AZ909030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.754",
+      "lon": "48.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kovlar",
+      "en": "Kovlar",
+      "slug": "kovlar"
+    },
+    "code": {
+      "id": "AZ909062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.114",
+      "lon": "48.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürkəndi",
+      "en": "Kurkendi",
+      "slug": "kurkendi"
+    },
+    "code": {
+      "id": "AZ909037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.025",
+      "lon": "48.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmişlər",
+      "en": "Memishlar",
+      "slug": "memishlar"
+    },
+    "code": {
+      "id": "AZ909071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.033",
+      "lon": "48.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minbaşı",
+      "en": "Minbashi",
+      "slug": "minbashi"
+    },
+    "code": {
+      "id": "AZ909023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.919",
+      "lon": "48.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moranlı",
+      "en": "Moranli",
+      "slug": "moranli"
+    },
+    "code": {
+      "id": "AZ909002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.786",
+      "lon": "48.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğan Gəncəli",
+      "en": "Mughan Ganjali",
+      "slug": "mughan-ganjali"
+    },
+    "code": {
+      "id": "AZ909034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.713",
+      "lon": "48.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muradbəyli",
+      "en": "Muradbeyli",
+      "slug": "muradbeyli"
+    },
+    "code": {
+      "id": "AZ909046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.05",
+      "lon": "48.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mürsəlli",
+      "en": "Mursalli",
+      "slug": "mursalli"
+    },
+    "code": {
+      "id": "AZ909057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.081",
+      "lon": "48.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nərimankənd",
+      "en": "Narimankend",
+      "slug": "narimankend"
+    },
+    "code": {
+      "id": "AZ909015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.963",
+      "lon": "48.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Narlıq",
+      "en": "Narlig",
+      "slug": "narlig"
+    },
+    "code": {
+      "id": "AZ909043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.055",
+      "lon": "48.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəsimi",
+      "en": "Nasimi",
+      "slug": "nasimi"
+    },
+    "code": {
+      "id": "AZ909010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.893",
+      "lon": "48.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nizami",
+      "en": "Nizami",
+      "slug": "nizami"
+    },
+    "code": {
+      "id": "AZ909011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.923",
+      "lon": "48.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Osmanlı",
+      "en": "Osmanli",
+      "slug": "osmanli"
+    },
+    "code": {
+      "id": "AZ909066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.005",
+      "lon": "48.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poladtuğay",
+      "en": "Poladtughay",
+      "slug": "poladtughay"
+    },
+    "code": {
+      "id": "AZ909027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.842",
+      "lon": "48.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rüstəmli",
+      "en": "Rustamli",
+      "slug": "rustamli"
+    },
+    "code": {
+      "id": "AZ909075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.861",
+      "lon": "48.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "SABİRABAD",
+      "en": "SABIRABAD",
+      "slug": "sabirabad"
+    },
+    "code": {
+      "id": "AZ909036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.005",
+      "lon": "48.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salmanlı",
+      "en": "Salmanli",
+      "slug": "salmanli"
+    },
+    "code": {
+      "id": "AZ909033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.688",
+      "lon": "48.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarxanbəyli",
+      "en": "Sarkhanbeyli",
+      "slug": "sarkhanbeyli"
+    },
+    "code": {
+      "id": "AZ909001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.744",
+      "lon": "48.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəhriyar",
+      "en": "Shahriyar",
+      "slug": "shahriyar"
+    },
+    "code": {
+      "id": "AZ909013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.943",
+      "lon": "48.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıx Salahlı",
+      "en": "Shikh Salahli",
+      "slug": "shikh-salahli"
+    },
+    "code": {
+      "id": "AZ909020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.986",
+      "lon": "48.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxlar",
+      "en": "Shikhlar",
+      "slug": "shikhlar"
+    },
+    "code": {
+      "id": "AZ909058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.072",
+      "lon": "48.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suqovuşan",
+      "en": "Sugovushan",
+      "slug": "sugovushan"
+    },
+    "code": {
+      "id": "AZ909049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.008",
+      "lon": "48.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Surra",
+      "en": "Surra",
+      "slug": "surra"
+    },
+    "code": {
+      "id": "AZ909060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.077",
+      "lon": "48.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkədi",
+      "en": "Turkadi",
+      "slug": "turkadi"
+    },
+    "code": {
+      "id": "AZ909040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.039",
+      "lon": "48.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ulacalı",
+      "en": "Ulajali",
+      "slug": "ulajali"
+    },
+    "code": {
+      "id": "AZ909056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.071",
+      "lon": "48.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yaxa Dəllək",
+      "en": "Yakha Dallak",
+      "slug": "yakha-dallak"
+    },
+    "code": {
+      "id": "AZ909026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.876",
+      "lon": "48.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yastıqobu",
+      "en": "Yastigobu",
+      "slug": "yastigobu"
+    },
+    "code": {
+      "id": "AZ909017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.983",
+      "lon": "48.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ909063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.105",
+      "lon": "48.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yolçubəyli",
+      "en": "Yolchubeyli",
+      "slug": "yolchubeyli"
+    },
+    "code": {
+      "id": "AZ909042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.055",
+      "lon": "48.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Axtaçı",
+      "en": "Yukhari Akhtachi",
+      "slug": "yukhari-akhtachi"
+    },
+    "code": {
+      "id": "AZ909045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.041",
+      "lon": "48.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zalqaraağac",
+      "en": "Zalgaraaghaj",
+      "slug": "zalgaraaghaj"
+    },
+    "code": {
+      "id": "AZ909012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.909",
+      "lon": "48.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ909048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəngənə",
+      "en": "Zangana",
+      "slug": "zangana"
+    },
+    "code": {
+      "id": "AZ909048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ909",
+        "level": 1,
+        "name": {
+          "local": "Sabirabad",
+          "en": "Sabirabad",
+          "slug": "sabirabad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.097",
+      "lon": "48.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "AZ104006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "NAXÇIVAN",
+    "en": "NAKHCHIVAN",
+    "slug": "nakhchivan"
+  },
+  "code": {
+    "id": "AZ104006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ104",
+    "level": 1,
+    "name": {
+      "local": "Naxçıvan",
+      "en": "Nakhchivan",
+      "slug": "nakhchivan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.206",
+    "lon": "45.41"
+  },
+  "metadata": {},
+  "source": {}
+}

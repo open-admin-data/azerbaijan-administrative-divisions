@@ -1,0 +1,45 @@
+{
+  "id": "AZ910012",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ələtli",
+    "en": "Alatli",
+    "slug": "alatli"
+  },
+  "code": {
+    "id": "AZ910012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ910",
+    "level": 1,
+    "name": {
+      "local": "Hacıqabul",
+      "en": "Hajigabul",
+      "slug": "hajigabul"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.01",
+    "lon": "48.818"
+  },
+  "metadata": {},
+  "source": {}
+}

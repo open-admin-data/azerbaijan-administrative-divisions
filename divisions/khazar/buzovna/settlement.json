@@ -1,0 +1,45 @@
+{
+  "id": "AZ100303",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Buzovna",
+    "en": "Buzovna",
+    "slug": "buzovna"
+  },
+  "code": {
+    "id": "AZ100303",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1003",
+    "level": 1,
+    "name": {
+      "local": "Xəzər",
+      "en": "Khazar",
+      "slug": "khazar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.52",
+    "lon": "50.103"
+  },
+  "metadata": {},
+  "source": {}
+}

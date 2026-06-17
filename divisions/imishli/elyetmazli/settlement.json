@@ -1,0 +1,45 @@
+{
+  "id": "AZ907045",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əlyetməzli",
+    "en": "Elyetmazli",
+    "slug": "elyetmazli"
+  },
+  "code": {
+    "id": "AZ907045",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.126",
+    "lon": "48.032"
+  },
+  "metadata": {},
+  "source": {}
+}

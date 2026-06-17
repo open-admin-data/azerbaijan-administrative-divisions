@@ -1,0 +1,2657 @@
+[
+  {
+    "id": "AZ611069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağabəyyalı",
+      "en": "Aghabeyyali",
+      "slug": "aghabeyyali"
+    },
+    "code": {
+      "id": "AZ611069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.208",
+      "lon": "46.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "AĞDƏRƏ",
+      "en": "AGHDERE",
+      "slug": "aghdere"
+    },
+    "code": {
+      "id": "AZ611031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.212",
+      "lon": "46.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609126",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ballıqaya",
+      "en": "Balligaya",
+      "slug": "balligaya"
+    },
+    "code": {
+      "id": "AZ609126",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.06",
+      "lon": "46.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baş Güneypəyə",
+      "en": "Bash Guneypeye",
+      "slug": "bash-guneypeye"
+    },
+    "code": {
+      "id": "AZ609052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.097",
+      "lon": "46.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609135",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəşirlər",
+      "en": "Bashirlar",
+      "slug": "bashirlar"
+    },
+    "code": {
+      "id": "AZ609135",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.071",
+      "lon": "46.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601116",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bazarkənd",
+      "en": "Bazarkend",
+      "slug": "bazarkend"
+    },
+    "code": {
+      "id": "AZ601116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.058",
+      "lon": "46.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601149",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çapar",
+      "en": "Chapar",
+      "slug": "chapar"
+    },
+    "code": {
+      "id": "AZ601149",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.153",
+      "lon": "46.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ612001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çərəkdar",
+      "en": "Charakdar",
+      "slug": "charakdar"
+    },
+    "code": {
+      "id": "AZ612001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.139",
+      "lon": "46.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çardaqlı",
+      "en": "Chardagli",
+      "slug": "chardagli"
+    },
+    "code": {
+      "id": "AZ611073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.249",
+      "lon": "46.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaylı",
+      "en": "Chayli",
+      "slug": "chayli"
+    },
+    "code": {
+      "id": "AZ611016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.331",
+      "lon": "46.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çiləbürt",
+      "en": "Chilaburt",
+      "slug": "chilaburt"
+    },
+    "code": {
+      "id": "AZ611076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.261",
+      "lon": "46.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çıldıran",
+      "en": "Childiran",
+      "slug": "childiran"
+    },
+    "code": {
+      "id": "AZ601099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.1",
+      "lon": "46.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çıraqlı",
+      "en": "Chiragli",
+      "slug": "chiragli"
+    },
+    "code": {
+      "id": "AZ611075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.173",
+      "lon": "46.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601118",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çormanlı",
+      "en": "Chormanli",
+      "slug": "chormanli"
+    },
+    "code": {
+      "id": "AZ601118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.031",
+      "lon": "46.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Damğalı",
+      "en": "Damghali",
+      "slug": "damghali"
+    },
+    "code": {
+      "id": "AZ601095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.019",
+      "lon": "46.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəmirli",
+      "en": "Damirli",
+      "slug": "damirli"
+    },
+    "code": {
+      "id": "AZ611029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.178",
+      "lon": "46.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601127",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəvədaşı",
+      "en": "Devedashi",
+      "slug": "devedashi"
+    },
+    "code": {
+      "id": "AZ601127",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.126",
+      "lon": "46.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601117",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dovşanlı",
+      "en": "Dovshanli",
+      "slug": "dovshanli"
+    },
+    "code": {
+      "id": "AZ601117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.056",
+      "lon": "46.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609136",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraşlar",
+      "en": "Garashlar",
+      "slug": "garashlar"
+    },
+    "code": {
+      "id": "AZ609136",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.057",
+      "lon": "46.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazançı",
+      "en": "Gazanchi",
+      "slug": "gazanchi"
+    },
+    "code": {
+      "id": "AZ609054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.066",
+      "lon": "46.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırmızı Saqqallar",
+      "en": "Girmizi Saggallar",
+      "slug": "girmizi-saggallar"
+    },
+    "code": {
+      "id": "AZ611064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.417",
+      "lon": "46.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ612007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılqaya",
+      "en": "Gizilgaya",
+      "slug": "gizilgaya"
+    },
+    "code": {
+      "id": "AZ612007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.124",
+      "lon": "46.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızıloba",
+      "en": "Giziloba",
+      "slug": "giziloba"
+    },
+    "code": {
+      "id": "AZ611077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.263",
+      "lon": "46.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyarx",
+      "en": "Goyarkh",
+      "slug": "goyarkh"
+    },
+    "code": {
+      "id": "AZ611034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.315",
+      "lon": "46.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ612007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qozlu",
+      "en": "Gozlu",
+      "slug": "gozlu"
+    },
+    "code": {
+      "id": "AZ612007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.113",
+      "lon": "46.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ612006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qozlukörpü",
+      "en": "Gozlukorpu",
+      "slug": "gozlukorpu"
+    },
+    "code": {
+      "id": "AZ612006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.133",
+      "lon": "46.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülyataq",
+      "en": "Gulyatag",
+      "slug": "gulyatag"
+    },
+    "code": {
+      "id": "AZ611028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.152",
+      "lon": "46.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənqaya",
+      "en": "Hasangaya",
+      "slug": "hasangaya"
+    },
+    "code": {
+      "id": "AZ611035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.323",
+      "lon": "46.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ612005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənriz",
+      "en": "Hasanriz",
+      "slug": "hasanriz"
+    },
+    "code": {
+      "id": "AZ612005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.165",
+      "lon": "46.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hayad",
+      "en": "Hayad",
+      "slug": "hayad"
+    },
+    "code": {
+      "id": "AZ601098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.049",
+      "lon": "46.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601126",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Heyvalı",
+      "en": "Heyvali",
+      "slug": "heyvali"
+    },
+    "code": {
+      "id": "AZ601126",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.149",
+      "lon": "46.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ612002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmarət Qərvənd",
+      "en": "Imarat Garvand",
+      "slug": "imarat-garvand"
+    },
+    "code": {
+      "id": "AZ612002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.161",
+      "lon": "46.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Canyataq",
+      "en": "Janyatag",
+      "slug": "janyatag"
+    },
+    "code": {
+      "id": "AZ611027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.134",
+      "lon": "46.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609132",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xatınbəyli",
+      "en": "Khatinbeyli",
+      "slug": "khatinbeyli"
+    },
+    "code": {
+      "id": "AZ609132",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.094",
+      "lon": "46.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiçik Qarabəy",
+      "en": "Kichik Garabey",
+      "slug": "kichik-garabey"
+    },
+    "code": {
+      "id": "AZ611070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.211",
+      "lon": "46.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolatağ",
+      "en": "Kolatagh",
+      "slug": "kolatagh"
+    },
+    "code": {
+      "id": "AZ601094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.001",
+      "lon": "46.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lüləsaz",
+      "en": "Lulasaz",
+      "slug": "lulasaz"
+    },
+    "code": {
+      "id": "AZ611074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.276",
+      "lon": "46.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609125",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikli",
+      "en": "Malikli",
+      "slug": "malikli"
+    },
+    "code": {
+      "id": "AZ609125",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.1",
+      "lon": "46.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maralyansarov",
+      "en": "Maralyansarov",
+      "slug": "maralyansarov"
+    },
+    "code": {
+      "id": "AZ611066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.322",
+      "lon": "46.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meqrelalay",
+      "en": "Megrelalay",
+      "slug": "megrelalay"
+    },
+    "code": {
+      "id": "AZ611072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.245",
+      "lon": "46.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehmana",
+      "en": "Mehmana",
+      "slug": "mehmana"
+    },
+    "code": {
+      "id": "AZ601100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.15",
+      "lon": "46.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601119",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Narınclar",
+      "en": "Narinjlar",
+      "slug": "narinjlar"
+    },
+    "code": {
+      "id": "AZ601119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.037",
+      "lon": "46.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Güneypəyə",
+      "en": "Orta Guneypeye",
+      "slug": "orta-guneypeye"
+    },
+    "code": {
+      "id": "AZ609053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.092",
+      "lon": "46.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ortakənd",
+      "en": "Ortakend",
+      "slug": "ortakend"
+    },
+    "code": {
+      "id": "AZ611030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.187",
+      "lon": "46.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seysulan",
+      "en": "Seysulan",
+      "slug": "seysulan"
+    },
+    "code": {
+      "id": "AZ611044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.247",
+      "lon": "46.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahmansurlu",
+      "en": "Shahmansurlu",
+      "slug": "shahmansurlu"
+    },
+    "code": {
+      "id": "AZ601097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.06",
+      "lon": "46.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxarx",
+      "en": "Shikharkh",
+      "slug": "shikharkh"
+    },
+    "code": {
+      "id": "AZ611015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.33",
+      "lon": "46.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ609056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sırxavənd",
+      "en": "Sirkhavand",
+      "slug": "sirkhavand"
+    },
+    "code": {
+      "id": "AZ609056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.061",
+      "lon": "46.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suqovuşan",
+      "en": "Sugovushan",
+      "slug": "sugovushan"
+    },
+    "code": {
+      "id": "AZ611033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.325",
+      "lon": "46.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talış",
+      "en": "Talish",
+      "slug": "talish"
+    },
+    "code": {
+      "id": "AZ611017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.377",
+      "lon": "46.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təpəkənd",
+      "en": "Tepekend",
+      "slug": "tepekend"
+    },
+    "code": {
+      "id": "AZ611032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.306",
+      "lon": "46.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ulu Qarabəy",
+      "en": "Ulu Garabey",
+      "slug": "ulu-garabey"
+    },
+    "code": {
+      "id": "AZ611071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.212",
+      "lon": "46.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Umudlu",
+      "en": "Umudlu",
+      "slug": "umudlu"
+    },
+    "code": {
+      "id": "AZ611026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.191",
+      "lon": "46.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vəngli",
+      "en": "Vangli",
+      "slug": "vangli"
+    },
+    "code": {
+      "id": "AZ601096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.054",
+      "lon": "46.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yarımca",
+      "en": "Yarimja",
+      "slug": "yarimja"
+    },
+    "code": {
+      "id": "AZ611045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.233",
+      "lon": "46.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601125",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yayıcı",
+      "en": "Yayiji",
+      "slug": "yayiji"
+    },
+    "code": {
+      "id": "AZ601125",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.125",
+      "lon": "46.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ612009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Oratağ",
+      "en": "Yukhari Oratagh",
+      "slug": "yukhari-oratagh"
+    },
+    "code": {
+      "id": "AZ612009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.131",
+      "lon": "46.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ612003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərdaxaç",
+      "en": "Zardakhach",
+      "slug": "zardakhach"
+    },
+    "code": {
+      "id": "AZ612003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.154",
+      "lon": "46.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəylik",
+      "en": "Zaylik",
+      "slug": "zaylik"
+    },
+    "code": {
+      "id": "AZ611025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ612",
+        "level": 1,
+        "name": {
+          "local": "Ağdərə",
+          "en": "Aghdere",
+          "slug": "aghdere"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.17",
+      "lon": "46.579"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

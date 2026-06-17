@@ -1,0 +1,45 @@
+{
+  "id": "AZ801008",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Təngərüd",
+    "en": "Tangarud",
+    "slug": "tangarud"
+  },
+  "code": {
+    "id": "AZ801008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ801",
+    "level": 1,
+    "name": {
+      "local": "Astara",
+      "en": "Astara",
+      "slug": "astara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.568",
+    "lon": "48.81"
+  },
+  "metadata": {},
+  "source": {}
+}

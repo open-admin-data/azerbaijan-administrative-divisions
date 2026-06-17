@@ -1,0 +1,45 @@
+{
+  "id": "AZ101004",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Kərki",
+    "en": "Karki",
+    "slug": "karki"
+  },
+  "code": {
+    "id": "AZ101004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ101",
+    "level": 1,
+    "name": {
+      "local": "Sədərək",
+      "en": "Sadarak",
+      "slug": "sadarak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ101",
+      "level": 1,
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.791",
+    "lon": "44.96"
+  },
+  "metadata": {},
+  "source": {}
+}

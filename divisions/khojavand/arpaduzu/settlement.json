@@ -1,0 +1,45 @@
+{
+  "id": "AZ703063",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Arpadüzü",
+    "en": "Arpaduzu",
+    "slug": "arpaduzu"
+  },
+  "code": {
+    "id": "AZ703063",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ703",
+    "level": 1,
+    "name": {
+      "local": "Xocavənd",
+      "en": "Khojavand",
+      "slug": "khojavand"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ703",
+      "level": 1,
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.752",
+    "lon": "46.953"
+  },
+  "metadata": {},
+  "source": {}
+}

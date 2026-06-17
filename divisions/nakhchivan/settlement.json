@@ -1,0 +1,317 @@
+[
+  {
+    "id": "AZ104007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliabad",
+      "en": "Aliabad",
+      "slug": "aliabad"
+    },
+    "code": {
+      "id": "AZ104007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ104",
+        "level": 1,
+        "name": {
+          "local": "Naxçıvan",
+          "en": "Nakhchivan",
+          "slug": "nakhchivan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.23",
+      "lon": "45.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ104002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bulqan",
+      "en": "Bulgan",
+      "slug": "bulgan"
+    },
+    "code": {
+      "id": "AZ104002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ104",
+        "level": 1,
+        "name": {
+          "local": "Naxçıvan",
+          "en": "Nakhchivan",
+          "slug": "nakhchivan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.184",
+      "lon": "45.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ104003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraçuq",
+      "en": "Garachug",
+      "slug": "garachug"
+    },
+    "code": {
+      "id": "AZ104003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ104",
+        "level": 1,
+        "name": {
+          "local": "Naxçıvan",
+          "en": "Nakhchivan",
+          "slug": "nakhchivan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.19",
+      "lon": "45.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ104001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraxanbəyli",
+      "en": "Garakhanbeyli",
+      "slug": "garakhanbeyli"
+    },
+    "code": {
+      "id": "AZ104001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ104",
+        "level": 1,
+        "name": {
+          "local": "Naxçıvan",
+          "en": "Nakhchivan",
+          "slug": "nakhchivan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.191",
+      "lon": "45.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ104005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıniyyət",
+      "en": "Hajiniyyat",
+      "slug": "hajiniyyat"
+    },
+    "code": {
+      "id": "AZ104005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ104",
+        "level": 1,
+        "name": {
+          "local": "Naxçıvan",
+          "en": "Nakhchivan",
+          "slug": "nakhchivan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.176",
+      "lon": "45.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ104006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "NAXÇIVAN",
+      "en": "NAKHCHIVAN",
+      "slug": "nakhchivan"
+    },
+    "code": {
+      "id": "AZ104006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ104",
+        "level": 1,
+        "name": {
+          "local": "Naxçıvan",
+          "en": "Nakhchivan",
+          "slug": "nakhchivan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.206",
+      "lon": "45.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ104004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tumbul",
+      "en": "Tumbul",
+      "slug": "tumbul"
+    },
+    "code": {
+      "id": "AZ104004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ104",
+        "level": 1,
+        "name": {
+          "local": "Naxçıvan",
+          "en": "Nakhchivan",
+          "slug": "nakhchivan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.167",
+      "lon": "45.424"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

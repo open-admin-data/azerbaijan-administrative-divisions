@@ -1,0 +1,154 @@
+# Khizi — Azerbaijan Administrative Divisions
+
+> 29 settlements
+> Code: AZ306
+> Coordinates: 40.841, 49.13
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağdərə (Aghdere)
+
+Code: AZ306017, Coordinates: 40.692, 49.017
+
+
+### Altıağac (Altiaghaj)
+
+Code: AZ306001, Coordinates: 40.856, 48.934
+
+
+### Əmbizlər (Ambizlar)
+
+Code: AZ306015, Coordinates: 40.79, 49.057
+
+
+### Əngilan (Angilan)
+
+Code: AZ306029, Coordinates: 40.907, 49.114
+
+
+### Baxışlı (Bakhishli)
+
+Code: AZ306002, Coordinates: 40.901, 48.98
+
+
+### Bəyəhmədyurd (Beyahmadyurd)
+
+Code: AZ306003, Coordinates: 40.914, 48.959
+
+
+### Dizəvər (Dizavar)
+
+Code: AZ306026, Coordinates: 40.805, 49.136
+
+
+### Fındığan (Findighan)
+
+Code: AZ306008, Coordinates: 40.957, 49.038
+
+
+### Qarabulaq (Garabulag)
+
+Code: AZ306027, Coordinates: 40.834, 49.095
+
+
+### Qars (Gars)
+
+Code: AZ306014, Coordinates: 40.86, 49.055
+
+
+### Qasımkənd (Gasimkend)
+
+Code: AZ306022, Coordinates: 40.752, 49.08
+
+
+### Giləzi (Gilazi)
+
+Code: AZ306007, Coordinates: 40.873, 49.343
+
+
+### Qızılqazma (Gizilgazma)
+
+Code: AZ306012, Coordinates: 40.88, 49.001
+
+
+### Güneyqışlaq (Guneygishlag)
+
+Code: AZ306024, Coordinates: 40.919, 49.019
+
+
+### Xələnc (Khalanj)
+
+Code: AZ306009, Coordinates: 40.912, 49.047
+
+
+### XIZI (KHIZI)
+
+Code: AZ306011, Coordinates: 40.91, 49.072
+
+
+### Məşədi Həsən (Mashadi Hasan)
+
+Code: AZ306021, Coordinates: 40.823, 49.357
+
+
+### Safbulaq (Safbulag)
+
+Code: AZ306020, Coordinates: 40.816, 48.876
+
+
+### Şorabad (Shorabad)
+
+Code: AZ306006, Coordinates: 40.818, 49.464
+
+
+### Sitalçay (Sitalchay)
+
+Code: AZ306005, Coordinates: 40.787, 49.401
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ306018, Coordinates: 40.887, 49.171
+
+
+### Tıxlı (Tikhli)
+
+Code: AZ306010, Coordinates: 40.915, 49.096
+
+
+### Tudar
+
+Code: AZ306016, Coordinates: 40.736, 49.069
+
+
+### Türkoba (Turkoba)
+
+Code: AZ306028, Coordinates: 40.795, 49.471
+
+
+### Vərdah (Vardah)
+
+Code: AZ306023, Coordinates: 40.897, 48.946
+
+
+### Yarımca (Yarimja)
+
+Code: AZ306013, Coordinates: 40.864, 49.006
+
+
+### Yaşma (Yashma)
+
+Code: AZ306004, Coordinates: 40.707, 49.476
+
+
+### Yeni Yaşma (Yeni Yashma)
+
+Code: AZ306019, Coordinates: 40.756, 49.472
+
+
+### Yuxarı Əngilan (Yukhari Angilan)
+
+Code: AZ306025, Coordinates: 40.826, 49.028
+
+

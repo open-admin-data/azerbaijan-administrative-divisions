@@ -1,0 +1,45 @@
+{
+  "id": "AZ302050",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Köhnə Xaçmaz",
+    "en": "Kohne Khachmaz",
+    "slug": "kohne-khachmaz"
+  },
+  "code": {
+    "id": "AZ302050",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ302",
+    "level": 1,
+    "name": {
+      "local": "Xaçmaz",
+      "en": "Khachmaz",
+      "slug": "khachmaz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ302",
+      "level": 1,
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.479",
+    "lon": "48.791"
+  },
+  "metadata": {},
+  "source": {}
+}

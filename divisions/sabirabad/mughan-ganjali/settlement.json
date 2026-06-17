@@ -1,0 +1,45 @@
+{
+  "id": "AZ909034",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Muğan Gəncəli",
+    "en": "Mughan Ganjali",
+    "slug": "mughan-ganjali"
+  },
+  "code": {
+    "id": "AZ909034",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ909",
+    "level": 1,
+    "name": {
+      "local": "Sabirabad",
+      "en": "Sabirabad",
+      "slug": "sabirabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.713",
+    "lon": "48.951"
+  },
+  "metadata": {},
+  "source": {}
+}

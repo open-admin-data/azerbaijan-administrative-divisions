@@ -1,0 +1,45 @@
+{
+  "id": "AZ100701",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hövsan",
+    "en": "Hovsan",
+    "slug": "hovsan"
+  },
+  "code": {
+    "id": "AZ100701",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1007",
+    "level": 1,
+    "name": {
+      "local": "Suraxanı",
+      "en": "Surakhani",
+      "slug": "surakhani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.372",
+    "lon": "50.087"
+  },
+  "metadata": {},
+  "source": {}
+}

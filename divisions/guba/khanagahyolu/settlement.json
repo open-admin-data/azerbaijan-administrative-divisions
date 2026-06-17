@@ -1,0 +1,45 @@
+{
+  "id": "AZ303134",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xanagahyolu",
+    "en": "Khanagahyolu",
+    "slug": "khanagahyolu"
+  },
+  "code": {
+    "id": "AZ303134",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.166",
+    "lon": "48.54"
+  },
+  "metadata": {},
+  "source": {}
+}

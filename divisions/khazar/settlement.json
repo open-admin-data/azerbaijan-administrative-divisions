@@ -1,0 +1,362 @@
+[
+  {
+    "id": "AZ100304",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binə",
+      "en": "Bina",
+      "slug": "bina"
+    },
+    "code": {
+      "id": "AZ100304",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1003",
+        "level": 1,
+        "name": {
+          "local": "Xəzər",
+          "en": "Khazar",
+          "slug": "khazar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.444",
+      "lon": "50.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100303",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Buzovna",
+      "en": "Buzovna",
+      "slug": "buzovna"
+    },
+    "code": {
+      "id": "AZ100303",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1003",
+        "level": 1,
+        "name": {
+          "local": "Xəzər",
+          "en": "Khazar",
+          "slug": "khazar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.52",
+      "lon": "50.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100306",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qala",
+      "en": "Gala",
+      "slug": "gala"
+    },
+    "code": {
+      "id": "AZ100306",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1003",
+        "level": 1,
+        "name": {
+          "local": "Xəzər",
+          "en": "Khazar",
+          "slug": "khazar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.444",
+      "lon": "50.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100302",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mərdəkan",
+      "en": "Mardakan",
+      "slug": "mardakan"
+    },
+    "code": {
+      "id": "AZ100302",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1003",
+        "level": 1,
+        "name": {
+          "local": "Xəzər",
+          "en": "Khazar",
+          "slug": "khazar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.483",
+      "lon": "50.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100308",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şağan",
+      "en": "Shaghan",
+      "slug": "shaghan"
+    },
+    "code": {
+      "id": "AZ100308",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1003",
+        "level": 1,
+        "name": {
+          "local": "Xəzər",
+          "en": "Khazar",
+          "slug": "khazar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.497",
+      "lon": "50.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100301",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şüvəlan",
+      "en": "Shuvalan",
+      "slug": "shuvalan"
+    },
+    "code": {
+      "id": "AZ100301",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1003",
+        "level": 1,
+        "name": {
+          "local": "Xəzər",
+          "en": "Khazar",
+          "slug": "khazar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.489",
+      "lon": "50.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100305",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkan",
+      "en": "Turkan",
+      "slug": "turkan"
+    },
+    "code": {
+      "id": "AZ100305",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1003",
+        "level": 1,
+        "name": {
+          "local": "Xəzər",
+          "en": "Khazar",
+          "slug": "khazar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.364",
+      "lon": "50.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100307",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zirə",
+      "en": "Zira",
+      "slug": "zira"
+    },
+    "code": {
+      "id": "AZ100307",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1003",
+        "level": 1,
+        "name": {
+          "local": "Xəzər",
+          "en": "Khazar",
+          "slug": "khazar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.37",
+      "lon": "50.286"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

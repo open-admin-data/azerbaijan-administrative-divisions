@@ -1,0 +1,45 @@
+{
+  "id": "AZ905024",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Xanməmmədli",
+    "en": "Khanmammadli",
+    "slug": "khanmammadli"
+  },
+  "code": {
+    "id": "AZ905024",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ905",
+    "level": 1,
+    "name": {
+      "local": "Zərdab",
+      "en": "Zardab",
+      "slug": "zardab"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.235",
+    "lon": "47.652"
+  },
+  "metadata": {},
+  "source": {}
+}

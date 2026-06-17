@@ -1,0 +1,2927 @@
+[
+  {
+    "id": "AZ102005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axaməd",
+      "en": "Akhamad",
+      "slug": "akhamad"
+    },
+    "code": {
+      "id": "AZ102005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.584",
+      "lon": "44.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axura",
+      "en": "Akhura",
+      "slug": "akhura"
+    },
+    "code": {
+      "id": "AZ102056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.562",
+      "lon": "45.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ələkli",
+      "en": "Alakli",
+      "slug": "alakli"
+    },
+    "code": {
+      "id": "AZ102048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.505",
+      "lon": "45.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alışar",
+      "en": "Alishar",
+      "slug": "alishar"
+    },
+    "code": {
+      "id": "AZ102014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.535",
+      "lon": "44.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbyengicə",
+      "en": "Arabyengija",
+      "slug": "arabyengija"
+    },
+    "code": {
+      "id": "AZ102024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.474",
+      "lon": "44.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arbatan",
+      "en": "Arbatan",
+      "slug": "arbatan"
+    },
+    "code": {
+      "id": "AZ102018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.521",
+      "lon": "44.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arpaçay",
+      "en": "Arpachay",
+      "slug": "arpachay"
+    },
+    "code": {
+      "id": "AZ102019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.509",
+      "lon": "44.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Aralıq",
+      "en": "Ashaghi Aralig",
+      "slug": "ashaghi-aralig"
+    },
+    "code": {
+      "id": "AZ102043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.528",
+      "lon": "45.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Daşarx",
+      "en": "Ashaghi Dasharkh",
+      "slug": "ashaghi-dasharkh"
+    },
+    "code": {
+      "id": "AZ102046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.523",
+      "lon": "45.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Yaycı",
+      "en": "Ashaghi Yayji",
+      "slug": "ashaghi-yayji"
+    },
+    "code": {
+      "id": "AZ102034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.621",
+      "lon": "45.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babəki",
+      "en": "Babaki",
+      "slug": "babaki"
+    },
+    "code": {
+      "id": "AZ102021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.5",
+      "lon": "44.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəhruz Kəngərli",
+      "en": "Bahruz Kangarli",
+      "slug": "bahruz-kangarli"
+    },
+    "code": {
+      "id": "AZ102001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.58",
+      "lon": "45.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çəmənli",
+      "en": "Chamanli",
+      "slug": "chamanli"
+    },
+    "code": {
+      "id": "AZ102020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.5",
+      "lon": "44.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çərçiboğan",
+      "en": "Charchiboghan",
+      "slug": "charchiboghan"
+    },
+    "code": {
+      "id": "AZ102016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.529",
+      "lon": "44.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çomaxtur",
+      "en": "Chomakhtur",
+      "slug": "chomakhtur"
+    },
+    "code": {
+      "id": "AZ102015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.538",
+      "lon": "44.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Danyeri",
+      "en": "Danyeri",
+      "slug": "danyeri"
+    },
+    "code": {
+      "id": "AZ102063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.493",
+      "lon": "45.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərvişlər",
+      "en": "Darvishlar",
+      "slug": "darvishlar"
+    },
+    "code": {
+      "id": "AZ102017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.524",
+      "lon": "44.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərəkənd",
+      "en": "Derekend",
+      "slug": "derekend"
+    },
+    "code": {
+      "id": "AZ102053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.539",
+      "lon": "45.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diyadin",
+      "en": "Diyadin",
+      "slug": "diyadin"
+    },
+    "code": {
+      "id": "AZ102026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.448",
+      "lon": "44.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dizə",
+      "en": "Diza",
+      "slug": "diza"
+    },
+    "code": {
+      "id": "AZ102033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.587",
+      "lon": "45.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düdəngə",
+      "en": "Dudanga",
+      "slug": "dudanga"
+    },
+    "code": {
+      "id": "AZ102008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.572",
+      "lon": "44.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraburc",
+      "en": "Garaburj",
+      "slug": "garaburj"
+    },
+    "code": {
+      "id": "AZ102004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.58",
+      "lon": "44.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarahəsənli",
+      "en": "Garahasanli",
+      "slug": "garahasanli"
+    },
+    "code": {
+      "id": "AZ102025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.481",
+      "lon": "44.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarxun",
+      "en": "Garkhun",
+      "slug": "garkhun"
+    },
+    "code": {
+      "id": "AZ102041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.545",
+      "lon": "45.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qışlaqabbas",
+      "en": "Gishlagabbas",
+      "slug": "gishlagabbas"
+    },
+    "code": {
+      "id": "AZ102022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.489",
+      "lon": "44.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qorçulu",
+      "en": "Gorchulu",
+      "slug": "gorchulu"
+    },
+    "code": {
+      "id": "AZ102012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.554",
+      "lon": "44.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gümüşlü",
+      "en": "Gumushlu",
+      "slug": "gumushlu"
+    },
+    "code": {
+      "id": "AZ102037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.642",
+      "lon": "45.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günnüt",
+      "en": "Gunnut",
+      "slug": "gunnut"
+    },
+    "code": {
+      "id": "AZ102058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.776",
+      "lon": "45.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həmzəli",
+      "en": "Hamzali",
+      "slug": "hamzali"
+    },
+    "code": {
+      "id": "AZ102057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.569",
+      "lon": "45.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Havuş",
+      "en": "Havush",
+      "slug": "havush"
+    },
+    "code": {
+      "id": "AZ102065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.523",
+      "lon": "45.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İbadulla",
+      "en": "Ibadulla",
+      "slug": "ibadulla"
+    },
+    "code": {
+      "id": "AZ102023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.484",
+      "lon": "44.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəlilkənd",
+      "en": "Jalilkend",
+      "slug": "jalilkend"
+    },
+    "code": {
+      "id": "AZ102030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.573",
+      "lon": "45.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərimbəyli",
+      "en": "Karimbeyli",
+      "slug": "karimbeyli"
+    },
+    "code": {
+      "id": "AZ102002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.594",
+      "lon": "44.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xələc",
+      "en": "Khalaj",
+      "slug": "khalaj"
+    },
+    "code": {
+      "id": "AZ102027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.523",
+      "lon": "44.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanlıqlar",
+      "en": "Khanliglar",
+      "slug": "khanliglar"
+    },
+    "code": {
+      "id": "AZ102047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.499",
+      "lon": "45.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xətai",
+      "en": "Khatai",
+      "slug": "khatai"
+    },
+    "code": {
+      "id": "AZ102061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.603",
+      "lon": "45.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kosacan",
+      "en": "Kosajan",
+      "slug": "kosajan"
+    },
+    "code": {
+      "id": "AZ102045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.526",
+      "lon": "45.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürçülü",
+      "en": "Kurchulu",
+      "slug": "kurchulu"
+    },
+    "code": {
+      "id": "AZ102006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.573",
+      "lon": "44.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürkənd",
+      "en": "Kurkend",
+      "slug": "kurkend"
+    },
+    "code": {
+      "id": "AZ102007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.569",
+      "lon": "44.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahmudkənd",
+      "en": "Mahmudkend",
+      "slug": "mahmudkend"
+    },
+    "code": {
+      "id": "AZ102028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.578",
+      "lon": "45.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maxta",
+      "en": "Makhta",
+      "slug": "makhta"
+    },
+    "code": {
+      "id": "AZ102003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.591",
+      "lon": "44.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədsabir",
+      "en": "Mammadsabir",
+      "slug": "mammadsabir"
+    },
+    "code": {
+      "id": "AZ102040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.55",
+      "lon": "45.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğancıq Mehrab",
+      "en": "Mughanjig Mehrab",
+      "slug": "mughanjig-mehrab"
+    },
+    "code": {
+      "id": "AZ102059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.55",
+      "lon": "45.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğancıq Müslüm",
+      "en": "Mughanjig Muslum",
+      "slug": "mughanjig-muslum"
+    },
+    "code": {
+      "id": "AZ102039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.555",
+      "lon": "45.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ102013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.544",
+      "lon": "44.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oğlanqala",
+      "en": "Oghlangala",
+      "slug": "oghlangala"
+    },
+    "code": {
+      "id": "AZ102032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.589",
+      "lon": "45.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oğuzkənd",
+      "en": "Oghuzkend",
+      "slug": "oghuzkend"
+    },
+    "code": {
+      "id": "AZ102052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.523",
+      "lon": "45.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Püsyan",
+      "en": "Pusyan",
+      "slug": "pusyan"
+    },
+    "code": {
+      "id": "AZ102054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.449",
+      "lon": "45.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərxanlı",
+      "en": "Sarkhanli",
+      "slug": "sarkhanli"
+    },
+    "code": {
+      "id": "AZ102031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.559",
+      "lon": "45.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahbulaq",
+      "en": "Shahbulag",
+      "slug": "shahbulag"
+    },
+    "code": {
+      "id": "AZ102036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.652",
+      "lon": "45.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəhriyar",
+      "en": "Shahriyar",
+      "slug": "shahriyar"
+    },
+    "code": {
+      "id": "AZ102010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.558",
+      "lon": "44.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ŞƏRUR",
+      "en": "SHARUR",
+      "slug": "sharur"
+    },
+    "code": {
+      "id": "AZ102009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.553",
+      "lon": "44.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siyaqut",
+      "en": "Siyagut",
+      "slug": "siyagut"
+    },
+    "code": {
+      "id": "AZ102044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.538",
+      "lon": "45.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Stansiya Daşarx",
+      "en": "Stansiya Dasharkh",
+      "slug": "stansiya-dasharkh"
+    },
+    "code": {
+      "id": "AZ102062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.497",
+      "lon": "45.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tənənəm",
+      "en": "Tananam",
+      "slug": "tananam"
+    },
+    "code": {
+      "id": "AZ102055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.509",
+      "lon": "45.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ102060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.413",
+      "lon": "45.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tumaslı",
+      "en": "Tumasli",
+      "slug": "tumasli"
+    },
+    "code": {
+      "id": "AZ102051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.469",
+      "lon": "45.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vərməziyar",
+      "en": "Varmaziyar",
+      "slug": "varmaziyar"
+    },
+    "code": {
+      "id": "AZ102049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.493",
+      "lon": "45.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vayxır",
+      "en": "Vaykhir",
+      "slug": "vaykhir"
+    },
+    "code": {
+      "id": "AZ102050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.47",
+      "lon": "45.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yengicə",
+      "en": "Yengija",
+      "slug": "yengija"
+    },
+    "code": {
+      "id": "AZ102011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.547",
+      "lon": "44.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Havuş",
+      "en": "Yeni Havush",
+      "slug": "yeni-havush"
+    },
+    "code": {
+      "id": "AZ102064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.512",
+      "lon": "45.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Aralıq",
+      "en": "Yukhari Aralig",
+      "slug": "yukhari-aralig"
+    },
+    "code": {
+      "id": "AZ102042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.541",
+      "lon": "45.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Daşarx",
+      "en": "Yukhari Dasharkh",
+      "slug": "yukhari-dasharkh"
+    },
+    "code": {
+      "id": "AZ102038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.555",
+      "lon": "45.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Yaycı",
+      "en": "Yukhari Yayji",
+      "slug": "yukhari-yayji"
+    },
+    "code": {
+      "id": "AZ102035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.624",
+      "lon": "45.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ102029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zeyvə",
+      "en": "Zeyva",
+      "slug": "zeyva"
+    },
+    "code": {
+      "id": "AZ102029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ102",
+      "level": 1,
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ102",
+        "level": 1,
+        "name": {
+          "local": "Şərur",
+          "en": "Sharur",
+          "slug": "sharur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.58",
+      "lon": "45.01"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

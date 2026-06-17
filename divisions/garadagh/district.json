@@ -1,0 +1,33 @@
+{
+  "id": "AZ1002",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Qaradağ",
+    "en": "Garadagh",
+    "slug": "garadagh"
+  },
+  "code": {
+    "id": "AZ1002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.174",
+    "lon": "49.527"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/garadagh/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

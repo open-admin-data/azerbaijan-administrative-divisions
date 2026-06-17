@@ -1,0 +1,45 @@
+{
+  "id": "AZ407027",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarakolluq",
+    "en": "Garakollug",
+    "slug": "garakollug"
+  },
+  "code": {
+    "id": "AZ407027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ407",
+    "level": 1,
+    "name": {
+      "local": "İsmayıllı",
+      "en": "Ismayilli",
+      "slug": "ismayilli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ407",
+      "level": 1,
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilli",
+        "slug": "ismayilli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.704",
+    "lon": "48.045"
+  },
+  "metadata": {},
+  "source": {}
+}

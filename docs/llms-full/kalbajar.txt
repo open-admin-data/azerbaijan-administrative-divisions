@@ -1,0 +1,639 @@
+# Kalbajar — Azerbaijan Administrative Divisions
+
+> 126 settlements
+> Code: AZ601
+> Coordinates: 40.1, 46.122
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abdullauşağı (Abdullaushaghi)
+
+Code: AZ601078, Coordinates: 40.056, 46.201
+
+
+### Ağbulaq (Aghbulag)
+
+Code: AZ601071, Coordinates: 40.105, 46.169
+
+
+### Ağdaban (Aghdaban)
+
+Code: AZ601090, Coordinates: 40.19, 46.353
+
+
+### Ağdaş (Aghdash)
+
+Code: AZ601045, Coordinates: 40.168, 46.086
+
+
+### Ağqaya (Aghgaya)
+
+Code: AZ601084, Coordinates: 40.108, 46.328
+
+
+### Ağcakənd (Aghjakend)
+
+Code: AZ601115, Coordinates: 40.022, 46.189
+
+
+### Ağyataq (Aghyatag)
+
+Code: AZ601075, Coordinates: 40.081, 46.173
+
+
+### Alçalı (Alchali)
+
+Code: AZ601129, Coordinates: 40.181, 46.118
+
+
+### Alıbəyli (Alibeyli)
+
+Code: AZ601147, Coordinates: 39.995, 46.237
+
+
+### Alırzalar (Alirzalar)
+
+Code: AZ601005, Coordinates: 39.979, 46.206
+
+
+### Allıkənd (Allikend)
+
+Code: AZ601052, Coordinates: 40.131, 46.04
+
+
+### Almalıq (Almalig)
+
+Code: AZ601073, Coordinates: 40.1, 46.237
+
+
+### Alolar
+
+Code: AZ601130, Coordinates: 40.095, 46.015
+
+
+### Armudlu
+
+Code: AZ601021, Coordinates: 40.087, 45.966
+
+
+### Aşağı Ayrım (Ashaghi Ayrim)
+
+Code: AZ601050, Coordinates: 40.138, 46
+
+
+### Aşağı Qaraçanlı (Ashaghi Garachanli)
+
+Code: AZ601063, Coordinates: 40.045, 46.033
+
+
+### Aşağı Şurtan (Ashaghi Shurtan)
+
+Code: AZ601023, Coordinates: 40.004, 45.976
+
+
+### Əsrik (Asrik)
+
+Code: AZ601079, Coordinates: 40.034, 46.217
+
+
+### Babaşlar (Babashlar)
+
+Code: AZ601036, Coordinates: 40.253, 46.15
+
+
+### Bağırlı (Baghirli)
+
+Code: AZ601092, Coordinates: 40.205, 46.284
+
+
+### Bağırsaq (Baghirsag)
+
+Code: AZ601040, Coordinates: 40.215, 46.22
+
+
+### Bağlıpəyə (Baghlipeye)
+
+Code: AZ601144, Coordinates: 40.147, 46.316
+
+
+### Barmaqbinə (Barmagbina)
+
+Code: AZ601017, Coordinates: 40.11, 45.994
+
+
+### Baş Qaraçanlı (Bash Garachanli)
+
+Code: AZ601061, Coordinates: 40.035, 46.06
+
+
+### Başkənd (Bashkend)
+
+Code: AZ601066, Coordinates: 40.129, 46.119
+
+
+### Başlıbel (Bashlibel)
+
+Code: AZ601113, Coordinates: 39.978, 46.131
+
+
+### Bəzirxana (Bazirkhana)
+
+Code: AZ601025, Coordinates: 40.001, 45.943
+
+
+### Birinci Milli (Birinji Milli)
+
+Code: AZ601056, Coordinates: 40.114, 46.082
+
+
+### Boyaqlı (Boyagli)
+
+Code: AZ601128, Coordinates: 40.12, 46.063
+
+
+### Böyükdüz (Boyukduz)
+
+Code: AZ601146, Coordinates: 40.112, 46.233
+
+
+### Böyürbinə (Boyurbina)
+
+Code: AZ601141, Coordinates: 40.143, 46.054
+
+
+### Bozlu
+
+Code: AZ601027, Coordinates: 40.27, 46.142
+
+
+### Çəpli (Chapli)
+
+Code: AZ601037, Coordinates: 40.232, 46.168
+
+
+### Çayqovuşan (Chaygovushan)
+
+Code: AZ601091, Coordinates: 40.197, 46.342
+
+
+### Çaykənd (Chaykend)
+
+Code: AZ601106, Coordinates: 40.148, 46.088
+
+
+### Çıraq (Chirag)
+
+Code: AZ601012, Coordinates: 39.975, 45.954
+
+
+### Çobangərəhməz (Chobangarahmaz)
+
+Code: AZ601081, Coordinates: 40.021, 46.232
+
+
+### Çopurlu (Chopurlu)
+
+Code: AZ601088, Coordinates: 40.252, 46.109
+
+
+### Çorman (Chorman)
+
+Code: AZ601082, Coordinates: 40.032, 46.258
+
+
+### Çovdar (Chovdar)
+
+Code: AZ601007, Coordinates: 39.951, 46.16
+
+
+### Dalqılınclı (Dalgilinjli)
+
+Code: AZ601131, Coordinates: 40.107, 46.024
+
+
+### Dəmirçidam (Damirchidam)
+
+Code: AZ601034, Coordinates: 40.221, 46.073
+
+
+### Daşbulaq (Dashbulag)
+
+Code: AZ601051, Coordinates: 40.138, 46.027
+
+
+### Dərəqışlaq (Deregishlag)
+
+Code: AZ601054, Coordinates: 40.113, 46.003
+
+
+### Fətallar (Fatallar)
+
+Code: AZ601136, Coordinates: 40.065, 46.167
+
+
+### Qalaboyun (Galaboyun)
+
+Code: AZ601101, Coordinates: 39.966, 46.251
+
+
+### Qamışlı (Gamishli)
+
+Code: AZ601041, Coordinates: 40.205, 46.195
+
+
+### Qanlıkənd (Ganlikend)
+
+Code: AZ601031, Coordinates: 40.221, 46.116
+
+
+### Qaragüney (Garaguney)
+
+Code: AZ601132, Coordinates: 40.08, 46.263
+
+
+### Qaraxançallı (Garakhanchalli)
+
+Code: AZ601004, Coordinates: 39.976, 46.216
+
+
+### Qasımbinəsi (Gasimbinasi)
+
+Code: AZ601039, Coordinates: 40.225, 46.189
+
+
+### Qasımlar (Gasimlar)
+
+Code: AZ601138, Coordinates: 40.171, 46.07
+
+
+### Qazıxanlı (Gazikhanli)
+
+Code: AZ601134, Coordinates: 39.969, 46.28
+
+
+### Qılınclı (Gilinjli)
+
+Code: AZ601105, Coordinates: 40.163, 46.139
+
+
+### Göydərə (Goydere)
+
+Code: AZ601047, Coordinates: 40.188, 46.069
+
+
+### Günəşqaya (Gunashgaya)
+
+Code: AZ601140, Coordinates: 40.152, 46.019
+
+
+### Günəşli (Gunashli)
+
+Code: AZ601143, Coordinates: 40.113, 46.189
+
+
+### Güneypəyə (Guneypeye)
+
+Code: AZ601044, Coordinates: 40.202, 46.149
+
+
+### Quzeyçirkin (Guzeychirkin)
+
+Code: AZ601067, Coordinates: 40.146, 46.126
+
+
+### Hacıdünyamalılar (Hajidunyamalilar)
+
+Code: AZ601009, Coordinates: 39.996, 45.963
+
+
+### Hacıkənd (Hajikend)
+
+Code: AZ601065, Coordinates: 40.133, 46.101
+
+
+### Həsənlər (Hasanlar)
+
+Code: AZ601019, Coordinates: 40.096, 45.968
+
+
+### Hopurlu
+
+Code: AZ601103, Coordinates: 40.035, 45.977
+
+
+### İkinci Milli (Ikinji Milli)
+
+Code: AZ601111, Coordinates: 40.121, 46.088
+
+
+### İlyaslar (Ilyaslar)
+
+Code: AZ601030, Coordinates: 40.241, 46.101
+
+
+### İmanbinəsi (Imanbinasi)
+
+Code: AZ601060, Coordinates: 40.057, 46.022
+
+
+### İstibulaq (Istibulag)
+
+Code: AZ601112, Coordinates: 40.175, 46.051
+
+
+### İstisu
+
+Code: AZ601016, Coordinates: 39.949, 45.961
+
+
+### Cəmilli (Jamilli)
+
+Code: AZ601033, Coordinates: 40.244, 46.063
+
+
+### Comərd (Jomard)
+
+Code: AZ601070, Coordinates: 40.136, 46.221
+
+
+### Kaha
+
+Code: AZ601133, Coordinates: 40.098, 46.019
+
+
+### KƏLBƏCƏR (KALBAJAR)
+
+Code: AZ601108, Coordinates: 40.101, 46.032
+
+
+### Keçiliqaya (Kechiligaya)
+
+Code: AZ601086, Coordinates: 40.046, 46.291
+
+
+### Kəndyeri (Kendyeri)
+
+Code: AZ601107, Coordinates: 40.156, 46.108
+
+
+### Keşdək (Keshdak)
+
+Code: AZ601109, Coordinates: 40.072, 46.016
+
+
+### Xallanlı (Khallanli)
+
+Code: AZ601008, Coordinates: 39.973, 46.175
+
+
+### Xoləzəy (Kholazay)
+
+Code: AZ601064, Coordinates: 40.028, 46.01
+
+
+### Laçın (Lachin)
+
+Code: AZ601085, Coordinates: 40.126, 46.251
+
+
+### Lev
+
+Code: AZ601029, Coordinates: 40.26, 46.101
+
+
+### Məmmədsəfi (Mammadsafi)
+
+Code: AZ601015, Coordinates: 39.962, 45.952
+
+
+### Məmməduşağı (Mammadushaghi)
+
+Code: AZ601058, Coordinates: 40.081, 46.043
+
+
+### Mərcimək (Marjimak)
+
+Code: AZ601083, Coordinates: 40.081, 46.336
+
+
+### Mişni (Mishni)
+
+Code: AZ601048, Coordinates: 40.159, 46.047
+
+
+### Mollabayramlı (Mollabayramli)
+
+Code: AZ601010, Coordinates: 39.985, 45.942
+
+
+### Moz
+
+Code: AZ601077, Coordinates: 40.071, 46.138
+
+
+### Mozqaraçanlı (Mozgarachanli)
+
+Code: AZ601076, Coordinates: 40.068, 46.186
+
+
+### Nəbilər (Nabilar)
+
+Code: AZ601072, Coordinates: 40.102, 46.22
+
+
+### Nadirxanlı (Nadirkhanli)
+
+Code: AZ601042, Coordinates: 40.181, 46.159
+
+
+### Nəcəfalı (Najafali)
+
+Code: AZ601068, Coordinates: 40.144, 46.176
+
+
+### Orta Qaraçanlı (Orta Garachanli)
+
+Code: AZ601062, Coordinates: 40.037, 46.041
+
+
+### Orta Şurtan (Orta Shurtan)
+
+Code: AZ601013, Coordinates: 39.991, 45.985
+
+
+### Oruclu (Orujlu)
+
+Code: AZ601114, Coordinates: 40.022, 46.162
+
+
+### Otaqlı (Otagli)
+
+Code: AZ601053, Coordinates: 40.12, 46.016
+
+
+### Otqışlaq (Otgishlag)
+
+Code: AZ601057, Coordinates: 40.09, 46.001
+
+
+### Pirilər (Pirilar)
+
+Code: AZ601142, Coordinates: 40.167, 46.187
+
+
+### Rəhimli (Rahimli)
+
+Code: AZ601046, Coordinates: 40.162, 46.066
+
+
+### Sarıdaş (Saridash)
+
+Code: AZ601043, Coordinates: 40.193, 46.135
+
+
+### Seyidlər (Seyidlar)
+
+Code: AZ601032, Coordinates: 40.228, 46.087
+
+
+### Şahkərəm (Shahkaram)
+
+Code: AZ601006, Coordinates: 39.96, 46.188
+
+
+### Şaplar (Shaplar)
+
+Code: AZ601110, Coordinates: 40.094, 46.061
+
+
+### Şeyinli (Sheyinli)
+
+Code: AZ601022, Coordinates: 40.023, 45.974
+
+
+### Soyuqbulaq (Soyugbulag)
+
+Code: AZ601102, Coordinates: 40.007, 46.002
+
+
+### Susuzluq (Susuzlug)
+
+Code: AZ601035, Coordinates: 40.243, 46.168
+
+
+### Tağılar (Taghilar)
+
+Code: AZ601069, Coordinates: 40.143, 46.194
+
+
+### Təkəqaya (Takagaya)
+
+Code: AZ601028, Coordinates: 40.264, 46.13
+
+
+### Təkdam (Takdam)
+
+Code: AZ601020, Coordinates: 40.09, 45.99
+
+
+### Taxtabaşı (Takhtabashi)
+
+Code: AZ601001, Coordinates: 39.989, 46.357
+
+
+### Tatlar
+
+Code: AZ601059, Coordinates: 40.065, 46.05
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ601087, Coordinates: 40.019, 46.395
+
+
+### Tirkeşəvənd (Tirkeshavand)
+
+Code: AZ601003, Coordinates: 39.991, 46.241
+
+
+### Tövlədərə (Tovladere)
+
+Code: AZ601139, Coordinates: 39.979, 45.969
+
+
+### Üçüncü Milli (Uchunju Milli)
+
+Code: AZ601055, Coordinates: 40.119, 46.096
+
+
+### Vəng (Vang)
+
+Code: AZ601145, Coordinates: 40.16, 46.285
+
+
+### Yanşaq (Yanshag)
+
+Code: AZ601093, Coordinates: 40.233, 46.242
+
+
+### Yanşaqbinə (Yanshagbina)
+
+Code: AZ601038, Coordinates: 40.238, 46.206
+
+
+### Yellicə (Yellija)
+
+Code: AZ601018, Coordinates: 40.096, 45.95
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ601002, Coordinates: 39.984, 46.42
+
+
+### Yuxarı Ayrım (Yukhari Ayrim)
+
+Code: AZ601049, Coordinates: 40.146, 46
+
+
+### Yuxarı Şurtan (Yukhari Shurtan)
+
+Code: AZ601014, Coordinates: 39.986, 45.992
+
+
+### Zağalar (Zaghalar)
+
+Code: AZ601137, Coordinates: 40.02, 46.356
+
+
+### Zallar
+
+Code: AZ601135, Coordinates: 40.227, 46.204
+
+
+### Zar
+
+Code: AZ601024, Coordinates: 40.003, 45.955
+
+
+### Zərqulu (Zargulu)
+
+Code: AZ601080, Coordinates: 40.005, 46.211
+
+
+### Zəylik (Zaylik)
+
+Code: AZ601026, Coordinates: 40.02, 45.932
+
+
+### Zivel
+
+Code: AZ601011, Coordinates: 39.975, 45.943
+
+
+### Zülfüqarlı (Zulfugarli)
+
+Code: AZ601074, Coordinates: 40.075, 46.226
+
+

@@ -1,0 +1,33 @@
+{
+  "id": "AZ505",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gədəbəy",
+    "en": "Gadabey",
+    "slug": "gadabey"
+  },
+  "code": {
+    "id": "AZ505",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 109
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.608",
+    "lon": "45.654"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/gadabey/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

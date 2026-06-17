@@ -1,0 +1,45 @@
+{
+  "id": "AZ508011",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yalqışlaq",
+    "en": "Yalgishlag",
+    "slug": "yalgishlag"
+  },
+  "code": {
+    "id": "AZ508011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.612",
+    "lon": "46.213"
+  },
+  "metadata": {},
+  "source": {}
+}

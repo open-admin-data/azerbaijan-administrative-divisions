@@ -1,0 +1,524 @@
+# Masalli — Azerbaijan Administrative Divisions
+
+> 103 settlements
+> Code: AZ805
+> Coordinates: 39.015, 48.674
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abasbəyli (Abasbeyli)
+
+Code: AZ805091, Coordinates: 39.025, 48.605
+
+
+### Ağakişibəyli (Aghakishibeyli)
+
+Code: AZ805081, Coordinates: 39.062, 48.685
+
+
+### Əhmədli (Ahmadli)
+
+Code: AZ805006, Coordinates: 39.107, 48.639
+
+
+### Alışanlı (Alishanli)
+
+Code: AZ805080, Coordinates: 39.06, 48.725
+
+
+### Allahyarlı (Allahyarli)
+
+Code: AZ805021, Coordinates: 39.017, 48.615
+
+
+### Əmirtürbə (Amirturbe)
+
+Code: AZ805103, Coordinates: 39.038, 48.568
+
+
+### Ərəb (Arab)
+
+Code: AZ805002, Coordinates: 39.143, 48.734
+
+
+### Ərkivan (Arkivan)
+
+Code: AZ805018, Coordinates: 39.007, 48.647
+
+
+### Aşurlu (Ashurlu)
+
+Code: AZ805088, Coordinates: 38.956, 48.675
+
+
+### Ətcələr (Atjalar)
+
+Code: AZ805079, Coordinates: 39.06, 48.711
+
+
+### Əzizabad (Azizabad)
+
+Code: AZ805047, Coordinates: 38.983, 48.616
+
+
+### Babakücə (Babakuja)
+
+Code: AZ805050, Coordinates: 38.965, 48.62
+
+
+### Babaser
+
+Code: AZ805058, Coordinates: 38.943, 48.686
+
+
+### Bədəlan (Badalan)
+
+Code: AZ805057, Coordinates: 38.952, 48.684
+
+
+### Bağıroba (Baghiroba)
+
+Code: AZ805099, Coordinates: 38.962, 48.639
+
+
+### Bala Kolatan
+
+Code: AZ805094, Coordinates: 38.972, 48.653
+
+
+### Bala Təklə (Bala Takla)
+
+Code: AZ805012, Coordinates: 39.082, 48.699
+
+
+### Banbaşı (Banbashi)
+
+Code: AZ805019, Coordinates: 39.04, 48.627
+
+
+### Binə Xocavar (Bina Khojavar)
+
+Code: AZ805011, Coordinates: 39.065, 48.651
+
+
+### Birinci Səmədxanlı (Birinji Samadkhanli)
+
+Code: AZ805014, Coordinates: 39.055, 48.703
+
+
+### Birinci Tiyaqanı (Birinji Tiyagani)
+
+Code: AZ805062, Coordinates: 38.915, 48.654
+
+
+### Birinci Yeddioymaq (Birinji Yeddioymag)
+
+Code: AZ805038, Coordinates: 39.028, 48.767
+
+
+### Boradigah
+
+Code: AZ805067, Coordinates: 38.916, 48.712
+
+
+### Böyük Xocavar (Boyuk Khojavar)
+
+Code: AZ805095, Coordinates: 39.051, 48.635
+
+
+### Böyük Kolatan (Boyuk Kolatan)
+
+Code: AZ805053, Coordinates: 38.966, 48.647
+
+
+### Çaxırlı (Chakhirli)
+
+Code: AZ805007, Coordinates: 39.09, 48.666
+
+
+### Çayqıraq (Chaygirag)
+
+Code: AZ805056, Coordinates: 38.963, 48.689
+
+
+### Dəlləkli (Dallakli)
+
+Code: AZ805089, Coordinates: 39.085, 48.772
+
+
+### Dəlləkoba (Dallakoba)
+
+Code: AZ805055, Coordinates: 38.971, 48.673
+
+
+### Dəmbəlov (Dambalov)
+
+Code: AZ805043, Coordinates: 38.979, 48.534
+
+
+### Dəmirçi (Damirchi)
+
+Code: AZ805098, Coordinates: 38.948, 48.695
+
+
+### Əminli (Eminli)
+
+Code: AZ805032, Coordinates: 39.103, 48.765
+
+
+### Qədirli (Gadirli)
+
+Code: AZ805035, Coordinates: 39.074, 48.781
+
+
+### Qarğalıq (Garghalig)
+
+Code: AZ805033, Coordinates: 39.079, 48.746
+
+
+### Qəriblər (Gariblar)
+
+Code: AZ805046, Coordinates: 39, 48.597
+
+
+### Qasımlı (Gasimli)
+
+Code: AZ805093, Coordinates: 39.024, 48.752
+
+
+### Qəzvinoba (Gazvinoba)
+
+Code: AZ805102, Coordinates: 38.903, 48.713
+
+
+### Qızılağac (Gizilaghaj)
+
+Code: AZ805037, Coordinates: 39.037, 48.81
+
+
+### Qızılavar (Gizilavar)
+
+Code: AZ805087, Coordinates: 38.963, 48.676
+
+
+### Qodman (Godman)
+
+Code: AZ805048, Coordinates: 38.98, 48.626
+
+
+### Göyəçöl (Goyachol)
+
+Code: AZ805071, Coordinates: 38.994, 48.709
+
+
+### Güllütəpə (Gullutepe)
+
+Code: AZ805023, Coordinates: 39.042, 48.572
+
+
+### Hacıtəpə (Hajitepe)
+
+Code: AZ805003, Coordinates: 39.138, 48.709
+
+
+### Həsənli (Hasanli)
+
+Code: AZ805027, Coordinates: 39.111, 48.703
+
+
+### Hişkədərə (Hishkadere)
+
+Code: AZ805065, Coordinates: 38.907, 48.695
+
+
+### Hüseynhacılı (Huseynhajili)
+
+Code: AZ805040, Coordinates: 39.038, 48.753
+
+
+### İkinci Səmədxanlı (Ikinji Samadkhanli)
+
+Code: AZ805016, Coordinates: 39.041, 48.702
+
+
+### İkinci Yeddioymaq (Ikinji Yeddioymag)
+
+Code: AZ805039, Coordinates: 39.018, 48.764
+
+
+### İmanlı (Imanli)
+
+Code: AZ805010, Coordinates: 39.076, 48.656
+
+
+### İsi (Isi)
+
+Code: AZ805045, Coordinates: 38.99, 48.582
+
+
+### Kəlbəhüseynli (Kalbahuseynli)
+
+Code: AZ805009, Coordinates: 39.084, 48.653
+
+
+### Xəlfələr (Khalfalar)
+
+Code: AZ805092, Coordinates: 39.019, 48.599
+
+
+### Xallıcalı (Khallijali)
+
+Code: AZ805034, Coordinates: 39.067, 48.756
+
+
+### Xanalıyan (Khanaliyan)
+
+Code: AZ805060, Coordinates: 38.941, 48.64
+
+
+### Xıl (Khil)
+
+Code: AZ805070, Coordinates: 38.974, 48.724
+
+
+### Xırmandalı (Khirmandali)
+
+Code: AZ805001, Coordinates: 39.16, 48.72
+
+
+### Xoşçobanlı (Khoshchobanli)
+
+Code: AZ805085, Coordinates: 39.126, 48.67
+
+
+### Köhnə  Alvadı (Kohne  Alvadi)
+
+Code: AZ805096, Coordinates: 39.055, 48.619
+
+
+### Köhnə Zuvand (Kohne Zuvand)
+
+Code: AZ805100, Coordinates: 39.005, 48.476
+
+
+### Köcəkli (Kojakli)
+
+Code: AZ805030, Coordinates: 39.122, 48.756
+
+
+### Kubin
+
+Code: AZ805063, Coordinates: 38.906, 48.653
+
+
+### Kürdəbazlı (Kurdabazli)
+
+Code: AZ805013, Coordinates: 39.076, 48.727
+
+
+### Ləngan (Langan)
+
+Code: AZ805005, Coordinates: 39.119, 48.628
+
+
+### Lürən (Luran)
+
+Code: AZ805072, Coordinates: 38.991, 48.682
+
+
+### Mahmudavar
+
+Code: AZ805074, Coordinates: 38.894, 48.702
+
+
+### Məmmədxanlı (Mammadkhanli)
+
+Code: AZ805029, Coordinates: 39.1, 48.711
+
+
+### Məmmədoba (Mammadoba)
+
+Code: AZ805059, Coordinates: 38.926, 48.645
+
+
+### Məmmədrzakücə (Mammadrzakuja)
+
+Code: AZ805049, Coordinates: 38.975, 48.611
+
+
+### MASALLI
+
+Code: AZ805017, Coordinates: 39.031, 48.668
+
+
+### Meşəkanarı (Meshakanari)
+
+Code: AZ805025, Coordinates: 39.068, 48.613
+
+
+### Mişkəmi (Mishkami)
+
+Code: AZ805082, Coordinates: 38.907, 48.681
+
+
+### Miyanku
+
+Code: AZ805064, Coordinates: 38.898, 48.667
+
+
+### Molalan
+
+Code: AZ805077, Coordinates: 38.895, 48.739
+
+
+### Mollahəsənli (Mollahasanli)
+
+Code: AZ805084, Coordinates: 39.128, 48.662
+
+
+### Mollaoba
+
+Code: AZ805097, Coordinates: 38.935, 48.698
+
+
+### Musakücə (Musakuja)
+
+Code: AZ805042, Coordinates: 39.012, 48.696
+
+
+### Nəzəroba (Nazaroba)
+
+Code: AZ805075, Coordinates: 38.886, 48.664
+
+
+### Ninəlov (Ninalov)
+
+Code: AZ805051, Coordinates: 38.961, 48.604
+
+
+### Öncəqala (Onjagala)
+
+Code: AZ805041, Coordinates: 39.033, 48.716
+
+
+### Pircana (Pirjana)
+
+Code: AZ805073, Coordinates: 38.986, 48.688
+
+
+### Rüdəkənar (Rudakanar)
+
+Code: AZ805076, Coordinates: 38.865, 48.677
+
+
+### Sərçuvar (Sarchuvar)
+
+Code: AZ805069, Coordinates: 38.961, 48.746
+
+
+### Sarıcəfərli (Sarijafarli)
+
+Code: AZ805008, Coordinates: 39.079, 48.661
+
+
+### Şəhriyar (Shahriyar)
+
+Code: AZ805031, Coordinates: 39.1, 48.736
+
+
+### Şərəfə (Sharafa)
+
+Code: AZ805015, Coordinates: 39.072, 48.681
+
+
+### Şatıroba (Shatiroba)
+
+Code: AZ805066, Coordinates: 38.921, 48.727
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ805044, Coordinates: 38.984, 48.562
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ805090, Coordinates: 39.01, 48.752
+
+
+### Sığdaş (Sighdash)
+
+Code: AZ805052, Coordinates: 38.957, 48.619
+
+
+### Sığıncaq (Sighinjag)
+
+Code: AZ805086, Coordinates: 39.12, 48.668
+
+
+### Sirəbil (Sirabil)
+
+Code: AZ805068, Coordinates: 38.943, 48.718
+
+
+### Təkdam (Takdam)
+
+Code: AZ805028, Coordinates: 39.115, 48.725
+
+
+### Təklə (Takla)
+
+Code: AZ805004, Coordinates: 39.132, 48.651
+
+
+### Tatyanoba
+
+Code: AZ805022, Coordinates: 39.043, 48.592
+
+
+### Təzə Alvadı (Teze Alvadi)
+
+Code: AZ805026, Coordinates: 39.087, 48.603
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ805078, Coordinates: 38.961, 48.804
+
+
+### Tüklə (Tukla)
+
+Code: AZ805061, Coordinates: 38.92, 48.675
+
+
+### Türkoba (Turkoba)
+
+Code: AZ805083, Coordinates: 38.919, 48.704
+
+
+### Viləş (Vilash)
+
+Code: AZ805036, Coordinates: 39.041, 48.78
+
+
+### Yeni Zuvand
+
+Code: AZ805101, Coordinates: 39.043, 48.556
+
+
+### Yeyənkənd (Yeyankend)
+
+Code: AZ805020, Coordinates: 39.03, 48.611
+
+
+### Yolağac (Yolaghaj)
+
+Code: AZ805024, Coordinates: 39.013, 48.532
+
+
+### Yusifli
+
+Code: AZ805054, Coordinates: 38.978, 48.667
+
+

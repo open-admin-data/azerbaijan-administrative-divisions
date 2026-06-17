@@ -1,0 +1,45 @@
+{
+  "id": "AZ608046",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Nəcəfqulubəyli",
+    "en": "Najafgulubeyli",
+    "slug": "najafgulubeyli"
+  },
+  "code": {
+    "id": "AZ608046",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ608",
+    "level": 1,
+    "name": {
+      "local": "Ağcabədi",
+      "en": "Aghjabadi",
+      "slug": "aghjabadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.166",
+    "lon": "47.55"
+  },
+  "metadata": {},
+  "source": {}
+}

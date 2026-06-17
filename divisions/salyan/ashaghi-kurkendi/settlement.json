@@ -1,0 +1,45 @@
+{
+  "id": "AZ809023",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı  Kürkəndi",
+    "en": "Ashaghi  Kurkendi",
+    "slug": "ashaghi-kurkendi"
+  },
+  "code": {
+    "id": "AZ809023",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.618",
+    "lon": "48.968"
+  },
+  "metadata": {},
+  "source": {}
+}

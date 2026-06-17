@@ -1,0 +1,45 @@
+{
+  "id": "AZ504056",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Seyfəli",
+    "en": "Ashaghi Seyfali",
+    "slug": "ashaghi-seyfali"
+  },
+  "code": {
+    "id": "AZ504056",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ504",
+    "level": 1,
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.747",
+    "lon": "46.142"
+  },
+  "metadata": {},
+  "source": {}
+}

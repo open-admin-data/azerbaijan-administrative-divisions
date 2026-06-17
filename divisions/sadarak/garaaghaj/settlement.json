@@ -1,0 +1,45 @@
+{
+  "id": "AZ101003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaraağac",
+    "en": "Garaaghaj",
+    "slug": "garaaghaj"
+  },
+  "code": {
+    "id": "AZ101003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ101",
+    "level": 1,
+    "name": {
+      "local": "Sədərək",
+      "en": "Sadarak",
+      "slug": "sadarak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ101",
+      "level": 1,
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.707",
+    "lon": "44.89"
+  },
+  "metadata": {},
+  "source": {}
+}

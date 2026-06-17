@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "AZ807023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abasalılı",
+      "en": "Abasalili",
+      "slug": "abasalili"
+    },
+    "code": {
+      "id": "AZ807023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.436",
+      "lon": "49.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbqardaşbəyli",
+      "en": "Arabgardashbeyli",
+      "slug": "arabgardashbeyli"
+    },
+    "code": {
+      "id": "AZ807011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.53",
+      "lon": "49.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Qaramanlı",
+      "en": "Ashaghi Garamanli",
+      "slug": "ashaghi-garamanli"
+    },
+    "code": {
+      "id": "AZ807020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.428",
+      "lon": "49.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Surra",
+      "en": "Ashaghi Surra",
+      "slug": "ashaghi-surra"
+    },
+    "code": {
+      "id": "AZ807014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.482",
+      "lon": "49.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Astanlı",
+      "en": "Astanli",
+      "slug": "astanli"
+    },
+    "code": {
+      "id": "AZ807021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.431",
+      "lon": "49.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Surra",
+      "en": "Bala Surra",
+      "slug": "bala-surra"
+    },
+    "code": {
+      "id": "AZ807012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.517",
+      "lon": "49.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ballıcalı",
+      "en": "Ballijali",
+      "slug": "ballijali"
+    },
+    "code": {
+      "id": "AZ807024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.415",
+      "lon": "49.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bankə",
+      "en": "Banka",
+      "slug": "banka"
+    },
+    "code": {
+      "id": "AZ807030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.414",
+      "lon": "49.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beştalı",
+      "en": "Beshtali",
+      "slug": "beshtali"
+    },
+    "code": {
+      "id": "AZ807009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.567",
+      "lon": "49.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Qaralı",
+      "en": "Birinji Garali",
+      "slug": "birinji-garali"
+    },
+    "code": {
+      "id": "AZ807018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.446",
+      "lon": "49.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boyat",
+      "en": "Boyat",
+      "slug": "boyat"
+    },
+    "code": {
+      "id": "AZ807025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.401",
+      "lon": "49.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dalğalı",
+      "en": "Dalghali",
+      "slug": "dalghali"
+    },
+    "code": {
+      "id": "AZ807048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.17",
+      "lon": "49.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dördlər",
+      "en": "Dordlar",
+      "slug": "dordlar"
+    },
+    "code": {
+      "id": "AZ807007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.329",
+      "lon": "48.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dördlər",
+      "en": "Dordlar",
+      "slug": "dordlar"
+    },
+    "code": {
+      "id": "AZ807022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.43",
+      "lon": "49.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaçaqkənd",
+      "en": "Gachagkend",
+      "slug": "gachagkend"
+    },
+    "code": {
+      "id": "AZ807003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.39",
+      "lon": "48.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qədimkənd",
+      "en": "Gadimkend",
+      "slug": "gadimkend"
+    },
+    "code": {
+      "id": "AZ807019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.436",
+      "lon": "49.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqaşlı",
+      "en": "Garagashli",
+      "slug": "garagashli"
+    },
+    "code": {
+      "id": "AZ807001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.589",
+      "lon": "48.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazaxbərəsi",
+      "en": "Gazakhbarasi",
+      "slug": "gazakhbarasi"
+    },
+    "code": {
+      "id": "AZ807005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.366",
+      "lon": "48.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırmızı Şəfəq",
+      "en": "Girmizi Shafag",
+      "slug": "girmizi-shafag"
+    },
+    "code": {
+      "id": "AZ807034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.378",
+      "lon": "49.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırmızıkənd",
+      "en": "Girmizikend",
+      "slug": "girmizikend"
+    },
+    "code": {
+      "id": "AZ807006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.339",
+      "lon": "48.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızqayıtdı",
+      "en": "Gizgayitdi",
+      "slug": "gizgayitdi"
+    },
+    "code": {
+      "id": "AZ807043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.222",
+      "lon": "49.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Haqverdilər",
+      "en": "Hagverdilar",
+      "slug": "hagverdilar"
+    },
+    "code": {
+      "id": "AZ807047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.275",
+      "lon": "49.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənabad",
+      "en": "Hasanabad",
+      "slug": "hasanabad"
+    },
+    "code": {
+      "id": "AZ807036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.335",
+      "lon": "49.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Qaralı",
+      "en": "Ikinji Garali",
+      "slug": "ikinji-garali"
+    },
+    "code": {
+      "id": "AZ807016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.453",
+      "lon": "49.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəngan",
+      "en": "Jangan",
+      "slug": "jangan"
+    },
+    "code": {
+      "id": "AZ807010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.56",
+      "lon": "49.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanməmmədli",
+      "en": "Khanmammadli",
+      "slug": "khanmammadli"
+    },
+    "code": {
+      "id": "AZ807002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.397",
+      "lon": "48.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəzər",
+      "en": "Khazar",
+      "slug": "khazar"
+    },
+    "code": {
+      "id": "AZ807041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.26",
+      "lon": "48.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xıllı",
+      "en": "Khilli",
+      "slug": "khilli"
+    },
+    "code": {
+      "id": "AZ807026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.426",
+      "lon": "49.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xol Qarabucaq",
+      "en": "Khol Garabujag",
+      "slug": "khol-garabujag"
+    },
+    "code": {
+      "id": "AZ807038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.305",
+      "lon": "48.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xol Qaraqaşlı",
+      "en": "Khol Garagashli",
+      "slug": "khol-garagashli"
+    },
+    "code": {
+      "id": "AZ807039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.309",
+      "lon": "48.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xoltəzəkənd",
+      "en": "Kholtezekend",
+      "slug": "kholtezekend"
+    },
+    "code": {
+      "id": "AZ807040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.285",
+      "lon": "48.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kür Qarabucaq",
+      "en": "Kur Garabujag",
+      "slug": "kur-garabujag"
+    },
+    "code": {
+      "id": "AZ807017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.466",
+      "lon": "49.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdili",
+      "en": "Kurdili",
+      "slug": "kurdili"
+    },
+    "code": {
+      "id": "AZ807049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.988",
+      "lon": "49.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürkənd",
+      "en": "Kurkend",
+      "slug": "kurkend"
+    },
+    "code": {
+      "id": "AZ807031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.402",
+      "lon": "49.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "1 N-li  Mayak",
+      "en": "Mayak 1",
+      "slug": "mayak-1"
+    },
+    "code": {
+      "id": "AZ807035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.367",
+      "lon": "49.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "2 N-li Mayak",
+      "en": "Mayak 2",
+      "slug": "mayak-2"
+    },
+    "code": {
+      "id": "AZ807050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.362",
+      "lon": "49.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikayıllı",
+      "en": "Mikayilli",
+      "slug": "mikayilli"
+    },
+    "code": {
+      "id": "AZ807044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.216",
+      "lon": "49.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəqurbanlı",
+      "en": "Mirzagurbanli",
+      "slug": "mirzagurbanli"
+    },
+    "code": {
+      "id": "AZ807028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.418",
+      "lon": "49.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mürsəqulu",
+      "en": "Mursagulu",
+      "slug": "mursagulu"
+    },
+    "code": {
+      "id": "AZ807037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.325",
+      "lon": "48.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "NEFTÇALA",
+      "en": "NEFTCHALA",
+      "slug": "neftchala"
+    },
+    "code": {
+      "id": "AZ807032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.377",
+      "lon": "49.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəbbə",
+      "en": "Pirabba",
+      "slug": "pirabba"
+    },
+    "code": {
+      "id": "AZ807013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.497",
+      "lon": "49.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ramazanlı",
+      "en": "Ramazanli",
+      "slug": "ramazanli"
+    },
+    "code": {
+      "id": "AZ807004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.38",
+      "lon": "48.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sahiloba",
+      "en": "Sahiloba",
+      "slug": "sahiloba"
+    },
+    "code": {
+      "id": "AZ807046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.133",
+      "lon": "49.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıqamış",
+      "en": "Sarigamish",
+      "slug": "sarigamish"
+    },
+    "code": {
+      "id": "AZ807045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.213",
+      "lon": "49.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şirvanlı",
+      "en": "Shirvanli",
+      "slug": "shirvanli"
+    },
+    "code": {
+      "id": "AZ807052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.492",
+      "lon": "49.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şorkənd",
+      "en": "Shorkend",
+      "slug": "shorkend"
+    },
+    "code": {
+      "id": "AZ807008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.608",
+      "lon": "49.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sübh",
+      "en": "Subh",
+      "slug": "subh"
+    },
+    "code": {
+      "id": "AZ807051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.379",
+      "lon": "49.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatarməhlə",
+      "en": "Tatarmahla",
+      "slug": "tatarmahla"
+    },
+    "code": {
+      "id": "AZ807027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.431",
+      "lon": "49.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uzunbabalı",
+      "en": "Uzunbabali",
+      "slug": "uzunbabali"
+    },
+    "code": {
+      "id": "AZ807029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.418",
+      "lon": "49.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeniqışlaq",
+      "en": "Yenigishlag",
+      "slug": "yenigishlag"
+    },
+    "code": {
+      "id": "AZ807042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.268",
+      "lon": "49.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ807033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.399",
+      "lon": "49.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ807015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Qaramanlı",
+      "en": "Yukhari Garamanli",
+      "slug": "yukhari-garamanli"
+    },
+    "code": {
+      "id": "AZ807015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ807",
+      "level": 1,
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ807",
+        "level": 1,
+        "name": {
+          "local": "Neftçala",
+          "en": "Neftchala",
+          "slug": "neftchala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.468",
+      "lon": "49.031"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

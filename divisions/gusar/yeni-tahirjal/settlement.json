@@ -1,0 +1,45 @@
+{
+  "id": "AZ301041",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeni Tahircal",
+    "en": "Yeni Tahirjal",
+    "slug": "yeni-tahirjal"
+  },
+  "code": {
+    "id": "AZ301041",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.662",
+    "lon": "48.44"
+  },
+  "metadata": {},
+  "source": {}
+}

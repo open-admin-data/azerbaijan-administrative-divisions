@@ -1,0 +1,259 @@
+# Yevlakh — Azerbaijan Administrative Divisions
+
+> 50 settlements
+> Code: AZ901
+> Coordinates: 40.637, 47.105
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağqıraqlı (Aghgiragli)
+
+Code: AZ901029, Coordinates: 40.662, 47.065
+
+
+### Əcəmi (Ajami)
+
+Code: AZ901012, Coordinates: 40.699, 47.187
+
+
+### Əxşam (Akhsham)
+
+Code: AZ901014, Coordinates: 40.744, 47.151
+
+
+### Ərəbbəsrə (Arabbasra)
+
+Code: AZ901003, Coordinates: 40.781, 47.216
+
+
+### Aran
+
+Code: AZ901025, Coordinates: 40.63, 46.984
+
+
+### Ərəş (Arash)
+
+Code: AZ901004, Coordinates: 40.735, 47.229
+
+
+### Aşağı Bucaq (Ashaghi Bujag)
+
+Code: AZ901007, Coordinates: 40.721, 47.207
+
+
+### Aşağı Qarxun (Ashaghi Garkhun)
+
+Code: AZ901034, Coordinates: 40.582, 47.213
+
+
+### Aşağı Salamabad (Ashaghi Salamabad)
+
+Code: AZ901010, Coordinates: 40.704, 47.202
+
+
+### Balçılı (Balchili)
+
+Code: AZ901018, Coordinates: 40.678, 47.047
+
+
+### Bəydili (Beydili)
+
+Code: AZ901013, Coordinates: 40.717, 47.17
+
+
+### Boşçalı (Boshchali)
+
+Code: AZ901021, Coordinates: 40.734, 47.005
+
+
+### Dəlləklər (Dallaklar)
+
+Code: AZ901049, Coordinates: 40.459, 47.001
+
+
+### Duzdağ (Duzdagh)
+
+Code: AZ901030, Coordinates: 40.63, 47.06
+
+
+### Qaraməmmədli (Garamammadli)
+
+Code: AZ901041, Coordinates: 40.537, 47.027
+
+
+### Qaramanlı (Garamanli)
+
+Code: AZ901026, Coordinates: 40.483, 46.995
+
+
+### Qaraoğlan (Garaoghlan)
+
+Code: AZ901035, Coordinates: 40.658, 47.189
+
+
+### Göyük (Goyuk)
+
+Code: AZ901028, Coordinates: 40.459, 46.975
+
+
+### Qoyunbinəsi (Goyunbinasi)
+
+Code: AZ901043, Coordinates: 40.512, 47.057
+
+
+### Gülövşə (Gulovsha)
+
+Code: AZ901006, Coordinates: 40.743, 47.185
+
+
+### Quşçu (Gushchu)
+
+Code: AZ901011, Coordinates: 40.695, 47.236
+
+
+### Hacımahmudlu (Hajimahmudlu)
+
+Code: AZ901047, Coordinates: 40.484, 47.024
+
+
+### Hacıselli (Hajiselli)
+
+Code: AZ901015, Coordinates: 40.717, 47.123
+
+
+### Havarlı (Havarli)
+
+Code: AZ901022, Coordinates: 40.742, 47.098
+
+
+### Hürüuşağı (Huruushaghi)
+
+Code: AZ901020, Coordinates: 40.719, 47.02
+
+
+### İsmayılabad (Ismayilabad)
+
+Code: AZ901040, Coordinates: 40.579, 47.091
+
+
+### Cırdaxan (Jirdakhan)
+
+Code: AZ901031, Coordinates: 40.642, 47.114
+
+
+### Xaldan (Khaldan)
+
+Code: AZ901050, Coordinates: 40.712, 47.225
+
+
+### Xanabad (Khanabad)
+
+Code: AZ901002, Coordinates: 40.793, 47.179
+
+
+### Kolanı (Kolani)
+
+Code: AZ901045, Coordinates: 40.487, 47.102
+
+
+### Kövər (Kovar)
+
+Code: AZ901046, Coordinates: 40.503, 47.11
+
+
+### Malbinəsi (Malbinasi)
+
+Code: AZ901044, Coordinates: 40.502, 47.087
+
+
+### Marzılı (Marzili)
+
+Code: AZ901016, Coordinates: 40.706, 47.128
+
+
+### Meyvəli (Meyvali)
+
+Code: AZ901023, Coordinates: 40.757, 47.274
+
+
+### Nəmirli (Namirli)
+
+Code: AZ901027, Coordinates: 40.468, 46.978
+
+
+### Nərimanabad (Narimanabad)
+
+Code: AZ901036, Coordinates: 40.608, 47.054
+
+
+### Nemətabad (Nematabad)
+
+Code: AZ901037, Coordinates: 40.61, 47.038
+
+
+### Nurallar
+
+Code: AZ901048, Coordinates: 40.476, 47.032
+
+
+### Rüstəmli (Rustamli)
+
+Code: AZ901042, Coordinates: 40.522, 47.001
+
+
+### Salahlı (Salahli)
+
+Code: AZ901019, Coordinates: 40.688, 47.022
+
+
+### Səmədabad (Samadabad)
+
+Code: AZ901039, Coordinates: 40.587, 47.074
+
+
+### Tanrıqulular (Tanrigulular)
+
+Code: AZ901001, Coordinates: 40.714, 46.976
+
+
+### Varvara
+
+Code: AZ901017, Coordinates: 40.677, 47.092
+
+
+### Yaldili
+
+Code: AZ901024, Coordinates: 40.622, 46.99
+
+
+### Yeni Çobankərə (Yeni Chobankara)
+
+Code: AZ901038, Coordinates: 40.587, 47.038
+
+
+### Yenicə (Yenija)
+
+Code: AZ901008, Coordinates: 40.716, 47.203
+
+
+### YEVLAX (YEVLAKH)
+
+Code: AZ901032, Coordinates: 40.612, 47.145
+
+
+### Yuxarı Salamabad (Yukhari  Salamabad)
+
+Code: AZ901009, Coordinates: 40.71, 47.214
+
+
+### Yuxarı Bucaq (Yukhari Bujag)
+
+Code: AZ901005, Coordinates: 40.74, 47.216
+
+
+### Yuxarı Qarxun (Yukhari Garkhun)
+
+Code: AZ901033, Coordinates: 40.615, 47.193
+
+

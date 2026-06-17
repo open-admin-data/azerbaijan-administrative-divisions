@@ -1,0 +1,409 @@
+# Aghsu — Azerbaijan Administrative Divisions
+
+> 80 settlements
+> Code: AZ409
+> Coordinates: 40.548, 48.367
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abasxanlı (Abaskhanli)
+
+Code: AZ409057, Coordinates: 40.388, 48.403
+
+
+### Ağabəyli (Aghabeyli)
+
+Code: AZ409055, Coordinates: 40.431, 48.432
+
+
+### Ağalarbəyli (Aghalarbeyli)
+
+Code: AZ409041, Coordinates: 40.515, 48.414
+
+
+### Ağarx (Agharkh)
+
+Code: AZ409044, Coordinates: 40.52, 48.377
+
+
+### AĞSU (AGHSU)
+
+Code: AZ409021, Coordinates: 40.572, 48.399
+
+
+### Axundlu (Akhundlu)
+
+Code: AZ409012, Coordinates: 40.534, 48.246
+
+
+### Ərəbmehdibəy (Arabmehdibey)
+
+Code: AZ409007, Coordinates: 40.534, 48.177
+
+
+### Ərəbsarvan (Arabsarvan)
+
+Code: AZ409009, Coordinates: 40.537, 48.221
+
+
+### Ərəbuşağı (Arabushaghi)
+
+Code: AZ409040, Coordinates: 40.527, 48.416
+
+
+### Aratlı Curuğlu (Aratli Jurughlu)
+
+Code: AZ409042, Coordinates: 40.521, 48.396
+
+
+### Bəyimli (Beyimli)
+
+Code: AZ409027, Coordinates: 40.556, 48.228
+
+
+### Bico (Bijo)
+
+Code: AZ409002, Coordinates: 40.506, 48.554
+
+
+### Binəcik (Binajik)
+
+Code: AZ409079, Coordinates: 40.582, 48.31
+
+
+### Bozavand
+
+Code: AZ409045, Coordinates: 40.505, 48.375
+
+
+### Çaparlı (Chaparli)
+
+Code: AZ409073, Coordinates: 40.511, 48.453
+
+
+### Çiyni (Chiyni)
+
+Code: AZ409011, Coordinates: 40.524, 48.246
+
+
+### Dədəli (Dadali)
+
+Code: AZ409006, Coordinates: 40.535, 48.161
+
+
+### Dəlilər (Dalilar)
+
+Code: AZ409028, Coordinates: 40.551, 48.325
+
+
+### Daşdəmirbəyli (Dashdamirbeyli)
+
+Code: AZ409039, Coordinates: 40.531, 48.436
+
+
+### Dilman
+
+Code: AZ409071, Coordinates: 40.727, 48.502
+
+
+### Elabad
+
+Code: AZ409076, Coordinates: 40.585, 48.363
+
+
+### Gəgəli (Gagali)
+
+Code: AZ409001, Coordinates: 40.538, 48.494
+
+
+### Qarabağlı (Garabaghli)
+
+Code: AZ409046, Coordinates: 40.502, 48.388
+
+
+### Qaradağ (Garadagh)
+
+Code: AZ409056, Coordinates: 40.401, 48.4
+
+
+### Qaraqaşlı (Garagashli)
+
+Code: AZ409020, Coordinates: 40.566, 48.384
+
+
+### Qaraqoyunlu (Garagoyunlu)
+
+Code: AZ409016, Coordinates: 40.545, 48.296
+
+
+### Qaraməmmədli (Garamammadli)
+
+Code: AZ409037, Coordinates: 40.546, 48.429
+
+
+### Qaravəlli (Garavalli)
+
+Code: AZ409051, Coordinates: 40.495, 48.255
+
+
+### Qəşəd (Gashad)
+
+Code: AZ409004, Coordinates: 40.49, 48.566
+
+
+### Qasımbəyli (Gasimbeyli)
+
+Code: AZ409008, Coordinates: 40.534, 48.198
+
+
+### Girdə (Girda)
+
+Code: AZ409029, Coordinates: 40.638, 48.297
+
+
+### Qırlar (Girlar)
+
+Code: AZ409066, Coordinates: 40.68, 48.467
+
+
+### Qiyaslı (Giyasli)
+
+Code: AZ409075, Coordinates: 40.492, 48.444
+
+
+### Göydəlləkli (Goydallakli)
+
+Code: AZ409054, Coordinates: 40.467, 48.224
+
+
+### Gursulu
+
+Code: AZ409026, Coordinates: 40.608, 48.281
+
+
+### Quzey (Guzey)
+
+Code: AZ409065, Coordinates: 40.693, 48.446
+
+
+### Hacıqədirli (Hajigadirli)
+
+Code: AZ409010, Coordinates: 40.52, 48.226
+
+
+### Hacıman (Hajiman)
+
+Code: AZ409070, Coordinates: 40.736, 48.495
+
+
+### Hacısəmədli (Hajisamadli)
+
+Code: AZ409049, Coordinates: 40.5, 48.301
+
+
+### Hacıuşağı (Hajiushaghi)
+
+Code: AZ409060, Coordinates: 40.367, 48.446
+
+
+### Hinqar (Hingar)
+
+Code: AZ409030, Coordinates: 40.634, 48.326
+
+
+### İlxıçı (Ilkhichi)
+
+Code: AZ409050, Coordinates: 40.491, 48.294
+
+
+### Cəfərli (Jafarli)
+
+Code: AZ409061, Coordinates: 40.368, 48.471
+
+
+### Cəlayir (Jalayir)
+
+Code: AZ409059, Coordinates: 40.36, 48.42
+
+
+### Kalağaylı (Kalaghayli)
+
+Code: AZ409025, Coordinates: 40.604, 48.289
+
+
+### Kalva
+
+Code: AZ409068, Coordinates: 40.728, 48.48
+
+
+### Kəndaxan (Kendakhan)
+
+Code: AZ409032, Coordinates: 40.666, 48.37
+
+
+### Kəndoba (Kendoba)
+
+Code: AZ409058, Coordinates: 40.403, 48.444
+
+
+### Keşdiməz (Keshdimaz)
+
+Code: AZ409003, Coordinates: 40.5, 48.558
+
+
+### Xəlilli (Khalilli)
+
+Code: AZ409052, Coordinates: 40.493, 48.168
+
+
+### Xanbulaq (Khanbulag)
+
+Code: AZ409031, Coordinates: 40.642, 48.35
+
+
+### Xasıdərə (Khasidere)
+
+Code: AZ409064, Coordinates: 40.7, 48.412
+
+
+### Xatman (Khatman)
+
+Code: AZ409069, Coordinates: 40.724, 48.493
+
+
+### Kövlüc (Kovluj)
+
+Code: AZ409036, Coordinates: 40.62, 48.386
+
+
+### Külüllü (Kulullu)
+
+Code: AZ409078, Coordinates: 40.607, 48.202
+
+
+### Ləngəbiz (Langabiz)
+
+Code: AZ409005, Coordinates: 40.476, 48.581
+
+
+### Məlikçobanlı (Malikchobanli)
+
+Code: AZ409015, Coordinates: 40.515, 48.272
+
+
+### Maşadqanlı (Mashadganli)
+
+Code: AZ409043, Coordinates: 40.502, 48.407
+
+
+### Muradlı (Muradli)
+
+Code: AZ409017, Coordinates: 40.535, 48.344
+
+
+### Musabəyli (Musabeyli)
+
+Code: AZ409014, Coordinates: 40.529, 48.285
+
+
+### Mustafalı (Mustafali)
+
+Code: AZ409053, Coordinates: 40.485, 48.133
+
+
+### Nəmirli (Namirli)
+
+Code: AZ409024, Coordinates: 40.587, 48.295
+
+
+### Navahı (Navahi)
+
+Code: AZ409038, Coordinates: 40.551, 48.41
+
+
+### Növcü (Novju)
+
+Code: AZ409013, Coordinates: 40.519, 48.256
+
+
+### Nuran
+
+Code: AZ409034, Coordinates: 40.674, 48.394
+
+
+### Nüydü (Nuydu)
+
+Code: AZ409062, Coordinates: 40.693, 48.398
+
+
+### Padar
+
+Code: AZ409072, Coordinates: 40.585, 48.263
+
+
+### Padarqışlaq (Padargishlag)
+
+Code: AZ409077, Coordinates: 40.265, 48.546
+
+
+### Pirhəsənli (Pirhasanli)
+
+Code: AZ409022, Coordinates: 40.58, 48.36
+
+
+### Rəhimağalı (Rahimaghali)
+
+Code: AZ409074, Coordinates: 40.501, 48.485
+
+
+### Rəhimli (Rahimli)
+
+Code: AZ409048, Coordinates: 40.447, 48.383
+
+
+### Sanqalan (Sangalan)
+
+Code: AZ409063, Coordinates: 40.689, 48.44
+
+
+### Şahbəyli (Shahbeyli)
+
+Code: AZ409047, Coordinates: 40.47, 48.397
+
+
+### Suraxanı (Surakhani)
+
+Code: AZ409067, Coordinates: 40.713, 48.472
+
+
+### Təklə (Takla)
+
+Code: AZ409018, Coordinates: 40.534, 48.357
+
+
+### Ülgüc (Ulguj)
+
+Code: AZ409019, Coordinates: 40.548, 48.385
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ409033, Coordinates: 40.657, 48.373
+
+
+### Yenilik
+
+Code: AZ409023, Coordinates: 40.588, 48.338
+
+
+### Yuxarı Növcü (Yukhari Novju)
+
+Code: AZ409080, Coordinates: 40.529, 48.261
+
+
+### Zərqava (Zargava)
+
+Code: AZ409035, Coordinates: 40.65, 48.408
+
+

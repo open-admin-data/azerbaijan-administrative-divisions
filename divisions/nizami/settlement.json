@@ -1,0 +1,47 @@
+[
+  {
+    "id": "AZ101001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keşlə",
+      "en": "Keshla",
+      "slug": "keshla"
+    },
+    "code": {
+      "id": "AZ101001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1010",
+      "level": 1,
+      "name": {
+        "local": "Nizami",
+        "en": "Nizami",
+        "slug": "nizami"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1010",
+        "level": 1,
+        "name": {
+          "local": "Nizami",
+          "en": "Nizami",
+          "slug": "nizami"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.396",
+      "lon": "49.896"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

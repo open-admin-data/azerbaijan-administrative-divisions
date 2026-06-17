@@ -1,0 +1,45 @@
+{
+  "id": "AZ509078",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Tap Qaraqoyunlu",
+    "en": "Tap Garagoyunlu",
+    "slug": "tap-garagoyunlu"
+  },
+  "code": {
+    "id": "AZ509078",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.431",
+    "lon": "46.77"
+  },
+  "metadata": {},
+  "source": {}
+}

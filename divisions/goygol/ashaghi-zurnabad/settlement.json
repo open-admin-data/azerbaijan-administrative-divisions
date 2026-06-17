@@ -1,0 +1,45 @@
+{
+  "id": "AZ508042",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Zurnabad",
+    "en": "Ashaghi  Zurnabad",
+    "slug": "ashaghi-zurnabad"
+  },
+  "code": {
+    "id": "AZ508042",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.536",
+    "lon": "46.262"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ303055",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Gürdəh",
+    "en": "Gurdah",
+    "slug": "gurdah"
+  },
+  "code": {
+    "id": "AZ303055",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.177",
+    "lon": "48.51"
+  },
+  "metadata": {},
+  "source": {}
+}

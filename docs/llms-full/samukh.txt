@@ -1,0 +1,184 @@
+# Samukh — Azerbaijan Administrative Divisions
+
+> 35 settlements
+> Code: AZ507
+> Coordinates: 40.839, 46.383
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əhmədbəyli (Ahmadbeyli)
+
+Code: AZ507009, Coordinates: 40.742, 46.471
+
+
+### Alabaşlı (Alabashli)
+
+Code: AZ507033, Coordinates: 40.784, 46.262
+
+
+### Alıuşağı (Aliushaghi)
+
+Code: AZ507005, Coordinates: 40.695, 46.476
+
+
+### Aşağı Ağasıbəyli (Ashaghi Aghasibeyli)
+
+Code: AZ507026, Coordinates: 40.768, 46.514
+
+
+### Bağbanlar (Baghbanlar)
+
+Code: AZ507034, Coordinates: 40.718, 46.416
+
+
+### Burunqovaq (Burungovag)
+
+Code: AZ507004, Coordinates: 41.093, 46.442
+
+
+### Çobanabdallı (Chobanabdalli)
+
+Code: AZ507011, Coordinates: 40.752, 46.434
+
+
+### Füzuli (Fuzuli)
+
+Code: AZ507016, Coordinates: 40.794, 46.403
+
+
+### Qədili (Gadili)
+
+Code: AZ507022, Coordinates: 40.873, 46.305
+
+
+### Qaraağaclı (Garaaghajli)
+
+Code: AZ507021, Coordinates: 40.939, 46.374
+
+
+### Qaraarx (Garaarkh)
+
+Code: AZ507024, Coordinates: 40.838, 46.28
+
+
+### Qarabağlar (Garabaghlar)
+
+Code: AZ507010, Coordinates: 40.753, 46.458
+
+
+### Qarabağlı (Garabaghli)
+
+Code: AZ507003, Coordinates: 41.136, 46.283
+
+
+### Qarayeri (Garayeri)
+
+Code: AZ507014, Coordinates: 40.787, 46.316
+
+
+### Qiyaslı (Giyasli)
+
+Code: AZ507008, Coordinates: 40.729, 46.474
+
+
+### Qovlarsarı (Govlarsari)
+
+Code: AZ507013, Coordinates: 40.787, 46.346
+
+
+### Hacıalılı (Hajialili)
+
+Code: AZ507017, Coordinates: 40.807, 46.446
+
+
+### İnstitut
+
+Code: AZ507031, Coordinates: 40.724, 46.408
+
+
+### İstixana (Istikhana)
+
+Code: AZ507032, Coordinates: 40.772, 46.346
+
+
+### Kəsəmən (Kasaman)
+
+Code: AZ507001, Coordinates: 41.171, 46.244
+
+
+### Köbər (Kobar)
+
+Code: AZ507020, Coordinates: 40.938, 46.351
+
+
+### Lək (Lak)
+
+Code: AZ507018, Coordinates: 40.793, 46.478
+
+
+### Poylu
+
+Code: AZ507030, Coordinates: 41.14, 46.27
+
+
+### Salahlı (Salahli)
+
+Code: AZ507002, Coordinates: 41.151, 46.284
+
+
+### SAMUX (SAMUKH)
+
+Code: AZ507012, Coordinates: 40.763, 46.408
+
+
+### Sarıqamış (Sarigamish)
+
+Code: AZ507015, Coordinates: 40.824, 46.333
+
+
+### Sarıqaya (Sarigaya)
+
+Code: AZ507027, Coordinates: 40.79, 46.513
+
+
+### Sərkar (Sarkar)
+
+Code: AZ507029, Coordinates: 40.761, 46.368
+
+
+### Seyidlər (Seyidlar)
+
+Code: AZ507023, Coordinates: 40.847, 46.301
+
+
+### Tatlı (Tatli)
+
+Code: AZ507007, Coordinates: 40.72, 46.45
+
+
+### Yenibağ (Yenibagh)
+
+Code: AZ507035, Coordinates: 40.802, 46.303
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ507019, Coordinates: 40.923, 46.308
+
+
+### Yuxarı Ağasıbəyli (Yukhari Aghasibeyli)
+
+Code: AZ507025, Coordinates: 40.753, 46.501
+
+
+### Zazalı (Zazali)
+
+Code: AZ507006, Coordinates: 40.714, 46.469
+
+
+### Ziyadlı (Ziyadli)
+
+Code: AZ507028, Coordinates: 40.768, 46.36
+
+

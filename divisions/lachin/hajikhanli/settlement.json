@@ -1,0 +1,45 @@
+{
+  "id": "AZ602118",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacıxanlı",
+    "en": "Hajikhanli",
+    "slug": "hajikhanli"
+  },
+  "code": {
+    "id": "AZ602118",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.86",
+    "lon": "46.266"
+  },
+  "metadata": {},
+  "source": {}
+}

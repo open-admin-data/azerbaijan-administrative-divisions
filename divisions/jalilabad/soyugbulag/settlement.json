@@ -1,0 +1,45 @@
+{
+  "id": "AZ806121",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Soyuqbulaq",
+    "en": "Soyugbulag",
+    "slug": "soyugbulag"
+  },
+  "code": {
+    "id": "AZ806121",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ806",
+    "level": 1,
+    "name": {
+      "local": "Cəlilabad",
+      "en": "Jalilabad",
+      "slug": "jalilabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ806",
+      "level": 1,
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.127",
+    "lon": "48.462"
+  },
+  "metadata": {},
+  "source": {}
+}

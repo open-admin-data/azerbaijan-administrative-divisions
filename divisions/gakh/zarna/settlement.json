@@ -1,0 +1,45 @@
+{
+  "id": "AZ403008",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Zərnə",
+    "en": "Zarna",
+    "slug": "zarna"
+  },
+  "code": {
+    "id": "AZ403008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ403",
+    "level": 1,
+    "name": {
+      "local": "Qax",
+      "en": "Gakh",
+      "slug": "gakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.514",
+    "lon": "46.821"
+  },
+  "metadata": {},
+  "source": {}
+}

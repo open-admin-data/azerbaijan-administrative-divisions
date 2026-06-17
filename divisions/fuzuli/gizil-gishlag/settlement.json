@@ -1,0 +1,45 @@
+{
+  "id": "AZ606100",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qızıl Qışlaq",
+    "en": "Gizil Gishlag",
+    "slug": "gizil-gishlag"
+  },
+  "code": {
+    "id": "AZ606100",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.618",
+    "lon": "47.107"
+  },
+  "metadata": {},
+  "source": {}
+}

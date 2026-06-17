@@ -1,0 +1,45 @@
+{
+  "id": "AZ100221",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarakosa",
+    "en": "Garakosa",
+    "slug": "garakosa"
+  },
+  "code": {
+    "id": "AZ100221",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1002",
+    "level": 1,
+    "name": {
+      "local": "Qaradağ",
+      "en": "Garadagh",
+      "slug": "garadagh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.94",
+    "lon": "49.392"
+  },
+  "metadata": {},
+  "source": {}
+}

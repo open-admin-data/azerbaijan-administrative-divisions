@@ -1,0 +1,45 @@
+{
+  "id": "AZ508006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Haçaqaya",
+    "en": "Hachagaya",
+    "slug": "hachagaya"
+  },
+  "code": {
+    "id": "AZ508006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.655",
+    "lon": "46.229"
+  },
+  "metadata": {},
+  "source": {}
+}

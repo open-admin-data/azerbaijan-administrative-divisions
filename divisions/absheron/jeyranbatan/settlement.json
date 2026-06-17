@@ -1,0 +1,45 @@
+{
+  "id": "AZ308013",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ceyranbatan",
+    "en": "Jeyranbatan",
+    "slug": "jeyranbatan"
+  },
+  "code": {
+    "id": "AZ308013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ308",
+    "level": 1,
+    "name": {
+      "local": "Abşeron",
+      "en": "Absheron",
+      "slug": "absheron"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.543",
+    "lon": "49.666"
+  },
+  "metadata": {},
+  "source": {}
+}

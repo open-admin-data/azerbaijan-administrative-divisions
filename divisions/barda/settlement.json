@@ -1,0 +1,4997 @@
+[
+  {
+    "id": "AZ610023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alaçadırlı",
+      "en": "Alachadirli",
+      "slug": "alachadirli"
+    },
+    "code": {
+      "id": "AZ610023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.359",
+      "lon": "47.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliyanlı",
+      "en": "Aliyanli",
+      "slug": "aliyanli"
+    },
+    "code": {
+      "id": "AZ610022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.341",
+      "lon": "47.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alpout",
+      "en": "Alpout",
+      "slug": "alpout"
+    },
+    "code": {
+      "id": "AZ610076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.324",
+      "lon": "47.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmirli",
+      "en": "Amirli",
+      "slug": "amirli"
+    },
+    "code": {
+      "id": "AZ610089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.218",
+      "lon": "47.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arabaçılar",
+      "en": "Arabachilar",
+      "slug": "arabachilar"
+    },
+    "code": {
+      "id": "AZ610106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.318",
+      "lon": "47.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəblər",
+      "en": "Arablar",
+      "slug": "arablar"
+    },
+    "code": {
+      "id": "AZ610063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.433",
+      "lon": "47.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əyricə",
+      "en": "Ayrija",
+      "slug": "ayrija"
+    },
+    "code": {
+      "id": "AZ610051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.423",
+      "lon": "47.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəcirəvan",
+      "en": "Bajiravan",
+      "slug": "bajiravan"
+    },
+    "code": {
+      "id": "AZ610086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.21",
+      "lon": "47.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Ərəblər",
+      "en": "Bala Arablar",
+      "slug": "bala-arablar"
+    },
+    "code": {
+      "id": "AZ610062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.441",
+      "lon": "47.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Qacar",
+      "en": "Bala Gajar",
+      "slug": "bala-gajar"
+    },
+    "code": {
+      "id": "AZ610070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.325",
+      "lon": "47.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Göyüşlü",
+      "en": "Bala Goyushlu",
+      "slug": "bala-goyushlu"
+    },
+    "code": {
+      "id": "AZ610040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.338",
+      "lon": "47.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "BƏRDƏ",
+      "en": "BARDA",
+      "slug": "barda"
+    },
+    "code": {
+      "id": "AZ610024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.374",
+      "lon": "47.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayramlı",
+      "en": "Bayramli",
+      "slug": "bayramli"
+    },
+    "code": {
+      "id": "AZ610049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.401",
+      "lon": "47.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Qaradəmirçi",
+      "en": "Birinji Garadamirchi",
+      "slug": "birinji-garadamirchi"
+    },
+    "code": {
+      "id": "AZ610037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.352",
+      "lon": "47.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Qazaxlar",
+      "en": "Birinji Gazakhlar",
+      "slug": "birinji-gazakhlar"
+    },
+    "code": {
+      "id": "AZ610102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.419",
+      "lon": "47.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Qacar",
+      "en": "Boyuk Gajar",
+      "slug": "boyuk-gajar"
+    },
+    "code": {
+      "id": "AZ610073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.307",
+      "lon": "47.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Göyüşlü",
+      "en": "Boyuk Goyushlu",
+      "slug": "boyuk-goyushlu"
+    },
+    "code": {
+      "id": "AZ610041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.347",
+      "lon": "47.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çələbilər",
+      "en": "Chalabilar",
+      "slug": "chalabilar"
+    },
+    "code": {
+      "id": "AZ610064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.408",
+      "lon": "47.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çəmənli",
+      "en": "Chamanli",
+      "slug": "chamanli"
+    },
+    "code": {
+      "id": "AZ610103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.401",
+      "lon": "47.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610108",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çərəlilər",
+      "en": "Charalilar",
+      "slug": "charalilar"
+    },
+    "code": {
+      "id": "AZ610108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.348",
+      "lon": "47.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Darğalar",
+      "en": "Darghalar",
+      "slug": "darghalar"
+    },
+    "code": {
+      "id": "AZ610021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.336",
+      "lon": "47.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəymədağıldı",
+      "en": "Daymadaghildi",
+      "slug": "daymadaghildi"
+    },
+    "code": {
+      "id": "AZ610072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.312",
+      "lon": "47.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divanlı",
+      "en": "Divanli",
+      "slug": "divanli"
+    },
+    "code": {
+      "id": "AZ610026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.408",
+      "lon": "47.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəhrəmanlı",
+      "en": "Gahramanli",
+      "slug": "gahramanli"
+    },
+    "code": {
+      "id": "AZ610009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.458",
+      "lon": "47.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ610025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.4",
+      "lon": "47.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradəmirçi",
+      "en": "Garadamirchi",
+      "slug": "garadamirchi"
+    },
+    "code": {
+      "id": "AZ610092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.264",
+      "lon": "47.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradırnaq",
+      "en": "Garadirnag",
+      "slug": "garadirnag"
+    },
+    "code": {
+      "id": "AZ610080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.304",
+      "lon": "47.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarağacı",
+      "en": "Garaghaji",
+      "slug": "garaghaji"
+    },
+    "code": {
+      "id": "AZ610054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.462",
+      "lon": "47.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqoyunlu",
+      "en": "Garagoyunlu",
+      "slug": "garagoyunlu"
+    },
+    "code": {
+      "id": "AZ610057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.424",
+      "lon": "47.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610107",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraməmmədli",
+      "en": "Garamammadli",
+      "slug": "garamammadli"
+    },
+    "code": {
+      "id": "AZ610107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.402",
+      "lon": "47.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gərənə",
+      "en": "Garana",
+      "slug": "garana"
+    },
+    "code": {
+      "id": "AZ610058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.426",
+      "lon": "47.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaratəpə",
+      "en": "Garatepe",
+      "slug": "garatepe"
+    },
+    "code": {
+      "id": "AZ610082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.323",
+      "lon": "47.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarayusifli",
+      "en": "Garayusifli",
+      "slug": "garayusifli"
+    },
+    "code": {
+      "id": "AZ610077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.317",
+      "lon": "47.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımbəyli",
+      "en": "Gasimbeyli",
+      "slug": "gasimbeyli"
+    },
+    "code": {
+      "id": "AZ610018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.365",
+      "lon": "47.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qayalı",
+      "en": "Gayali",
+      "slug": "gayali"
+    },
+    "code": {
+      "id": "AZ610008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.454",
+      "lon": "47.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazaxlar",
+      "en": "Gazakhlar",
+      "slug": "gazakhlar"
+    },
+    "code": {
+      "id": "AZ610099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.27",
+      "lon": "47.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610109",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazıqurdalı",
+      "en": "Gazigurdali",
+      "slug": "gazigurdali"
+    },
+    "code": {
+      "id": "AZ610109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.358",
+      "lon": "47.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülgəzli",
+      "en": "Gulgazli",
+      "slug": "gulgazli"
+    },
+    "code": {
+      "id": "AZ610043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.367",
+      "lon": "47.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qullar",
+      "en": "Gullar",
+      "slug": "gullar"
+    },
+    "code": {
+      "id": "AZ610074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.326",
+      "lon": "47.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güloğlular",
+      "en": "Guloghlular",
+      "slug": "guloghlular"
+    },
+    "code": {
+      "id": "AZ610028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.407",
+      "lon": "47.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qurdlar",
+      "en": "Gurdlar",
+      "slug": "gurdlar"
+    },
+    "code": {
+      "id": "AZ610095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.289",
+      "lon": "47.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610111",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacallı",
+      "en": "Hajalli",
+      "slug": "hajalli"
+    },
+    "code": {
+      "id": "AZ610111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.233",
+      "lon": "47.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıəhmədli",
+      "en": "Hajiahmadli",
+      "slug": "hajiahmadli"
+    },
+    "code": {
+      "id": "AZ610050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.399",
+      "lon": "47.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıbəyli",
+      "en": "Hajibeyli",
+      "slug": "hajibeyli"
+    },
+    "code": {
+      "id": "AZ610031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.394",
+      "lon": "47.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacılar",
+      "en": "Hajilar",
+      "slug": "hajilar"
+    },
+    "code": {
+      "id": "AZ610079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.321",
+      "lon": "47.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacılı",
+      "en": "Hajili",
+      "slug": "hajili"
+    },
+    "code": {
+      "id": "AZ610015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.39",
+      "lon": "47.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənqaya",
+      "en": "Hasangaya",
+      "slug": "hasangaya"
+    },
+    "code": {
+      "id": "AZ610010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.444",
+      "lon": "47.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənli",
+      "en": "Hasanli",
+      "slug": "hasanli"
+    },
+    "code": {
+      "id": "AZ610039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.367",
+      "lon": "47.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynalılar",
+      "en": "Huseynalilar",
+      "slug": "huseynalilar"
+    },
+    "code": {
+      "id": "AZ610105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.309",
+      "lon": "47.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynbəyli",
+      "en": "Huseynbeyli",
+      "slug": "huseynbeyli"
+    },
+    "code": {
+      "id": "AZ610075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.306",
+      "lon": "47.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Qaradəmirçi",
+      "en": "Ikinji Garadamirchi",
+      "slug": "ikinji-garadamirchi"
+    },
+    "code": {
+      "id": "AZ610038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.336",
+      "lon": "47.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Hacallı",
+      "en": "Ikinji Hajalli",
+      "slug": "ikinji-hajalli"
+    },
+    "code": {
+      "id": "AZ610001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.477",
+      "lon": "47.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Nazırlı",
+      "en": "Ikinji Nazirli",
+      "slug": "ikinji-nazirli"
+    },
+    "code": {
+      "id": "AZ610012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.421",
+      "lon": "47.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmamqulubəyli",
+      "en": "Imamgulubeyli",
+      "slug": "imamgulubeyli"
+    },
+    "code": {
+      "id": "AZ610104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.39",
+      "lon": "47.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəyirli",
+      "en": "Jayirli",
+      "slug": "jayirli"
+    },
+    "code": {
+      "id": "AZ610059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.422",
+      "lon": "47.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cicimli",
+      "en": "Jijimli",
+      "slug": "jijimli"
+    },
+    "code": {
+      "id": "AZ610006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.464",
+      "lon": "47.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cumalar",
+      "en": "Jumalar",
+      "slug": "jumalar"
+    },
+    "code": {
+      "id": "AZ610032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.398",
+      "lon": "47.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kafarlı",
+      "en": "Kafarli",
+      "slug": "kafarli"
+    },
+    "code": {
+      "id": "AZ610030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.396",
+      "lon": "47.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kələntərli",
+      "en": "Kalantarli",
+      "slug": "kalantarli"
+    },
+    "code": {
+      "id": "AZ610020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.341",
+      "lon": "47.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərimbəyli",
+      "en": "Karimbeyli",
+      "slug": "karimbeyli"
+    },
+    "code": {
+      "id": "AZ610067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.448",
+      "lon": "47.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kətəlparaq",
+      "en": "Katalparag",
+      "slug": "katalparag"
+    },
+    "code": {
+      "id": "AZ610096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.286",
+      "lon": "47.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanağalı",
+      "en": "Khanaghali",
+      "slug": "khanaghali"
+    },
+    "code": {
+      "id": "AZ610093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.274",
+      "lon": "47.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanərəb",
+      "en": "Khanarab",
+      "slug": "khanarab"
+    },
+    "code": {
+      "id": "AZ610087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.231",
+      "lon": "47.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanxanımlı",
+      "en": "Khankhanimli",
+      "slug": "khankhanimli"
+    },
+    "code": {
+      "id": "AZ610094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.284",
+      "lon": "47.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəsili",
+      "en": "Khasili",
+      "slug": "khasili"
+    },
+    "code": {
+      "id": "AZ610098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.249",
+      "lon": "47.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köbərkənd",
+      "en": "Kobarkend",
+      "slug": "kobarkend"
+    },
+    "code": {
+      "id": "AZ610034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.376",
+      "lon": "47.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolayır",
+      "en": "Kolayir",
+      "slug": "kolayir"
+    },
+    "code": {
+      "id": "AZ610045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.373",
+      "lon": "47.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Körpüsındıran",
+      "en": "Korpusindiran",
+      "slug": "korpusindiran"
+    },
+    "code": {
+      "id": "AZ610101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.354",
+      "lon": "47.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdborakı",
+      "en": "Kurdboraki",
+      "slug": "kurdboraki"
+    },
+    "code": {
+      "id": "AZ610013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.408",
+      "lon": "47.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lək",
+      "en": "Lak",
+      "slug": "lak"
+    },
+    "code": {
+      "id": "AZ610036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.364",
+      "lon": "47.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lənbəran",
+      "en": "Lanbaran",
+      "slug": "lanbaran"
+    },
+    "code": {
+      "id": "AZ610085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.218",
+      "lon": "47.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədli",
+      "en": "Mammadli",
+      "slug": "mammadli"
+    },
+    "code": {
+      "id": "AZ610084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.281",
+      "lon": "47.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məşədiibişli",
+      "en": "Mashadiibishli",
+      "slug": "mashadiibishli"
+    },
+    "code": {
+      "id": "AZ610068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.378",
+      "lon": "47.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehdixanlı",
+      "en": "Mehdikhanli",
+      "slug": "mehdikhanli"
+    },
+    "code": {
+      "id": "AZ610004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.482",
+      "lon": "47.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehdili",
+      "en": "Mehdili",
+      "slug": "mehdili"
+    },
+    "code": {
+      "id": "AZ610100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.28",
+      "lon": "47.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirasəfli",
+      "en": "Mirasafli",
+      "slug": "mirasafli"
+    },
+    "code": {
+      "id": "AZ610007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.46",
+      "lon": "47.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəcəfərli",
+      "en": "Mirzajafarli",
+      "slug": "mirzajafarli"
+    },
+    "code": {
+      "id": "AZ610055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.473",
+      "lon": "47.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəxan Qaraqoyunlu",
+      "en": "Mirzakhan Garagoyunlu",
+      "slug": "mirzakhan-garagoyunlu"
+    },
+    "code": {
+      "id": "AZ610033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.383",
+      "lon": "47.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzalıbəyli",
+      "en": "Mirzalibeyli",
+      "slug": "mirzalibeyli"
+    },
+    "code": {
+      "id": "AZ610029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.399",
+      "lon": "47.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollagüllər",
+      "en": "Mollagullar",
+      "slug": "mollagullar"
+    },
+    "code": {
+      "id": "AZ610056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.47",
+      "lon": "47.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollaisalar",
+      "en": "Mollaisalar",
+      "slug": "mollaisalar"
+    },
+    "code": {
+      "id": "AZ610046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.38",
+      "lon": "47.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollalı",
+      "en": "Mollali",
+      "slug": "mollali"
+    },
+    "code": {
+      "id": "AZ610061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.353",
+      "lon": "47.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollaməmmədli",
+      "en": "Mollamammadli",
+      "slug": "mollamammadli"
+    },
+    "code": {
+      "id": "AZ610042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.369",
+      "lon": "47.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ610019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.353",
+      "lon": "47.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mustafaağalı",
+      "en": "Mustafaaghali",
+      "slug": "mustafaaghali"
+    },
+    "code": {
+      "id": "AZ610081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.319",
+      "lon": "47.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəcəfqulubəyli",
+      "en": "Najafgulubeyli",
+      "slug": "najafgulubeyli"
+    },
+    "code": {
+      "id": "AZ610066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.447",
+      "lon": "47.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nazırlı",
+      "en": "Nazirli",
+      "slug": "nazirli"
+    },
+    "code": {
+      "id": "AZ610083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.32",
+      "lon": "47.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nifçi",
+      "en": "Nifchi",
+      "slug": "nifchi"
+    },
+    "code": {
+      "id": "AZ610065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.423",
+      "lon": "47.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Otuzikilər",
+      "en": "Otuzikilar",
+      "slug": "otuzikilar"
+    },
+    "code": {
+      "id": "AZ610047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.385",
+      "lon": "47.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Piyadalar",
+      "en": "Piyadalar",
+      "slug": "piyadalar"
+    },
+    "code": {
+      "id": "AZ610091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.255",
+      "lon": "47.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saatlı",
+      "en": "Saatli",
+      "slug": "saatli"
+    },
+    "code": {
+      "id": "AZ610011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.443",
+      "lon": "47.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Samuxlu",
+      "en": "Samukhlu",
+      "slug": "samukhlu"
+    },
+    "code": {
+      "id": "AZ610053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.505",
+      "lon": "47.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərkarlar",
+      "en": "Sarkarlar",
+      "slug": "sarkarlar"
+    },
+    "code": {
+      "id": "AZ610044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.366",
+      "lon": "47.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyid Yusifli",
+      "en": "Seyid Yusifli",
+      "slug": "seyid-yusifli"
+    },
+    "code": {
+      "id": "AZ610005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.469",
+      "lon": "47.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahvəlilər",
+      "en": "Shahvalilar",
+      "slug": "shahvalilar"
+    },
+    "code": {
+      "id": "AZ610097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.197",
+      "lon": "47.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şərəfli",
+      "en": "Sharafli",
+      "slug": "sharafli"
+    },
+    "code": {
+      "id": "AZ610088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.218",
+      "lon": "47.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şatırlı",
+      "en": "Shatirli",
+      "slug": "shatirli"
+    },
+    "code": {
+      "id": "AZ610014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.401",
+      "lon": "47.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şirvanlı",
+      "en": "Shirvanli",
+      "slug": "shirvanli"
+    },
+    "code": {
+      "id": "AZ610071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.322",
+      "lon": "47.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şorəlli",
+      "en": "Shoralli",
+      "slug": "shoralli"
+    },
+    "code": {
+      "id": "AZ610027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.413",
+      "lon": "47.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soğanverdilər",
+      "en": "Soghanverdilar",
+      "slug": "soghanverdilar"
+    },
+    "code": {
+      "id": "AZ610090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.233",
+      "lon": "47.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tağılar",
+      "en": "Taghilar",
+      "slug": "taghilar"
+    },
+    "code": {
+      "id": "AZ610002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.486",
+      "lon": "47.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610110",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təhlə",
+      "en": "Tahla",
+      "slug": "tahla"
+    },
+    "code": {
+      "id": "AZ610110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.189",
+      "lon": "47.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tumaslı",
+      "en": "Tumasli",
+      "slug": "tumasli"
+    },
+    "code": {
+      "id": "AZ610078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.299",
+      "lon": "47.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkmən",
+      "en": "Turkman",
+      "slug": "turkman"
+    },
+    "code": {
+      "id": "AZ610035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.378",
+      "lon": "47.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uğurbəyli",
+      "en": "Ughurbeyli",
+      "slug": "ughurbeyli"
+    },
+    "code": {
+      "id": "AZ610069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.317",
+      "lon": "47.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Umudalılar",
+      "en": "Umudalilar",
+      "slug": "umudalilar"
+    },
+    "code": {
+      "id": "AZ610003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.488",
+      "lon": "47.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vəliuşağı",
+      "en": "Valiushaghi",
+      "slug": "valiushaghi"
+    },
+    "code": {
+      "id": "AZ610048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.399",
+      "lon": "47.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Əyricə",
+      "en": "Yeni Ayrija",
+      "slug": "yeni-ayrija"
+    },
+    "code": {
+      "id": "AZ610052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.428",
+      "lon": "47.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Daşkənd",
+      "en": "Yeni Dashkend",
+      "slug": "yeni-dashkend"
+    },
+    "code": {
+      "id": "AZ610016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.384",
+      "lon": "47.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yerliağalı",
+      "en": "Yerliaghali",
+      "slug": "yerliaghali"
+    },
+    "code": {
+      "id": "AZ610060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.339",
+      "lon": "47.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ610017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zümürxan",
+      "en": "Zumurkhan",
+      "slug": "zumurkhan"
+    },
+    "code": {
+      "id": "AZ610017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ610",
+        "level": 1,
+        "name": {
+          "local": "Bərdə",
+          "en": "Barda",
+          "slug": "barda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.377",
+      "lon": "47.073"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

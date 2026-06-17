@@ -1,0 +1,45 @@
+{
+  "id": "AZ401026",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Acılıqbinə",
+    "en": "Ajiligbina",
+    "slug": "ajiligbina"
+  },
+  "code": {
+    "id": "AZ401026",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ401",
+    "level": 1,
+    "name": {
+      "local": "Balakən",
+      "en": "Balakan",
+      "slug": "balakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.678",
+    "lon": "46.26"
+  },
+  "metadata": {},
+  "source": {}
+}

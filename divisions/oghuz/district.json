@@ -1,0 +1,33 @@
+{
+  "id": "AZ405",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Oğuz",
+    "en": "Oghuz",
+    "slug": "oghuz"
+  },
+  "code": {
+    "id": "AZ405",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.99",
+    "lon": "47.514"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/oghuz/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

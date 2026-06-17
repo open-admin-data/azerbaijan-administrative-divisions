@@ -1,0 +1,45 @@
+{
+  "id": "AZ100702",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bülbülə",
+    "en": "Bulbula",
+    "slug": "bulbula"
+  },
+  "code": {
+    "id": "AZ100702",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1007",
+    "level": 1,
+    "name": {
+      "local": "Suraxanı",
+      "en": "Surakhani",
+      "slug": "surakhani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.436",
+    "lon": "49.988"
+  },
+  "metadata": {},
+  "source": {}
+}

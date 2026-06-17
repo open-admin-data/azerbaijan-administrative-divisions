@@ -1,0 +1,5672 @@
+[
+  {
+    "id": "AZ601078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abdullauşağı",
+      "en": "Abdullaushaghi",
+      "slug": "abdullaushaghi"
+    },
+    "code": {
+      "id": "AZ601078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.056",
+      "lon": "46.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbulaq",
+      "en": "Aghbulag",
+      "slug": "aghbulag"
+    },
+    "code": {
+      "id": "AZ601071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.105",
+      "lon": "46.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağdaban",
+      "en": "Aghdaban",
+      "slug": "aghdaban"
+    },
+    "code": {
+      "id": "AZ601090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.19",
+      "lon": "46.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    },
+    "code": {
+      "id": "AZ601045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.168",
+      "lon": "46.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağqaya",
+      "en": "Aghgaya",
+      "slug": "aghgaya"
+    },
+    "code": {
+      "id": "AZ601084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.108",
+      "lon": "46.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601115",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağcakənd",
+      "en": "Aghjakend",
+      "slug": "aghjakend"
+    },
+    "code": {
+      "id": "AZ601115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.022",
+      "lon": "46.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağyataq",
+      "en": "Aghyatag",
+      "slug": "aghyatag"
+    },
+    "code": {
+      "id": "AZ601075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.081",
+      "lon": "46.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601129",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alçalı",
+      "en": "Alchali",
+      "slug": "alchali"
+    },
+    "code": {
+      "id": "AZ601129",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.181",
+      "lon": "46.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601147",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alıbəyli",
+      "en": "Alibeyli",
+      "slug": "alibeyli"
+    },
+    "code": {
+      "id": "AZ601147",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.995",
+      "lon": "46.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alırzalar",
+      "en": "Alirzalar",
+      "slug": "alirzalar"
+    },
+    "code": {
+      "id": "AZ601005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.979",
+      "lon": "46.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Allıkənd",
+      "en": "Allikend",
+      "slug": "allikend"
+    },
+    "code": {
+      "id": "AZ601052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.131",
+      "lon": "46.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Almalıq",
+      "en": "Almalig",
+      "slug": "almalig"
+    },
+    "code": {
+      "id": "AZ601073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.1",
+      "lon": "46.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601130",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alolar",
+      "en": "Alolar",
+      "slug": "alolar"
+    },
+    "code": {
+      "id": "AZ601130",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.095",
+      "lon": "46.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Armudlu",
+      "en": "Armudlu",
+      "slug": "armudlu"
+    },
+    "code": {
+      "id": "AZ601021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.087",
+      "lon": "45.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Ayrım",
+      "en": "Ashaghi Ayrim",
+      "slug": "ashaghi-ayrim"
+    },
+    "code": {
+      "id": "AZ601050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.138",
+      "lon": "46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Qaraçanlı",
+      "en": "Ashaghi Garachanli",
+      "slug": "ashaghi-garachanli"
+    },
+    "code": {
+      "id": "AZ601063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.045",
+      "lon": "46.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Şurtan",
+      "en": "Ashaghi Shurtan",
+      "slug": "ashaghi-shurtan"
+    },
+    "code": {
+      "id": "AZ601023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.004",
+      "lon": "45.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əsrik",
+      "en": "Asrik",
+      "slug": "asrik"
+    },
+    "code": {
+      "id": "AZ601079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.034",
+      "lon": "46.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babaşlar",
+      "en": "Babashlar",
+      "slug": "babashlar"
+    },
+    "code": {
+      "id": "AZ601036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.253",
+      "lon": "46.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağırlı",
+      "en": "Baghirli",
+      "slug": "baghirli"
+    },
+    "code": {
+      "id": "AZ601092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.205",
+      "lon": "46.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağırsaq",
+      "en": "Baghirsag",
+      "slug": "baghirsag"
+    },
+    "code": {
+      "id": "AZ601040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.215",
+      "lon": "46.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601144",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağlıpəyə",
+      "en": "Baghlipeye",
+      "slug": "baghlipeye"
+    },
+    "code": {
+      "id": "AZ601144",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.147",
+      "lon": "46.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Barmaqbinə",
+      "en": "Barmagbina",
+      "slug": "barmagbina"
+    },
+    "code": {
+      "id": "AZ601017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.11",
+      "lon": "45.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baş Qaraçanlı",
+      "en": "Bash Garachanli",
+      "slug": "bash-garachanli"
+    },
+    "code": {
+      "id": "AZ601061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.035",
+      "lon": "46.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Başkənd",
+      "en": "Bashkend",
+      "slug": "bashkend"
+    },
+    "code": {
+      "id": "AZ601066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.129",
+      "lon": "46.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601113",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Başlıbel",
+      "en": "Bashlibel",
+      "slug": "bashlibel"
+    },
+    "code": {
+      "id": "AZ601113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.978",
+      "lon": "46.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəzirxana",
+      "en": "Bazirkhana",
+      "slug": "bazirkhana"
+    },
+    "code": {
+      "id": "AZ601025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.001",
+      "lon": "45.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Milli",
+      "en": "Birinji Milli",
+      "slug": "birinji-milli"
+    },
+    "code": {
+      "id": "AZ601056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.114",
+      "lon": "46.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601128",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boyaqlı",
+      "en": "Boyagli",
+      "slug": "boyagli"
+    },
+    "code": {
+      "id": "AZ601128",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.12",
+      "lon": "46.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601146",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyükdüz",
+      "en": "Boyukduz",
+      "slug": "boyukduz"
+    },
+    "code": {
+      "id": "AZ601146",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.112",
+      "lon": "46.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601141",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyürbinə",
+      "en": "Boyurbina",
+      "slug": "boyurbina"
+    },
+    "code": {
+      "id": "AZ601141",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.143",
+      "lon": "46.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bozlu",
+      "en": "Bozlu",
+      "slug": "bozlu"
+    },
+    "code": {
+      "id": "AZ601027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.27",
+      "lon": "46.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çəpli",
+      "en": "Chapli",
+      "slug": "chapli"
+    },
+    "code": {
+      "id": "AZ601037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.232",
+      "lon": "46.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çayqovuşan",
+      "en": "Chaygovushan",
+      "slug": "chaygovushan"
+    },
+    "code": {
+      "id": "AZ601091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.197",
+      "lon": "46.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaykənd",
+      "en": "Chaykend",
+      "slug": "chaykend"
+    },
+    "code": {
+      "id": "AZ601106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.148",
+      "lon": "46.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çıraq",
+      "en": "Chirag",
+      "slug": "chirag"
+    },
+    "code": {
+      "id": "AZ601012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.975",
+      "lon": "45.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çobangərəhməz",
+      "en": "Chobangarahmaz",
+      "slug": "chobangarahmaz"
+    },
+    "code": {
+      "id": "AZ601081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.021",
+      "lon": "46.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çopurlu",
+      "en": "Chopurlu",
+      "slug": "chopurlu"
+    },
+    "code": {
+      "id": "AZ601088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.252",
+      "lon": "46.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çorman",
+      "en": "Chorman",
+      "slug": "chorman"
+    },
+    "code": {
+      "id": "AZ601082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.032",
+      "lon": "46.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çovdar",
+      "en": "Chovdar",
+      "slug": "chovdar"
+    },
+    "code": {
+      "id": "AZ601007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.951",
+      "lon": "46.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601131",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dalqılınclı",
+      "en": "Dalgilinjli",
+      "slug": "dalgilinjli"
+    },
+    "code": {
+      "id": "AZ601131",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.107",
+      "lon": "46.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəmirçidam",
+      "en": "Damirchidam",
+      "slug": "damirchidam"
+    },
+    "code": {
+      "id": "AZ601034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.221",
+      "lon": "46.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşbulaq",
+      "en": "Dashbulag",
+      "slug": "dashbulag"
+    },
+    "code": {
+      "id": "AZ601051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.138",
+      "lon": "46.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərəqışlaq",
+      "en": "Deregishlag",
+      "slug": "deregishlag"
+    },
+    "code": {
+      "id": "AZ601054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.113",
+      "lon": "46.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601136",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fətallar",
+      "en": "Fatallar",
+      "slug": "fatallar"
+    },
+    "code": {
+      "id": "AZ601136",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.065",
+      "lon": "46.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalaboyun",
+      "en": "Galaboyun",
+      "slug": "galaboyun"
+    },
+    "code": {
+      "id": "AZ601101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.966",
+      "lon": "46.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qamışlı",
+      "en": "Gamishli",
+      "slug": "gamishli"
+    },
+    "code": {
+      "id": "AZ601041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.205",
+      "lon": "46.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qanlıkənd",
+      "en": "Ganlikend",
+      "slug": "ganlikend"
+    },
+    "code": {
+      "id": "AZ601031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.221",
+      "lon": "46.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601132",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaragüney",
+      "en": "Garaguney",
+      "slug": "garaguney"
+    },
+    "code": {
+      "id": "AZ601132",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.08",
+      "lon": "46.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraxançallı",
+      "en": "Garakhanchalli",
+      "slug": "garakhanchalli"
+    },
+    "code": {
+      "id": "AZ601004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.976",
+      "lon": "46.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımbinəsi",
+      "en": "Gasimbinasi",
+      "slug": "gasimbinasi"
+    },
+    "code": {
+      "id": "AZ601039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.225",
+      "lon": "46.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601138",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımlar",
+      "en": "Gasimlar",
+      "slug": "gasimlar"
+    },
+    "code": {
+      "id": "AZ601138",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.171",
+      "lon": "46.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601134",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazıxanlı",
+      "en": "Gazikhanli",
+      "slug": "gazikhanli"
+    },
+    "code": {
+      "id": "AZ601134",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.969",
+      "lon": "46.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qılınclı",
+      "en": "Gilinjli",
+      "slug": "gilinjli"
+    },
+    "code": {
+      "id": "AZ601105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.163",
+      "lon": "46.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göydərə",
+      "en": "Goydere",
+      "slug": "goydere"
+    },
+    "code": {
+      "id": "AZ601047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.188",
+      "lon": "46.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601140",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşqaya",
+      "en": "Gunashgaya",
+      "slug": "gunashgaya"
+    },
+    "code": {
+      "id": "AZ601140",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.152",
+      "lon": "46.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601143",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Günəşli",
+      "en": "Gunashli",
+      "slug": "gunashli"
+    },
+    "code": {
+      "id": "AZ601143",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.113",
+      "lon": "46.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güneypəyə",
+      "en": "Guneypeye",
+      "slug": "guneypeye"
+    },
+    "code": {
+      "id": "AZ601044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.202",
+      "lon": "46.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quzeyçirkin",
+      "en": "Guzeychirkin",
+      "slug": "guzeychirkin"
+    },
+    "code": {
+      "id": "AZ601067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.146",
+      "lon": "46.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıdünyamalılar",
+      "en": "Hajidunyamalilar",
+      "slug": "hajidunyamalilar"
+    },
+    "code": {
+      "id": "AZ601009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.996",
+      "lon": "45.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıkənd",
+      "en": "Hajikend",
+      "slug": "hajikend"
+    },
+    "code": {
+      "id": "AZ601065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.133",
+      "lon": "46.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənlər",
+      "en": "Hasanlar",
+      "slug": "hasanlar"
+    },
+    "code": {
+      "id": "AZ601019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.096",
+      "lon": "45.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hopurlu",
+      "en": "Hopurlu",
+      "slug": "hopurlu"
+    },
+    "code": {
+      "id": "AZ601103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.035",
+      "lon": "45.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601111",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Milli",
+      "en": "Ikinji Milli",
+      "slug": "ikinji-milli"
+    },
+    "code": {
+      "id": "AZ601111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.121",
+      "lon": "46.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İlyaslar",
+      "en": "Ilyaslar",
+      "slug": "ilyaslar"
+    },
+    "code": {
+      "id": "AZ601030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.241",
+      "lon": "46.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmanbinəsi",
+      "en": "Imanbinasi",
+      "slug": "imanbinasi"
+    },
+    "code": {
+      "id": "AZ601060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.057",
+      "lon": "46.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601112",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İstibulaq",
+      "en": "Istibulag",
+      "slug": "istibulag"
+    },
+    "code": {
+      "id": "AZ601112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.175",
+      "lon": "46.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İstisu",
+      "en": "İstisu",
+      "slug": "istisu"
+    },
+    "code": {
+      "id": "AZ601016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.949",
+      "lon": "45.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəmilli",
+      "en": "Jamilli",
+      "slug": "jamilli"
+    },
+    "code": {
+      "id": "AZ601033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.244",
+      "lon": "46.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Comərd",
+      "en": "Jomard",
+      "slug": "jomard"
+    },
+    "code": {
+      "id": "AZ601070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.136",
+      "lon": "46.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601133",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kaha",
+      "en": "Kaha",
+      "slug": "kaha"
+    },
+    "code": {
+      "id": "AZ601133",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.098",
+      "lon": "46.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601108",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "KƏLBƏCƏR",
+      "en": "KALBAJAR",
+      "slug": "kalbajar"
+    },
+    "code": {
+      "id": "AZ601108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.101",
+      "lon": "46.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keçiliqaya",
+      "en": "Kechiligaya",
+      "slug": "kechiligaya"
+    },
+    "code": {
+      "id": "AZ601086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.046",
+      "lon": "46.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601107",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəndyeri",
+      "en": "Kendyeri",
+      "slug": "kendyeri"
+    },
+    "code": {
+      "id": "AZ601107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.156",
+      "lon": "46.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601109",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keşdək",
+      "en": "Keshdak",
+      "slug": "keshdak"
+    },
+    "code": {
+      "id": "AZ601109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.072",
+      "lon": "46.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xallanlı",
+      "en": "Khallanli",
+      "slug": "khallanli"
+    },
+    "code": {
+      "id": "AZ601008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.973",
+      "lon": "46.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xoləzəy",
+      "en": "Kholazay",
+      "slug": "kholazay"
+    },
+    "code": {
+      "id": "AZ601064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.028",
+      "lon": "46.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    },
+    "code": {
+      "id": "AZ601085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.126",
+      "lon": "46.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lev",
+      "en": "Lev",
+      "slug": "lev"
+    },
+    "code": {
+      "id": "AZ601029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.26",
+      "lon": "46.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədsəfi",
+      "en": "Mammadsafi",
+      "slug": "mammadsafi"
+    },
+    "code": {
+      "id": "AZ601015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.962",
+      "lon": "45.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmməduşağı",
+      "en": "Mammadushaghi",
+      "slug": "mammadushaghi"
+    },
+    "code": {
+      "id": "AZ601058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.081",
+      "lon": "46.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mərcimək",
+      "en": "Marjimak",
+      "slug": "marjimak"
+    },
+    "code": {
+      "id": "AZ601083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.081",
+      "lon": "46.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mişni",
+      "en": "Mishni",
+      "slug": "mishni"
+    },
+    "code": {
+      "id": "AZ601048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.159",
+      "lon": "46.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollabayramlı",
+      "en": "Mollabayramli",
+      "slug": "mollabayramli"
+    },
+    "code": {
+      "id": "AZ601010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.985",
+      "lon": "45.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moz",
+      "en": "Moz",
+      "slug": "moz"
+    },
+    "code": {
+      "id": "AZ601077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.071",
+      "lon": "46.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mozqaraçanlı",
+      "en": "Mozgarachanli",
+      "slug": "mozgarachanli"
+    },
+    "code": {
+      "id": "AZ601076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.068",
+      "lon": "46.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəbilər",
+      "en": "Nabilar",
+      "slug": "nabilar"
+    },
+    "code": {
+      "id": "AZ601072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.102",
+      "lon": "46.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nadirxanlı",
+      "en": "Nadirkhanli",
+      "slug": "nadirkhanli"
+    },
+    "code": {
+      "id": "AZ601042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.181",
+      "lon": "46.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəcəfalı",
+      "en": "Najafali",
+      "slug": "najafali"
+    },
+    "code": {
+      "id": "AZ601068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.144",
+      "lon": "46.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Qaraçanlı",
+      "en": "Orta Garachanli",
+      "slug": "orta-garachanli"
+    },
+    "code": {
+      "id": "AZ601062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.037",
+      "lon": "46.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Şurtan",
+      "en": "Orta Shurtan",
+      "slug": "orta-shurtan"
+    },
+    "code": {
+      "id": "AZ601013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.991",
+      "lon": "45.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601114",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oruclu",
+      "en": "Orujlu",
+      "slug": "orujlu"
+    },
+    "code": {
+      "id": "AZ601114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.022",
+      "lon": "46.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Otaqlı",
+      "en": "Otagli",
+      "slug": "otagli"
+    },
+    "code": {
+      "id": "AZ601053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.12",
+      "lon": "46.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Otqışlaq",
+      "en": "Otgishlag",
+      "slug": "otgishlag"
+    },
+    "code": {
+      "id": "AZ601057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.09",
+      "lon": "46.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601142",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirilər",
+      "en": "Pirilar",
+      "slug": "pirilar"
+    },
+    "code": {
+      "id": "AZ601142",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.167",
+      "lon": "46.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəhimli",
+      "en": "Rahimli",
+      "slug": "rahimli"
+    },
+    "code": {
+      "id": "AZ601046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.162",
+      "lon": "46.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıdaş",
+      "en": "Saridash",
+      "slug": "saridash"
+    },
+    "code": {
+      "id": "AZ601043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.193",
+      "lon": "46.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidlər",
+      "en": "Seyidlar",
+      "slug": "seyidlar"
+    },
+    "code": {
+      "id": "AZ601032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.228",
+      "lon": "46.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahkərəm",
+      "en": "Shahkaram",
+      "slug": "shahkaram"
+    },
+    "code": {
+      "id": "AZ601006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.96",
+      "lon": "46.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601110",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şaplar",
+      "en": "Shaplar",
+      "slug": "shaplar"
+    },
+    "code": {
+      "id": "AZ601110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.094",
+      "lon": "46.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şeyinli",
+      "en": "Sheyinli",
+      "slug": "sheyinli"
+    },
+    "code": {
+      "id": "AZ601022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.023",
+      "lon": "45.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soyuqbulaq",
+      "en": "Soyugbulag",
+      "slug": "soyugbulag"
+    },
+    "code": {
+      "id": "AZ601102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.007",
+      "lon": "46.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Susuzluq",
+      "en": "Susuzlug",
+      "slug": "susuzlug"
+    },
+    "code": {
+      "id": "AZ601035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.243",
+      "lon": "46.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tağılar",
+      "en": "Taghilar",
+      "slug": "taghilar"
+    },
+    "code": {
+      "id": "AZ601069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.143",
+      "lon": "46.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təkəqaya",
+      "en": "Takagaya",
+      "slug": "takagaya"
+    },
+    "code": {
+      "id": "AZ601028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.264",
+      "lon": "46.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təkdam",
+      "en": "Takdam",
+      "slug": "takdam"
+    },
+    "code": {
+      "id": "AZ601020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.09",
+      "lon": "45.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Taxtabaşı",
+      "en": "Takhtabashi",
+      "slug": "takhtabashi"
+    },
+    "code": {
+      "id": "AZ601001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.989",
+      "lon": "46.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatlar",
+      "en": "Tatlar",
+      "slug": "tatlar"
+    },
+    "code": {
+      "id": "AZ601059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.065",
+      "lon": "46.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ601087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.019",
+      "lon": "46.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tirkeşəvənd",
+      "en": "Tirkeshavand",
+      "slug": "tirkeshavand"
+    },
+    "code": {
+      "id": "AZ601003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.991",
+      "lon": "46.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601139",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tövlədərə",
+      "en": "Tovladere",
+      "slug": "tovladere"
+    },
+    "code": {
+      "id": "AZ601139",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.979",
+      "lon": "45.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçüncü Milli",
+      "en": "Uchunju Milli",
+      "slug": "uchunju-milli"
+    },
+    "code": {
+      "id": "AZ601055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.119",
+      "lon": "46.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601145",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vəng",
+      "en": "Vang",
+      "slug": "vang"
+    },
+    "code": {
+      "id": "AZ601145",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.16",
+      "lon": "46.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yanşaq",
+      "en": "Yanshag",
+      "slug": "yanshag"
+    },
+    "code": {
+      "id": "AZ601093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.233",
+      "lon": "46.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yanşaqbinə",
+      "en": "Yanshagbina",
+      "slug": "yanshagbina"
+    },
+    "code": {
+      "id": "AZ601038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.238",
+      "lon": "46.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yellicə",
+      "en": "Yellija",
+      "slug": "yellija"
+    },
+    "code": {
+      "id": "AZ601018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.096",
+      "lon": "45.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ601002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.984",
+      "lon": "46.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Ayrım",
+      "en": "Yukhari Ayrim",
+      "slug": "yukhari-ayrim"
+    },
+    "code": {
+      "id": "AZ601049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.146",
+      "lon": "46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Şurtan",
+      "en": "Yukhari Shurtan",
+      "slug": "yukhari-shurtan"
+    },
+    "code": {
+      "id": "AZ601014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.986",
+      "lon": "45.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601137",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zağalar",
+      "en": "Zaghalar",
+      "slug": "zaghalar"
+    },
+    "code": {
+      "id": "AZ601137",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.02",
+      "lon": "46.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601135",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zallar",
+      "en": "Zallar",
+      "slug": "zallar"
+    },
+    "code": {
+      "id": "AZ601135",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.227",
+      "lon": "46.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zar",
+      "en": "Zar",
+      "slug": "zar"
+    },
+    "code": {
+      "id": "AZ601024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.003",
+      "lon": "45.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərqulu",
+      "en": "Zargulu",
+      "slug": "zargulu"
+    },
+    "code": {
+      "id": "AZ601080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.005",
+      "lon": "46.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəylik",
+      "en": "Zaylik",
+      "slug": "zaylik"
+    },
+    "code": {
+      "id": "AZ601026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.02",
+      "lon": "45.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zivel",
+      "en": "Zivel",
+      "slug": "zivel"
+    },
+    "code": {
+      "id": "AZ601011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.975",
+      "lon": "45.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ601074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zülfüqarlı",
+      "en": "Zulfugarli",
+      "slug": "zulfugarli"
+    },
+    "code": {
+      "id": "AZ601074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ601",
+      "level": 1,
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ601",
+        "level": 1,
+        "name": {
+          "local": "Kəlbəcər",
+          "en": "Kalbajar",
+          "slug": "kalbajar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.075",
+      "lon": "46.226"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

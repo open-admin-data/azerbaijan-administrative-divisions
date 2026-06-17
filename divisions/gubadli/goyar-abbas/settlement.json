@@ -1,0 +1,45 @@
+{
+  "id": "AZ603029",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Göyər Abbas",
+    "en": "Goyar Abbas",
+    "slug": "goyar-abbas"
+  },
+  "code": {
+    "id": "AZ603029",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ603",
+    "level": 1,
+    "name": {
+      "local": "Qubadlı",
+      "en": "Gubadli",
+      "slug": "gubadli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.385",
+    "lon": "46.456"
+  },
+  "metadata": {},
+  "source": {}
+}

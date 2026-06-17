@@ -1,0 +1,33 @@
+{
+  "id": "AZ303",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Quba",
+    "en": "Guba",
+    "slug": "guba"
+  },
+  "code": {
+    "id": "AZ303",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 157
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.264",
+    "lon": "48.564"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/guba/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

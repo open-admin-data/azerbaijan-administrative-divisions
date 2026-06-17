@@ -1,0 +1,45 @@
+{
+  "id": "AZ906016",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Axtaçı Qarabucaq",
+    "en": "Akhtachi Garabujag",
+    "slug": "akhtachi-garabujag"
+  },
+  "code": {
+    "id": "AZ906016",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ906",
+    "level": 1,
+    "name": {
+      "local": "Kürdəmir",
+      "en": "Kurdamir",
+      "slug": "kurdamir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.043",
+    "lon": "48.322"
+  },
+  "metadata": {},
+  "source": {}
+}

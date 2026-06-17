@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "AZ611007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağkənd",
+      "en": "Aghkend",
+      "slug": "aghkend"
+    },
+    "code": {
+      "id": "AZ611007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.403",
+      "lon": "46.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ələsgərli",
+      "en": "Alasgarli",
+      "slug": "alasgarli"
+    },
+    "code": {
+      "id": "AZ611013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.34",
+      "lon": "46.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alışarlı",
+      "en": "Alisharli",
+      "slug": "alisharli"
+    },
+    "code": {
+      "id": "AZ611023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.339",
+      "lon": "47.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Qapanlı",
+      "en": "Ashaghi Gapanli",
+      "slug": "ashaghi-gapanli"
+    },
+    "code": {
+      "id": "AZ611063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.283",
+      "lon": "47.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əskipara",
+      "en": "Askipara",
+      "slug": "askipara"
+    },
+    "code": {
+      "id": "AZ611037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.312",
+      "lon": "46.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azad Qaraqoyunlu",
+      "en": "Azad Garagoyunlu",
+      "slug": "azad-garagoyunlu"
+    },
+    "code": {
+      "id": "AZ611049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.274",
+      "lon": "47.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Kəngərli",
+      "en": "Bala Kangarli",
+      "slug": "bala-kangarli"
+    },
+    "code": {
+      "id": "AZ611009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.395",
+      "lon": "46.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayandur",
+      "en": "Bayandur",
+      "slug": "bayandur"
+    },
+    "code": {
+      "id": "AZ611040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.332",
+      "lon": "46.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayandurlu",
+      "en": "Bayandurlu",
+      "slug": "bayandurlu"
+    },
+    "code": {
+      "id": "AZ611001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.442",
+      "lon": "46.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəyimsarov",
+      "en": "Beyimsarov",
+      "slug": "beyimsarov"
+    },
+    "code": {
+      "id": "AZ611059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.476",
+      "lon": "46.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bildirçinli",
+      "en": "Bildirchinli",
+      "slug": "bildirchinli"
+    },
+    "code": {
+      "id": "AZ611060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.474",
+      "lon": "46.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Borsunlu",
+      "en": "Borsunlu",
+      "slug": "borsunlu"
+    },
+    "code": {
+      "id": "AZ611018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.441",
+      "lon": "46.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Buruc",
+      "en": "Buruj",
+      "slug": "buruj"
+    },
+    "code": {
+      "id": "AZ611012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.358",
+      "lon": "46.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəmirçilər",
+      "en": "Damirchilar",
+      "slug": "damirchilar"
+    },
+    "code": {
+      "id": "AZ611006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.417",
+      "lon": "46.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düyərli",
+      "en": "Duyarli",
+      "slug": "duyarli"
+    },
+    "code": {
+      "id": "AZ611038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.326",
+      "lon": "46.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evoğlu",
+      "en": "Evoghlu",
+      "slug": "evoghlu"
+    },
+    "code": {
+      "id": "AZ611048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.301",
+      "lon": "47.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qapanlı",
+      "en": "Gapanli",
+      "slug": "gapanli"
+    },
+    "code": {
+      "id": "AZ611043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.257",
+      "lon": "46.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraağacı",
+      "en": "Garaaghaji",
+      "slug": "garaaghaji"
+    },
+    "code": {
+      "id": "AZ611041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.293",
+      "lon": "46.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ611003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.435",
+      "lon": "46.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaynaq",
+      "en": "Gaynag",
+      "slug": "gaynag"
+    },
+    "code": {
+      "id": "AZ611053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.263",
+      "lon": "47.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazyan",
+      "en": "Gazyan",
+      "slug": "gazyan"
+    },
+    "code": {
+      "id": "AZ611054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.24",
+      "lon": "47.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güləbatlı",
+      "en": "Gulabatli",
+      "slug": "gulabatli"
+    },
+    "code": {
+      "id": "AZ611065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.388",
+      "lon": "46.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacallı",
+      "en": "Hajalli",
+      "slug": "hajalli"
+    },
+    "code": {
+      "id": "AZ611024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.345",
+      "lon": "47.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıqərvənd",
+      "en": "Hajigervend",
+      "slug": "hajigervend"
+    },
+    "code": {
+      "id": "AZ611011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.37",
+      "lon": "46.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüsənli",
+      "en": "Husanli",
+      "slug": "husanli"
+    },
+    "code": {
+      "id": "AZ611055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.211",
+      "lon": "47.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İlxıçılar",
+      "en": "Ilkhichilar",
+      "slug": "ilkhichilar"
+    },
+    "code": {
+      "id": "AZ611050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.265",
+      "lon": "47.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İrəvanlı",
+      "en": "Iravanli",
+      "slug": "iravanli"
+    },
+    "code": {
+      "id": "AZ611022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.333",
+      "lon": "47.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsmayılbəyli",
+      "en": "Ismayilbeyli",
+      "slug": "ismayilbeyli"
+    },
+    "code": {
+      "id": "AZ611047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.305",
+      "lon": "47.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəmilli",
+      "en": "Jamilli",
+      "slug": "jamilli"
+    },
+    "code": {
+      "id": "AZ611008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.401",
+      "lon": "46.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəbirli",
+      "en": "Kabirli",
+      "slug": "kabirli"
+    },
+    "code": {
+      "id": "AZ611019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.435",
+      "lon": "47.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəngərli",
+      "en": "Kangarli",
+      "slug": "kangarli"
+    },
+    "code": {
+      "id": "AZ611004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.418",
+      "lon": "46.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xoruzlu",
+      "en": "Khoruzlu",
+      "slug": "khoruzlu"
+    },
+    "code": {
+      "id": "AZ611020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.444",
+      "lon": "47.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köçərli",
+      "en": "Kocharli",
+      "slug": "kocharli"
+    },
+    "code": {
+      "id": "AZ611051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.269",
+      "lon": "47.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kövdadıq",
+      "en": "Kovdadig",
+      "slug": "kovdadig"
+    },
+    "code": {
+      "id": "AZ611002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.438",
+      "lon": "46.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamırlı",
+      "en": "Mamirli",
+      "slug": "mamirli"
+    },
+    "code": {
+      "id": "AZ611056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.318",
+      "lon": "47.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poladlı",
+      "en": "Poladli",
+      "slug": "poladli"
+    },
+    "code": {
+      "id": "AZ611057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.301",
+      "lon": "47.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəcəbli",
+      "en": "Rajabli",
+      "slug": "rajabli"
+    },
+    "code": {
+      "id": "AZ611061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.454",
+      "lon": "46.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səhləbad",
+      "en": "Sahlabad",
+      "slug": "sahlabad"
+    },
+    "code": {
+      "id": "AZ611036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.326",
+      "lon": "46.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıcalı",
+      "en": "Sarijali",
+      "slug": "sarijali"
+    },
+    "code": {
+      "id": "AZ611021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.368",
+      "lon": "47.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarov",
+      "en": "Sarov",
+      "slug": "sarov"
+    },
+    "code": {
+      "id": "AZ611058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.483",
+      "lon": "46.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seydimli",
+      "en": "Seydimli",
+      "slug": "seydimli"
+    },
+    "code": {
+      "id": "AZ611010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.369",
+      "lon": "46.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soyulan",
+      "en": "Soyulan",
+      "slug": "soyulan"
+    },
+    "code": {
+      "id": "AZ611046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.322",
+      "lon": "47.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "TƏRTƏR",
+      "en": "TARTAR",
+      "slug": "tartar"
+    },
+    "code": {
+      "id": "AZ611014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.342",
+      "lon": "46.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ611005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.417",
+      "lon": "46.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Umudlu",
+      "en": "Umudlu",
+      "slug": "umudlu"
+    },
+    "code": {
+      "id": "AZ611062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.46",
+      "lon": "46.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ611039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.331",
+      "lon": "46.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Qapanlı",
+      "en": "Yukhari Gapanli",
+      "slug": "yukhari-gapanli"
+    },
+    "code": {
+      "id": "AZ611052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.253",
+      "lon": "47.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Qaradağlı",
+      "en": "Yukhari Garadaghli",
+      "slug": "yukhari-garadaghli"
+    },
+    "code": {
+      "id": "AZ611042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.265",
+      "lon": "46.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Sarıcalı",
+      "en": "Yukhari Sarijali",
+      "slug": "yukhari-sarijali"
+    },
+    "code": {
+      "id": "AZ611067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.311",
+      "lon": "46.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ611068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zolgəran",
+      "en": "Zolgaran",
+      "slug": "zolgaran"
+    },
+    "code": {
+      "id": "AZ611068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ611",
+        "level": 1,
+        "name": {
+          "local": "Tərtər",
+          "en": "Tartar",
+          "slug": "tartar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.352",
+      "lon": "47.016"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

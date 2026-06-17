@@ -1,0 +1,469 @@
+# Astara — Azerbaijan Administrative Divisions
+
+> 92 settlements
+> Code: AZ801
+> Coordinates: 38.551, 48.741
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əkbərməhəllə (Akbarmahalla)
+
+Code: AZ801057, Coordinates: 38.591, 48.644
+
+
+### Alaşa (Alasha)
+
+Code: AZ801042, Coordinates: 38.456, 48.801
+
+
+### Anbuba
+
+Code: AZ801052, Coordinates: 38.602, 48.659
+
+
+### Ərçivan (Archivan)
+
+Code: AZ801033, Coordinates: 38.502, 48.83
+
+
+### Artupa
+
+Code: AZ801043, Coordinates: 38.47, 48.83
+
+
+### Asxanakəran (Askhanakaran)
+
+Code: AZ801058, Coordinates: 38.575, 48.628
+
+
+### ASTARA
+
+Code: AZ801049, Coordinates: 38.479, 48.872
+
+
+### Avyarud
+
+Code: AZ801069, Coordinates: 38.506, 48.612
+
+
+### Azaru
+
+Code: AZ801064, Coordinates: 38.575, 48.609
+
+
+### Bala Şahağac (Bala Shahaghaj)
+
+Code: AZ801003, Coordinates: 38.618, 48.86
+
+
+### Bəlbay (Balbay)
+
+Code: AZ801059, Coordinates: 38.568, 48.631
+
+
+### Bili
+
+Code: AZ801021, Coordinates: 38.601, 48.753
+
+
+### Binabəy (Binabey)
+
+Code: AZ801011, Coordinates: 38.588, 48.796
+
+
+### Bio
+
+Code: AZ801090, Coordinates: 38.607, 48.761
+
+
+### Bursut
+
+Code: AZ801086, Coordinates: 38.581, 48.619
+
+
+### Burzubənd (Burzuband)
+
+Code: AZ801082, Coordinates: 38.54, 48.758
+
+
+### Çayoba (Chayoba)
+
+Code: AZ801001, Coordinates: 38.623, 48.812
+
+
+### Çükəş (Chukash)
+
+Code: AZ801077, Coordinates: 38.541, 48.698
+
+
+### Çüvaş (Chuvash)
+
+Code: AZ801020, Coordinates: 38.593, 48.747
+
+
+### Dəstor (Dastor)
+
+Code: AZ801055, Coordinates: 38.584, 48.661
+
+
+### Deqadi (Degadi)
+
+Code: AZ801035, Coordinates: 38.517, 48.771
+
+
+### Diqo (Digo)
+
+Code: AZ801070, Coordinates: 38.506, 48.631
+
+
+### Dolu
+
+Code: AZ801066, Coordinates: 38.535, 48.617
+
+
+### Dürriyə (Durriya)
+
+Code: AZ801074, Coordinates: 38.538, 48.666
+
+
+### Qamışoba (Gamishoba)
+
+Code: AZ801002, Coordinates: 38.631, 48.872
+
+
+### Qanqalaş (Gangalash)
+
+Code: AZ801024, Coordinates: 38.581, 48.751
+
+
+### Qapıçıməhəllə (Gapichimahalla)
+
+Code: AZ801047, Coordinates: 38.454, 48.828
+
+
+### Giləparqo (Gilapargo)
+
+Code: AZ801028, Coordinates: 38.594, 48.727
+
+
+### Giləşə (Gilasha)
+
+Code: AZ801018, Coordinates: 38.592, 48.775
+
+
+### Hamoşam (Hamosham)
+
+Code: AZ801062, Coordinates: 38.563, 48.583
+
+
+### Həsin (Hasin)
+
+Code: AZ801089, Coordinates: 38.582, 48.789
+
+
+### Kakalos
+
+Code: AZ801005, Coordinates: 38.613, 48.846
+
+
+### Kamlakan
+
+Code: AZ801092, Coordinates: 38.552, 48.567
+
+
+### Xıçaso (Khichaso)
+
+Code: AZ801079, Coordinates: 38.553, 48.733
+
+
+### Kijəbə (Kizhaba)
+
+Code: AZ801087, Coordinates: 38.539, 48.799
+
+
+### Klınbi (Klinbi)
+
+Code: AZ801061, Coordinates: 38.559, 48.599
+
+
+### Kolatan
+
+Code: AZ801004, Coordinates: 38.6, 48.851
+
+
+### Lələkəpeştə (Lalakapeshta)
+
+Code: AZ801007, Coordinates: 38.597, 48.814
+
+
+### Liəzi (Liazi)
+
+Code: AZ801016, Coordinates: 38.597, 48.801
+
+
+### Lobir
+
+Code: AZ801025, Coordinates: 38.58, 48.744
+
+
+### Lomin
+
+Code: AZ801075, Coordinates: 38.519, 48.675
+
+
+### Marzəsə (Marzasa)
+
+Code: AZ801022, Coordinates: 38.602, 48.767
+
+
+### Məsçitməhəllə (Maschitmahalla)
+
+Code: AZ801048, Coordinates: 38.454, 48.848
+
+
+### Maşxan (Mashkhan)
+
+Code: AZ801031, Coordinates: 38.545, 48.822
+
+
+### Miki
+
+Code: AZ801027, Coordinates: 38.586, 48.732
+
+
+### Motalayataq (Motalayatag)
+
+Code: AZ801056, Coordinates: 38.594, 48.647
+
+
+### Noyabud
+
+Code: AZ801081, Coordinates: 38.531, 48.736
+
+
+### Ovala
+
+Code: AZ801078, Coordinates: 38.556, 48.708
+
+
+### Ojakəran (Ozhakaran)
+
+Code: AZ801085, Coordinates: 38.53, 48.772
+
+
+### Pəlikəş (Palikash)
+
+Code: AZ801071, Coordinates: 38.519, 48.651
+
+
+### Pensər (Pensar)
+
+Code: AZ801006, Coordinates: 38.609, 48.819
+
+
+### Reqloba (Regloba)
+
+Code: AZ801065, Coordinates: 38.552, 48.594
+
+
+### Rinə (Rina)
+
+Code: AZ801019, Coordinates: 38.593, 48.765
+
+
+### Rıvadila (Rivadila)
+
+Code: AZ801060, Coordinates: 38.566, 48.62
+
+
+### Rudəkənar (Rudakanar)
+
+Code: AZ801046, Coordinates: 38.452, 48.86
+
+
+### Səlivə (Saliva)
+
+Code: AZ801036, Coordinates: 38.511, 48.764
+
+
+### Səncərədi (Sanjaradi)
+
+Code: AZ801041, Coordinates: 38.468, 48.806
+
+
+### Sərək (Sarak)
+
+Code: AZ801034, Coordinates: 38.498, 48.795
+
+
+### Sekəşan (Sekashan)
+
+Code: AZ801051, Coordinates: 38.478, 48.756
+
+
+### Seləkəran (Selakaran)
+
+Code: AZ801044, Coordinates: 38.469, 48.855
+
+
+### Şağlazüzə (Shaghlazuza)
+
+Code: AZ801013, Coordinates: 38.578, 48.781
+
+
+### Şahağac (Shahaghaj)
+
+Code: AZ801009, Coordinates: 38.592, 48.869
+
+
+### Şəmətük (Shamatuk)
+
+Code: AZ801014, Coordinates: 38.558, 48.759
+
+
+### Şəvqo (Shavgo)
+
+Code: AZ801068, Coordinates: 38.518, 48.621
+
+
+### Şıxəməhlə (Shikhamahla)
+
+Code: AZ801010, Coordinates: 38.573, 48.794
+
+
+### Şıxımpeştə (Shikhimpeshta)
+
+Code: AZ801053, Coordinates: 38.601, 48.648
+
+
+### Şiyəkəran (Shiyakaran)
+
+Code: AZ801032, Coordinates: 38.556, 48.869
+
+
+### Şümrüd (Shumrud)
+
+Code: AZ801073, Coordinates: 38.539, 48.654
+
+
+### Şuvaş (Shuvash)
+
+Code: AZ801040, Coordinates: 38.464, 48.792
+
+
+### Şuvi (Shuvi)
+
+Code: AZ801037, Coordinates: 38.49, 48.77
+
+
+### Sibiyyət (Sibiyyat)
+
+Code: AZ801067, Coordinates: 38.531, 48.601
+
+
+### Sığaloni (Sighaloni)
+
+Code: AZ801017, Coordinates: 38.605, 48.789
+
+
+### Sıhəkəran (Sihakaran)
+
+Code: AZ801023, Coordinates: 38.613, 48.767
+
+
+### Sım (Sim)
+
+Code: AZ801080, Coordinates: 38.493, 48.643
+
+
+### Sipiyaəlfətik (Sipiyaalfatik)
+
+Code: AZ801029, Coordinates: 38.567, 48.746
+
+
+### Sipiyəpart (Sipiyapart)
+
+Code: AZ801076, Coordinates: 38.535, 48.715
+
+
+### Siyakeş (Siyakesh)
+
+Code: AZ801088, Coordinates: 38.586, 48.794
+
+
+### Siyaku
+
+Code: AZ801012, Coordinates: 38.592, 48.787
+
+
+### Siyətük (Siyatuk)
+
+Code: AZ801039, Coordinates: 38.477, 48.783
+
+
+### Suparibağ (Suparibagh)
+
+Code: AZ801045, Coordinates: 38.461, 48.855
+
+
+### Taxtanəkəran (Takhtanakaran)
+
+Code: AZ801084, Coordinates: 38.589, 48.763
+
+
+### Təngərüd (Tangarud)
+
+Code: AZ801008, Coordinates: 38.568, 48.81
+
+
+### Toradi
+
+Code: AZ801063, Coordinates: 38.569, 48.563
+
+
+### Tüləküvan (Tulakuvan)
+
+Code: AZ801030, Coordinates: 38.545, 48.774
+
+
+### Vaqadi (Vagadi)
+
+Code: AZ801026, Coordinates: 38.577, 48.742
+
+
+### Vaqo (Vago)
+
+Code: AZ801015, Coordinates: 38.601, 48.806
+
+
+### Vənəşikəş (Vanashikash)
+
+Code: AZ801083, Coordinates: 38.539, 48.732
+
+
+### Vəznəş (Vaznash)
+
+Code: AZ801038, Coordinates: 38.483, 48.778
+
+
+### Viləparqo (Vilapargo)
+
+Code: AZ801054, Coordinates: 38.594, 48.663
+
+
+### Viləşə (Vilasha)
+
+Code: AZ801091, Coordinates: 38.607, 48.748
+
+
+### Vovada
+
+Code: AZ801072, Coordinates: 38.515, 48.666
+
+
+### Züngüləş (Zungulash)
+
+Code: AZ801050, Coordinates: 38.451, 48.771
+
+

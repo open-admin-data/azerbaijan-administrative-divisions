@@ -1,0 +1,92 @@
+[
+  {
+    "id": "AZ2002008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    },
+    "code": {
+      "id": "AZ2002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ2002",
+      "level": 1,
+      "name": {
+        "local": "Gəncə",
+        "en": "Ganja",
+        "slug": "ganja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ2002",
+        "level": 1,
+        "name": {
+          "local": "Gəncə",
+          "en": "Ganja",
+          "slug": "ganja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.416",
+      "lon": "46.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ2002007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıkənd",
+      "en": "Hajikend",
+      "slug": "hajikend"
+    },
+    "code": {
+      "id": "AZ2002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ2002",
+      "level": 1,
+      "name": {
+        "local": "Gəncə",
+        "en": "Ganja",
+        "slug": "ganja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ2002",
+        "level": 1,
+        "name": {
+          "local": "Gəncə",
+          "en": "Ganja",
+          "slug": "ganja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.513",
+      "lon": "46.334"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,5717 @@
+[
+  {
+    "id": "AZ602124",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağalaruşağı",
+      "en": "Aghalarushaghi",
+      "slug": "aghalarushaghi"
+    },
+    "code": {
+      "id": "AZ602124",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.899",
+      "lon": "46.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağanus",
+      "en": "Aghanus",
+      "slug": "aghanus"
+    },
+    "code": {
+      "id": "AZ602069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.626",
+      "lon": "46.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbulaq",
+      "en": "Aghbulag",
+      "slug": "aghbulag"
+    },
+    "code": {
+      "id": "AZ602041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.778",
+      "lon": "46.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağcakənd",
+      "en": "Aghjakend",
+      "slug": "aghjakend"
+    },
+    "code": {
+      "id": "AZ602036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.781",
+      "lon": "46.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağcayazı",
+      "en": "Aghjayazi",
+      "slug": "aghjayazi"
+    },
+    "code": {
+      "id": "AZ602026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.787",
+      "lon": "46.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602127",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağoğlan",
+      "en": "Aghoghlan",
+      "slug": "aghoghlan"
+    },
+    "code": {
+      "id": "AZ602127",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.64",
+      "lon": "46.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədli",
+      "en": "Ahmadli",
+      "slug": "ahmadli"
+    },
+    "code": {
+      "id": "AZ602048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.686",
+      "lon": "46.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ələkçi",
+      "en": "Alakchi",
+      "slug": "alakchi"
+    },
+    "code": {
+      "id": "AZ602014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.898",
+      "lon": "46.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alıqulu",
+      "en": "Aligulu",
+      "slug": "aligulu"
+    },
+    "code": {
+      "id": "AZ602032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.748",
+      "lon": "46.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602113",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alıcan",
+      "en": "Alijan",
+      "slug": "alijan"
+    },
+    "code": {
+      "id": "AZ602113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.611",
+      "lon": "46.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alxaslı",
+      "en": "Alkhasli",
+      "slug": "alkhasli"
+    },
+    "code": {
+      "id": "AZ602044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.742",
+      "lon": "46.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alpout",
+      "en": "Alpout",
+      "slug": "alpout"
+    },
+    "code": {
+      "id": "AZ602033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.756",
+      "lon": "46.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602107",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəb",
+      "en": "Arab",
+      "slug": "arab"
+    },
+    "code": {
+      "id": "AZ602107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.594",
+      "lon": "46.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərdəşəvi",
+      "en": "Ardashavi",
+      "slug": "ardashavi"
+    },
+    "code": {
+      "id": "AZ602028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.766",
+      "lon": "46.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arduşlu",
+      "en": "Ardushlu",
+      "slug": "ardushlu"
+    },
+    "code": {
+      "id": "AZ602025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.805",
+      "lon": "46.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərikli",
+      "en": "Arikli",
+      "slug": "arikli"
+    },
+    "code": {
+      "id": "AZ602019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.852",
+      "lon": "46.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Fərəcan",
+      "en": "Ashaghi Farajan",
+      "slug": "ashaghi-farajan"
+    },
+    "code": {
+      "id": "AZ602079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.53",
+      "lon": "46.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Cicimli",
+      "en": "Ashaghi Jijimli",
+      "slug": "ashaghi-jijimli"
+    },
+    "code": {
+      "id": "AZ602082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.529",
+      "lon": "46.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avazlar",
+      "en": "Avazlar",
+      "slug": "avazlar"
+    },
+    "code": {
+      "id": "AZ602090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.636",
+      "lon": "46.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602115",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayıbasar",
+      "en": "Ayibasar",
+      "slug": "ayibasar"
+    },
+    "code": {
+      "id": "AZ602115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.731",
+      "lon": "46.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602111",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əyrik",
+      "en": "Ayrik",
+      "slug": "ayrik"
+    },
+    "code": {
+      "id": "AZ602111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.621",
+      "lon": "46.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baldırğanlı",
+      "en": "Baldirghanli",
+      "slug": "baldirghanli"
+    },
+    "code": {
+      "id": "AZ602075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.56",
+      "lon": "46.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602123",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəylik",
+      "en": "Beylik",
+      "slug": "beylik"
+    },
+    "code": {
+      "id": "AZ602123",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.642",
+      "lon": "46.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci İpək",
+      "en": "Birinji Ipek",
+      "slug": "birinji-ipek"
+    },
+    "code": {
+      "id": "AZ602008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.742",
+      "lon": "46.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Tığik",
+      "en": "Birinji Tighik",
+      "slug": "birinji-tighik"
+    },
+    "code": {
+      "id": "AZ602010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.706",
+      "lon": "46.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bozdağan",
+      "en": "Bozdaghan",
+      "slug": "bozdaghan"
+    },
+    "code": {
+      "id": "AZ602017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.878",
+      "lon": "46.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bozgüney",
+      "en": "Bozguney",
+      "slug": "bozguney"
+    },
+    "code": {
+      "id": "AZ602004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.789",
+      "lon": "46.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bozlu",
+      "en": "Bozlu",
+      "slug": "bozlu"
+    },
+    "code": {
+      "id": "AZ602050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.696",
+      "lon": "46.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Budaqdərə",
+      "en": "Budagdere",
+      "slug": "budagdere"
+    },
+    "code": {
+      "id": "AZ602105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.844",
+      "lon": "46.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bülövlük",
+      "en": "Bulovluk",
+      "slug": "bulovluk"
+    },
+    "code": {
+      "id": "AZ602034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.778",
+      "lon": "46.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bülüldüz",
+      "en": "Bululduz",
+      "slug": "bululduz"
+    },
+    "code": {
+      "id": "AZ602009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.722",
+      "lon": "46.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602120",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çəmbərəkənd",
+      "en": "Chambarakend",
+      "slug": "chambarakend"
+    },
+    "code": {
+      "id": "AZ602120",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.621",
+      "lon": "46.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çıraqlı",
+      "en": "Chiragli",
+      "slug": "chiragli"
+    },
+    "code": {
+      "id": "AZ602045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.731",
+      "lon": "46.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602116",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çorman",
+      "en": "Chorman",
+      "slug": "chorman"
+    },
+    "code": {
+      "id": "AZ602116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.863",
+      "lon": "46.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dambulaq",
+      "en": "Dambulag",
+      "slug": "dambulag"
+    },
+    "code": {
+      "id": "AZ602103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.863",
+      "lon": "46.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşlı",
+      "en": "Dashli",
+      "slug": "dashli"
+    },
+    "code": {
+      "id": "AZ602038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.821",
+      "lon": "46.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəyhan",
+      "en": "Dayhan",
+      "slug": "dayhan"
+    },
+    "code": {
+      "id": "AZ602068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.59",
+      "lon": "46.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəyirmanyanı",
+      "en": "Dayirmanyani",
+      "slug": "dayirmanyani"
+    },
+    "code": {
+      "id": "AZ602071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.582",
+      "lon": "46.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fərraş",
+      "en": "Farrash",
+      "slug": "farrash"
+    },
+    "code": {
+      "id": "AZ602001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.84",
+      "lon": "46.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fətəlipəyə",
+      "en": "Fatalipeye",
+      "slug": "fatalipeye"
+    },
+    "code": {
+      "id": "AZ602066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.604",
+      "lon": "46.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fingə",
+      "en": "Finga",
+      "slug": "finga"
+    },
+    "code": {
+      "id": "AZ602006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.764",
+      "lon": "46.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalaça",
+      "en": "Galacha",
+      "slug": "galacha"
+    },
+    "code": {
+      "id": "AZ602049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.696",
+      "lon": "46.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabəyli",
+      "en": "Garabeyli",
+      "slug": "garabeyli"
+    },
+    "code": {
+      "id": "AZ602015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.879",
+      "lon": "46.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraçanlı",
+      "en": "Garachanli",
+      "slug": "garachanli"
+    },
+    "code": {
+      "id": "AZ602097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.74",
+      "lon": "46.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602114",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarakeçdi",
+      "en": "Garakechdi",
+      "slug": "garakechdi"
+    },
+    "code": {
+      "id": "AZ602114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.751",
+      "lon": "46.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602126",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarasaqqal",
+      "en": "Garasaggal",
+      "slug": "garasaggal"
+    },
+    "code": {
+      "id": "AZ602126",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.849",
+      "lon": "46.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarıqışlaq",
+      "en": "Garigishlag",
+      "slug": "garigishlag"
+    },
+    "code": {
+      "id": "AZ602053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.669",
+      "lon": "46.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarıkaha",
+      "en": "Garikaha",
+      "slug": "garikaha"
+    },
+    "code": {
+      "id": "AZ602061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.655",
+      "lon": "46.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602119",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qayğı",
+      "en": "Gayghi",
+      "slug": "gayghi"
+    },
+    "code": {
+      "id": "AZ602119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.561",
+      "lon": "46.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazıdərə",
+      "en": "Gazidere",
+      "slug": "gazidere"
+    },
+    "code": {
+      "id": "AZ602081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.528",
+      "lon": "46.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qılınclı",
+      "en": "Gilinjli",
+      "slug": "gilinjli"
+    },
+    "code": {
+      "id": "AZ602096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.695",
+      "lon": "46.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602110",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qışlaq",
+      "en": "Gishlag",
+      "slug": "gishlag"
+    },
+    "code": {
+      "id": "AZ602110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.607",
+      "lon": "46.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılca",
+      "en": "Gizilja",
+      "slug": "gizilja"
+    },
+    "code": {
+      "id": "AZ602063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.642",
+      "lon": "46.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qorçu",
+      "en": "Gorchu",
+      "slug": "gorchu"
+    },
+    "code": {
+      "id": "AZ602101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.883",
+      "lon": "46.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoşasu",
+      "en": "Goshasu",
+      "slug": "goshasu"
+    },
+    "code": {
+      "id": "AZ602035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.773",
+      "lon": "46.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qovuşuq",
+      "en": "Govushug",
+      "slug": "govushug"
+    },
+    "code": {
+      "id": "AZ602104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.877",
+      "lon": "46.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qozlu",
+      "en": "Gozlu",
+      "slug": "gozlu"
+    },
+    "code": {
+      "id": "AZ602007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.751",
+      "lon": "46.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güləbird",
+      "en": "Gulabird",
+      "slug": "gulabird"
+    },
+    "code": {
+      "id": "AZ602084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.483",
+      "lon": "46.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçu",
+      "en": "Gushchu",
+      "slug": "gushchu"
+    },
+    "code": {
+      "id": "AZ602052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.673",
+      "lon": "46.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Haqnəzər",
+      "en": "Hagnazar",
+      "slug": "hagnazar"
+    },
+    "code": {
+      "id": "AZ602005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.776",
+      "lon": "46.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602118",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıxanlı",
+      "en": "Hajikhanli",
+      "slug": "hajikhanli"
+    },
+    "code": {
+      "id": "AZ602118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.86",
+      "lon": "46.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacılar",
+      "en": "Hajilar",
+      "slug": "hajilar"
+    },
+    "code": {
+      "id": "AZ602086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.651",
+      "lon": "46.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacısamlı",
+      "en": "Hajisamli",
+      "slug": "hajisamli"
+    },
+    "code": {
+      "id": "AZ602037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.8",
+      "lon": "46.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hətəmlər",
+      "en": "Hatamlar",
+      "slug": "hatamlar"
+    },
+    "code": {
+      "id": "AZ602020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.83",
+      "lon": "46.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hoçaz",
+      "en": "Hochaz",
+      "slug": "hochaz"
+    },
+    "code": {
+      "id": "AZ602058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.677",
+      "lon": "46.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüsülü",
+      "en": "Husulu",
+      "slug": "husulu"
+    },
+    "code": {
+      "id": "AZ602087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.643",
+      "lon": "46.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Tığik",
+      "en": "Ikinji Tighik",
+      "slug": "ikinji-tighik"
+    },
+    "code": {
+      "id": "AZ602011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.693",
+      "lon": "46.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmanlar",
+      "en": "Imanlar",
+      "slug": "imanlar"
+    },
+    "code": {
+      "id": "AZ602102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.854",
+      "lon": "46.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İrçan",
+      "en": "Irchan",
+      "slug": "irchan"
+    },
+    "code": {
+      "id": "AZ602060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.634",
+      "lon": "46.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cağazur",
+      "en": "Jaghazur",
+      "slug": "jaghazur"
+    },
+    "code": {
+      "id": "AZ602089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.599",
+      "lon": "46.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cicimli",
+      "en": "Jijimli",
+      "slug": "jijimli"
+    },
+    "code": {
+      "id": "AZ602083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.515",
+      "lon": "46.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602117",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kaha",
+      "en": "Kaha",
+      "slug": "kaha"
+    },
+    "code": {
+      "id": "AZ602117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.851",
+      "lon": "46.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kalafalıq",
+      "en": "Kalafalig",
+      "slug": "kalafalig"
+    },
+    "code": {
+      "id": "AZ602003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.797",
+      "lon": "46.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kamallı",
+      "en": "Kamalli",
+      "slug": "kamalli"
+    },
+    "code": {
+      "id": "AZ602046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.721",
+      "lon": "46.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602121",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəravuz",
+      "en": "Karavuz",
+      "slug": "karavuz"
+    },
+    "code": {
+      "id": "AZ602121",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.612",
+      "lon": "46.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Katos",
+      "en": "Katos",
+      "slug": "katos"
+    },
+    "code": {
+      "id": "AZ602043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.765",
+      "lon": "46.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaçınyalı",
+      "en": "Khachinyali",
+      "slug": "khachinyali"
+    },
+    "code": {
+      "id": "AZ602023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.807",
+      "lon": "46.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanalılar",
+      "en": "Khanalilar",
+      "slug": "khanalilar"
+    },
+    "code": {
+      "id": "AZ602076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.556",
+      "lon": "46.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xırmanlar",
+      "en": "Khirmanlar",
+      "slug": "khirmanlar"
+    },
+    "code": {
+      "id": "AZ602094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.712",
+      "lon": "46.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xumarta",
+      "en": "Khumarta",
+      "slug": "khumarta"
+    },
+    "code": {
+      "id": "AZ602067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.612",
+      "lon": "46.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnə Çorman",
+      "en": "Kohne Chorman",
+      "slug": "kohne-chorman"
+    },
+    "code": {
+      "id": "AZ602018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.848",
+      "lon": "46.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602112",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnəkənd",
+      "en": "Kohnekend",
+      "slug": "kohnekend"
+    },
+    "code": {
+      "id": "AZ602112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.634",
+      "lon": "46.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Korcabulaq",
+      "en": "Korjabulag",
+      "slug": "korjabulag"
+    },
+    "code": {
+      "id": "AZ602106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.866",
+      "lon": "46.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdhacı",
+      "en": "Kurdhaji",
+      "slug": "kurdhaji"
+    },
+    "code": {
+      "id": "AZ602022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.828",
+      "lon": "46.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "LAÇIN",
+      "en": "LACHIN",
+      "slug": "lachin"
+    },
+    "code": {
+      "id": "AZ602062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.641",
+      "lon": "46.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lolabağırlı",
+      "en": "Lolabaghirli",
+      "slug": "lolabaghirli"
+    },
+    "code": {
+      "id": "AZ602099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.899",
+      "lon": "46.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malıbəy",
+      "en": "Malibey",
+      "slug": "malibey"
+    },
+    "code": {
+      "id": "AZ602088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.623",
+      "lon": "46.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602108",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikpəyə",
+      "en": "Malikpeye",
+      "slug": "malikpeye"
+    },
+    "code": {
+      "id": "AZ602108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.567",
+      "lon": "46.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malxələf",
+      "en": "Malkhalaf",
+      "slug": "malkhalaf"
+    },
+    "code": {
+      "id": "AZ602073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.554",
+      "lon": "46.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayis",
+      "en": "Mayis",
+      "slug": "mayis"
+    },
+    "code": {
+      "id": "AZ602056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.695",
+      "lon": "46.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mazutlu",
+      "en": "Mazutlu",
+      "slug": "mazutlu"
+    },
+    "code": {
+      "id": "AZ602074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.546",
+      "lon": "46.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mığıdərə",
+      "en": "Mighidere",
+      "slug": "mighidere"
+    },
+    "code": {
+      "id": "AZ602072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.576",
+      "lon": "46.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minkənd",
+      "en": "Minkend",
+      "slug": "minkend"
+    },
+    "code": {
+      "id": "AZ602047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.712",
+      "lon": "46.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirik",
+      "en": "Mirik",
+      "slug": "mirik"
+    },
+    "code": {
+      "id": "AZ602051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.689",
+      "lon": "46.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mişni",
+      "en": "Mishni",
+      "slug": "mishni"
+    },
+    "code": {
+      "id": "AZ602054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.713",
+      "lon": "46.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollalar",
+      "en": "Mollalar",
+      "slug": "mollalar"
+    },
+    "code": {
+      "id": "AZ602059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.668",
+      "lon": "46.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nağdalı",
+      "en": "Naghdali",
+      "slug": "naghdali"
+    },
+    "code": {
+      "id": "AZ602013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.913",
+      "lon": "46.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Narışlar",
+      "en": "Narishlar",
+      "slug": "narishlar"
+    },
+    "code": {
+      "id": "AZ602040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.809",
+      "lon": "46.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nurəddin",
+      "en": "Nuraddin",
+      "slug": "nuraddin"
+    },
+    "code": {
+      "id": "AZ602002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.819",
+      "lon": "46.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oğuldərə",
+      "en": "Oghuldere",
+      "slug": "oghuldere"
+    },
+    "code": {
+      "id": "AZ602100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.895",
+      "lon": "46.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Piçənis",
+      "en": "Pichenis",
+      "slug": "pichenis"
+    },
+    "code": {
+      "id": "AZ602024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.804",
+      "lon": "46.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pircahan",
+      "en": "Pirjahan",
+      "slug": "pirjahan"
+    },
+    "code": {
+      "id": "AZ602031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.73",
+      "lon": "46.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sadınlar",
+      "en": "Sadinlar",
+      "slug": "sadinlar"
+    },
+    "code": {
+      "id": "AZ602085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.653",
+      "lon": "46.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səfiyan",
+      "en": "Safiyan",
+      "slug": "safiyan"
+    },
+    "code": {
+      "id": "AZ602080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.526",
+      "lon": "46.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıbaba",
+      "en": "Saribaba",
+      "slug": "saribaba"
+    },
+    "code": {
+      "id": "AZ602095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.71",
+      "lon": "46.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidlər",
+      "en": "Seyidlar",
+      "slug": "seyidlar"
+    },
+    "code": {
+      "id": "AZ602030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.708",
+      "lon": "46.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəlvə",
+      "en": "Shalva",
+      "slug": "shalva"
+    },
+    "code": {
+      "id": "AZ602021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.838",
+      "lon": "46.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şamkənd",
+      "en": "Shamkend",
+      "slug": "shamkend"
+    },
+    "code": {
+      "id": "AZ602016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.881",
+      "lon": "46.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şeylanlı",
+      "en": "Sheylanli",
+      "slug": "sheylanli"
+    },
+    "code": {
+      "id": "AZ602042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.773",
+      "lon": "46.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sonasar",
+      "en": "Sonasar",
+      "slug": "sonasar"
+    },
+    "code": {
+      "id": "AZ602057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.7",
+      "lon": "46.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soyuqbulaq",
+      "en": "Soyugbulag",
+      "slug": "soyugbulag"
+    },
+    "code": {
+      "id": "AZ602055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.696",
+      "lon": "46.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suarası",
+      "en": "Suarasi",
+      "slug": "suarasi"
+    },
+    "code": {
+      "id": "AZ602077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.566",
+      "lon": "46.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sus",
+      "en": "Sus",
+      "slug": "sus"
+    },
+    "code": {
+      "id": "AZ602064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.626",
+      "lon": "46.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tərxanlı",
+      "en": "Tarkhanli",
+      "slug": "tarkhanli"
+    },
+    "code": {
+      "id": "AZ602098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.573",
+      "lon": "46.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ602029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.759",
+      "lon": "46.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602109",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türklər",
+      "en": "Turklar",
+      "slug": "turklar"
+    },
+    "code": {
+      "id": "AZ602109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.517",
+      "lon": "46.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602122",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Turşsu",
+      "en": "Turshsu",
+      "slug": "turshsu"
+    },
+    "code": {
+      "id": "AZ602122",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.619",
+      "lon": "46.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uludüz",
+      "en": "Uluduz",
+      "slug": "uluduz"
+    },
+    "code": {
+      "id": "AZ602091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.648",
+      "lon": "46.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Unannovu",
+      "en": "Unannovu",
+      "slug": "unannovu"
+    },
+    "code": {
+      "id": "AZ602070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.599",
+      "lon": "46.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vağazin",
+      "en": "Vaghazin",
+      "slug": "vaghazin"
+    },
+    "code": {
+      "id": "AZ602027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.779",
+      "lon": "46.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vəlibəyli",
+      "en": "Valibeyli",
+      "slug": "valibeyli"
+    },
+    "code": {
+      "id": "AZ602039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.821",
+      "lon": "46.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Fərəcan",
+      "en": "Yukhari Farajan",
+      "slug": "yukhari-farajan"
+    },
+    "code": {
+      "id": "AZ602078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.54",
+      "lon": "46.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zabux",
+      "en": "Zabukh",
+      "slug": "zabukh"
+    },
+    "code": {
+      "id": "AZ602065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.591",
+      "lon": "46.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602125",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zağaltı",
+      "en": "Zaghalti",
+      "slug": "zaghalti"
+    },
+    "code": {
+      "id": "AZ602125",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.884",
+      "lon": "46.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zerti",
+      "en": "Zerti",
+      "slug": "zerti"
+    },
+    "code": {
+      "id": "AZ602012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.678",
+      "lon": "46.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zeyvə",
+      "en": "Zeyva",
+      "slug": "zeyva"
+    },
+    "code": {
+      "id": "AZ602093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.664",
+      "lon": "46.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ602092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ziyrik",
+      "en": "Ziyrik",
+      "slug": "ziyrik"
+    },
+    "code": {
+      "id": "AZ602092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ602",
+        "level": 1,
+        "name": {
+          "local": "Laçın",
+          "en": "Lachin",
+          "slug": "lachin"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.656",
+      "lon": "46.445"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

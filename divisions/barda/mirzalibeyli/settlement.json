@@ -1,0 +1,45 @@
+{
+  "id": "AZ610029",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mirzalıbəyli",
+    "en": "Mirzalibeyli",
+    "slug": "mirzalibeyli"
+  },
+  "code": {
+    "id": "AZ610029",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ610",
+    "level": 1,
+    "name": {
+      "local": "Bərdə",
+      "en": "Barda",
+      "slug": "barda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.399",
+    "lon": "47.154"
+  },
+  "metadata": {},
+  "source": {}
+}

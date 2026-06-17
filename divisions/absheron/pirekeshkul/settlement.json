@@ -1,0 +1,45 @@
+{
+  "id": "AZ308015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Pirəkəşkül",
+    "en": "Pirekeshkul",
+    "slug": "pirekeshkul"
+  },
+  "code": {
+    "id": "AZ308015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ308",
+    "level": 1,
+    "name": {
+      "local": "Abşeron",
+      "en": "Absheron",
+      "slug": "absheron"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.527",
+    "lon": "49.498"
+  },
+  "metadata": {},
+  "source": {}
+}

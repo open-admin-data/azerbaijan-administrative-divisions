@@ -1,0 +1,45 @@
+{
+  "id": "AZ805069",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sərçuvar",
+    "en": "Sarchuvar",
+    "slug": "sarchuvar"
+  },
+  "code": {
+    "id": "AZ805069",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ805",
+    "level": 1,
+    "name": {
+      "local": "Masallı",
+      "en": "Masalli",
+      "slug": "masalli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.961",
+    "lon": "48.746"
+  },
+  "metadata": {},
+  "source": {}
+}

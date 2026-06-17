@@ -1,0 +1,45 @@
+{
+  "id": "AZ401049",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Öküzovtala",
+    "en": "Okuzovtala",
+    "slug": "okuzovtala"
+  },
+  "code": {
+    "id": "AZ401049",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ401",
+    "level": 1,
+    "name": {
+      "local": "Balakən",
+      "en": "Balakan",
+      "slug": "balakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.676",
+    "lon": "46.335"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ303037",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qımılqazma",
+    "en": "Gimilgazma",
+    "slug": "gimilgazma"
+  },
+  "code": {
+    "id": "AZ303037",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.287",
+    "lon": "48.355"
+  },
+  "metadata": {},
+  "source": {}
+}

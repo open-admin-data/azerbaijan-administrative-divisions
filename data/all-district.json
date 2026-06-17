@@ -1,1525 +1,237 @@
 [
   {
-    "id": "AZ30900002",
+    "id": "AZ1001",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Sumqayıt",
-      "en": "Sumgait",
-      "slug": "sumgait-az30900002"
+      "local": "Binəqədi",
+      "en": "Binagadi",
+      "slug": "binagadi"
     },
     "code": {
-      "id": "AZ30900002",
+      "id": "AZ1001",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 6
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "40.601",
-      "lon": "49.605"
+      "lat": "40.444",
+      "lon": "49.773"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/sumgait-az30900002/",
+      "url": "https://openadmindata.org/az/districts/binagadi/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ30800001",
+    "id": "AZ1002",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Abşeron",
-      "en": "Absheron",
-      "slug": "absheron-az30800001"
+      "local": "Qaradağ",
+      "en": "Garadagh",
+      "slug": "garadagh"
     },
     "code": {
-      "id": "AZ30800001",
+      "id": "AZ1002",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 21
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "40.295",
-      "lon": "49.187"
+      "lat": "40.174",
+      "lon": "49.527"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/absheron-az30800001/",
+      "url": "https://openadmindata.org/az/districts/garadagh/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ30600001",
+    "id": "AZ1003",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Xızı",
-      "en": "Khizy",
-      "slug": "khizy-az30600001"
+      "local": "Xəzər",
+      "en": "Khazar",
+      "slug": "khazar"
     },
     "code": {
-      "id": "AZ30600001",
+      "id": "AZ1003",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 8
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "40.743",
-      "lon": "49.191"
+      "lat": "40.451",
+      "lon": "50.17"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/khizy-az30600001/",
+      "url": "https://openadmindata.org/az/districts/khazar/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ60700001",
+    "id": "AZ1004",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Beyləqan",
-      "en": "Beylagan",
-      "slug": "beylagan-az60700001"
+      "local": "Xətai",
+      "en": "Khatai",
+      "slug": "khatai"
     },
     "code": {
-      "id": "AZ60700001",
+      "id": "AZ1004",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 1
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.835",
-      "lon": "47.625"
+      "lat": "40.373",
+      "lon": "49.957"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/beylagan-az60700001/",
+      "url": "https://openadmindata.org/az/districts/khatai/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ80700001",
+    "id": "AZ1005",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Neftçala",
-      "en": "Neftchala",
-      "slug": "neftchala-az80700001"
+      "local": "Səbail",
+      "en": "Sebail",
+      "slug": "sebail"
     },
     "code": {
-      "id": "AZ80700001",
+      "id": "AZ1005",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 2
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.337",
-      "lon": "49.054"
+      "lat": "40.321",
+      "lon": "49.818"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/neftchala-az80700001/",
+      "url": "https://openadmindata.org/az/districts/sebail/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ90400001",
+    "id": "AZ1006",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Ucar",
-      "en": "Ujar",
-      "slug": "ujar-az90400001"
+      "local": "Sabunçu",
+      "en": "Sabunchu",
+      "slug": "sabunchu"
     },
     "code": {
-      "id": "AZ90400001",
+      "id": "AZ1006",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 9
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "40.416",
-      "lon": "47.744"
+      "lat": "40.509",
+      "lon": "49.958"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/ujar-az90400001/",
+      "url": "https://openadmindata.org/az/districts/sabunchu/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ90800001",
+    "id": "AZ1007",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Saatlı",
-      "en": "Saatly",
-      "slug": "saatly-az90800001"
+      "local": "Suraxanı",
+      "en": "Surakhani",
+      "slug": "surakhani"
     },
     "code": {
-      "id": "AZ90800001",
+      "id": "AZ1007",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 7
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.808",
-      "lon": "48.455"
+      "lat": "40.411",
+      "lon": "50.008"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/saatly-az90800001/",
+      "url": "https://openadmindata.org/az/districts/surakhani/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ61000001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Bərdə",
-      "en": "Barda",
-      "slug": "barda-az61000001"
-    },
-    "code": {
-      "id": "AZ61000001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.348",
-      "lon": "47.17"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/barda-az61000001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ90300001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ağdaş",
-      "en": "Agdash",
-      "slug": "agdash-az90300001"
-    },
-    "code": {
-      "id": "AZ90300001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.539",
-      "lon": "47.355"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/agdash-az90300001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ90500001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Zərdab",
-      "en": "Zardab",
-      "slug": "zardab-az90500001"
-    },
-    "code": {
-      "id": "AZ90500001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.238",
-      "lon": "47.697"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/zardab-az90500001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ90200002",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Mingəçevir",
-      "en": "Mingechevir",
-      "slug": "mingechevir-az90200002"
-    },
-    "code": {
-      "id": "AZ90200002",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.752",
-      "lon": "46.985"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/mingechevir-az90200002/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ91100002",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Şirvan",
-      "en": "Shirvan",
-      "slug": "shirvan-az91100002"
-    },
-    "code": {
-      "id": "AZ91100002",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.948",
-      "lon": "48.922"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/shirvan-az91100002/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ90900001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Sabirabad",
-      "en": "Sabirabad",
-      "slug": "sabirabad-az90900001"
-    },
-    "code": {
-      "id": "AZ90900001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.864",
-      "lon": "48.786"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/sabirabad-az90900001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ80800001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Biləsuvar",
-      "en": "Bilasuvar",
-      "slug": "bilasuvar-az80800001"
-    },
-    "code": {
-      "id": "AZ80800001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.509",
-      "lon": "48.462"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/bilasuvar-az80800001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ60800001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ağcabədi",
-      "en": "Agdjabadi",
-      "slug": "agdjabadi-az60800001"
-    },
-    "code": {
-      "id": "AZ60800001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.979",
-      "lon": "47.38"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/agdjabadi-az60800001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ80900001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Salyan",
-      "en": "Salyan",
-      "slug": "salyan-az80900001"
-    },
-    "code": {
-      "id": "AZ80900001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.632",
-      "lon": "49.107"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/salyan-az80900001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ91000001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Hacıqabul",
-      "en": "Hajigabul",
-      "slug": "hajigabul-az91000001"
-    },
-    "code": {
-      "id": "AZ91000001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.079",
-      "lon": "48.929"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/hajigabul-az91000001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ90700001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "İmişli",
-      "en": "Imishly",
-      "slug": "imishly-az90700001"
-    },
-    "code": {
-      "id": "AZ90700001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.848",
-      "lon": "47.986"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/imishly-az90700001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ90600001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Kürdəmir",
-      "en": "Kurdamir",
-      "slug": "kurdamir-az90600001"
-    },
-    "code": {
-      "id": "AZ90600001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.249",
-      "lon": "48.193"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/kurdamir-az90600001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ40800001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Göyçay",
-      "en": "Goychay",
-      "slug": "goychay-az40800001"
-    },
-    "code": {
-      "id": "AZ40800001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.561",
-      "lon": "47.81"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/goychay-az40800001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ90101002",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Yevlax",
-      "en": "Yevlakh",
-      "slug": "yevlakh-az90101002"
-    },
-    "code": {
-      "id": "AZ90101002",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.692",
-      "lon": "47.019"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/yevlakh-az90101002/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ00000003",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Bakı",
-      "en": "Baku",
-      "slug": "baku-az00000003"
-    },
-    "code": {
-      "id": "AZ00000003",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.128",
-      "lon": "49.419"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/baku-az00000003/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ50800001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Göygöl",
-      "en": "Goygol",
-      "slug": "goygol-az50800001"
-    },
-    "code": {
-      "id": "AZ50800001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.553",
-      "lon": "46.347"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/goygol-az50800001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ50700001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Samux",
-      "en": "Samukh",
-      "slug": "samukh-az50700001"
-    },
-    "code": {
-      "id": "AZ50700001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.939",
-      "lon": "46.504"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/samukh-az50700001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ50200001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ağstafa",
-      "en": "Aghstafa",
-      "slug": "aghstafa-az50200001"
-    },
-    "code": {
-      "id": "AZ50200001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "41.218",
-      "lon": "45.567"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/aghstafa-az50200001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ20000002",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Gəncə",
-      "en": "Ganja",
-      "slug": "ganja-az20000002"
-    },
-    "code": {
-      "id": "AZ20000002",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.681",
-      "lon": "46.322"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/ganja-az20000002/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ51000002",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Naftalan",
-      "en": "Naftalan",
-      "slug": "naftalan-az51000002"
-    },
-    "code": {
-      "id": "AZ51000002",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.44",
-      "lon": "46.776"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/naftalan-az51000002/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ50100001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Qazax",
-      "en": "Gazakh",
-      "slug": "gazakh-az50100001"
-    },
-    "code": {
-      "id": "AZ50100001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "41.179",
-      "lon": "45.268"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/gazakh-az50100001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ50900001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Goranboy",
-      "en": "Goranboy",
-      "slug": "goranboy-az50900001"
-    },
-    "code": {
-      "id": "AZ50900001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.605",
-      "lon": "46.692"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/goranboy-az50900001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ50500001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Gədəbəy",
-      "en": "Gadabay",
-      "slug": "gadabay-az50500001"
-    },
-    "code": {
-      "id": "AZ50500001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.568",
-      "lon": "45.672"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/gadabay-az50500001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ50400001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Şəmkir",
-      "en": "Shamkir",
-      "slug": "shamkir-az50400001"
-    },
-    "code": {
-      "id": "AZ50400001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.843",
-      "lon": "45.998"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/shamkir-az50400001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ50300001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Tovuz",
-      "en": "Tovuz",
-      "slug": "tovuz-az50300001"
-    },
-    "code": {
-      "id": "AZ50300001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.916",
-      "lon": "45.664"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/tovuz-az50300001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ50600001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Daşkəsən",
-      "en": "Dashkasan",
-      "slug": "dashkasan-az50600001"
-    },
-    "code": {
-      "id": "AZ50600001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.478",
-      "lon": "45.986"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/dashkasan-az50600001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ60400001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Zəngilan",
-      "en": "Zangilan",
-      "slug": "zangilan-az60400001"
-    },
-    "code": {
-      "id": "AZ60400001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.05",
-      "lon": "46.657"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/zangilan-az60400001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ60200001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Laçın",
-      "en": "Lachin",
-      "slug": "lachin-az60200001"
-    },
-    "code": {
-      "id": "AZ60200001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.698",
-      "lon": "46.315"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/lachin-az60200001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ60100001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Kəlbəcər",
-      "en": "Kalbajar",
-      "slug": "kalbajar-az60100001"
-    },
-    "code": {
-      "id": "AZ60100001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.061",
-      "lon": "46.311"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/kalbajar-az60100001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ60300001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Qubadlı",
-      "en": "Gubadly",
-      "slug": "gubadly-az60300001"
-    },
-    "code": {
-      "id": "AZ60300001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.301",
-      "lon": "46.637"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/gubadly-az60300001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ80201002",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Lənkəran",
-      "en": "Lankaran",
-      "slug": "lankaran-az80201002"
-    },
-    "code": {
-      "id": "AZ80201002",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "38.736",
-      "lon": "48.767"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/lankaran-az80201002/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ80300001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Lerik",
-      "en": "Lerik",
-      "slug": "lerik-az80300001"
-    },
-    "code": {
-      "id": "AZ80300001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "38.716",
-      "lon": "48.463"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/lerik-az80300001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ80400001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Yardımlı",
-      "en": "Yardimly",
-      "slug": "yardimly-az80400001"
-    },
-    "code": {
-      "id": "AZ80400001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "38.877",
-      "lon": "48.214"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/yardimly-az80400001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ80500001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Masallı",
-      "en": "Masally",
-      "slug": "masally-az80500001"
-    },
-    "code": {
-      "id": "AZ80500001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "38.991",
-      "lon": "48.697"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/masally-az80500001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ80100001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Astara",
-      "en": "Astara",
-      "slug": "astara-az80100001"
-    },
-    "code": {
-      "id": "AZ80100001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "38.501",
-      "lon": "48.717"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/astara-az80100001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ80600001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Cəlilabad",
-      "en": "Jalilabad",
-      "slug": "jalilabad-az80600001"
-    },
-    "code": {
-      "id": "AZ80600001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.202",
-      "lon": "48.448"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/jalilabad-az80600001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ30700001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Qobustan",
-      "en": "Gobustan",
-      "slug": "gobustan-az30700001"
-    },
-    "code": {
-      "id": "AZ30700001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.525",
-      "lon": "48.968"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/gobustan-az30700001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ40700001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "İsmayıllı",
-      "en": "Ismayilly",
-      "slug": "ismayilly-az40700001"
-    },
-    "code": {
-      "id": "AZ40700001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.788",
-      "lon": "48.162"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/ismayilly-az40700001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ40900001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ağsu",
-      "en": "Aghsu",
-      "slug": "aghsu-az40900001"
-    },
-    "code": {
-      "id": "AZ40900001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.536",
-      "lon": "48.308"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/aghsu-az40900001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ41000001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Şamaxı",
-      "en": "Shamakhy",
-      "slug": "shamakhy-az41000001"
-    },
-    "code": {
-      "id": "AZ41000001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.605",
-      "lon": "48.568"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/shamakhy-az41000001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ10500001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Şahbuz",
-      "en": "Shahbuz",
-      "slug": "shahbuz-az10500001"
-    },
-    "code": {
-      "id": "AZ10500001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.446",
-      "lon": "45.597"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/shahbuz-az10500001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ10600001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Culfa",
-      "en": "Julfa",
-      "slug": "julfa-az10600001"
-    },
-    "code": {
-      "id": "AZ10600001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.149",
-      "lon": "45.667"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/julfa-az10600001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ10100001",
+    "id": "AZ101",
     "level": 1,
     "level_name": {
       "local": "Rayon",
@@ -1528,153 +240,97 @@
     "name": {
       "local": "Sədərək",
       "en": "Sadarak",
-      "slug": "sadarak-az10100001"
+      "slug": "sadarak"
     },
     "code": {
-      "id": "AZ10100001",
+      "id": "AZ101",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 5
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.68",
-      "lon": "44.835"
+      "lat": "39.711",
+      "lon": "44.904"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/sadarak-az10100001/",
+      "url": "https://openadmindata.org/az/districts/sadarak/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ10300001",
+    "id": "AZ1010",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Babək",
-      "en": "Babek",
-      "slug": "babek-az10300001"
+      "local": "Nizami",
+      "en": "Nizami",
+      "slug": "nizami"
     },
     "code": {
-      "id": "AZ10300001",
+      "id": "AZ1010",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 1
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.262",
-      "lon": "45.419"
+      "lat": "40.396",
+      "lon": "49.896"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/babek-az10300001/",
+      "url": "https://openadmindata.org/az/districts/nizami/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ10700001",
+    "id": "AZ1012",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Ordubad",
-      "en": "Ordubad",
-      "slug": "ordubad-az10700001"
+      "local": "Pirallahı",
+      "en": "Pirallahi",
+      "slug": "pirallahi"
     },
     "code": {
-      "id": "AZ10700001",
+      "id": "AZ1012",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 4
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.073",
-      "lon": "45.901"
+      "lat": "40.356",
+      "lon": "50.526"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/ordubad-az10700001/",
+      "url": "https://openadmindata.org/az/districts/pirallahi/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ10800001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Kəngərli",
-      "en": "Kengerli",
-      "slug": "kengerli-az10800001"
-    },
-    "code": {
-      "id": "AZ10800001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.409",
-      "lon": "45.193"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/kengerli-az10800001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ10400002",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Naxçıvan",
-      "en": "Nakhchivan",
-      "slug": "nakhchivan-az10400002"
-    },
-    "code": {
-      "id": "AZ10400002",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.21",
-      "lon": "45.385"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/nakhchivan-az10400002/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ10200001",
+    "id": "AZ102",
     "level": 1,
     "level_name": {
       "local": "Rayon",
@@ -1683,122 +339,295 @@
     "name": {
       "local": "Şərur",
       "en": "Sharur",
-      "slug": "sharur-az10200001"
+      "slug": "sharur"
     },
     "code": {
-      "id": "AZ10200001",
+      "id": "AZ102",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 65
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.584",
-      "lon": "45.054"
+      "lat": "39.543",
+      "lon": "45.015"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/sharur-az10200001/",
+      "url": "https://openadmindata.org/az/districts/sharur/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ30200001",
+    "id": "AZ103",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Xaçmaz",
-      "en": "Khachmaz",
-      "slug": "khachmaz-az30200001"
+      "local": "Babək",
+      "en": "Babak",
+      "slug": "babak"
     },
     "code": {
-      "id": "AZ30200001",
+      "id": "AZ103",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 36
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "41.617",
-      "lon": "48.663"
+      "lat": "39.28",
+      "lon": "45.464"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/khachmaz-az30200001/",
+      "url": "https://openadmindata.org/az/districts/babak/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ30500001",
+    "id": "AZ104",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Siyəzən",
-      "en": "Siyazan",
-      "slug": "siyazan-az30500001"
+      "local": "Naxçıvan",
+      "en": "Nakhchivan",
+      "slug": "nakhchivan"
     },
     "code": {
-      "id": "AZ30500001",
+      "id": "AZ104",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 7
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "41.03",
-      "lon": "49.049"
+      "lat": "39.192",
+      "lon": "45.4"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/siyazan-az30500001/",
+      "url": "https://openadmindata.org/az/districts/nakhchivan/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ30300001",
+    "id": "AZ105",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Quba",
-      "en": "Guba",
-      "slug": "guba-az30300001"
+      "local": "Şahbuz",
+      "en": "Shahbuz",
+      "slug": "shahbuz"
     },
     "code": {
-      "id": "AZ30300001",
+      "id": "AZ105",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 24
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "41.19",
-      "lon": "48.327"
+      "lat": "39.436",
+      "lon": "45.61"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/guba-az30300001/",
+      "url": "https://openadmindata.org/az/districts/shahbuz/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ30100001",
+    "id": "AZ106",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Culfa",
+      "en": "Julfa",
+      "slug": "julfa"
+    },
+    "code": {
+      "id": "AZ106",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.147",
+      "lon": "45.701"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/julfa/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ107",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ordubad",
+      "en": "Ordubad",
+      "slug": "ordubad"
+    },
+    "code": {
+      "id": "AZ107",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.996",
+      "lon": "45.931"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/ordubad/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ108",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kəngərli",
+      "en": "Kangarli",
+      "slug": "kangarli"
+    },
+    "code": {
+      "id": "AZ108",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.386",
+      "lon": "45.194"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/kangarli/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ2001",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gəncə",
+      "en": "Ganja",
+      "slug": "ganja"
+    },
+    "code": {
+      "id": "AZ2001",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.703",
+      "lon": "46.37"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/ganja/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ2002",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gəncə",
+      "en": "Ganja",
+      "slug": "ganja"
+    },
+    "code": {
+      "id": "AZ2002",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.465",
+      "lon": "46.332"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/ganja/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ301",
     "level": 1,
     "level_name": {
       "local": "Rayon",
@@ -1807,29 +636,97 @@
     "name": {
       "local": "Qusar",
       "en": "Gusar",
-      "slug": "gusar-az30100001"
+      "slug": "gusar"
     },
     "code": {
-      "id": "AZ30100001",
+      "id": "AZ301",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 90
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "41.442",
-      "lon": "48.239"
+      "lat": "41.511",
+      "lon": "48.368"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/gusar-az30100001/",
+      "url": "https://openadmindata.org/az/districts/gusar/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ30400001",
+    "id": "AZ302",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xaçmaz",
+      "en": "Khachmaz",
+      "slug": "khachmaz"
+    },
+    "code": {
+      "id": "AZ302",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 151
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.541",
+      "lon": "48.751"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/khachmaz/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ303",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    },
+    "code": {
+      "id": "AZ303",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 157
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.264",
+      "lon": "48.564"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/guba/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ304",
     "level": 1,
     "level_name": {
       "local": "Rayon",
@@ -1838,29 +735,196 @@
     "name": {
       "local": "Şabran",
       "en": "Shabran",
-      "slug": "shabran-az30400001"
+      "slug": "shabran"
     },
     "code": {
-      "id": "AZ30400001",
+      "id": "AZ304",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 69
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "41.113",
-      "lon": "48.796"
+      "lat": "41.203",
+      "lon": "48.886"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/shabran-az30400001/",
+      "url": "https://openadmindata.org/az/districts/shabran/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ40100001",
+    "id": "AZ305",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Siyəzən",
+      "en": "Siyazan",
+      "slug": "siyazan"
+    },
+    "code": {
+      "id": "AZ305",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.039",
+      "lon": "49.054"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/siyazan/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ306",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xızı",
+      "en": "Khizi",
+      "slug": "khizi"
+    },
+    "code": {
+      "id": "AZ306",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.841",
+      "lon": "49.13"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/khizi/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ307",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Qobustan",
+      "en": "Gobustan",
+      "slug": "gobustan"
+    },
+    "code": {
+      "id": "AZ307",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.534",
+      "lon": "48.909"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/gobustan/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ308",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Abşeron",
+      "en": "Absheron",
+      "slug": "absheron"
+    },
+    "code": {
+      "id": "AZ308",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.493",
+      "lon": "49.725"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/absheron/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ309",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumqayıt",
+      "en": "Sumgayit",
+      "slug": "sumgayit"
+    },
+    "code": {
+      "id": "AZ309",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.594",
+      "lon": "49.641"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/sumgayit/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ401",
     "level": 1,
     "level_name": {
       "local": "Rayon",
@@ -1869,122 +933,31 @@
     "name": {
       "local": "Balakən",
       "en": "Balakan",
-      "slug": "balakan-az40100001"
+      "slug": "balakan"
     },
     "code": {
-      "id": "AZ40100001",
+      "id": "AZ401",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 59
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "41.728",
-      "lon": "46.452"
+      "lat": "41.685",
+      "lon": "46.352"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/balakan-az40100001/",
+      "url": "https://openadmindata.org/az/districts/balakan/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ40401002",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Şəki",
-      "en": "Shaki",
-      "slug": "shaki-az40401002"
-    },
-    "code": {
-      "id": "AZ40401002",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "41.12",
-      "lon": "47.078"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/shaki-az40401002/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ40600001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Qəbələ",
-      "en": "Gabala",
-      "slug": "gabala-az40600001"
-    },
-    "code": {
-      "id": "AZ40600001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.929",
-      "lon": "47.789"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/gabala-az40600001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ40300001",
-    "level": 1,
-    "level_name": {
-      "local": "Rayon",
-      "en": "District"
-    },
-    "name": {
-      "local": "Qax",
-      "en": "Gakh",
-      "slug": "gakh-az40300001"
-    },
-    "code": {
-      "id": "AZ40300001",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {},
-    "zip_codes": [],
-    "geo": {
-      "lat": "41.249",
-      "lon": "46.759"
-    },
-    "metadata": {},
-    "source": {
-      "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/gakh-az40300001/",
-      "api": "https://openadmindata.org/api/az/"
-    }
-  },
-  {
-    "id": "AZ40200001",
+    "id": "AZ402",
     "level": 1,
     "level_name": {
       "local": "Rayon",
@@ -1993,29 +966,97 @@
     "name": {
       "local": "Zaqatala",
       "en": "Zagatala",
-      "slug": "zagatala-az40200001"
+      "slug": "zagatala"
     },
     "code": {
-      "id": "AZ40200001",
+      "id": "AZ402",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 62
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "41.617",
-      "lon": "46.763"
+      "lat": "41.564",
+      "lon": "46.603"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/zagatala-az40200001/",
+      "url": "https://openadmindata.org/az/districts/zagatala/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ40500001",
+    "id": "AZ403",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Qax",
+      "en": "Gakh",
+      "slug": "gakh"
+    },
+    "code": {
+      "id": "AZ403",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.386",
+      "lon": "46.844"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/gakh/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ404",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    },
+    "code": {
+      "id": "AZ404",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 71
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.111",
+      "lon": "47.165"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/shaki/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ405",
     "level": 1,
     "level_name": {
       "local": "Rayon",
@@ -2024,215 +1065,658 @@
     "name": {
       "local": "Oğuz",
       "en": "Oghuz",
-      "slug": "oghuz-az40500001"
+      "slug": "oghuz"
     },
     "code": {
-      "id": "AZ40500001",
+      "id": "AZ405",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 34
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "41.037",
-      "lon": "47.462"
+      "lat": "40.99",
+      "lon": "47.514"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/oghuz-az40500001/",
+      "url": "https://openadmindata.org/az/districts/oghuz/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ60600001",
+    "id": "AZ406",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Füzuli",
-      "en": "Fuzuli",
-      "slug": "fuzuli-az60600001"
+      "local": "Qəbələ",
+      "en": "Gabala",
+      "slug": "gabala"
     },
     "code": {
-      "id": "AZ60600001",
+      "id": "AZ406",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 64
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.546",
-      "lon": "47.355"
+      "lat": "40.903",
+      "lon": "47.776"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/fuzuli-az60600001/",
+      "url": "https://openadmindata.org/az/districts/gabala/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ70200001",
+    "id": "AZ407",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Şuşa",
-      "en": "Shusha",
-      "slug": "shusha-az70200001"
+      "local": "İsmayıllı",
+      "en": "Ismayilli",
+      "slug": "ismayilli"
     },
     "code": {
-      "id": "AZ70200001",
+      "id": "AZ407",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 108
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.68",
-      "lon": "46.665"
+      "lat": "40.773",
+      "lon": "48.213"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/shusha-az70200001/",
+      "url": "https://openadmindata.org/az/districts/ismayilli/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ61100001",
+    "id": "AZ408",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Tərtər",
-      "en": "Tartar",
-      "slug": "tartar-az61100001"
+      "local": "Göyçay",
+      "en": "Goychay",
+      "slug": "goychay"
     },
     "code": {
-      "id": "AZ61100001",
+      "id": "AZ408",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 56
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "40.257",
-      "lon": "46.789"
+      "lat": "40.583",
+      "lon": "47.798"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/tartar-az61100001/",
+      "url": "https://openadmindata.org/az/districts/goychay/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ70300001",
+    "id": "AZ409",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Xocavənd",
-      "en": "Khojavand",
-      "slug": "khojavand-az70300001"
+      "local": "Ağsu",
+      "en": "Aghsu",
+      "slug": "aghsu"
     },
     "code": {
-      "id": "AZ70300001",
+      "id": "AZ409",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 80
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.629",
-      "lon": "46.934"
+      "lat": "40.548",
+      "lon": "48.367"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/khojavand-az70300001/",
+      "url": "https://openadmindata.org/az/districts/aghsu/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ60900001",
+    "id": "AZ410",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Ağdam",
-      "en": "Aghdam",
-      "slug": "aghdam-az60900001"
+      "local": "Şamaxı",
+      "en": "Shamakhi",
+      "slug": "shamakhi"
     },
     "code": {
-      "id": "AZ60900001",
+      "id": "AZ410",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 63
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "40.008",
-      "lon": "46.904"
+      "lat": "40.644",
+      "lon": "48.629"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/aghdam-az60900001/",
+      "url": "https://openadmindata.org/az/districts/shamakhi/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ70100001",
+    "id": "AZ501",
     "level": 1,
     "level_name": {
       "local": "Rayon",
       "en": "District"
     },
     "name": {
-      "local": "Xocalı",
-      "en": "Khojaly",
-      "slug": "khojaly-az70100001"
+      "local": "Qazax",
+      "en": "Gazakh",
+      "slug": "gazakh"
     },
     "code": {
-      "id": "AZ70100001",
+      "id": "AZ501",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 34
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.824",
-      "lon": "46.631"
+      "lat": "41.115",
+      "lon": "45.228"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/khojaly-az70100001/",
+      "url": "https://openadmindata.org/az/districts/gazakh/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ60500001",
+    "id": "AZ502",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ağstafa",
+      "en": "Aghstafa",
+      "slug": "aghstafa"
+    },
+    "code": {
+      "id": "AZ502",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.182",
+      "lon": "45.395"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/aghstafa/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ503",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    },
+    "code": {
+      "id": "AZ503",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.815",
+      "lon": "45.627"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/tovuz/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ504",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    },
+    "code": {
+      "id": "AZ504",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 66
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.813",
+      "lon": "46.039"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/shamkir/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ505",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gədəbəy",
+      "en": "Gadabey",
+      "slug": "gadabey"
+    },
+    "code": {
+      "id": "AZ505",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 109
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.608",
+      "lon": "45.654"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/gadabey/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ506",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Daşkəsən",
+      "en": "Dashkasan",
+      "slug": "dashkasan"
+    },
+    "code": {
+      "id": "AZ506",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 49
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.483",
+      "lon": "46.061"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/dashkasan/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ507",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Samux",
+      "en": "Samukh",
+      "slug": "samukh"
+    },
+    "code": {
+      "id": "AZ507",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.839",
+      "lon": "46.383"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/samukh/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ508",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    },
+    "code": {
+      "id": "AZ508",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.58",
+      "lon": "46.309"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/goygol/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ509",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    },
+    "code": {
+      "id": "AZ509",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.6",
+      "lon": "46.668"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/goranboy/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ510",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Naftalan",
+      "en": "Naftalan",
+      "slug": "naftalan"
+    },
+    "code": {
+      "id": "AZ510",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.5",
+      "lon": "46.815"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/naftalan/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ601",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kəlbəcər",
+      "en": "Kalbajar",
+      "slug": "kalbajar"
+    },
+    "code": {
+      "id": "AZ601",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 126
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.1",
+      "lon": "46.122"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/kalbajar/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ602",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    },
+    "code": {
+      "id": "AZ602",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 127
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.712",
+      "lon": "46.464"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/lachin/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ603",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Qubadlı",
+      "en": "Gubadli",
+      "slug": "gubadli"
+    },
+    "code": {
+      "id": "AZ603",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 94
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.335",
+      "lon": "46.613"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/gubadli/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ604",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    },
+    "code": {
+      "id": "AZ604",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 85
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.11",
+      "lon": "46.639"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/zangilan/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ605",
     "level": 1,
     "level_name": {
       "local": "Rayon",
@@ -2241,29 +1725,361 @@
     "name": {
       "local": "Cəbrayıl",
       "en": "Jabrayil",
-      "slug": "jabrayil-az60500001"
+      "slug": "jabrayil"
     },
     "code": {
-      "id": "AZ60500001",
+      "id": "AZ605",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 97
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.308",
-      "lon": "46.964"
+      "lat": "39.354",
+      "lon": "47.012"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/jabrayil-az60500001/",
+      "url": "https://openadmindata.org/az/districts/jabrayil/",
       "api": "https://openadmindata.org/api/az/"
     }
   },
   {
-    "id": "AZ70400002",
+    "id": "AZ606",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    },
+    "code": {
+      "id": "AZ606",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 100
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.573",
+      "lon": "47.279"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/fuzuli/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ607",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beyləqan",
+      "en": "Beylagan",
+      "slug": "beylagan"
+    },
+    "code": {
+      "id": "AZ607",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.76",
+      "lon": "47.692"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/beylagan/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ608",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ağcabədi",
+      "en": "Aghjabadi",
+      "slug": "aghjabadi"
+    },
+    "code": {
+      "id": "AZ608",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.038",
+      "lon": "47.277"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/aghjabadi/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ609",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    },
+    "code": {
+      "id": "AZ609",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 129
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.075",
+      "lon": "47.004"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/aghdam/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ610",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bərdə",
+      "en": "Barda",
+      "slug": "barda"
+    },
+    "code": {
+      "id": "AZ610",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 111
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.363",
+      "lon": "47.17"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/barda/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ611",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tərtər",
+      "en": "Tartar",
+      "slug": "tartar"
+    },
+    "code": {
+      "id": "AZ611",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.354",
+      "lon": "46.985"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/tartar/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ612",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    },
+    "code": {
+      "id": "AZ612",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.167",
+      "lon": "46.679"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/aghdere/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ701",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xocalı",
+      "en": "Khojali",
+      "slug": "khojali"
+    },
+    "code": {
+      "id": "AZ701",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.864",
+      "lon": "46.779"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/khojali/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ702",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Şuşa",
+      "en": "Shusha",
+      "slug": "shusha"
+    },
+    "code": {
+      "id": "AZ702",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.754",
+      "lon": "46.659"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/shusha/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ703",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xocavənd",
+      "en": "Khojavand",
+      "slug": "khojavand"
+    },
+    "code": {
+      "id": "AZ703",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.647",
+      "lon": "46.987"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/khojavand/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ704",
     "level": 1,
     "level_name": {
       "local": "Rayon",
@@ -2272,24 +2088,686 @@
     "name": {
       "local": "Xankəndi",
       "en": "Khankendi",
-      "slug": "khankendi-az70400002"
+      "slug": "khankendi"
     },
     "code": {
-      "id": "AZ70400002",
+      "id": "AZ704",
       "iso": null
     },
     "parent": null,
     "ancestors": [],
-    "children_count": {},
+    "children_count": {
+      "settlement": 2
+    },
     "zip_codes": [],
     "geo": {
-      "lat": "39.827",
-      "lon": "46.778"
+      "lat": "39.808",
+      "lon": "46.744"
     },
     "metadata": {},
     "source": {
       "name": "Open Admin Data",
-      "url": "https://openadmindata.org/az/districts/khankendi-az70400002/",
+      "url": "https://openadmindata.org/az/districts/khankendi/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ801",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Astara",
+      "en": "Astara",
+      "slug": "astara"
+    },
+    "code": {
+      "id": "AZ801",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 92
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.551",
+      "lon": "48.741"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/astara/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ802",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lənkəran",
+      "en": "Lankaran",
+      "slug": "lankaran"
+    },
+    "code": {
+      "id": "AZ802",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.757",
+      "lon": "48.76"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/lankaran/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ803",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    },
+    "code": {
+      "id": "AZ803",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 162
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.746",
+      "lon": "48.461"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/lerik/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ804",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yardımlı",
+      "en": "Yardimli",
+      "slug": "yardimli"
+    },
+    "code": {
+      "id": "AZ804",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 88
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.923",
+      "lon": "48.283"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/yardimli/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ805",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masallı",
+      "en": "Masalli",
+      "slug": "masalli"
+    },
+    "code": {
+      "id": "AZ805",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 103
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.015",
+      "lon": "48.674"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/masalli/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ806",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cəlilabad",
+      "en": "Jalilabad",
+      "slug": "jalilabad"
+    },
+    "code": {
+      "id": "AZ806",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 121
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.199",
+      "lon": "48.398"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/jalilabad/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ807",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Neftçala",
+      "en": "Neftchala",
+      "slug": "neftchala"
+    },
+    "code": {
+      "id": "AZ807",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.383",
+      "lon": "49.069"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/neftchala/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ808",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Biləsuvar",
+      "en": "Bilasuvar",
+      "slug": "bilasuvar"
+    },
+    "code": {
+      "id": "AZ808",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.462",
+      "lon": "48.528"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/bilasuvar/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ809",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    },
+    "code": {
+      "id": "AZ809",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.667",
+      "lon": "48.983"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/salyan/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ901",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yevlax",
+      "en": "Yevlakh",
+      "slug": "yevlakh"
+    },
+    "code": {
+      "id": "AZ901",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.637",
+      "lon": "47.105"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/yevlakh/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ902",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mingəçevir",
+      "en": "Mingachevir",
+      "slug": "mingachevir"
+    },
+    "code": {
+      "id": "AZ902",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.773",
+      "lon": "46.987"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/mingachevir/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ903",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    },
+    "code": {
+      "id": "AZ903",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 74
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.608",
+      "lon": "47.441"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/aghdash/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ904",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ucar",
+      "en": "Ujar",
+      "slug": "ujar"
+    },
+    "code": {
+      "id": "AZ904",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.46",
+      "lon": "47.706"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/ujar/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ905",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zərdab",
+      "en": "Zardab",
+      "slug": "zardab"
+    },
+    "code": {
+      "id": "AZ905",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.213",
+      "lon": "47.684"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/zardab/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ906",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kürdəmir",
+      "en": "Kurdamir",
+      "slug": "kurdamir"
+    },
+    "code": {
+      "id": "AZ906",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.256",
+      "lon": "48.203"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/kurdamir/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ907",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    },
+    "code": {
+      "id": "AZ907",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.858",
+      "lon": "48.072"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/imishli/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ908",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saatlı",
+      "en": "Saatli",
+      "slug": "saatli"
+    },
+    "code": {
+      "id": "AZ908",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.902",
+      "lon": "48.436"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/saatli/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ909",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sabirabad",
+      "en": "Sabirabad",
+      "slug": "sabirabad"
+    },
+    "code": {
+      "id": "AZ909",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 75
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.961",
+      "lon": "48.656"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/sabirabad/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ910",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hacıqabul",
+      "en": "Hajigabul",
+      "slug": "hajigabul"
+    },
+    "code": {
+      "id": "AZ910",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.101",
+      "lon": "48.893"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/hajigabul/",
+      "api": "https://openadmindata.org/api/az/"
+    }
+  },
+  {
+    "id": "AZ911",
+    "level": 1,
+    "level_name": {
+      "local": "Rayon",
+      "en": "District"
+    },
+    "name": {
+      "local": "Şirvan",
+      "en": "Shirvan",
+      "slug": "shirvan"
+    },
+    "code": {
+      "id": "AZ911",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "settlement": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.92",
+      "lon": "48.917"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/az/districts/shirvan/",
       "api": "https://openadmindata.org/api/az/"
     }
   }

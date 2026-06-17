@@ -1,0 +1,45 @@
+{
+  "id": "AZ304052",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Daşlıyataq",
+    "en": "Dashliyatag",
+    "slug": "dashliyatag"
+  },
+  "code": {
+    "id": "AZ304052",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ304",
+    "level": 1,
+    "name": {
+      "local": "Şabran",
+      "en": "Shabran",
+      "slug": "shabran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ304",
+      "level": 1,
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.335",
+    "lon": "48.84"
+  },
+  "metadata": {},
+  "source": {}
+}

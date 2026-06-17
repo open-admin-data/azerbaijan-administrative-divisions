@@ -1,0 +1,179 @@
+# Siyazan — Azerbaijan Administrative Divisions
+
+> 34 settlements
+> Code: AZ305
+> Coordinates: 41.039, 49.054
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əlməkolu (Almakolu)
+
+Code: AZ305006, Coordinates: 40.981, 48.947
+
+
+### Ərziküş (Arzikush)
+
+Code: AZ305001, Coordinates: 40.946, 48.913
+
+
+### Balaca Həmyə (Balaja Hamya)
+
+Code: AZ305028, Coordinates: 41.074, 49.151
+
+
+### Beşdam (Beshdam)
+
+Code: AZ305009, Coordinates: 40.992, 49.199
+
+
+### Böyük Həmyə (Boyuk Hamya)
+
+Code: AZ305023, Coordinates: 41.105, 49.144
+
+
+### Çarxana (Charkhana)
+
+Code: AZ305027, Coordinates: 41.044, 49.063
+
+
+### Dağ Quşçu (Dagh Gushchu)
+
+Code: AZ305019, Coordinates: 41.005, 48.973
+
+
+### Daşlı Çalğan (Dashli Chalghan)
+
+Code: AZ305018, Coordinates: 41.076, 48.983
+
+
+### Dərə Zarat (Dere Zarat)
+
+Code: AZ305008, Coordinates: 40.99, 49.112
+
+
+### Eynibulaq (Eynibulag)
+
+Code: AZ305024, Coordinates: 41.105, 49.038
+
+
+### Qalaaltı (Galaalti)
+
+Code: AZ305016, Coordinates: 41.091, 48.945
+
+
+### Qalaşıxı (Galashikhi)
+
+Code: AZ305011, Coordinates: 40.964, 49.236
+
+
+### Qarağöz (Garagoz)
+
+Code: AZ305003, Coordinates: 40.95, 48.987
+
+
+### Qərəh (Garah)
+
+Code: AZ305013, Coordinates: 41.112, 48.979
+
+
+### Gilgilçay (Gilgilchay)
+
+Code: AZ305022, Coordinates: 41.14, 49.089
+
+
+### Qozağacı (Gozaghaji)
+
+Code: AZ305014, Coordinates: 41.099, 48.985
+
+
+### Hacışəkər (Hajishakar)
+
+Code: AZ305032, Coordinates: 40.94, 48.997
+
+
+### Cəndəhar (Jandahar)
+
+Code: AZ305010, Coordinates: 40.986, 49.237
+
+
+### Köhnə Quşçu (Kohne Gushchu)
+
+Code: AZ305007, Coordinates: 40.966, 48.913
+
+
+### Kolanı (Kolani)
+
+Code: AZ305033, Coordinates: 41.18, 49.123
+
+
+### Künövşə (Kunovsha)
+
+Code: AZ305002, Coordinates: 40.942, 48.946
+
+
+### Məşrif (Mashrif)
+
+Code: AZ305015, Coordinates: 41.098, 48.95
+
+
+### Müşkülqazma (Mushkulgazma)
+
+Code: AZ305029, Coordinates: 41.063, 49.009
+
+
+### Nardaran
+
+Code: AZ305030, Coordinates: 41.015, 49.148
+
+
+### Orta Çalğan (Orta Chalghan)
+
+Code: AZ305017, Coordinates: 41.082, 48.97
+
+
+### Sağolcan (Sagholjan)
+
+Code: AZ305034, Coordinates: 41.044, 49.027
+
+
+### Sədan (Sedan)
+
+Code: AZ305026, Coordinates: 41.065, 49.038
+
+
+### Siyəzən (Siyazan)
+
+Code: AZ305031, Coordinates: 41.005, 49.178
+
+
+### SİYƏZƏN (SIYAZAN)
+
+Code: AZ305025, Coordinates: 41.075, 49.116
+
+
+### Tuğay (Tughay)
+
+Code: AZ305020, Coordinates: 41.154, 49.131
+
+
+### Yanıq Ələz (Yanig Alaz)
+
+Code: AZ305004, Coordinates: 40.956, 48.984
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ305021, Coordinates: 41.163, 49.081
+
+
+### Yuxarı Ələz (Yukhari Alaz)
+
+Code: AZ305005, Coordinates: 40.963, 48.962
+
+
+### Zarat
+
+Code: AZ305012, Coordinates: 40.948, 49.285
+
+

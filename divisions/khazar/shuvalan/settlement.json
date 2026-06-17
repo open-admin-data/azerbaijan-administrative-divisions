@@ -1,0 +1,45 @@
+{
+  "id": "AZ100301",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şüvəlan",
+    "en": "Shuvalan",
+    "slug": "shuvalan"
+  },
+  "code": {
+    "id": "AZ100301",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1003",
+    "level": 1,
+    "name": {
+      "local": "Xəzər",
+      "en": "Khazar",
+      "slug": "khazar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.489",
+    "lon": "50.197"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ408012",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ulaşlı Şıxlı",
+    "en": "Ulashli Shikhli",
+    "slug": "ulashli-shikhli"
+  },
+  "code": {
+    "id": "AZ408012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ408",
+    "level": 1,
+    "name": {
+      "local": "Göyçay",
+      "en": "Goychay",
+      "slug": "goychay"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ408",
+      "level": 1,
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.599",
+    "lon": "47.74"
+  },
+  "metadata": {},
+  "source": {}
+}

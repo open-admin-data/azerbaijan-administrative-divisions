@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "AZ409057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abasxanlı",
+      "en": "Abaskhanli",
+      "slug": "abaskhanli"
+    },
+    "code": {
+      "id": "AZ409057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.388",
+      "lon": "48.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağabəyli",
+      "en": "Aghabeyli",
+      "slug": "aghabeyli"
+    },
+    "code": {
+      "id": "AZ409055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.431",
+      "lon": "48.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağalarbəyli",
+      "en": "Aghalarbeyli",
+      "slug": "aghalarbeyli"
+    },
+    "code": {
+      "id": "AZ409041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.515",
+      "lon": "48.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağarx",
+      "en": "Agharkh",
+      "slug": "agharkh"
+    },
+    "code": {
+      "id": "AZ409044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.52",
+      "lon": "48.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "AĞSU",
+      "en": "AGHSU",
+      "slug": "aghsu"
+    },
+    "code": {
+      "id": "AZ409021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.572",
+      "lon": "48.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axundlu",
+      "en": "Akhundlu",
+      "slug": "akhundlu"
+    },
+    "code": {
+      "id": "AZ409012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.534",
+      "lon": "48.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbmehdibəy",
+      "en": "Arabmehdibey",
+      "slug": "arabmehdibey"
+    },
+    "code": {
+      "id": "AZ409007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.534",
+      "lon": "48.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbsarvan",
+      "en": "Arabsarvan",
+      "slug": "arabsarvan"
+    },
+    "code": {
+      "id": "AZ409009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.537",
+      "lon": "48.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbuşağı",
+      "en": "Arabushaghi",
+      "slug": "arabushaghi"
+    },
+    "code": {
+      "id": "AZ409040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.527",
+      "lon": "48.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aratlı Curuğlu",
+      "en": "Aratli Jurughlu",
+      "slug": "aratli-jurughlu"
+    },
+    "code": {
+      "id": "AZ409042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.521",
+      "lon": "48.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəyimli",
+      "en": "Beyimli",
+      "slug": "beyimli"
+    },
+    "code": {
+      "id": "AZ409027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.556",
+      "lon": "48.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bico",
+      "en": "Bijo",
+      "slug": "bijo"
+    },
+    "code": {
+      "id": "AZ409002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.506",
+      "lon": "48.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binəcik",
+      "en": "Binajik",
+      "slug": "binajik"
+    },
+    "code": {
+      "id": "AZ409079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.582",
+      "lon": "48.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bozavand",
+      "en": "Bozavand",
+      "slug": "bozavand"
+    },
+    "code": {
+      "id": "AZ409045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.505",
+      "lon": "48.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaparlı",
+      "en": "Chaparli",
+      "slug": "chaparli"
+    },
+    "code": {
+      "id": "AZ409073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.511",
+      "lon": "48.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çiyni",
+      "en": "Chiyni",
+      "slug": "chiyni"
+    },
+    "code": {
+      "id": "AZ409011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.524",
+      "lon": "48.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dədəli",
+      "en": "Dadali",
+      "slug": "dadali"
+    },
+    "code": {
+      "id": "AZ409006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.535",
+      "lon": "48.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəlilər",
+      "en": "Dalilar",
+      "slug": "dalilar"
+    },
+    "code": {
+      "id": "AZ409028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.551",
+      "lon": "48.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşdəmirbəyli",
+      "en": "Dashdamirbeyli",
+      "slug": "dashdamirbeyli"
+    },
+    "code": {
+      "id": "AZ409039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.531",
+      "lon": "48.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dilman",
+      "en": "Dilman",
+      "slug": "dilman"
+    },
+    "code": {
+      "id": "AZ409071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.727",
+      "lon": "48.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elabad",
+      "en": "Elabad",
+      "slug": "elabad"
+    },
+    "code": {
+      "id": "AZ409076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.585",
+      "lon": "48.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəgəli",
+      "en": "Gagali",
+      "slug": "gagali"
+    },
+    "code": {
+      "id": "AZ409001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.538",
+      "lon": "48.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabağlı",
+      "en": "Garabaghli",
+      "slug": "garabaghli"
+    },
+    "code": {
+      "id": "AZ409046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.502",
+      "lon": "48.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağ",
+      "en": "Garadagh",
+      "slug": "garadagh"
+    },
+    "code": {
+      "id": "AZ409056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.401",
+      "lon": "48.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqaşlı",
+      "en": "Garagashli",
+      "slug": "garagashli"
+    },
+    "code": {
+      "id": "AZ409020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.566",
+      "lon": "48.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqoyunlu",
+      "en": "Garagoyunlu",
+      "slug": "garagoyunlu"
+    },
+    "code": {
+      "id": "AZ409016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.545",
+      "lon": "48.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraməmmədli",
+      "en": "Garamammadli",
+      "slug": "garamammadli"
+    },
+    "code": {
+      "id": "AZ409037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.546",
+      "lon": "48.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaravəlli",
+      "en": "Garavalli",
+      "slug": "garavalli"
+    },
+    "code": {
+      "id": "AZ409051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.495",
+      "lon": "48.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəşəd",
+      "en": "Gashad",
+      "slug": "gashad"
+    },
+    "code": {
+      "id": "AZ409004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.49",
+      "lon": "48.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımbəyli",
+      "en": "Gasimbeyli",
+      "slug": "gasimbeyli"
+    },
+    "code": {
+      "id": "AZ409008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.534",
+      "lon": "48.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Girdə",
+      "en": "Girda",
+      "slug": "girda"
+    },
+    "code": {
+      "id": "AZ409029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.638",
+      "lon": "48.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırlar",
+      "en": "Girlar",
+      "slug": "girlar"
+    },
+    "code": {
+      "id": "AZ409066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.68",
+      "lon": "48.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qiyaslı",
+      "en": "Giyasli",
+      "slug": "giyasli"
+    },
+    "code": {
+      "id": "AZ409075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.492",
+      "lon": "48.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göydəlləkli",
+      "en": "Goydallakli",
+      "slug": "goydallakli"
+    },
+    "code": {
+      "id": "AZ409054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.467",
+      "lon": "48.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gursulu",
+      "en": "Gursulu",
+      "slug": "gursulu"
+    },
+    "code": {
+      "id": "AZ409026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.608",
+      "lon": "48.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quzey",
+      "en": "Guzey",
+      "slug": "guzey"
+    },
+    "code": {
+      "id": "AZ409065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.693",
+      "lon": "48.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıqədirli",
+      "en": "Hajigadirli",
+      "slug": "hajigadirli"
+    },
+    "code": {
+      "id": "AZ409010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.52",
+      "lon": "48.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıman",
+      "en": "Hajiman",
+      "slug": "hajiman"
+    },
+    "code": {
+      "id": "AZ409070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.736",
+      "lon": "48.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacısəmədli",
+      "en": "Hajisamadli",
+      "slug": "hajisamadli"
+    },
+    "code": {
+      "id": "AZ409049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.5",
+      "lon": "48.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıuşağı",
+      "en": "Hajiushaghi",
+      "slug": "hajiushaghi"
+    },
+    "code": {
+      "id": "AZ409060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.367",
+      "lon": "48.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hinqar",
+      "en": "Hingar",
+      "slug": "hingar"
+    },
+    "code": {
+      "id": "AZ409030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.634",
+      "lon": "48.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İlxıçı",
+      "en": "Ilkhichi",
+      "slug": "ilkhichi"
+    },
+    "code": {
+      "id": "AZ409050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.491",
+      "lon": "48.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəfərli",
+      "en": "Jafarli",
+      "slug": "jafarli"
+    },
+    "code": {
+      "id": "AZ409061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.368",
+      "lon": "48.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəlayir",
+      "en": "Jalayir",
+      "slug": "jalayir"
+    },
+    "code": {
+      "id": "AZ409059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.36",
+      "lon": "48.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kalağaylı",
+      "en": "Kalaghayli",
+      "slug": "kalaghayli"
+    },
+    "code": {
+      "id": "AZ409025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.604",
+      "lon": "48.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kalva",
+      "en": "Kalva",
+      "slug": "kalva"
+    },
+    "code": {
+      "id": "AZ409068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.728",
+      "lon": "48.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəndaxan",
+      "en": "Kendakhan",
+      "slug": "kendakhan"
+    },
+    "code": {
+      "id": "AZ409032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.666",
+      "lon": "48.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəndoba",
+      "en": "Kendoba",
+      "slug": "kendoba"
+    },
+    "code": {
+      "id": "AZ409058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.403",
+      "lon": "48.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keşdiməz",
+      "en": "Keshdimaz",
+      "slug": "keshdimaz"
+    },
+    "code": {
+      "id": "AZ409003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.5",
+      "lon": "48.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlilli",
+      "en": "Khalilli",
+      "slug": "khalilli"
+    },
+    "code": {
+      "id": "AZ409052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.493",
+      "lon": "48.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanbulaq",
+      "en": "Khanbulag",
+      "slug": "khanbulag"
+    },
+    "code": {
+      "id": "AZ409031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.642",
+      "lon": "48.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xasıdərə",
+      "en": "Khasidere",
+      "slug": "khasidere"
+    },
+    "code": {
+      "id": "AZ409064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.7",
+      "lon": "48.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xatman",
+      "en": "Khatman",
+      "slug": "khatman"
+    },
+    "code": {
+      "id": "AZ409069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.724",
+      "lon": "48.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kövlüc",
+      "en": "Kovluj",
+      "slug": "kovluj"
+    },
+    "code": {
+      "id": "AZ409036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.62",
+      "lon": "48.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Külüllü",
+      "en": "Kulullu",
+      "slug": "kulullu"
+    },
+    "code": {
+      "id": "AZ409078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.607",
+      "lon": "48.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ləngəbiz",
+      "en": "Langabiz",
+      "slug": "langabiz"
+    },
+    "code": {
+      "id": "AZ409005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.476",
+      "lon": "48.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikçobanlı",
+      "en": "Malikchobanli",
+      "slug": "malikchobanli"
+    },
+    "code": {
+      "id": "AZ409015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.515",
+      "lon": "48.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maşadqanlı",
+      "en": "Mashadganli",
+      "slug": "mashadganli"
+    },
+    "code": {
+      "id": "AZ409043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.502",
+      "lon": "48.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muradlı",
+      "en": "Muradli",
+      "slug": "muradli"
+    },
+    "code": {
+      "id": "AZ409017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.535",
+      "lon": "48.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Musabəyli",
+      "en": "Musabeyli",
+      "slug": "musabeyli"
+    },
+    "code": {
+      "id": "AZ409014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.529",
+      "lon": "48.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mustafalı",
+      "en": "Mustafali",
+      "slug": "mustafali"
+    },
+    "code": {
+      "id": "AZ409053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.485",
+      "lon": "48.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəmirli",
+      "en": "Namirli",
+      "slug": "namirli"
+    },
+    "code": {
+      "id": "AZ409024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.587",
+      "lon": "48.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Navahı",
+      "en": "Navahi",
+      "slug": "navahi"
+    },
+    "code": {
+      "id": "AZ409038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.551",
+      "lon": "48.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Növcü",
+      "en": "Novju",
+      "slug": "novju"
+    },
+    "code": {
+      "id": "AZ409013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.519",
+      "lon": "48.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nuran",
+      "en": "Nuran",
+      "slug": "nuran"
+    },
+    "code": {
+      "id": "AZ409034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.674",
+      "lon": "48.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nüydü",
+      "en": "Nuydu",
+      "slug": "nuydu"
+    },
+    "code": {
+      "id": "AZ409062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.693",
+      "lon": "48.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Padar",
+      "en": "Padar",
+      "slug": "padar"
+    },
+    "code": {
+      "id": "AZ409072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.585",
+      "lon": "48.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Padarqışlaq",
+      "en": "Padargishlag",
+      "slug": "padargishlag"
+    },
+    "code": {
+      "id": "AZ409077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.265",
+      "lon": "48.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirhəsənli",
+      "en": "Pirhasanli",
+      "slug": "pirhasanli"
+    },
+    "code": {
+      "id": "AZ409022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.58",
+      "lon": "48.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəhimağalı",
+      "en": "Rahimaghali",
+      "slug": "rahimaghali"
+    },
+    "code": {
+      "id": "AZ409074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.501",
+      "lon": "48.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəhimli",
+      "en": "Rahimli",
+      "slug": "rahimli"
+    },
+    "code": {
+      "id": "AZ409048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.447",
+      "lon": "48.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sanqalan",
+      "en": "Sangalan",
+      "slug": "sangalan"
+    },
+    "code": {
+      "id": "AZ409063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.689",
+      "lon": "48.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahbəyli",
+      "en": "Shahbeyli",
+      "slug": "shahbeyli"
+    },
+    "code": {
+      "id": "AZ409047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.47",
+      "lon": "48.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suraxanı",
+      "en": "Surakhani",
+      "slug": "surakhani"
+    },
+    "code": {
+      "id": "AZ409067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.713",
+      "lon": "48.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təklə",
+      "en": "Takla",
+      "slug": "takla"
+    },
+    "code": {
+      "id": "AZ409018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.534",
+      "lon": "48.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ülgüc",
+      "en": "Ulguj",
+      "slug": "ulguj"
+    },
+    "code": {
+      "id": "AZ409019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.548",
+      "lon": "48.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ409033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.657",
+      "lon": "48.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenilik",
+      "en": "Yenilik",
+      "slug": "yenilik"
+    },
+    "code": {
+      "id": "AZ409023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.588",
+      "lon": "48.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Növcü",
+      "en": "Yukhari Novju",
+      "slug": "yukhari-novju"
+    },
+    "code": {
+      "id": "AZ409080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.529",
+      "lon": "48.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ409035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərqava",
+      "en": "Zargava",
+      "slug": "zargava"
+    },
+    "code": {
+      "id": "AZ409035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ409",
+      "level": 1,
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ409",
+        "level": 1,
+        "name": {
+          "local": "Ağsu",
+          "en": "Aghsu",
+          "slug": "aghsu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.65",
+      "lon": "48.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

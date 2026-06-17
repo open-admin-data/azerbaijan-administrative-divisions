@@ -1,0 +1,45 @@
+{
+  "id": "AZ501017",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Əskipara",
+    "en": "Yukhari Askipara",
+    "slug": "yukhari-askipara"
+  },
+  "code": {
+    "id": "AZ501017",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ501",
+    "level": 1,
+    "name": {
+      "local": "Qazax",
+      "en": "Gazakh",
+      "slug": "gazakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.064",
+    "lon": "45.025"
+  },
+  "metadata": {},
+  "source": {}
+}

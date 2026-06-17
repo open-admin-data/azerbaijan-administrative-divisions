@@ -1,0 +1,33 @@
+{
+  "id": "AZ106",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Culfa",
+    "en": "Julfa",
+    "slug": "julfa"
+  },
+  "code": {
+    "id": "AZ106",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.147",
+    "lon": "45.701"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/julfa/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ606080",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "7 №-li Qayıdış",
+    "en": "Gayidish-7",
+    "slug": "gayidish-7"
+  },
+  "code": {
+    "id": "AZ606080",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.732",
+    "lon": "47.519"
+  },
+  "metadata": {},
+  "source": {}
+}

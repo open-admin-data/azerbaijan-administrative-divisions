@@ -1,0 +1,60 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+AZ403030,Ağçay,Aghchay,aghchay,AZ403030,41.454,47.011
+AZ403049,Ağyazı,Aghyazi,aghyazi,AZ403049,41.252,46.746
+AZ403026,Əlibəyli,Alibeyli,alibeyli,AZ403026,41.376,46.823
+AZ403028,Almalı,Almali,almali,AZ403028,41.336,46.761
+AZ403042,Amanlı,Amanli,amanli,AZ403042,41.289,46.846
+AZ403031,Əmbərçay,Ambarchay,ambarchay,AZ403031,41.379,46.936
+AZ403023,Əmircan,Amirjan,amirjan,AZ403023,41.427,46.864
+AZ403003,Armudlu,Armudlu,armudlu,AZ403003,41.397,47.048
+AZ403036,Aşağı Malax,Ashaghi Malakh,ashaghi-malakh,AZ403036,41.372,46.993
+AZ403056,Bağtala,Baghtala,baghtala,AZ403056,41.359,46.823
+AZ403044,Baydarlı,Baydarli,baydarli,AZ403044,41.281,46.87
+AZ403021,Böyük Alatəmir,Boyuk Alatamir,boyuk-alatamir,AZ403021,41.415,46.828
+AZ403005,Çinarlı,Chinarli,chinarli,AZ403005,41.467,46.92
+AZ403019,Çudulu,Chudulu,chudulu,AZ403019,41.449,46.782
+AZ403029,Dəymədağlı,Daymadaghli,daymadaghli,AZ403029,41.333,46.78
+AZ403020,Fıstıqlı,Fistigli,fistigli,AZ403020,41.443,46.803
+AZ403052,QAX,GAKH,gakh,AZ403052,41.423,46.922
+AZ403051,Qax İngiloy,Gakh Ingiloy,gakh-ingiloy,AZ403051,41.418,46.908
+AZ403050,Qaxbaş,Gakhbash,gakhbash,AZ403050,41.434,46.967
+AZ403009,Qapıçay,Gapichay,gapichay,AZ403009,41.49,46.802
+AZ403014,Qarabaldır,Garabaldir,garabaldir,AZ403014,41.408,46.718
+AZ403047,Qaradolaq,Garadolag,garadolag,AZ403047,41.247,46.789
+AZ403058,Qarameşə,Garamesha,garamesha,AZ403058,41.423,46.827
+AZ403039,Qaratala,Garatala,garatala,AZ403039,41.326,46.871
+AZ403004,Qaşqaçay,Gashgachay,gashgachay,AZ403004,41.386,47.037
+AZ403041,Qaysarlı,Gaysarli,gaysarli,AZ403041,41.298,46.843
+AZ403045,Qazmalar,Gazmalar,gazmalar,AZ403045,41.299,46.88
+AZ403035,Qımırlı,Gimirli,gimirli,AZ403035,41.339,46.896
+AZ403054,Qındırğa,Gindirgha,gindirgha,AZ403054,41.38,46.65
+AZ403040,Qıpçaq,Gipchag,gipchag,AZ403040,41.302,46.835
+AZ403016,Qorağan,Goraghan,goraghan,AZ403016,41.384,46.74
+AZ403010,Güllük,Gulluk,gulluk,AZ403010,41.503,46.756
+AZ403024,Qum,Gum,gum,AZ403024,41.453,46.906
+AZ403032,İbaxlı,İbakhli,ibakhli,AZ403032,41.359,46.861
+AZ403002,İlisu,Ilisu,ilisu,AZ403002,41.468,47.054
+AZ403033,İngiloy Kötüklü,İngiloy Kotuklu,ingiloy-kotuklu,AZ403033,41.337,46.867
+AZ403037,Cəlayir,Jalayir,jalayir,AZ403037,41.319,46.8
+AZ403055,Keşqutan,Keshgutan,keshgutan,AZ403055,41.375,46.911
+AZ403034,Xələftala,Khalaftala,khalaftala,AZ403034,41.342,46.884
+AZ403057,Kiçik Alatəmir,Kichik Alatamir,kichik-alatamir,AZ403057,41.404,46.827
+AZ403007,Ləkit,Lakit,lakit,AZ403007,41.48,46.839
+AZ403006,Ləkit Kötüklü,Lakit Kotuklu,lakit-kotuklu,AZ403006,41.514,46.884
+AZ403059,Ləkit Malax,Lakit Malakh,lakit-malakh,AZ403059,41.473,46.869
+AZ403053,Lələli,Lalali,lalali,AZ403053,41.349,46.675
+AZ403011,Lələpaşa,Lalapasha,lalapasha,AZ403011,41.433,46.72
+AZ403017,Marsan,Marsan,marsan,AZ403017,41.429,46.763
+AZ403022,Meşəbaş,Meshabash,meshabash,AZ403022,41.411,46.876
+AZ403043,Oncallı,Onjalli,onjalli,AZ403043,41.279,46.86
+AZ403001,Sarıbaş,Saribash,saribash,AZ403001,41.523,47.074
+AZ403027,Şıxlar,Shikhlar,shikhlar,AZ403027,41.354,46.778
+AZ403015,Şotavar,Shotavar,shotavar,AZ403015,41.389,46.718
+AZ403025,Suskənd,Suskend,suskend,AZ403025,41.444,46.875
+AZ403046,Tanqıt,Tangit,tangit,AZ403046,41.282,46.889
+AZ403012,Tasmalı,Tasmali,tasmali,AZ403012,41.428,46.707
+AZ403018,Turaclı,Turajli,turajli,AZ403018,41.414,46.774
+AZ403048,Üzümlükənd,Uzumlukend,uzumlukend,AZ403048,41.198,46.724
+AZ403038,Uzuntala,Uzuntala,uzuntala,AZ403038,41.327,46.856
+AZ403008,Zərnə,Zarna,zarna,AZ403008,41.514,46.821
+AZ403013,Zəyəm,Zayam,zayam,AZ403013,41.413,46.686

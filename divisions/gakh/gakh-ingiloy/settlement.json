@@ -1,0 +1,45 @@
+{
+  "id": "AZ403051",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qax İngiloy",
+    "en": "Gakh Ingiloy",
+    "slug": "gakh-ingiloy"
+  },
+  "code": {
+    "id": "AZ403051",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ403",
+    "level": 1,
+    "name": {
+      "local": "Qax",
+      "en": "Gakh",
+      "slug": "gakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.418",
+    "lon": "46.908"
+  },
+  "metadata": {},
+  "source": {}
+}

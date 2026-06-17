@@ -1,0 +1,33 @@
+{
+  "id": "AZ1005",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Səbail",
+    "en": "Sebail",
+    "slug": "sebail"
+  },
+  "code": {
+    "id": "AZ1005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.321",
+    "lon": "49.818"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/sebail/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

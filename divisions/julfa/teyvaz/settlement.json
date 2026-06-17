@@ -1,0 +1,45 @@
+{
+  "id": "AZ106005",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Teyvaz",
+    "en": "Teyvaz",
+    "slug": "teyvaz"
+  },
+  "code": {
+    "id": "AZ106005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ106",
+    "level": 1,
+    "name": {
+      "local": "Culfa",
+      "en": "Julfa",
+      "slug": "julfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ106",
+      "level": 1,
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.257",
+    "lon": "45.776"
+  },
+  "metadata": {},
+  "source": {}
+}

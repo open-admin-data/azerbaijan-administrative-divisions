@@ -1,0 +1,33 @@
+{
+  "id": "AZ804",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Yardımlı",
+    "en": "Yardimli",
+    "slug": "yardimli"
+  },
+  "code": {
+    "id": "AZ804",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 88
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.923",
+    "lon": "48.283"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/yardimli/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

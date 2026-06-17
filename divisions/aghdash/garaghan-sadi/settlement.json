@@ -1,0 +1,45 @@
+{
+  "id": "AZ903058",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarağan Sədi",
+    "en": "Garaghan Sadi",
+    "slug": "garaghan-sadi"
+  },
+  "code": {
+    "id": "AZ903058",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.642",
+    "lon": "47.534"
+  },
+  "metadata": {},
+  "source": {}
+}

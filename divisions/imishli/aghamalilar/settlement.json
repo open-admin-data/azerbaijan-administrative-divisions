@@ -1,0 +1,45 @@
+{
+  "id": "AZ907009",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ağamalılar",
+    "en": "Aghamalilar",
+    "slug": "aghamalilar"
+  },
+  "code": {
+    "id": "AZ907009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.096",
+    "lon": "47.819"
+  },
+  "metadata": {},
+  "source": {}
+}

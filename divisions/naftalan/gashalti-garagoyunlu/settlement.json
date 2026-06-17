@@ -1,0 +1,45 @@
+{
+  "id": "AZ510001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaşaltı Qaraqoyunlu",
+    "en": "Gashalti Garagoyunlu",
+    "slug": "gashalti-garagoyunlu"
+  },
+  "code": {
+    "id": "AZ510001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ510",
+    "level": 1,
+    "name": {
+      "local": "Naftalan",
+      "en": "Naftalan",
+      "slug": "naftalan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ510",
+      "level": 1,
+      "name": {
+        "local": "Naftalan",
+        "en": "Naftalan",
+        "slug": "naftalan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.486",
+    "lon": "46.782"
+  },
+  "metadata": {},
+  "source": {}
+}

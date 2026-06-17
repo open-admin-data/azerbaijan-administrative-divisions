@@ -1,0 +1,45 @@
+{
+  "id": "AZ410017",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "ŞAMAXI",
+    "en": "SHAMAKHI",
+    "slug": "shamakhi"
+  },
+  "code": {
+    "id": "AZ410017",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ410",
+    "level": 1,
+    "name": {
+      "local": "Şamaxı",
+      "en": "Shamakhi",
+      "slug": "shamakhi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ410",
+      "level": 1,
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhi",
+        "slug": "shamakhi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.636",
+    "lon": "48.641"
+  },
+  "metadata": {},
+  "source": {}
+}

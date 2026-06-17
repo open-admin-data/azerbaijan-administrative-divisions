@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "AZ904009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlikənd",
+      "en": "Alikend",
+      "slug": "alikend"
+    },
+    "code": {
+      "id": "AZ904009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.495",
+      "lon": "47.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alpı",
+      "en": "Alpi",
+      "slug": "alpi"
+    },
+    "code": {
+      "id": "AZ904017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.49",
+      "lon": "47.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alpout",
+      "en": "Alpout",
+      "slug": "alpout"
+    },
+    "code": {
+      "id": "AZ904008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.478",
+      "lon": "47.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ənvər Məmmədxanlı",
+      "en": "Anvar Mammadkhanli",
+      "slug": "anvar-mammadkhanli"
+    },
+    "code": {
+      "id": "AZ904024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.455",
+      "lon": "47.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağban",
+      "en": "Baghban",
+      "slug": "baghban"
+    },
+    "code": {
+      "id": "AZ904027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.399",
+      "lon": "47.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağırbəyli",
+      "en": "Baghirbeyli",
+      "slug": "baghirbeyli"
+    },
+    "code": {
+      "id": "AZ904016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.506",
+      "lon": "47.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bərgüşad",
+      "en": "Bargushad",
+      "slug": "bargushad"
+    },
+    "code": {
+      "id": "AZ904028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.393",
+      "lon": "47.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boyat",
+      "en": "Boyat",
+      "slug": "boyat"
+    },
+    "code": {
+      "id": "AZ904019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.392",
+      "lon": "47.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çiyni",
+      "en": "Chiyni",
+      "slug": "chiyni"
+    },
+    "code": {
+      "id": "AZ904005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.526",
+      "lon": "47.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabörk",
+      "en": "Garabork",
+      "slug": "garabork"
+    },
+    "code": {
+      "id": "AZ904011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.478",
+      "lon": "47.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradağlı",
+      "en": "Garadaghli",
+      "slug": "garadaghli"
+    },
+    "code": {
+      "id": "AZ904010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.486",
+      "lon": "47.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaracallı",
+      "en": "Garajalli",
+      "slug": "garajalli"
+    },
+    "code": {
+      "id": "AZ904025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.441",
+      "lon": "47.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəraybəyli",
+      "en": "Garaybeyli",
+      "slug": "garaybeyli"
+    },
+    "code": {
+      "id": "AZ904007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.502",
+      "lon": "47.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazıqumlaq",
+      "en": "Gazigumlag",
+      "slug": "gazigumlag"
+    },
+    "code": {
+      "id": "AZ904003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.534",
+      "lon": "47.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazyan",
+      "en": "Gazyan",
+      "slug": "gazyan"
+    },
+    "code": {
+      "id": "AZ904012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.421",
+      "lon": "47.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quləbənd",
+      "en": "Gulaband",
+      "slug": "gulaband"
+    },
+    "code": {
+      "id": "AZ904018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.48",
+      "lon": "47.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xələc",
+      "en": "Khalaj",
+      "slug": "khalaj"
+    },
+    "code": {
+      "id": "AZ904014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.34",
+      "lon": "47.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küçəkənd",
+      "en": "Kuchakend",
+      "slug": "kuchakend"
+    },
+    "code": {
+      "id": "AZ904022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.479",
+      "lon": "47.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lək",
+      "en": "Lak",
+      "slug": "lak"
+    },
+    "code": {
+      "id": "AZ904013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.378",
+      "lon": "47.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məlikballı",
+      "en": "Malikballi",
+      "slug": "malikballi"
+    },
+    "code": {
+      "id": "AZ904004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.545",
+      "lon": "47.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Müsüslü",
+      "en": "Mususlu",
+      "slug": "mususlu"
+    },
+    "code": {
+      "id": "AZ904021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.454",
+      "lon": "47.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirkənd",
+      "en": "Pirkend",
+      "slug": "pirkend"
+    },
+    "code": {
+      "id": "AZ904026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.469",
+      "lon": "47.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ramal",
+      "en": "Ramal",
+      "slug": "ramal"
+    },
+    "code": {
+      "id": "AZ904002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.499",
+      "lon": "47.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəstəcə",
+      "en": "Rastaja",
+      "slug": "rastaja"
+    },
+    "code": {
+      "id": "AZ904015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.529",
+      "lon": "47.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahlıq",
+      "en": "Shahlig",
+      "slug": "shahlig"
+    },
+    "code": {
+      "id": "AZ904001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.47",
+      "lon": "47.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzə Şilyan",
+      "en": "Teze Shilyan",
+      "slug": "teze-shilyan"
+    },
+    "code": {
+      "id": "AZ904020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.417",
+      "lon": "47.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkəci",
+      "en": "Turkaji",
+      "slug": "turkaji"
+    },
+    "code": {
+      "id": "AZ904023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.475",
+      "lon": "47.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "UCAR",
+      "en": "UJAR",
+      "slug": "ujar"
+    },
+    "code": {
+      "id": "AZ904006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.512",
+      "lon": "47.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Çiyni",
+      "en": "Yukhari Chiyni",
+      "slug": "yukhari-chiyni"
+    },
+    "code": {
+      "id": "AZ904030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.427",
+      "lon": "47.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ904029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Şilyan",
+      "en": "Yukhari Shilyan",
+      "slug": "yukhari-shilyan"
+    },
+    "code": {
+      "id": "AZ904029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ904",
+      "level": 1,
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ904",
+        "level": 1,
+        "name": {
+          "local": "Ucar",
+          "en": "Ujar",
+          "slug": "ujar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.331",
+      "lon": "47.801"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

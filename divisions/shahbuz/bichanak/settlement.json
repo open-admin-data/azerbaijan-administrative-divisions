@@ -1,0 +1,45 @@
+{
+  "id": "AZ105024",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Biçənək",
+    "en": "Bichanak",
+    "slug": "bichanak"
+  },
+  "code": {
+    "id": "AZ105024",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ105",
+    "level": 1,
+    "name": {
+      "local": "Şahbuz",
+      "en": "Shahbuz",
+      "slug": "shahbuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.501",
+    "lon": "45.763"
+  },
+  "metadata": {},
+  "source": {}
+}

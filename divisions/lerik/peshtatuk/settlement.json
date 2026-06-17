@@ -1,0 +1,45 @@
+{
+  "id": "AZ803150",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Peştətük",
+    "en": "Peshtatuk",
+    "slug": "peshtatuk"
+  },
+  "code": {
+    "id": "AZ803150",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.787",
+    "lon": "48.548"
+  },
+  "metadata": {},
+  "source": {}
+}

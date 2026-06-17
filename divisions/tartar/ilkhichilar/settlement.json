@@ -1,0 +1,45 @@
+{
+  "id": "AZ611050",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İlxıçılar",
+    "en": "Ilkhichilar",
+    "slug": "ilkhichilar"
+  },
+  "code": {
+    "id": "AZ611050",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ611",
+    "level": 1,
+    "name": {
+      "local": "Tərtər",
+      "en": "Tartar",
+      "slug": "tartar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ611",
+      "level": 1,
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.265",
+    "lon": "47.063"
+  },
+  "metadata": {},
+  "source": {}
+}

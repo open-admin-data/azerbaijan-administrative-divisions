@@ -1,0 +1,45 @@
+{
+  "id": "AZ509047",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qazanbulaq",
+    "en": "Gazanbulag",
+    "slug": "gazanbulag"
+  },
+  "code": {
+    "id": "AZ509047",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.619",
+    "lon": "46.655"
+  },
+  "metadata": {},
+  "source": {}
+}

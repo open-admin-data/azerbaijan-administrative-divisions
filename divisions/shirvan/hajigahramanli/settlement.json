@@ -1,0 +1,45 @@
+{
+  "id": "AZ911002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Hacıqəhrəmanlı",
+    "en": "Hajigahramanli",
+    "slug": "hajigahramanli"
+  },
+  "code": {
+    "id": "AZ911002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ911",
+    "level": 1,
+    "name": {
+      "local": "Şirvan",
+      "en": "Shirvan",
+      "slug": "shirvan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ911",
+      "level": 1,
+      "name": {
+        "local": "Şirvan",
+        "en": "Shirvan",
+        "slug": "shirvan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.88",
+    "lon": "48.926"
+  },
+  "metadata": {},
+  "source": {}
+}

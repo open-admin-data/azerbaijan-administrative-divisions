@@ -1,0 +1,45 @@
+{
+  "id": "AZ105018",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Külüs",
+    "en": "Kulus",
+    "slug": "kulus"
+  },
+  "code": {
+    "id": "AZ105018",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ105",
+    "level": 1,
+    "name": {
+      "local": "Şahbuz",
+      "en": "Shahbuz",
+      "slug": "shahbuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.363",
+    "lon": "45.659"
+  },
+  "metadata": {},
+  "source": {}
+}

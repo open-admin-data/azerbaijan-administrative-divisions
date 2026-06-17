@@ -1,0 +1,444 @@
+# Goranboy — Azerbaijan Administrative Divisions
+
+> 87 settlements
+> Code: AZ509
+> Coordinates: 40.6, 46.668
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abbasqulular (Abbasgulular)
+
+Code: AZ509062, Coordinates: 40.571, 46.784
+
+
+### Əhmədabad (Ahmadabad)
+
+Code: AZ509019, Coordinates: 40.712, 46.655
+
+
+### Əlirzalı (Alirzali)
+
+Code: AZ509087, Coordinates: 40.51, 46.944
+
+
+### Alpout
+
+Code: AZ509028, Coordinates: 40.751, 46.538
+
+
+### Aşağı Ballıqaya (Ashaghi  Balligaya)
+
+Code: AZ509057, Coordinates: 40.565, 46.877
+
+
+### Aşağı Ağcakənd (Ashaghi Aghjakend)
+
+Code: AZ509067, Coordinates: 40.42, 46.568
+
+
+### Azad
+
+Code: AZ509001, Coordinates: 40.695, 46.512
+
+
+### Bağçakürd (Baghchakurd)
+
+Code: AZ509029, Coordinates: 40.735, 46.51
+
+
+### Balakürd (Balakurd)
+
+Code: AZ509055, Coordinates: 40.589, 46.839
+
+
+### Baş Qışlaq (Bash Gishlag)
+
+Code: AZ509032, Coordinates: 40.385, 46.414
+
+
+### Bəşirli (Bashirli)
+
+Code: AZ509021, Coordinates: 40.723, 46.624
+
+
+### Boluslu
+
+Code: AZ509051, Coordinates: 40.632, 46.858
+
+
+### Borsunlu
+
+Code: AZ509045, Coordinates: 40.648, 46.663
+
+
+### Börü (Boru)
+
+Code: AZ509066, Coordinates: 40.448, 46.556
+
+
+### Buzluq (Buzlug)
+
+Code: AZ509033, Coordinates: 40.418, 46.439
+
+
+### Dəliməmmədli (DALIMAMMADLI)
+
+Code: AZ509003, Coordinates: 40.695, 46.571
+
+
+### Dəyirmanlar (Dayirmanlar)
+
+Code: AZ509002, Coordinates: 40.709, 46.511
+
+
+### Düzqışlaq (Duzgishlag)
+
+Code: AZ509030, Coordinates: 40.717, 46.53
+
+
+### Erkeç (Erkech)
+
+Code: AZ509035, Coordinates: 40.463, 46.473
+
+
+### Eyvazlılar (Eyvazlilar)
+
+Code: AZ509082, Coordinates: 40.616, 46.878
+
+
+### Fəxralı (Fakhrali)
+
+Code: AZ509027, Coordinates: 40.746, 46.559
+
+
+### Qaxtut (Gakhtut)
+
+Code: AZ509072, Coordinates: 40.446, 46.631
+
+
+### Qaraçinar (Garachinar)
+
+Code: AZ509070, Coordinates: 40.44, 46.638
+
+
+### Qaradağlı (Garadaghli)
+
+Code: AZ509040, Coordinates: 40.653, 46.552
+
+
+### Qarqucaq (Garagujag)
+
+Code: AZ509076, Coordinates: 40.491, 46.722
+
+
+### Qaramusalı (Garamusali)
+
+Code: AZ509015, Coordinates: 40.729, 46.749
+
+
+### Qarapirimli (Garapirimli)
+
+Code: AZ509012, Coordinates: 40.7, 46.758
+
+
+### Qarasuçu (Garasuchu)
+
+Code: AZ509024, Coordinates: 40.752, 46.673
+
+
+### Qarasüleymanlı (Garasuleymanli)
+
+Code: AZ509059, Coordinates: 40.606, 46.776
+
+
+### Qazaxlar (Gazakhlar)
+
+Code: AZ509046, Coordinates: 40.661, 46.679
+
+
+### Qazanbulaq (Gazanbulag)
+
+Code: AZ509047, Coordinates: 40.619, 46.655
+
+
+### Qazançı (Gazanchi)
+
+Code: AZ509009, Coordinates: 40.673, 46.718
+
+
+### Qırıqlı (Girigli)
+
+Code: AZ509013, Coordinates: 40.708, 46.752
+
+
+### Qızılhacılı (Gizilhajili)
+
+Code: AZ509056, Coordinates: 40.573, 46.848
+
+
+### Goran
+
+Code: AZ509050, Coordinates: 40.653, 46.851
+
+
+### GORANBOY
+
+Code: AZ509060, Coordinates: 40.61, 46.795
+
+
+### Goranlı (Goranli)
+
+Code: AZ509008, Coordinates: 40.68, 46.7
+
+
+### Göynüyən (Goynuyan)
+
+Code: AZ509023, Coordinates: 40.742, 46.633
+
+
+### Gülməmmədli (Gulmammadli)
+
+Code: AZ509011, Coordinates: 40.7, 46.732
+
+
+### Gülüstan (Gulustan)
+
+Code: AZ509079, Coordinates: 40.357, 46.583
+
+
+### Qurbanzadə (Gurbanzada)
+
+Code: AZ509031, Coordinates: 40.764, 46.568
+
+
+### Gürzallar (Gurzallar)
+
+Code: AZ509080, Coordinates: 40.497, 46.55
+
+
+### Quşçular (Gushchular)
+
+Code: AZ509004, Coordinates: 40.712, 46.56
+
+
+### Hacallı (Hajalli)
+
+Code: AZ509075, Coordinates: 40.483, 46.741
+
+
+### Həmənli (Hamanli)
+
+Code: AZ509014, Coordinates: 40.714, 46.799
+
+
+### Hazırəhmədli (Hazirahmadli)
+
+Code: AZ509022, Coordinates: 40.733, 46.641
+
+
+### İrəvanlı (Iravanli)
+
+Code: AZ509058, Coordinates: 40.633, 46.821
+
+
+### Cinli Zeynallı (Jinli Zeynalli)
+
+Code: AZ509053, Coordinates: 40.603, 46.824
+
+
+### Kəhrizli (Kahrizli)
+
+Code: AZ509006, Coordinates: 40.695, 46.632
+
+
+### Kələk (Kalak)
+
+Code: AZ509018, Coordinates: 40.729, 46.685
+
+
+### Xan Qərvənd (Khan Garvand)
+
+Code: AZ509077, Coordinates: 40.493, 46.909
+
+
+### Xasadarlı (Khasadarli)
+
+Code: AZ509010, Coordinates: 40.698, 46.688
+
+
+### Xınalı (Khinali)
+
+Code: AZ509016, Coordinates: 40.726, 46.721
+
+
+### Xoylu (Khoylu)
+
+Code: AZ509041, Coordinates: 40.647, 46.531
+
+
+### Kürəkçay (Kurakchay)
+
+Code: AZ509081, Coordinates: 40.668, 46.724
+
+
+### Mənəşli (Manashli)
+
+Code: AZ509034, Coordinates: 40.443, 46.449
+
+
+### Məşədiqaralar (Mashadigaralar)
+
+Code: AZ509052, Coordinates: 40.617, 46.86
+
+
+### Meşəli (Meshali)
+
+Code: AZ509068, Coordinates: 40.434, 46.621
+
+
+### Muzdurlar
+
+Code: AZ509005, Coordinates: 40.699, 46.607
+
+
+### Nadirkənd (Nadirkend)
+
+Code: AZ509044, Coordinates: 40.654, 46.634
+
+
+### Nərimanlı (Narimanli)
+
+Code: AZ509054, Coordinates: 40.599, 46.835
+
+
+### Nizami
+
+Code: AZ509039, Coordinates: 40.664, 46.522
+
+
+### Rəhimli (Rahimli)
+
+Code: AZ509049, Coordinates: 40.584, 46.748
+
+
+### Rus Borisi
+
+Code: AZ509065, Coordinates: 40.437, 46.51
+
+
+### Səfikürd (Safikurd)
+
+Code: AZ509063, Coordinates: 40.538, 46.772
+
+
+### Səmədabad (Samadabad)
+
+Code: AZ509007, Coordinates: 40.682, 46.652
+
+
+### Sarov
+
+Code: AZ509026, Coordinates: 40.725, 46.591
+
+
+### Sarovlu
+
+Code: AZ509085, Coordinates: 40.69, 46.556
+
+
+### Şadılı (Shadili)
+
+Code: AZ509043, Coordinates: 40.647, 46.573
+
+
+### Şəfəq (Shafag)
+
+Code: AZ509071, Coordinates: 40.453, 46.647
+
+
+### Şəfibəyli (Shafibeyli)
+
+Code: AZ509074, Coordinates: 40.479, 46.71
+
+
+### Şahməmmədli (Shahmammadli)
+
+Code: AZ509061, Coordinates: 40.598, 46.763
+
+
+### Şıxlar (Shikhlar)
+
+Code: AZ509017, Coordinates: 40.715, 46.697
+
+
+### Təklə (Takla)
+
+Code: AZ509064, Coordinates: 40.527, 46.867
+
+
+### Tap
+
+Code: AZ509083, Coordinates: 40.424, 46.778
+
+
+### Tap Qaraqoyunlu (Tap Garagoyunlu)
+
+Code: AZ509078, Coordinates: 40.431, 46.77
+
+
+### Tatarlı (Tatarli)
+
+Code: AZ509086, Coordinates: 40.511, 46.758
+
+
+### Todan
+
+Code: AZ509036, Coordinates: 40.473, 46.452
+
+
+### Veyisli
+
+Code: AZ509048, Coordinates: 40.585, 46.722
+
+
+### Yəhərçi Qazaxlar (Yaharchi Gazakhlar)
+
+Code: AZ509025, Coordinates: 40.754, 46.605
+
+
+### Yeni yol
+
+Code: AZ509084, Coordinates: 40.508, 46.877
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ509069, Coordinates: 40.443, 46.646
+
+
+### Yolqulular (Yolgulular)
+
+Code: AZ509042, Coordinates: 40.624, 46.517
+
+
+### Yolpaq (Yolpag)
+
+Code: AZ509020, Coordinates: 40.713, 46.623
+
+
+### Yuxarı Ballıqaya (Yukhari  Balligaya)
+
+Code: AZ509038, Coordinates: 40.369, 46.473
+
+
+### Yuxarı Ağcakənd (Yukhari Aghjakend)
+
+Code: AZ509037, Coordinates: 40.397, 46.495
+
+
+### Zeyvə (Zeyva)
+
+Code: AZ509073, Coordinates: 40.46, 46.682
+
+

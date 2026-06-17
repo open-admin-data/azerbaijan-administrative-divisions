@@ -1,0 +1,45 @@
+{
+  "id": "AZ104007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əliabad",
+    "en": "Aliabad",
+    "slug": "aliabad"
+  },
+  "code": {
+    "id": "AZ104007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ104",
+    "level": 1,
+    "name": {
+      "local": "Naxçıvan",
+      "en": "Nakhchivan",
+      "slug": "nakhchivan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ104",
+      "level": 1,
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.23",
+    "lon": "45.394"
+  },
+  "metadata": {},
+  "source": {}
+}

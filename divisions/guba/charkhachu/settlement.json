@@ -1,0 +1,45 @@
+{
+  "id": "AZ303003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çarxaçu",
+    "en": "Charkhachu",
+    "slug": "charkhachu"
+  },
+  "code": {
+    "id": "AZ303003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.948",
+    "lon": "48.703"
+  },
+  "metadata": {},
+  "source": {}
+}

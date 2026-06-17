@@ -1,0 +1,45 @@
+{
+  "id": "AZ306025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Əngilan",
+    "en": "Yukhari Angilan",
+    "slug": "yukhari-angilan"
+  },
+  "code": {
+    "id": "AZ306025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ306",
+    "level": 1,
+    "name": {
+      "local": "Xızı",
+      "en": "Khizi",
+      "slug": "khizi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ306",
+      "level": 1,
+      "name": {
+        "local": "Xızı",
+        "en": "Khizi",
+        "slug": "khizi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.826",
+    "lon": "49.028"
+  },
+  "metadata": {},
+  "source": {}
+}

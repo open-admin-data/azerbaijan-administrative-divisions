@@ -1,0 +1,45 @@
+{
+  "id": "AZ501028",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qazaxbəyli",
+    "en": "Gazakhbeyli",
+    "slug": "gazakhbeyli"
+  },
+  "code": {
+    "id": "AZ501028",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ501",
+    "level": 1,
+    "name": {
+      "local": "Qazax",
+      "en": "Gazakh",
+      "slug": "gazakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.161",
+    "lon": "45.315"
+  },
+  "metadata": {},
+  "source": {}
+}

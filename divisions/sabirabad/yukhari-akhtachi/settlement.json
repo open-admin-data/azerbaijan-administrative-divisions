@@ -1,0 +1,45 @@
+{
+  "id": "AZ909045",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Axtaçı",
+    "en": "Yukhari Akhtachi",
+    "slug": "yukhari-akhtachi"
+  },
+  "code": {
+    "id": "AZ909045",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ909",
+    "level": 1,
+    "name": {
+      "local": "Sabirabad",
+      "en": "Sabirabad",
+      "slug": "sabirabad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ909",
+      "level": 1,
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.041",
+    "lon": "48.308"
+  },
+  "metadata": {},
+  "source": {}
+}

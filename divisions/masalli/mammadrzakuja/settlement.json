@@ -1,0 +1,45 @@
+{
+  "id": "AZ805049",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Məmmədrzakücə",
+    "en": "Mammadrzakuja",
+    "slug": "mammadrzakuja"
+  },
+  "code": {
+    "id": "AZ805049",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ805",
+    "level": 1,
+    "name": {
+      "local": "Masallı",
+      "en": "Masalli",
+      "slug": "masalli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.975",
+    "lon": "48.611"
+  },
+  "metadata": {},
+  "source": {}
+}

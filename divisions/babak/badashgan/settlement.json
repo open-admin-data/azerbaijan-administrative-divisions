@@ -1,0 +1,45 @@
+{
+  "id": "AZ103023",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Badaşqan",
+    "en": "Badashgan",
+    "slug": "badashgan"
+  },
+  "code": {
+    "id": "AZ103023",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ103",
+    "level": 1,
+    "name": {
+      "local": "Babək",
+      "en": "Babak",
+      "slug": "babak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.214",
+    "lon": "45.442"
+  },
+  "metadata": {},
+  "source": {}
+}

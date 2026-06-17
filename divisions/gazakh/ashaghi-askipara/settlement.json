@@ -1,0 +1,45 @@
+{
+  "id": "AZ501035",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Əskipara",
+    "en": "Ashaghi Askipara",
+    "slug": "ashaghi-askipara"
+  },
+  "code": {
+    "id": "AZ501035",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ501",
+    "level": 1,
+    "name": {
+      "local": "Qazax",
+      "en": "Gazakh",
+      "slug": "gazakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.076",
+    "lon": "45.08"
+  },
+  "metadata": {},
+  "source": {}
+}

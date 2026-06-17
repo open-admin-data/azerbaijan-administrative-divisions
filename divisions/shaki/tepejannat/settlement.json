@@ -1,0 +1,45 @@
+{
+  "id": "AZ404054",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Təpəcənnət",
+    "en": "Tepejannat",
+    "slug": "tepejannat"
+  },
+  "code": {
+    "id": "AZ404054",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ404",
+    "level": 1,
+    "name": {
+      "local": "Şəki",
+      "en": "Shaki",
+      "slug": "shaki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ404",
+      "level": 1,
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.981",
+    "lon": "47.193"
+  },
+  "metadata": {},
+  "source": {}
+}

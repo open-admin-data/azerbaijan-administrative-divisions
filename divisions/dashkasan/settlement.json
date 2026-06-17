@@ -1,0 +1,2207 @@
+[
+  {
+    "id": "AZ506003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədli",
+      "en": "Ahmadli",
+      "slug": "ahmadli"
+    },
+    "code": {
+      "id": "AZ506003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.515",
+      "lon": "45.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əhmədli",
+      "en": "Ahmadli",
+      "slug": "ahmadli"
+    },
+    "code": {
+      "id": "AZ506025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.47",
+      "lon": "46.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alaxançallı",
+      "en": "Alakhanchalli",
+      "slug": "alakhanchalli"
+    },
+    "code": {
+      "id": "AZ506033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.383",
+      "lon": "46.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Almalı",
+      "en": "Almali",
+      "slug": "almali"
+    },
+    "code": {
+      "id": "AZ506035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.416",
+      "lon": "46.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alunitdağ",
+      "en": "Alunitdagh",
+      "slug": "alunitdagh"
+    },
+    "code": {
+      "id": "AZ506045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.52",
+      "lon": "46.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əmirvar",
+      "en": "Amirvar",
+      "slug": "amirvar"
+    },
+    "code": {
+      "id": "AZ506002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.52",
+      "lon": "45.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Daşkəsən",
+      "en": "Ashaghi Dashkasan",
+      "slug": "ashaghi-dashkasan"
+    },
+    "code": {
+      "id": "AZ506018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.527",
+      "lon": "46.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Astaf",
+      "en": "Astaf",
+      "slug": "astaf"
+    },
+    "code": {
+      "id": "AZ506012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.466",
+      "lon": "45.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayan",
+      "en": "Bayan",
+      "slug": "bayan"
+    },
+    "code": {
+      "id": "AZ506017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.553",
+      "lon": "46.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çanaqçı",
+      "en": "Chanagchi",
+      "slug": "chanagchi"
+    },
+    "code": {
+      "id": "AZ506031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.413",
+      "lon": "46.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaykənd",
+      "en": "Chaykend",
+      "slug": "chaykend"
+    },
+    "code": {
+      "id": "AZ506013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.62",
+      "lon": "46.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çıraqlı",
+      "en": "Chiragli",
+      "slug": "chiragli"
+    },
+    "code": {
+      "id": "AZ506040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.419",
+      "lon": "46.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çovdar",
+      "en": "Chovdar",
+      "slug": "chovdar"
+    },
+    "code": {
+      "id": "AZ506014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.614",
+      "lon": "46.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dardərə",
+      "en": "Dardere",
+      "slug": "dardere"
+    },
+    "code": {
+      "id": "AZ506026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.46",
+      "lon": "46.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşkəsən",
+      "en": "Dashkasan",
+      "slug": "dashkasan"
+    },
+    "code": {
+      "id": "AZ506048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.523",
+      "lon": "46.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "DAŞKƏSƏN",
+      "en": "DASHKASAN",
+      "slug": "dashkasan"
+    },
+    "code": {
+      "id": "AZ506019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.519",
+      "lon": "46.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəstəfur",
+      "en": "Dastafur",
+      "slug": "dastafur"
+    },
+    "code": {
+      "id": "AZ506041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.443",
+      "lon": "46.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəvrallı",
+      "en": "Davralli",
+      "slug": "davralli"
+    },
+    "code": {
+      "id": "AZ506004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.513",
+      "lon": "45.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qabaqtəpə",
+      "en": "Gabagtepe",
+      "slug": "gabagtepe"
+    },
+    "code": {
+      "id": "AZ506008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.479",
+      "lon": "45.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəlinqaya",
+      "en": "Galingaya",
+      "slug": "galingaya"
+    },
+    "code": {
+      "id": "AZ506009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.477",
+      "lon": "45.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqullar",
+      "en": "Garagullar",
+      "slug": "garagullar"
+    },
+    "code": {
+      "id": "AZ506029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.429",
+      "lon": "46.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaratağlar",
+      "en": "Garataghlar",
+      "slug": "garataghlar"
+    },
+    "code": {
+      "id": "AZ506030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.416",
+      "lon": "46.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazaxlı",
+      "en": "Gazakhli",
+      "slug": "gazakhli"
+    },
+    "code": {
+      "id": "AZ506005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.506",
+      "lon": "45.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazaxyolçular",
+      "en": "Gazakhyolchular",
+      "slug": "gazakhyolchular"
+    },
+    "code": {
+      "id": "AZ506024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.461",
+      "lon": "46.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qıyıqlı",
+      "en": "Giyigli",
+      "slug": "giyigli"
+    },
+    "code": {
+      "id": "AZ506042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.454",
+      "lon": "46.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güneykənd",
+      "en": "Guneykend",
+      "slug": "guneykend"
+    },
+    "code": {
+      "id": "AZ506007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.494",
+      "lon": "45.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gurbulaq",
+      "en": "Gurbulag",
+      "slug": "gurbulag"
+    },
+    "code": {
+      "id": "AZ506001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.526",
+      "lon": "45.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçu",
+      "en": "Gushchu",
+      "slug": "gushchu"
+    },
+    "code": {
+      "id": "AZ506016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.551",
+      "lon": "46.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçu",
+      "en": "Gushchu",
+      "slug": "gushchu"
+    },
+    "code": {
+      "id": "AZ506049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.558",
+      "lon": "46.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçu Körpüsü",
+      "en": "Gushchu Korpusu",
+      "slug": "gushchu-korpusu"
+    },
+    "code": {
+      "id": "AZ506047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.546",
+      "lon": "46.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quytul",
+      "en": "Guytul",
+      "slug": "guytul"
+    },
+    "code": {
+      "id": "AZ506015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.618",
+      "lon": "46.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəmərqaya",
+      "en": "Kamargaya",
+      "slug": "kamargaya"
+    },
+    "code": {
+      "id": "AZ506044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.545",
+      "lon": "46.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xoşbulaq",
+      "en": "Khoshbulag",
+      "slug": "khoshbulag"
+    },
+    "code": {
+      "id": "AZ506022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.467",
+      "lon": "46.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kollu",
+      "en": "Kollu",
+      "slug": "kollu"
+    },
+    "code": {
+      "id": "AZ506039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.428",
+      "lon": "46.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollahəsənli",
+      "en": "Mollahasanli",
+      "slug": "mollahasanli"
+    },
+    "code": {
+      "id": "AZ506020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.486",
+      "lon": "46.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muşavaq",
+      "en": "Mushavag",
+      "slug": "mushavag"
+    },
+    "code": {
+      "id": "AZ506028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.445",
+      "lon": "46.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirverdilər",
+      "en": "Pirverdilar",
+      "slug": "pirverdilar"
+    },
+    "code": {
+      "id": "AZ506046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.472",
+      "lon": "45.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəsullu",
+      "en": "Rasullu",
+      "slug": "rasullu"
+    },
+    "code": {
+      "id": "AZ506010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.466",
+      "lon": "45.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahkərəm",
+      "en": "Shahkaram",
+      "slug": "shahkaram"
+    },
+    "code": {
+      "id": "AZ506032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.405",
+      "lon": "46.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahvələdli",
+      "en": "Shahvaladli",
+      "slug": "shahvaladli"
+    },
+    "code": {
+      "id": "AZ506027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.463",
+      "lon": "46.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suqovuşan",
+      "en": "Sugovushan",
+      "slug": "sugovushan"
+    },
+    "code": {
+      "id": "AZ506038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.411",
+      "lon": "46.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tapan",
+      "en": "Tapan",
+      "slug": "tapan"
+    },
+    "code": {
+      "id": "AZ506006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.492",
+      "lon": "45.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ506011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.46",
+      "lon": "45.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yolqullar",
+      "en": "Yolgullar",
+      "slug": "yolgullar"
+    },
+    "code": {
+      "id": "AZ506037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.421",
+      "lon": "46.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Daşkəsən",
+      "en": "Yukhari Dashkasan",
+      "slug": "yukhari-dashkasan"
+    },
+    "code": {
+      "id": "AZ506021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.493",
+      "lon": "46.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zağalı",
+      "en": "Zaghali",
+      "slug": "zaghali"
+    },
+    "code": {
+      "id": "AZ506023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.459",
+      "lon": "46.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəylik",
+      "en": "Zaylik",
+      "slug": "zaylik"
+    },
+    "code": {
+      "id": "AZ506043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.552",
+      "lon": "46.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zinzahal",
+      "en": "Zinzahal",
+      "slug": "zinzahal"
+    },
+    "code": {
+      "id": "AZ506036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.421",
+      "lon": "46.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ506034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zivlan",
+      "en": "Zivlan",
+      "slug": "zivlan"
+    },
+    "code": {
+      "id": "AZ506034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ506",
+        "level": 1,
+        "name": {
+          "local": "Daşkəsən",
+          "en": "Dashkasan",
+          "slug": "dashkasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.38",
+      "lon": "46.128"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

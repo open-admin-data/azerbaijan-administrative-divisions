@@ -1,0 +1,45 @@
+{
+  "id": "AZ604013",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İkinci Alıbəyli",
+    "en": "Ikinji Alibeyli",
+    "slug": "ikinji-alibeyli"
+  },
+  "code": {
+    "id": "AZ604013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ604",
+    "level": 1,
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.155",
+    "lon": "46.749"
+  },
+  "metadata": {},
+  "source": {}
+}

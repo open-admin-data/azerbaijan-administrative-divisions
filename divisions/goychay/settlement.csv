@@ -1,0 +1,57 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+AZ408026,Alıkənd,Alikend,alikend,AZ408026,40.546,47.867
+AZ408033,Alxasava,Alkhasava,alkhasava,AZ408033,40.579,47.951
+AZ408047,Alpout,Alpout,alpout,AZ408047,40.473,47.937
+AZ408044,Ərəbşahverdi,Arabshahverdi,arabshahverdi,AZ408044,40.602,47.65
+AZ408031,Aşağı Qaraməryəm,Ashaghi Garamaryam,ashaghi-garamaryam,AZ408031,40.574,47.985
+AZ408034,Bəydövül,Beydovul,beydovul,AZ408034,40.512,47.891
+AZ408017,Bığır,Bighir,bighir,AZ408017,40.606,47.85
+AZ408002,Birinci Ərəbcəbirli,Birinji  Arabjabirli,birinji-arabjabirli,AZ408002,40.655,47.729
+AZ408001,Çaxırlı,Chakhirli,chakhirli,AZ408001,40.503,47.848
+AZ408053,Çərəcə,Charaja,charaja,AZ408053,40.547,47.716
+AZ408039,Çərəkə,Charaka,charaka,AZ408039,40.563,47.689
+AZ408014,Çayarxı,Chayarkhi,chayarkhi,AZ408014,40.623,47.771
+AZ408056,Dövranlı,Dovranli,dovranli,AZ408056,40.567,47.967
+AZ408045,Qəbələ Müskürlü,Gabala Muskurlu,gabala-muskurlu,AZ408045,40.559,47.617
+AZ408015,Qarabaqqal,Garabaggal,garabaggal,AZ408015,40.624,47.798
+AZ408007,Qarabağlar,Garabaghlar,garabaghlar,AZ408007,40.634,47.697
+AZ408024,Qaraxıdır,Garakhidir,garakhidir,AZ408024,40.574,47.839
+AZ408018,Qaraman,Garaman,garaman,AZ408018,40.596,47.835
+AZ408048,Qaraməryəm,Garamaryam,garamaryam,AZ408048,40.615,48.021
+AZ408030,Qarayazı,Garayazi,garayazi,AZ408030,40.629,47.98
+AZ408035,Qızılağac,Gizilaghaj,gizilaghaj,AZ408035,40.571,47.75
+AZ408005,GÖYÇAY,GOYCHAY,goychay,AZ408005,40.65,47.749
+AZ408013,Qubadlı Şıxlı,Gubadli Shikhli,gubadli-shikhli,AZ408013,40.599,47.76
+AZ408016,Hacalıkənd,Hajalikend,hajalikend,AZ408016,40.632,47.804
+AZ408042,Hacıağabəyli,Hajiaghabeyli,hajiaghabeyli,AZ408042,40.577,47.648
+AZ408003,İkinci Ərəbcəbirli,Ikinji  Arabjabirli,ikinji-arabjabirli,AZ408003,40.649,47.688
+AZ408032,İnçə,Incha,incha,AZ408032,40.554,47.974
+AZ408010,Cəyirli,Jayirli,jayirli,AZ408010,40.621,47.758
+AZ408029,Cırqurd,Jirgurd,jirgurd,AZ408029,40.58,47.897
+AZ408040,Xəlitli,Khalitli,khalitli,AZ408040,40.581,47.688
+AZ408004,Kürd,Kurd,kurd,AZ408004,40.637,47.733
+AZ408021,Kürdəmiş,Kurdamish,kurdamish,AZ408021,40.587,47.773
+AZ408037,Kürdşaban,Kurdshaban,kurdshaban,AZ408037,40.531,47.753
+AZ408019,Ləkçılpaq,Lakchilpag,lakchilpag,AZ408019,40.59,47.803
+AZ408052,Məlikkənd,Malikkend,malikkend,AZ408052,40.532,47.792
+AZ408043,Mallı Şıxlı,Malli Shikhli,malli-shikhli,AZ408043,40.595,47.678
+AZ408025,Mırtı,Mirti,mirti,AZ408025,40.561,47.86
+AZ408006,Mirzəhüseynli,Mirzahuseynli,mirzahuseynli,AZ408006,40.653,47.654
+AZ408051,Mollahacılı,Mollahajili,mollahajili,AZ408051,40.541,47.77
+AZ408046,Müskürlü,Muskurlu,muskurlu,AZ408046,40.549,47.655
+AZ408009,Potu,Potu,potu,AZ408009,40.62,47.738
+AZ408008,Şəhadət,Shahadat,shahadat,AZ408008,40.629,47.708
+AZ408050,Şahsoltanlı,Shahsoltanli,shahsoltanli,AZ408050,40.62,48.05
+AZ408027,Şəkər,Shakar,shakar,AZ408027,40.569,47.881
+AZ408036,Şəkili,Shakili,shakili,AZ408036,40.55,47.738
+AZ408055,Şıxəmir,Shikhamir,shikhamir,AZ408055,40.516,47.792
+AZ408023,Şıxbəy,Shikhbey,shikhbey,AZ408023,40.553,47.798
+AZ408038,Şıxlar,Shikhlar,shikhlar,AZ408038,40.569,47.716
+AZ408020,Türkmən,Turkman,turkman,AZ408020,40.61,47.768
+AZ408012,Ulaşlı Şıxlı,Ulashli Shikhli,ulashli-shikhli,AZ408012,40.599,47.74
+AZ408011,Üngütlü,Ungutlu,ungutlu,AZ408011,40.601,47.716
+AZ408028,Veysəlli,Veysalli,veysalli,AZ408028,40.548,47.907
+AZ408022,Yalman,Yalman,yalman,AZ408022,40.567,47.812
+AZ408049,Yekəxana,Yekakhana,yekakhana,AZ408049,40.623,48.043
+AZ408041,Yeniarx,Yeniarkh,yeniarkh,AZ408041,40.572,47.668
+AZ408054,Yenikənd,Yenikend,yenikend,AZ408054,40.515,47.766

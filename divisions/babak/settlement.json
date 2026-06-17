@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "AZ103035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Araz",
+      "en": "Araz",
+      "slug": "araz"
+    },
+    "code": {
+      "id": "AZ103035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.112",
+      "lon": "45.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Buzqov",
+      "en": "Ashaghi Buzgov",
+      "slug": "ashaghi-buzgov"
+    },
+    "code": {
+      "id": "AZ103006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.515",
+      "lon": "45.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Uzunoba",
+      "en": "Ashaghi Uzunoba",
+      "slug": "ashaghi-uzunoba"
+    },
+    "code": {
+      "id": "AZ103016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.276",
+      "lon": "45.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "BABƏK",
+      "en": "BABAK",
+      "slug": "babak"
+    },
+    "code": {
+      "id": "AZ103027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.164",
+      "lon": "45.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Badaşqan",
+      "en": "Badashgan",
+      "slug": "badashgan"
+    },
+    "code": {
+      "id": "AZ103023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.214",
+      "lon": "45.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çeşməbasar",
+      "en": "Cheshmabasar",
+      "slug": "cheshmabasar"
+    },
+    "code": {
+      "id": "AZ103033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.127",
+      "lon": "45.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Didivar",
+      "en": "Didivar",
+      "slug": "didivar"
+    },
+    "code": {
+      "id": "AZ103010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.305",
+      "lon": "45.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qahab",
+      "en": "Gahab",
+      "slug": "gahab"
+    },
+    "code": {
+      "id": "AZ103030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.252",
+      "lon": "45.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqala",
+      "en": "Garagala",
+      "slug": "garagala"
+    },
+    "code": {
+      "id": "AZ103013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.292",
+      "lon": "45.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gərməçataq",
+      "en": "Garmachatag",
+      "slug": "garmachatag"
+    },
+    "code": {
+      "id": "AZ103005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.493",
+      "lon": "45.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göynük",
+      "en": "Goynuk",
+      "slug": "goynuk"
+    },
+    "code": {
+      "id": "AZ103026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.292",
+      "lon": "45.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gülşənabad",
+      "en": "Gulshanabad",
+      "slug": "gulshanabad"
+    },
+    "code": {
+      "id": "AZ103002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.372",
+      "lon": "45.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güznüt",
+      "en": "Guznut",
+      "slug": "guznut"
+    },
+    "code": {
+      "id": "AZ103034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.131",
+      "lon": "45.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıvar",
+      "en": "Hajivar",
+      "slug": "hajivar"
+    },
+    "code": {
+      "id": "AZ103024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.207",
+      "lon": "45.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəhri",
+      "en": "Jahri",
+      "slug": "jahri"
+    },
+    "code": {
+      "id": "AZ103001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.351",
+      "lon": "45.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kalbaoruc Dizə",
+      "en": "Kalbaoruj Diza",
+      "slug": "kalbaoruj-diza"
+    },
+    "code": {
+      "id": "AZ103012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.297",
+      "lon": "45.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərimbəyli",
+      "en": "Karimbeyli",
+      "slug": "karimbeyli"
+    },
+    "code": {
+      "id": "AZ103019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.255",
+      "lon": "45.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlilli",
+      "en": "Khalilli",
+      "slug": "khalilli"
+    },
+    "code": {
+      "id": "AZ103018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.261",
+      "lon": "45.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xalxal",
+      "en": "Khalkhal",
+      "slug": "khalkhal"
+    },
+    "code": {
+      "id": "AZ103008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.334",
+      "lon": "45.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kültəpə",
+      "en": "Kultepe",
+      "slug": "kultepe"
+    },
+    "code": {
+      "id": "AZ103017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.271",
+      "lon": "45.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmmədrza Dizə",
+      "en": "Mammadrza Diza",
+      "slug": "mammadrza-diza"
+    },
+    "code": {
+      "id": "AZ103014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.29",
+      "lon": "45.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məzrə",
+      "en": "Mazra",
+      "slug": "mazra"
+    },
+    "code": {
+      "id": "AZ103011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.309",
+      "lon": "45.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəhəcir",
+      "en": "Nahajir",
+      "slug": "nahajir"
+    },
+    "code": {
+      "id": "AZ103032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.255",
+      "lon": "45.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəcəfəlidizə",
+      "en": "Najafalidiza",
+      "slug": "najafalidiza"
+    },
+    "code": {
+      "id": "AZ103031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.23",
+      "lon": "45.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Naxışnərgiz",
+      "en": "Nakhishnargiz",
+      "slug": "nakhishnargiz"
+    },
+    "code": {
+      "id": "AZ103036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.259",
+      "lon": "45.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəzərabad",
+      "en": "Nazarabad",
+      "slug": "nazarabad"
+    },
+    "code": {
+      "id": "AZ103009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.312",
+      "lon": "45.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nehrəm",
+      "en": "Nehram",
+      "slug": "nehram"
+    },
+    "code": {
+      "id": "AZ103028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.117",
+      "lon": "45.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Payız",
+      "en": "Payiz",
+      "slug": "payiz"
+    },
+    "code": {
+      "id": "AZ103003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.409",
+      "lon": "45.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəkərabad",
+      "en": "Shakarabad",
+      "slug": "shakarabad"
+    },
+    "code": {
+      "id": "AZ103025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.193",
+      "lon": "45.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxmahmud",
+      "en": "Shikhmahmud",
+      "slug": "shikhmahmud"
+    },
+    "code": {
+      "id": "AZ103021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.253",
+      "lon": "45.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sirab",
+      "en": "Sirab",
+      "slug": "sirab"
+    },
+    "code": {
+      "id": "AZ103029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.294",
+      "lon": "45.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vayxır",
+      "en": "Vaykhir",
+      "slug": "vaykhir"
+    },
+    "code": {
+      "id": "AZ103004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.351",
+      "lon": "45.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yarımca",
+      "en": "Yarimja",
+      "slug": "yarimja"
+    },
+    "code": {
+      "id": "AZ103022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.23",
+      "lon": "45.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Buzqov",
+      "en": "Yukhari Buzgov",
+      "slug": "yukhari-buzgov"
+    },
+    "code": {
+      "id": "AZ103007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.524",
+      "lon": "45.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Uzunoba",
+      "en": "Yukhari Uzunoba",
+      "slug": "yukhari-uzunoba"
+    },
+    "code": {
+      "id": "AZ103015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.291",
+      "lon": "45.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ103020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zeynəddin",
+      "en": "Zeynaddin",
+      "slug": "zeynaddin"
+    },
+    "code": {
+      "id": "AZ103020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ103",
+      "level": 1,
+      "name": {
+        "local": "Babək",
+        "en": "Babak",
+        "slug": "babak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ103",
+        "level": 1,
+        "name": {
+          "local": "Babək",
+          "en": "Babak",
+          "slug": "babak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.251",
+      "lon": "45.471"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

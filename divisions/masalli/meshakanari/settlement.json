@@ -1,0 +1,45 @@
+{
+  "id": "AZ805025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Meşəkanarı",
+    "en": "Meshakanari",
+    "slug": "meshakanari"
+  },
+  "code": {
+    "id": "AZ805025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ805",
+    "level": 1,
+    "name": {
+      "local": "Masallı",
+      "en": "Masalli",
+      "slug": "masalli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.068",
+    "lon": "48.613"
+  },
+  "metadata": {},
+  "source": {}
+}

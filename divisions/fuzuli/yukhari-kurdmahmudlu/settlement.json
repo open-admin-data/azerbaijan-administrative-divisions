@@ -1,0 +1,45 @@
+{
+  "id": "AZ606055",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Kürdmahmudlu",
+    "en": "Yukhari Kurdmahmudlu",
+    "slug": "yukhari-kurdmahmudlu"
+  },
+  "code": {
+    "id": "AZ606055",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.602",
+    "lon": "47.452"
+  },
+  "metadata": {},
+  "source": {}
+}

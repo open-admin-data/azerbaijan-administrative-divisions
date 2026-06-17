@@ -1,0 +1,45 @@
+{
+  "id": "AZ804047",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dağ Üzü",
+    "en": "Dagh Uzu",
+    "slug": "dagh-uzu"
+  },
+  "code": {
+    "id": "AZ804047",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ804",
+    "level": 1,
+    "name": {
+      "local": "Yardımlı",
+      "en": "Yardimli",
+      "slug": "yardimli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ804",
+      "level": 1,
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimli",
+        "slug": "yardimli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.868",
+    "lon": "48.168"
+  },
+  "metadata": {},
+  "source": {}
+}

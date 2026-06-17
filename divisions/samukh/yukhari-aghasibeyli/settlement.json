@@ -1,0 +1,45 @@
+{
+  "id": "AZ507025",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Ağasıbəyli",
+    "en": "Yukhari Aghasibeyli",
+    "slug": "yukhari-aghasibeyli"
+  },
+  "code": {
+    "id": "AZ507025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ507",
+    "level": 1,
+    "name": {
+      "local": "Samux",
+      "en": "Samukh",
+      "slug": "samukh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.753",
+    "lon": "46.501"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ101005",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dəmirçi",
+    "en": "Damirchi",
+    "slug": "damirchi"
+  },
+  "code": {
+    "id": "AZ101005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ101",
+    "level": 1,
+    "name": {
+      "local": "Sədərək",
+      "en": "Sadarak",
+      "slug": "sadarak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ101",
+      "level": 1,
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.617",
+    "lon": "44.938"
+  },
+  "metadata": {},
+  "source": {}
+}

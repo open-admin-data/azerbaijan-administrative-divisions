@@ -1,0 +1,45 @@
+{
+  "id": "AZ508043",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yeni Qızılca",
+    "en": "Yeni Gizilja",
+    "slug": "yeni-gizilja"
+  },
+  "code": {
+    "id": "AZ508043",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.645",
+    "lon": "46.261"
+  },
+  "metadata": {},
+  "source": {}
+}

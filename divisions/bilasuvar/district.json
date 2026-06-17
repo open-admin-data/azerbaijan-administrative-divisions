@@ -1,0 +1,33 @@
+{
+  "id": "AZ808",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Biləsuvar",
+    "en": "Bilasuvar",
+    "slug": "bilasuvar"
+  },
+  "code": {
+    "id": "AZ808",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.462",
+    "lon": "48.528"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/bilasuvar/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

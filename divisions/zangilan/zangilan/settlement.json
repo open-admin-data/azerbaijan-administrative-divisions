@@ -1,0 +1,45 @@
+{
+  "id": "AZ604049",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "ZƏNGİLAN",
+    "en": "ZANGILAN",
+    "slug": "zangilan"
+  },
+  "code": {
+    "id": "AZ604049",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ604",
+    "level": 1,
+    "name": {
+      "local": "Zəngilan",
+      "en": "Zangilan",
+      "slug": "zangilan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ604",
+      "level": 1,
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.082",
+    "lon": "46.659"
+  },
+  "metadata": {},
+  "source": {}
+}

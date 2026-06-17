@@ -1,0 +1,45 @@
+{
+  "id": "AZ603043",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Xocamsaqlı",
+    "en": "Ashaghi Khojamsagli",
+    "slug": "ashaghi-khojamsagli"
+  },
+  "code": {
+    "id": "AZ603043",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ603",
+    "level": 1,
+    "name": {
+      "local": "Qubadlı",
+      "en": "Gubadli",
+      "slug": "gubadli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ603",
+      "level": 1,
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadli",
+        "slug": "gubadli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.315",
+    "lon": "46.553"
+  },
+  "metadata": {},
+  "source": {}
+}

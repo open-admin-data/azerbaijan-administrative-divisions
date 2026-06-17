@@ -1,0 +1,45 @@
+{
+  "id": "AZ911003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bayramlı",
+    "en": "Bayramli",
+    "slug": "bayramli"
+  },
+  "code": {
+    "id": "AZ911003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ911",
+    "level": 1,
+    "name": {
+      "local": "Şirvan",
+      "en": "Shirvan",
+      "slug": "shirvan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ911",
+      "level": 1,
+      "name": {
+        "local": "Şirvan",
+        "en": "Shirvan",
+        "slug": "shirvan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.937",
+    "lon": "48.893"
+  },
+  "metadata": {},
+  "source": {}
+}

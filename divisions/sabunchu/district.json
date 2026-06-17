@@ -1,0 +1,33 @@
+{
+  "id": "AZ1006",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sabunçu",
+    "en": "Sabunchu",
+    "slug": "sabunchu"
+  },
+  "code": {
+    "id": "AZ1006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.509",
+    "lon": "49.958"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/sabunchu/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

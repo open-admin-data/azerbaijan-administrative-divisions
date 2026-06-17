@@ -1,0 +1,2792 @@
+[
+  {
+    "id": "AZ906015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axtaçı",
+      "en": "Akhtachi",
+      "slug": "akhtachi"
+    },
+    "code": {
+      "id": "AZ906015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.054",
+      "lon": "48.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Axtaçı Qarabucaq",
+      "en": "Akhtachi Garabujag",
+      "slug": "akhtachi-garabujag"
+    },
+    "code": {
+      "id": "AZ906016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.043",
+      "lon": "48.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəb Qubalı",
+      "en": "Arab Gubali",
+      "slug": "arab-gubali"
+    },
+    "code": {
+      "id": "AZ906020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.158",
+      "lon": "48.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərəbxana",
+      "en": "Arabkhana",
+      "slug": "arabkhana"
+    },
+    "code": {
+      "id": "AZ906005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.158",
+      "lon": "48.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərşəli",
+      "en": "Arshali",
+      "slug": "arshali"
+    },
+    "code": {
+      "id": "AZ906058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.271",
+      "lon": "48.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atakişili",
+      "en": "Atakishili",
+      "slug": "atakishili"
+    },
+    "code": {
+      "id": "AZ906037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.349",
+      "lon": "48.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağman",
+      "en": "Baghman",
+      "slug": "baghman"
+    },
+    "code": {
+      "id": "AZ906044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.365",
+      "lon": "48.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Kəngərli",
+      "en": "Bala Kangarli",
+      "slug": "bala-kangarli"
+    },
+    "code": {
+      "id": "AZ906046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.452",
+      "lon": "48.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beyi",
+      "en": "Beyi",
+      "slug": "beyi"
+    },
+    "code": {
+      "id": "AZ906012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.095",
+      "lon": "48.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Kəngərli",
+      "en": "Boyuk Kangarli",
+      "slug": "boyuk-kangarli"
+    },
+    "code": {
+      "id": "AZ906050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.439",
+      "lon": "48.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çərtəyəz",
+      "en": "Chartayaz",
+      "slug": "chartayaz"
+    },
+    "code": {
+      "id": "AZ906006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.143",
+      "lon": "48.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çöhranlı",
+      "en": "Chohranli",
+      "slug": "chohranli"
+    },
+    "code": {
+      "id": "AZ906026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.283",
+      "lon": "48.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çöl Ərəb",
+      "en": "Chol Arab",
+      "slug": "chol-arab"
+    },
+    "code": {
+      "id": "AZ906024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.18",
+      "lon": "48.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çöl Qubalı",
+      "en": "Chol Gubali",
+      "slug": "chol-gubali"
+    },
+    "code": {
+      "id": "AZ906054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.16",
+      "lon": "48.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dayıkazımlı",
+      "en": "Dayikazimli",
+      "slug": "dayikazimli"
+    },
+    "code": {
+      "id": "AZ906017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.085",
+      "lon": "48.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəyirmanlı",
+      "en": "Dayirmanli",
+      "slug": "dayirmanli"
+    },
+    "code": {
+      "id": "AZ906039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.387",
+      "lon": "48.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qağacılı",
+      "en": "Gaghajili",
+      "slug": "gaghajili"
+    },
+    "code": {
+      "id": "AZ906041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.377",
+      "lon": "48.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabucaq",
+      "en": "Garabujag",
+      "slug": "garabujag"
+    },
+    "code": {
+      "id": "AZ906033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.388",
+      "lon": "48.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabucaq",
+      "en": "Garabujag",
+      "slug": "garabujag"
+    },
+    "code": {
+      "id": "AZ906062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.426",
+      "lon": "48.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraqocalı",
+      "en": "Garagojali",
+      "slug": "garagojali"
+    },
+    "code": {
+      "id": "AZ906060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.373",
+      "lon": "48.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaramahmudlu",
+      "en": "Garamahmudlu",
+      "slug": "garamahmudlu"
+    },
+    "code": {
+      "id": "AZ906052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.147",
+      "lon": "48.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarasaqqal",
+      "en": "Garasaggal",
+      "slug": "garasaggal"
+    },
+    "code": {
+      "id": "AZ906045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.379",
+      "lon": "48.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarasu",
+      "en": "Garasu",
+      "slug": "garasu"
+    },
+    "code": {
+      "id": "AZ906061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.318",
+      "lon": "47.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Garıs Əyribənd",
+      "en": "Garis Ayriband",
+      "slug": "garis-ayriband"
+    },
+    "code": {
+      "id": "AZ906057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.345",
+      "lon": "48.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoçulu",
+      "en": "Gochulu",
+      "slug": "gochulu"
+    },
+    "code": {
+      "id": "AZ906018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.089",
+      "lon": "48.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qocalı",
+      "en": "Gojali",
+      "slug": "gojali"
+    },
+    "code": {
+      "id": "AZ906013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.067",
+      "lon": "48.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qurdbayram",
+      "en": "Gurdbayram",
+      "slug": "gurdbayram"
+    },
+    "code": {
+      "id": "AZ906032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.512",
+      "lon": "48.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşlar",
+      "en": "Gushlar",
+      "slug": "gushlar"
+    },
+    "code": {
+      "id": "AZ906009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.086",
+      "lon": "48.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsmayıllı",
+      "en": "Ismayilli",
+      "slug": "ismayilli"
+    },
+    "code": {
+      "id": "AZ906056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.424",
+      "lon": "48.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Carlı",
+      "en": "Jarli",
+      "slug": "jarli"
+    },
+    "code": {
+      "id": "AZ906010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.083",
+      "lon": "48.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəyli",
+      "en": "Jayli",
+      "slug": "jayli"
+    },
+    "code": {
+      "id": "AZ906048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.431",
+      "lon": "48.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Karrar",
+      "en": "Karrar",
+      "slug": "karrar"
+    },
+    "code": {
+      "id": "AZ906027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.281",
+      "lon": "48.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Karrar",
+      "en": "Karrar",
+      "slug": "karrar"
+    },
+    "code": {
+      "id": "AZ906031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.307",
+      "lon": "48.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlsə",
+      "en": "Khalsa",
+      "slug": "khalsa"
+    },
+    "code": {
+      "id": "AZ906011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.079",
+      "lon": "48.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xınıslı",
+      "en": "Khinisli",
+      "slug": "khinisli"
+    },
+    "code": {
+      "id": "AZ906030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.325",
+      "lon": "48.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xırdapay",
+      "en": "Khirdapay",
+      "slug": "khirdapay"
+    },
+    "code": {
+      "id": "AZ906042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.364",
+      "lon": "48.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhünlü",
+      "en": "Kohunlu",
+      "slug": "kohunlu"
+    },
+    "code": {
+      "id": "AZ906003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.129",
+      "lon": "47.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "KÜRDƏMİR",
+      "en": "KURDAMIR",
+      "slug": "kurdamir"
+    },
+    "code": {
+      "id": "AZ906043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.341",
+      "lon": "48.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məhərrəmli",
+      "en": "Maharramli",
+      "slug": "maharramli"
+    },
+    "code": {
+      "id": "AZ906021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.168",
+      "lon": "48.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehdili",
+      "en": "Mehdili",
+      "slug": "mehdili"
+    },
+    "code": {
+      "id": "AZ906055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.076",
+      "lon": "48.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollakənd",
+      "en": "Mollakend",
+      "slug": "mollakend"
+    },
+    "code": {
+      "id": "AZ906007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.119",
+      "lon": "48.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ906029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.319",
+      "lon": "48.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muradxan",
+      "en": "Muradkhan",
+      "slug": "muradkhan"
+    },
+    "code": {
+      "id": "AZ906023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.188",
+      "lon": "48.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mürtülü",
+      "en": "Murtulu",
+      "slug": "murtulu"
+    },
+    "code": {
+      "id": "AZ906038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.378",
+      "lon": "48.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Öyləqulu",
+      "en": "Oylagulu",
+      "slug": "oylagulu"
+    },
+    "code": {
+      "id": "AZ906019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.106",
+      "lon": "48.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirəköcə",
+      "en": "Pirakoja",
+      "slug": "pirakoja"
+    },
+    "code": {
+      "id": "AZ906014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.063",
+      "lon": "48.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirili",
+      "en": "Pirili",
+      "slug": "pirili"
+    },
+    "code": {
+      "id": "AZ906022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.175",
+      "lon": "48.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahbəyli",
+      "en": "Shahbeyli",
+      "slug": "shahbeyli"
+    },
+    "code": {
+      "id": "AZ906049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.437",
+      "lon": "48.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahsevən",
+      "en": "Shahsevan",
+      "slug": "shahsevan"
+    },
+    "code": {
+      "id": "AZ906035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.365",
+      "lon": "48.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxımlı",
+      "en": "Shikhimli",
+      "slug": "shikhimli"
+    },
+    "code": {
+      "id": "AZ906036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.362",
+      "lon": "48.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şilyan",
+      "en": "Shilyan",
+      "slug": "shilyan"
+    },
+    "code": {
+      "id": "AZ906053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.322",
+      "lon": "48.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şüşün",
+      "en": "Shushun",
+      "slug": "shushun"
+    },
+    "code": {
+      "id": "AZ906004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.137",
+      "lon": "48.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sığırlı",
+      "en": "Sighirli",
+      "slug": "sighirli"
+    },
+    "code": {
+      "id": "AZ906028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.261",
+      "lon": "48.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sor Sor",
+      "en": "Sor Sor",
+      "slug": "sor-sor"
+    },
+    "code": {
+      "id": "AZ906025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.239",
+      "lon": "48.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sovla",
+      "en": "Sovla",
+      "slug": "sovla"
+    },
+    "code": {
+      "id": "AZ906002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.1",
+      "lon": "47.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Söyüdlər",
+      "en": "Soyudlar",
+      "slug": "soyudlar"
+    },
+    "code": {
+      "id": "AZ906001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.101",
+      "lon": "47.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təklə",
+      "en": "Takla",
+      "slug": "takla"
+    },
+    "code": {
+      "id": "AZ906051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.455",
+      "lon": "48.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Topalhəsənli",
+      "en": "Topalhasanli",
+      "slug": "topalhasanli"
+    },
+    "code": {
+      "id": "AZ906034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.384",
+      "lon": "48.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkədi",
+      "en": "Turkadi",
+      "slug": "turkadi"
+    },
+    "code": {
+      "id": "AZ906008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.094",
+      "lon": "48.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ucarlı",
+      "en": "Ujarli",
+      "slug": "ujarli"
+    },
+    "code": {
+      "id": "AZ906047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.452",
+      "lon": "48.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Şıxımlı",
+      "en": "Yeni Shikhimli",
+      "slug": "yeni-shikhimli"
+    },
+    "code": {
+      "id": "AZ906059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.307",
+      "lon": "48.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ906040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ906040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ906",
+      "level": 1,
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ906",
+        "level": 1,
+        "name": {
+          "local": "Kürdəmir",
+          "en": "Kurdamir",
+          "slug": "kurdamir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.379",
+      "lon": "48.136"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

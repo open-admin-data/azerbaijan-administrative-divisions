@@ -1,0 +1,45 @@
+{
+  "id": "AZ903047",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Zeynəddin",
+    "en": "Ashaghi Zeynaddin",
+    "slug": "ashaghi-zeynaddin"
+  },
+  "code": {
+    "id": "AZ903047",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.654",
+    "lon": "47.433"
+  },
+  "metadata": {},
+  "source": {}
+}

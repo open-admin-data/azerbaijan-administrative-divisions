@@ -1,0 +1,239 @@
+# Aghjabadi — Azerbaijan Administrative Divisions
+
+> 46 settlements
+> Code: AZ608
+> Coordinates: 40.038, 47.277
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağabəyli (Aghabeyli)
+
+Code: AZ608040, Coordinates: 40.059, 47.403
+
+
+### AĞCABƏDİ (AGHJABADI)
+
+Code: AZ608042, Coordinates: 40.047, 47.458
+
+
+### Aran
+
+Code: AZ608009, Coordinates: 39.924, 47.431
+
+
+### Arazbar
+
+Code: AZ608003, Coordinates: 39.984, 47.143
+
+
+### Aşağı Avşar (Ashaghi Avshar)
+
+Code: AZ608045, Coordinates: 40.035, 47.433
+
+
+### Avşar (Avshar)
+
+Code: AZ608008, Coordinates: 39.973, 47.423
+
+
+### Bala Kəhrizli (Bala Kahrizli)
+
+Code: AZ608015, Coordinates: 40.02, 47.175
+
+
+### Biləyən (Bilayan)
+
+Code: AZ608028, Coordinates: 40.045, 47.147
+
+
+### Boyat
+
+Code: AZ608027, Coordinates: 40.042, 47.13
+
+
+### Böyük Kəhrizli (Boyuk Kahrizli)
+
+Code: AZ608014, Coordinates: 40.023, 47.156
+
+
+### Gələbədin (Galabadin)
+
+Code: AZ608017, Coordinates: 40.138, 47.252
+
+
+### Qaradolaq (Garadolag)
+
+Code: AZ608010, Coordinates: 39.929, 47.465
+
+
+### Qaraxanlı (Garakhanli)
+
+Code: AZ608025, Coordinates: 40.074, 47.131
+
+
+### Qaravəlli (Garavalli)
+
+Code: AZ608016, Coordinates: 40.187, 47.243
+
+
+### Qiyaməddinli (Giyamaddinli)
+
+Code: AZ608018, Coordinates: 40.131, 47.27
+
+
+### Göyük (Goyuk)
+
+Code: AZ608031, Coordinates: 40.039, 47.255
+
+
+### Hacıbədəlli (Hajibadalli)
+
+Code: AZ608037, Coordinates: 40.059, 47.366
+
+
+### Hacılar (Hajilar)
+
+Code: AZ608026, Coordinates: 40.049, 47.113
+
+
+### Hindarx (Hindarkh)
+
+Code: AZ608022, Coordinates: 40.069, 47.205
+
+
+### Hüsülü (Husulu)
+
+Code: AZ608035, Coordinates: 40.068, 47.299
+
+
+### İmamqulubəyli (Imamgulubeyli)
+
+Code: AZ608023, Coordinates: 40.071, 47.167
+
+
+### Cəfərbəyli (Jafarbeyli)
+
+Code: AZ608039, Coordinates: 40.079, 47.403
+
+
+### Kəbirli (Kabirli)
+
+Code: AZ608013, Coordinates: 39.867, 47.451
+
+
+### Xocavənd (Khojavand)
+
+Code: AZ608041, Coordinates: 40.035, 47.417
+
+
+### Kürdlər (Kurdlar)
+
+Code: AZ608005, Coordinates: 39.992, 47.166
+
+
+### Mehrablı (Mehrabli)
+
+Code: AZ608012, Coordinates: 39.898, 47.471
+
+
+### Minaxorlu (Minakhorlu)
+
+Code: AZ608006, Coordinates: 39.984, 47.197
+
+
+### Mirzəhaqverdili (Mirzahagverdili)
+
+Code: AZ608001, Coordinates: 39.982, 47.109
+
+
+### Muğanlı (Mughanli)
+
+Code: AZ608033, Coordinates: 40.008, 47.276
+
+
+### Nəcəfqulubəyli (Najafgulubeyli)
+
+Code: AZ608046, Coordinates: 40.166, 47.55
+
+
+### Pərioğlular (Parioghlular)
+
+Code: AZ608038, Coordinates: 40.088, 47.361
+
+
+### Poladlı (Poladli)
+
+Code: AZ608021, Coordinates: 40.114, 47.195
+
+
+### Rəncbərlər (Ranjbarlar)
+
+Code: AZ608036, Coordinates: 40.054, 47.299
+
+
+### Salmanbəyli (Salmanbeyli)
+
+Code: AZ608007, Coordinates: 39.98, 47.377
+
+
+### Sarıcalı (Sarijali)
+
+Code: AZ608019, Coordinates: 40.139, 47.185
+
+
+### Sarvanlar
+
+Code: AZ608004, Coordinates: 39.997, 47.156
+
+
+### Şahmalılar (Shahmalilar)
+
+Code: AZ608030, Coordinates: 40.046, 47.196
+
+
+### Şahsevən (Shahsevan)
+
+Code: AZ608032, Coordinates: 40.018, 47.259
+
+
+### Şahsevən Təzəkənd (Shahsevan Tezekend)
+
+Code: AZ608034, Coordinates: 40.003, 47.231
+
+
+### Şənlik (Shanlik)
+
+Code: AZ608043, Coordinates: 40.134, 47.433
+
+
+### Şərəfxanlı (Sharafkhanli)
+
+Code: AZ608024, Coordinates: 40.051, 47.177
+
+
+### Şotlanlı (Shotlanli)
+
+Code: AZ608029, Coordinates: 40.042, 47.169
+
+
+### Taynaq (Taynag)
+
+Code: AZ608020, Coordinates: 40.117, 47.17
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ608044, Coordinates: 40.099, 47.323
+
+
+### Yeni Qaradolaq (Yeni Garadolag)
+
+Code: AZ608011, Coordinates: 39.906, 47.418
+
+
+### Yuxarı Qiyaməddinli (Yukhari Giyamaddinli)
+
+Code: AZ608002, Coordinates: 39.974, 47.11
+
+

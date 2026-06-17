@@ -1,0 +1,45 @@
+{
+  "id": "AZ903038",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Nehrəxəlil",
+    "en": "Nehrakhalil",
+    "slug": "nehrakhalil"
+  },
+  "code": {
+    "id": "AZ903038",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.571",
+    "lon": "47.447"
+  },
+  "metadata": {},
+  "source": {}
+}

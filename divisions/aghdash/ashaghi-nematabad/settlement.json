@@ -1,0 +1,45 @@
+{
+  "id": "AZ903002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Nemətabad",
+    "en": "Ashaghi Nematabad",
+    "slug": "ashaghi-nematabad"
+  },
+  "code": {
+    "id": "AZ903002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.683",
+    "lon": "47.302"
+  },
+  "metadata": {},
+  "source": {}
+}

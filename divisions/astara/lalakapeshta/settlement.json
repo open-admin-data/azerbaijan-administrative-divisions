@@ -1,0 +1,45 @@
+{
+  "id": "AZ801007",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Lələkəpeştə",
+    "en": "Lalakapeshta",
+    "slug": "lalakapeshta"
+  },
+  "code": {
+    "id": "AZ801007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ801",
+    "level": 1,
+    "name": {
+      "local": "Astara",
+      "en": "Astara",
+      "slug": "astara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.597",
+    "lon": "48.814"
+  },
+  "metadata": {},
+  "source": {}
+}

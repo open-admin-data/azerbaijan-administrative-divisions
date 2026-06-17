@@ -1,0 +1,1757 @@
+[
+  {
+    "id": "AZ702034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbulaq",
+      "en": "Aghbulag",
+      "slug": "aghbulag"
+    },
+    "code": {
+      "id": "AZ702034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.8",
+      "lon": "46.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Allahqulular",
+      "en": "Allahgulular",
+      "slug": "allahgulular"
+    },
+    "code": {
+      "id": "AZ702006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.751",
+      "lon": "46.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Armudlu",
+      "en": "Armudlu",
+      "slug": "armudlu"
+    },
+    "code": {
+      "id": "AZ702037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.772",
+      "lon": "46.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Quşçular",
+      "en": "Ashaghi Gushchular",
+      "slug": "ashaghi-gushchular"
+    },
+    "code": {
+      "id": "AZ702014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.84",
+      "lon": "46.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Qaladərəsi",
+      "en": "Boyuk Galaderesi",
+      "slug": "boyuk-galaderesi"
+    },
+    "code": {
+      "id": "AZ702017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.659",
+      "lon": "46.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaykənd",
+      "en": "Chaykend",
+      "slug": "chaykend"
+    },
+    "code": {
+      "id": "AZ702018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.788",
+      "lon": "46.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşaltı",
+      "en": "Dashalti",
+      "slug": "dashalti"
+    },
+    "code": {
+      "id": "AZ702025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.743",
+      "lon": "46.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dükanlar",
+      "en": "Dukanlar",
+      "slug": "dukanlar"
+    },
+    "code": {
+      "id": "AZ702023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.762",
+      "lon": "46.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabulaq",
+      "en": "Garabulag",
+      "slug": "garabulag"
+    },
+    "code": {
+      "id": "AZ702038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.781",
+      "lon": "46.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaybalı",
+      "en": "Gaybali",
+      "slug": "gaybali"
+    },
+    "code": {
+      "id": "AZ702010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.778",
+      "lon": "46.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göytala",
+      "en": "Goytala",
+      "slug": "goytala"
+    },
+    "code": {
+      "id": "AZ702028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.678",
+      "lon": "46.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənabad",
+      "en": "Hasanabad",
+      "slug": "hasanabad"
+    },
+    "code": {
+      "id": "AZ702031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.731",
+      "lon": "46.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənqulular",
+      "en": "Hasangulular",
+      "slug": "hasangulular"
+    },
+    "code": {
+      "id": "AZ702039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.756",
+      "lon": "46.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmamqulular",
+      "en": "Imamgulular",
+      "slug": "imamgulular"
+    },
+    "code": {
+      "id": "AZ702003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.746",
+      "lon": "46.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmanlar",
+      "en": "Imanlar",
+      "slug": "imanlar"
+    },
+    "code": {
+      "id": "AZ702035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.767",
+      "lon": "46.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəmillər",
+      "en": "Jamillar",
+      "slug": "jamillar"
+    },
+    "code": {
+      "id": "AZ702001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.758",
+      "lon": "46.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xəlfəli",
+      "en": "Khalfali",
+      "slug": "khalfali"
+    },
+    "code": {
+      "id": "AZ702022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.765",
+      "lon": "46.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanalı",
+      "en": "Khanali",
+      "slug": "khanali"
+    },
+    "code": {
+      "id": "AZ702002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.75",
+      "lon": "46.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanlıqpəyə",
+      "en": "Khanligpeye",
+      "slug": "khanligpeye"
+    },
+    "code": {
+      "id": "AZ702005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.758",
+      "lon": "46.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xudaverdilər",
+      "en": "Khudaverdilar",
+      "slug": "khudaverdilar"
+    },
+    "code": {
+      "id": "AZ702032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.764",
+      "lon": "46.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiçik Qaladərəsi",
+      "en": "Kichik Galaderesi",
+      "slug": "kichik-galaderesi"
+    },
+    "code": {
+      "id": "AZ702016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.639",
+      "lon": "46.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Laçınlar",
+      "en": "Lachinlar",
+      "slug": "lachinlar"
+    },
+    "code": {
+      "id": "AZ702021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.767",
+      "lon": "46.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malıbəyli",
+      "en": "Malibeyli",
+      "slug": "malibeyli"
+    },
+    "code": {
+      "id": "AZ702013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.83",
+      "lon": "46.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məmişlər",
+      "en": "Memishlar",
+      "slug": "memishlar"
+    },
+    "code": {
+      "id": "AZ702008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.77",
+      "lon": "46.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzələr",
+      "en": "Mirzalar",
+      "slug": "mirzalar"
+    },
+    "code": {
+      "id": "AZ702020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.778",
+      "lon": "46.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəbilər",
+      "en": "Nabilar",
+      "slug": "nabilar"
+    },
+    "code": {
+      "id": "AZ702036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.727",
+      "lon": "46.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nağılar",
+      "en": "Naghilar",
+      "slug": "naghilar"
+    },
+    "code": {
+      "id": "AZ702033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.773",
+      "lon": "46.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Onverst",
+      "en": "Onverst",
+      "slug": "onverst"
+    },
+    "code": {
+      "id": "AZ702027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.673",
+      "lon": "46.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paşalar",
+      "en": "Pashalar",
+      "slug": "pashalar"
+    },
+    "code": {
+      "id": "AZ702009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.772",
+      "lon": "46.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səfixanlar",
+      "en": "Safikhanlar",
+      "slug": "safikhanlar"
+    },
+    "code": {
+      "id": "AZ702004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.755",
+      "lon": "46.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıbaba",
+      "en": "Saribaba",
+      "slug": "saribaba"
+    },
+    "code": {
+      "id": "AZ702026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.679",
+      "lon": "46.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şırlan",
+      "en": "Shirlan",
+      "slug": "shirlan"
+    },
+    "code": {
+      "id": "AZ702019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.785",
+      "lon": "46.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ŞUŞA",
+      "en": "SHUSHA",
+      "slug": "shusha"
+    },
+    "code": {
+      "id": "AZ702024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.758",
+      "lon": "46.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şuşulu",
+      "en": "Shushulu",
+      "slug": "shushulu"
+    },
+    "code": {
+      "id": "AZ702030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.776",
+      "lon": "46.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Turabxan",
+      "en": "Turabkhan",
+      "slug": "turabkhan"
+    },
+    "code": {
+      "id": "AZ702029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.774",
+      "lon": "46.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Turşsu",
+      "en": "Turshsu",
+      "slug": "turshsu"
+    },
+    "code": {
+      "id": "AZ702012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.688",
+      "lon": "46.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Quşçular",
+      "en": "Yukhari Gushchular",
+      "slug": "yukhari-gushchular"
+    },
+    "code": {
+      "id": "AZ702015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.835",
+      "lon": "46.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zamanpəyəsi",
+      "en": "Zamanpeyesi",
+      "slug": "zamanpeyesi"
+    },
+    "code": {
+      "id": "AZ702007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.75",
+      "lon": "46.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ702011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zarıslı",
+      "en": "Zarisli",
+      "slug": "zarisli"
+    },
+    "code": {
+      "id": "AZ702011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ702",
+        "level": 1,
+        "name": {
+          "local": "Şuşa",
+          "en": "Shusha",
+          "slug": "shusha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.716",
+      "lon": "46.678"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

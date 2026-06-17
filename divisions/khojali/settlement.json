@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "AZ701015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbulaq",
+      "en": "Aghbulag",
+      "slug": "aghbulag"
+    },
+    "code": {
+      "id": "AZ701015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.877",
+      "lon": "46.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağgədik",
+      "en": "Aghgadik",
+      "slug": "aghgadik"
+    },
+    "code": {
+      "id": "AZ701050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.905",
+      "lon": "46.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Almalı",
+      "en": "Almali",
+      "slug": "almali"
+    },
+    "code": {
+      "id": "AZ701041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.972",
+      "lon": "46.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aranzəmin",
+      "en": "Aranzamin",
+      "slug": "aranzamin"
+    },
+    "code": {
+      "id": "AZ701017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.896",
+      "lon": "46.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əsgəran",
+      "en": "Asgaran",
+      "slug": "asgaran"
+    },
+    "code": {
+      "id": "AZ701002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.939",
+      "lon": "46.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Qılıçbağ",
+      "en": "Ashaghi Gilichbagh",
+      "slug": "ashaghi-gilichbagh"
+    },
+    "code": {
+      "id": "AZ701045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.946",
+      "lon": "46.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Yemişcan",
+      "en": "Ashaghi Yemishjan",
+      "slug": "ashaghi-yemishjan"
+    },
+    "code": {
+      "id": "AZ701026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.741",
+      "lon": "46.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Badara",
+      "en": "Badara",
+      "slug": "badara"
+    },
+    "code": {
+      "id": "AZ701005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.925",
+      "lon": "46.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baharlı",
+      "en": "Baharli",
+      "slug": "baharli"
+    },
+    "code": {
+      "id": "AZ701028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.684",
+      "lon": "46.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ballıca",
+      "en": "Ballija",
+      "slug": "ballija"
+    },
+    "code": {
+      "id": "AZ701007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.868",
+      "lon": "46.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Başkənd",
+      "en": "Bashkend",
+      "slug": "bashkend"
+    },
+    "code": {
+      "id": "AZ701012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.802",
+      "lon": "46.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çanaqçı",
+      "en": "Chanagchi",
+      "slug": "chanagchi"
+    },
+    "code": {
+      "id": "AZ701023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.705",
+      "lon": "46.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağdağan",
+      "en": "Daghdaghan",
+      "slug": "daghdaghan"
+    },
+    "code": {
+      "id": "AZ701013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.799",
+      "lon": "46.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağyurd",
+      "en": "Daghyurd",
+      "slug": "daghyurd"
+    },
+    "code": {
+      "id": "AZ701031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.723",
+      "lon": "46.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəhrəz",
+      "en": "Dahraz",
+      "slug": "dahraz"
+    },
+    "code": {
+      "id": "AZ701016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.872",
+      "lon": "46.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəmirçilər",
+      "en": "Damirchilar",
+      "slug": "damirchilar"
+    },
+    "code": {
+      "id": "AZ701024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.714",
+      "lon": "46.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşbaşı",
+      "en": "Dashbashi",
+      "slug": "dashbashi"
+    },
+    "code": {
+      "id": "AZ701052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.006",
+      "lon": "46.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşbulaq",
+      "en": "Dashbulag",
+      "slug": "dashbulag"
+    },
+    "code": {
+      "id": "AZ701004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.929",
+      "lon": "46.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daşkənd",
+      "en": "Dashkend",
+      "slug": "dashkend"
+    },
+    "code": {
+      "id": "AZ701035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.8",
+      "lon": "46.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fərrux",
+      "en": "Farrukh",
+      "slug": "farrukh"
+    },
+    "code": {
+      "id": "AZ701021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.017",
+      "lon": "46.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabulaq",
+      "en": "Garabulag",
+      "slug": "garabulag"
+    },
+    "code": {
+      "id": "AZ701025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.707",
+      "lon": "46.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarakötük",
+      "en": "Garakotuk",
+      "slug": "garakotuk"
+    },
+    "code": {
+      "id": "AZ701040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.956",
+      "lon": "46.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qayabaşı",
+      "en": "Gayabashi",
+      "slug": "gayabashi"
+    },
+    "code": {
+      "id": "AZ701037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.896",
+      "lon": "46.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qışlaq",
+      "en": "Gishlag",
+      "slug": "gishlag"
+    },
+    "code": {
+      "id": "AZ701003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.975",
+      "lon": "46.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızıloba",
+      "en": "Giziloba",
+      "slug": "giziloba"
+    },
+    "code": {
+      "id": "AZ701032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.769",
+      "lon": "46.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Harov",
+      "en": "Harov",
+      "slug": "harov"
+    },
+    "code": {
+      "id": "AZ701014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.824",
+      "lon": "46.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəmilli",
+      "en": "Jamilli",
+      "slug": "jamilli"
+    },
+    "code": {
+      "id": "AZ701008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.841",
+      "lon": "46.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Canhəsən",
+      "en": "Janhasan",
+      "slug": "janhasan"
+    },
+    "code": {
+      "id": "AZ701022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.833",
+      "lon": "46.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cavadlar",
+      "en": "Javadlar",
+      "slug": "javadlar"
+    },
+    "code": {
+      "id": "AZ701010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.817",
+      "lon": "46.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaçmaç",
+      "en": "Khachmach",
+      "slug": "khachmach"
+    },
+    "code": {
+      "id": "AZ701030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.753",
+      "lon": "46.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanabad",
+      "en": "Khanabad",
+      "slug": "khanabad"
+    },
+    "code": {
+      "id": "AZ701001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.97",
+      "lon": "46.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanyeri",
+      "en": "Khanyeri",
+      "slug": "khanyeri"
+    },
+    "code": {
+      "id": "AZ701038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.936",
+      "lon": "46.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanyurdu",
+      "en": "Khanyurdu",
+      "slug": "khanyurdu"
+    },
+    "code": {
+      "id": "AZ701036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.848",
+      "lon": "46.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "XOCALI",
+      "en": "KHOJALI",
+      "slug": "khojali"
+    },
+    "code": {
+      "id": "AZ701043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.912",
+      "lon": "46.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kosalar",
+      "en": "Kosalar",
+      "slug": "kosalar"
+    },
+    "code": {
+      "id": "AZ701009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.812",
+      "lon": "46.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mədətkənd",
+      "en": "Madatkend",
+      "slug": "madatkend"
+    },
+    "code": {
+      "id": "AZ701027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.7",
+      "lon": "46.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehdibəyli",
+      "en": "Mehdibeyli",
+      "slug": "mehdibeyli"
+    },
+    "code": {
+      "id": "AZ701006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.893",
+      "lon": "46.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meşəli",
+      "en": "Meshali",
+      "slug": "meshali"
+    },
+    "code": {
+      "id": "AZ701039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.899",
+      "lon": "46.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muxtar",
+      "en": "Mukhtar",
+      "slug": "mukhtar"
+    },
+    "code": {
+      "id": "AZ701033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.762",
+      "lon": "46.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Naxçıvanlı",
+      "en": "Nakhchivanli",
+      "slug": "nakhchivanli"
+    },
+    "code": {
+      "id": "AZ701019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.908",
+      "lon": "46.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pircamal",
+      "en": "Pirjamal",
+      "slug": "pirjamal"
+    },
+    "code": {
+      "id": "AZ701018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.902",
+      "lon": "46.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirlər",
+      "en": "Pirlar",
+      "slug": "pirlar"
+    },
+    "code": {
+      "id": "AZ701046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.99",
+      "lon": "46.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərdarkənd",
+      "en": "Sardarkend",
+      "slug": "sardarkend"
+    },
+    "code": {
+      "id": "AZ701047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.989",
+      "lon": "46.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seyidbəyli",
+      "en": "Seyidbeyli",
+      "slug": "seyidbeyli"
+    },
+    "code": {
+      "id": "AZ701048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.986",
+      "lon": "46.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəlvə",
+      "en": "Shalva",
+      "slug": "shalva"
+    },
+    "code": {
+      "id": "AZ701049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.989",
+      "lon": "46.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şuşikənd",
+      "en": "Shushikend",
+      "slug": "shushikend"
+    },
+    "code": {
+      "id": "AZ701034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.771",
+      "lon": "46.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sığnaq",
+      "en": "Sighnag",
+      "slug": "sighnag"
+    },
+    "code": {
+      "id": "AZ701029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.722",
+      "lon": "46.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suncinka",
+      "en": "Sunjinka",
+      "slug": "sunjinka"
+    },
+    "code": {
+      "id": "AZ701042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.944",
+      "lon": "46.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəbinə",
+      "en": "Tezebina",
+      "slug": "tezebina"
+    },
+    "code": {
+      "id": "AZ701044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.929",
+      "lon": "46.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ulubaba",
+      "en": "Ulubaba",
+      "slug": "ulubaba"
+    },
+    "code": {
+      "id": "AZ701020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.015",
+      "lon": "46.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yalobakənd",
+      "en": "Yalobakend",
+      "slug": "yalobakend"
+    },
+    "code": {
+      "id": "AZ701011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.812",
+      "lon": "46.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ701051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Yemişcan",
+      "en": "Yukhari Yemishjan",
+      "slug": "yukhari-yemishjan"
+    },
+    "code": {
+      "id": "AZ701051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ701",
+      "level": 1,
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojali",
+        "slug": "khojali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ701",
+        "level": 1,
+        "name": {
+          "local": "Xocalı",
+          "en": "Khojali",
+          "slug": "khojali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.742",
+      "lon": "46.835"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

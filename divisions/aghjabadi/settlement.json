@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "AZ608040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağabəyli",
+      "en": "Aghabeyli",
+      "slug": "aghabeyli"
+    },
+    "code": {
+      "id": "AZ608040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.059",
+      "lon": "47.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "AĞCABƏDİ",
+      "en": "AGHJABADI",
+      "slug": "aghjabadi"
+    },
+    "code": {
+      "id": "AZ608042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.047",
+      "lon": "47.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aran",
+      "en": "Aran",
+      "slug": "aran"
+    },
+    "code": {
+      "id": "AZ608009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.924",
+      "lon": "47.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Arazbar",
+      "en": "Arazbar",
+      "slug": "arazbar"
+    },
+    "code": {
+      "id": "AZ608003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.984",
+      "lon": "47.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Avşar",
+      "en": "Ashaghi Avshar",
+      "slug": "ashaghi-avshar"
+    },
+    "code": {
+      "id": "AZ608045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.035",
+      "lon": "47.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avşar",
+      "en": "Avshar",
+      "slug": "avshar"
+    },
+    "code": {
+      "id": "AZ608008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.973",
+      "lon": "47.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Kəhrizli",
+      "en": "Bala Kahrizli",
+      "slug": "bala-kahrizli"
+    },
+    "code": {
+      "id": "AZ608015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.02",
+      "lon": "47.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biləyən",
+      "en": "Bilayan",
+      "slug": "bilayan"
+    },
+    "code": {
+      "id": "AZ608028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.045",
+      "lon": "47.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boyat",
+      "en": "Boyat",
+      "slug": "boyat"
+    },
+    "code": {
+      "id": "AZ608027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.042",
+      "lon": "47.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Kəhrizli",
+      "en": "Boyuk Kahrizli",
+      "slug": "boyuk-kahrizli"
+    },
+    "code": {
+      "id": "AZ608014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.023",
+      "lon": "47.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gələbədin",
+      "en": "Galabadin",
+      "slug": "galabadin"
+    },
+    "code": {
+      "id": "AZ608017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.138",
+      "lon": "47.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaradolaq",
+      "en": "Garadolag",
+      "slug": "garadolag"
+    },
+    "code": {
+      "id": "AZ608010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.929",
+      "lon": "47.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraxanlı",
+      "en": "Garakhanli",
+      "slug": "garakhanli"
+    },
+    "code": {
+      "id": "AZ608025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.074",
+      "lon": "47.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaravəlli",
+      "en": "Garavalli",
+      "slug": "garavalli"
+    },
+    "code": {
+      "id": "AZ608016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.187",
+      "lon": "47.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qiyaməddinli",
+      "en": "Giyamaddinli",
+      "slug": "giyamaddinli"
+    },
+    "code": {
+      "id": "AZ608018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.131",
+      "lon": "47.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyük",
+      "en": "Goyuk",
+      "slug": "goyuk"
+    },
+    "code": {
+      "id": "AZ608031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.039",
+      "lon": "47.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıbədəlli",
+      "en": "Hajibadalli",
+      "slug": "hajibadalli"
+    },
+    "code": {
+      "id": "AZ608037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.059",
+      "lon": "47.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacılar",
+      "en": "Hajilar",
+      "slug": "hajilar"
+    },
+    "code": {
+      "id": "AZ608026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.049",
+      "lon": "47.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hindarx",
+      "en": "Hindarkh",
+      "slug": "hindarkh"
+    },
+    "code": {
+      "id": "AZ608022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.069",
+      "lon": "47.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüsülü",
+      "en": "Husulu",
+      "slug": "husulu"
+    },
+    "code": {
+      "id": "AZ608035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.068",
+      "lon": "47.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İmamqulubəyli",
+      "en": "Imamgulubeyli",
+      "slug": "imamgulubeyli"
+    },
+    "code": {
+      "id": "AZ608023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.071",
+      "lon": "47.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəfərbəyli",
+      "en": "Jafarbeyli",
+      "slug": "jafarbeyli"
+    },
+    "code": {
+      "id": "AZ608039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.079",
+      "lon": "47.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəbirli",
+      "en": "Kabirli",
+      "slug": "kabirli"
+    },
+    "code": {
+      "id": "AZ608013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.867",
+      "lon": "47.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xocavənd",
+      "en": "Khojavand",
+      "slug": "khojavand"
+    },
+    "code": {
+      "id": "AZ608041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.035",
+      "lon": "47.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürdlər",
+      "en": "Kurdlar",
+      "slug": "kurdlar"
+    },
+    "code": {
+      "id": "AZ608005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.992",
+      "lon": "47.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mehrablı",
+      "en": "Mehrabli",
+      "slug": "mehrabli"
+    },
+    "code": {
+      "id": "AZ608012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.898",
+      "lon": "47.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minaxorlu",
+      "en": "Minakhorlu",
+      "slug": "minakhorlu"
+    },
+    "code": {
+      "id": "AZ608006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.984",
+      "lon": "47.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəhaqverdili",
+      "en": "Mirzahagverdili",
+      "slug": "mirzahagverdili"
+    },
+    "code": {
+      "id": "AZ608001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.982",
+      "lon": "47.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ608033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.008",
+      "lon": "47.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəcəfqulubəyli",
+      "en": "Najafgulubeyli",
+      "slug": "najafgulubeyli"
+    },
+    "code": {
+      "id": "AZ608046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.166",
+      "lon": "47.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pərioğlular",
+      "en": "Parioghlular",
+      "slug": "parioghlular"
+    },
+    "code": {
+      "id": "AZ608038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.088",
+      "lon": "47.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poladlı",
+      "en": "Poladli",
+      "slug": "poladli"
+    },
+    "code": {
+      "id": "AZ608021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.114",
+      "lon": "47.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəncbərlər",
+      "en": "Ranjbarlar",
+      "slug": "ranjbarlar"
+    },
+    "code": {
+      "id": "AZ608036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.054",
+      "lon": "47.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salmanbəyli",
+      "en": "Salmanbeyli",
+      "slug": "salmanbeyli"
+    },
+    "code": {
+      "id": "AZ608007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.98",
+      "lon": "47.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarıcalı",
+      "en": "Sarijali",
+      "slug": "sarijali"
+    },
+    "code": {
+      "id": "AZ608019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.139",
+      "lon": "47.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarvanlar",
+      "en": "Sarvanlar",
+      "slug": "sarvanlar"
+    },
+    "code": {
+      "id": "AZ608004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.997",
+      "lon": "47.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahmalılar",
+      "en": "Shahmalilar",
+      "slug": "shahmalilar"
+    },
+    "code": {
+      "id": "AZ608030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.046",
+      "lon": "47.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahsevən",
+      "en": "Shahsevan",
+      "slug": "shahsevan"
+    },
+    "code": {
+      "id": "AZ608032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.018",
+      "lon": "47.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahsevən Təzəkənd",
+      "en": "Shahsevan Tezekend",
+      "slug": "shahsevan-tezekend"
+    },
+    "code": {
+      "id": "AZ608034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.003",
+      "lon": "47.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şənlik",
+      "en": "Shanlik",
+      "slug": "shanlik"
+    },
+    "code": {
+      "id": "AZ608043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.134",
+      "lon": "47.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şərəfxanlı",
+      "en": "Sharafkhanli",
+      "slug": "sharafkhanli"
+    },
+    "code": {
+      "id": "AZ608024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.051",
+      "lon": "47.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şotlanlı",
+      "en": "Shotlanli",
+      "slug": "shotlanli"
+    },
+    "code": {
+      "id": "AZ608029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.042",
+      "lon": "47.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Taynaq",
+      "en": "Taynag",
+      "slug": "taynag"
+    },
+    "code": {
+      "id": "AZ608020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.117",
+      "lon": "47.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təzəkənd",
+      "en": "Tezekend",
+      "slug": "tezekend"
+    },
+    "code": {
+      "id": "AZ608044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.099",
+      "lon": "47.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Qaradolaq",
+      "en": "Yeni Garadolag",
+      "slug": "yeni-garadolag"
+    },
+    "code": {
+      "id": "AZ608011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.906",
+      "lon": "47.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ608002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Qiyaməddinli",
+      "en": "Yukhari Giyamaddinli",
+      "slug": "yukhari-giyamaddinli"
+    },
+    "code": {
+      "id": "AZ608002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ608",
+      "level": 1,
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Aghjabadi",
+        "slug": "aghjabadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ608",
+        "level": 1,
+        "name": {
+          "local": "Ağcabədi",
+          "en": "Aghjabadi",
+          "slug": "aghjabadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.974",
+      "lon": "47.11"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

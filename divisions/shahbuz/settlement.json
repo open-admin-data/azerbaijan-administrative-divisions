@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "AZ105021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbulaq",
+      "en": "Aghbulag",
+      "slug": "aghbulag"
+    },
+    "code": {
+      "id": "AZ105021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.447",
+      "lon": "45.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Qışlaq",
+      "en": "Ashaghi Gishlag",
+      "slug": "ashaghi-gishlag"
+    },
+    "code": {
+      "id": "AZ105022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.466",
+      "lon": "45.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayrınc",
+      "en": "Ayrinj",
+      "slug": "ayrinj"
+    },
+    "code": {
+      "id": "AZ105006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.434",
+      "lon": "45.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Badamlı",
+      "en": "Badamli",
+      "slug": "badamli"
+    },
+    "code": {
+      "id": "AZ105014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.424",
+      "lon": "45.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Badamlı",
+      "en": "Badamli",
+      "slug": "badamli"
+    },
+    "code": {
+      "id": "AZ105015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.45",
+      "lon": "45.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biçənək",
+      "en": "Bichanak",
+      "slug": "bichanak"
+    },
+    "code": {
+      "id": "AZ105024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.501",
+      "lon": "45.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daylaqlı",
+      "en": "Daylagli",
+      "slug": "daylagli"
+    },
+    "code": {
+      "id": "AZ105009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.395",
+      "lon": "45.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızıl Qışlaq",
+      "en": "Gizil Gishlag",
+      "slug": "gizil-gishlag"
+    },
+    "code": {
+      "id": "AZ105004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.496",
+      "lon": "45.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gömür",
+      "en": "Gomur",
+      "slug": "gomur"
+    },
+    "code": {
+      "id": "AZ105007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.462",
+      "lon": "45.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güney Qışlaq",
+      "en": "Guney Gishlag",
+      "slug": "guney-gishlag"
+    },
+    "code": {
+      "id": "AZ105005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.514",
+      "lon": "45.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keçili",
+      "en": "Kechili",
+      "slug": "kechili"
+    },
+    "code": {
+      "id": "AZ105019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.373",
+      "lon": "45.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiçikoba",
+      "en": "Kichikoba",
+      "slug": "kichikoba"
+    },
+    "code": {
+      "id": "AZ105010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.391",
+      "lon": "45.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolanı",
+      "en": "Kolani",
+      "slug": "kolani"
+    },
+    "code": {
+      "id": "AZ105020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.455",
+      "lon": "45.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kükü",
+      "en": "Kuku",
+      "slug": "kuku"
+    },
+    "code": {
+      "id": "AZ105003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.523",
+      "lon": "45.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Külüs",
+      "en": "Kulus",
+      "slug": "kulus"
+    },
+    "code": {
+      "id": "AZ105018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.363",
+      "lon": "45.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahmudoba",
+      "en": "Mahmudoba",
+      "slug": "mahmudoba"
+    },
+    "code": {
+      "id": "AZ105016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.41",
+      "lon": "45.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mərəlik",
+      "en": "Maralik",
+      "slug": "maralik"
+    },
+    "code": {
+      "id": "AZ105012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.377",
+      "lon": "45.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nursu",
+      "en": "Nursu",
+      "slug": "nursu"
+    },
+    "code": {
+      "id": "AZ105017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.398",
+      "lon": "45.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sələsüz",
+      "en": "Salasuz",
+      "slug": "salasuz"
+    },
+    "code": {
+      "id": "AZ105013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.397",
+      "lon": "45.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şada",
+      "en": "Shada",
+      "slug": "shada"
+    },
+    "code": {
+      "id": "AZ105002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.484",
+      "lon": "45.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ŞAHBUZ",
+      "en": "SHAHBUZ",
+      "slug": "shahbuz"
+    },
+    "code": {
+      "id": "AZ105008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.409",
+      "lon": "45.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahbuzkənd",
+      "en": "Shahbuzkend",
+      "slug": "shahbuzkend"
+    },
+    "code": {
+      "id": "AZ105011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.38",
+      "lon": "45.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Türkeş",
+      "en": "Turkesh",
+      "slug": "turkesh"
+    },
+    "code": {
+      "id": "AZ105001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.422",
+      "lon": "45.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ105023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Qışlaq",
+      "en": "Yukhari Gishlag",
+      "slug": "yukhari-gishlag"
+    },
+    "code": {
+      "id": "AZ105023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ105",
+        "level": 1,
+        "name": {
+          "local": "Şahbuz",
+          "en": "Shahbuz",
+          "slug": "shahbuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.501",
+      "lon": "45.694"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

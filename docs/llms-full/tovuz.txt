@@ -1,0 +1,529 @@
+# Tovuz — Azerbaijan Administrative Divisions
+
+> 104 settlements
+> Code: AZ503
+> Coordinates: 40.815, 45.627
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abbasqulular (Abbasgulular)
+
+Code: AZ503077, Coordinates: 40.679, 45.575
+
+
+### Abulbəyli (Abulbeyli)
+
+Code: AZ503049, Coordinates: 40.981, 45.627
+
+
+### Ağacqala (Aghajgala)
+
+Code: AZ503039, Coordinates: 40.798, 45.714
+
+
+### Ağbaşlar (Aghbashlar)
+
+Code: AZ503096, Coordinates: 40.649, 45.659
+
+
+### Ağbulaq (Aghbulag)
+
+Code: AZ503027, Coordinates: 40.839, 45.615
+
+
+### Ağdam (Aghdam)
+
+Code: AZ503010, Coordinates: 40.909, 45.558
+
+
+### Ağdərə (Aghdere)
+
+Code: AZ503084, Coordinates: 40.727, 45.658
+
+
+### Əhmədabad (Ahmadabad)
+
+Code: AZ503057, Coordinates: 40.781, 45.664
+
+
+### Alakol
+
+Code: AZ503020, Coordinates: 40.907, 45.772
+
+
+### Əlibəyli (Alibeyli)
+
+Code: AZ503006, Coordinates: 40.939, 45.493
+
+
+### Əlimərdanlı (Alimardanli)
+
+Code: AZ503043, Coordinates: 41.039, 45.675
+
+
+### Almalıtala (Almalitala)
+
+Code: AZ503095, Coordinates: 40.665, 45.678
+
+
+### Aran
+
+Code: AZ503101, Coordinates: 40.971, 45.753
+
+
+### Aşağı Quşçu (Ashaghi Gushchu)
+
+Code: AZ503016, Coordinates: 40.956, 45.675
+
+
+### Aşağı Mülkülü (Ashaghi Mulkulu)
+
+Code: AZ503002, Coordinates: 41.049, 45.62
+
+
+### Aşağı Öysüzlü (Ashaghi Oysuzlu)
+
+Code: AZ503015, Coordinates: 40.971, 45.594
+
+
+### Aşırallar (Ashirallar)
+
+Code: AZ503048, Coordinates: 40.963, 45.75
+
+
+### Aşralar (Ashralar)
+
+Code: AZ503086, Coordinates: 40.738, 45.664
+
+
+### Əsrik Cırdaxan (Asrik Jirdakhan)
+
+Code: AZ503026, Coordinates: 40.856, 45.624
+
+
+### Avdal
+
+Code: AZ503040, Coordinates: 40.798, 45.683
+
+
+### Əyyublu (Ayyublu)
+
+Code: AZ503019, Coordinates: 40.931, 45.822
+
+
+### Azaflı (Azafli)
+
+Code: AZ503017, Coordinates: 40.926, 45.661
+
+
+### Baqqallı (Baggalli)
+
+Code: AZ503098, Coordinates: 40.736, 45.626
+
+
+### Bala Şamlıq (Bala Shamlig)
+
+Code: AZ503080, Coordinates: 40.692, 45.614
+
+
+### Bayramlı (Bayramli)
+
+Code: AZ503024, Coordinates: 40.902, 45.663
+
+
+### Böyük Qışlaq (Boyuk  Gishlag)
+
+Code: AZ503066, Coordinates: 40.711, 45.541
+
+
+### Böyük Xoşdarlı (Boyuk Khoshdarli)
+
+Code: AZ503103, Coordinates: 40.824, 45.676
+
+
+### Böyük Şamlıq (Boyuk Shamlig)
+
+Code: AZ503038, Coordinates: 40.704, 45.625
+
+
+### Bozalqanlı (Bozalganli)
+
+Code: AZ503013, Coordinates: 40.994, 45.642
+
+
+### Çatax (Chatakh)
+
+Code: AZ503062, Coordinates: 40.721, 45.56
+
+
+### Çeşməli (Cheshmali)
+
+Code: AZ503078, Coordinates: 40.688, 45.571
+
+
+### Çobansığnaq (Chobansighnag)
+
+Code: AZ503090, Coordinates: 40.751, 45.706
+
+
+### Dəlləkli (Dallakli)
+
+Code: AZ503079, Coordinates: 40.688, 45.652
+
+
+### Dondar Quşçu (Dondar Gushchu)
+
+Code: AZ503012, Coordinates: 40.951, 45.619
+
+
+### Dondarlı (Dondarli)
+
+Code: AZ503093, Coordinates: 40.725, 45.721
+
+
+### Dönük Qırıqlı (Donuk Girigli)
+
+Code: AZ503054, Coordinates: 40.934, 45.756
+
+
+### Düz Qırıqlı (Duz Girigli)
+
+Code: AZ503018, Coordinates: 40.943, 45.8
+
+
+### Düz Cırdaxan (Duz Jirdakhan)
+
+Code: AZ503004, Coordinates: 41.018, 45.61
+
+
+### Qədirli (Gadirli)
+
+Code: AZ503042, Coordinates: 41.041, 45.64
+
+
+### Qalaboyun (Galaboyun)
+
+Code: AZ503034, Coordinates: 40.757, 45.609
+
+
+### Qandalar (Gandalar)
+
+Code: AZ503065, Coordinates: 40.706, 45.564
+
+
+### Qarabağlılar (Garabaghlilar)
+
+Code: AZ503085, Coordinates: 40.729, 45.672
+
+
+### Qaraboyunlar (Garaboyunlar)
+
+Code: AZ503089, Coordinates: 40.763, 45.717
+
+
+### Qaradaş (Garadash)
+
+Code: AZ503008, Coordinates: 40.699, 45.492
+
+
+### Qarağatlı (Garaghatli)
+
+Code: AZ503099, Coordinates: 40.691, 45.511
+
+
+### Qaraxanlı (Garakhanli)
+
+Code: AZ503050, Coordinates: 41.043, 45.658
+
+
+### Qaralar (Garalar)
+
+Code: AZ503007, Coordinates: 40.747, 45.468
+
+
+### Qəribli (Garibli)
+
+Code: AZ503081, Coordinates: 40.698, 45.655
+
+
+### Qayadibi (Gayadibi)
+
+Code: AZ503037, Coordinates: 40.709, 45.504
+
+
+### Qazıqulu (Gazigulu)
+
+Code: AZ503047, Coordinates: 40.964, 45.614
+
+
+### Qoçdərə (Gochdere)
+
+Code: AZ503088, Coordinates: 40.758, 45.681
+
+
+### Qonaqlı (Gonagli)
+
+Code: AZ503102, Coordinates: 40.721, 45.489
+
+
+### Qoşa (Gosha)
+
+Code: AZ503036, Coordinates: 40.776, 45.563
+
+
+### QOVLAR (GOVLAR)
+
+Code: AZ503053, Coordinates: 40.949, 45.73
+
+
+### Göyəbaxan (Goyabakhan)
+
+Code: AZ503071, Coordinates: 40.677, 45.516
+
+
+### Qozdərə (Gozdere)
+
+Code: AZ503051, Coordinates: 40.838, 45.687
+
+
+### Güvəndik (Guvandik)
+
+Code: AZ503075, Coordinates: 40.666, 45.588
+
+
+### Hacıalılı (Hajialili)
+
+Code: AZ503005, Coordinates: 40.957, 45.473
+
+
+### Hacıhəsənli (Hajihasanli)
+
+Code: AZ503029, Coordinates: 40.817, 45.634
+
+
+### Hacılar (Hajilar)
+
+Code: AZ503060, Coordinates: 40.732, 45.58
+
+
+### Həsənli (Hasanli)
+
+Code: AZ503073, Coordinates: 40.675, 45.544
+
+
+### Hətəmlər (Hatamlar)
+
+Code: AZ503083, Coordinates: 40.714, 45.656
+
+
+### Hunanlar
+
+Code: AZ503001, Coordinates: 41.061, 45.764
+
+
+### Hüseynqulular (Huseyngulular)
+
+Code: AZ503055, Coordinates: 40.674, 45.495
+
+
+### İbrahimhacılı (Ibrahimhajili)
+
+Code: AZ503044, Coordinates: 40.904, 45.744
+
+
+### İsakənd (Isakend)
+
+Code: AZ503056, Coordinates: 40.751, 45.672
+
+
+### Cəlilli (Jalilli)
+
+Code: AZ503003, Coordinates: 41.037, 45.599
+
+
+### Cilovdarlı (Jilovdarli)
+
+Code: AZ503052, Coordinates: 41.05, 45.64
+
+
+### Cirdək (Jirdak)
+
+Code: AZ503061, Coordinates: 40.723, 45.573
+
+
+### Kəcavənd (Kajavand)
+
+Code: AZ503041, Coordinates: 40.812, 45.708
+
+
+### Kazımlı (Kazimli)
+
+Code: AZ503064, Coordinates: 40.716, 45.562
+
+
+### Xatıncan (Khatinjan)
+
+Code: AZ503033, Coordinates: 40.768, 45.599
+
+
+### Xatınlı (Khatinli)
+
+Code: AZ503100, Coordinates: 41.042, 45.649
+
+
+### Xınnakirən (Khinnakiran)
+
+Code: AZ503031, Coordinates: 40.795, 45.633
+
+
+### Kirən (Kiran)
+
+Code: AZ503030, Coordinates: 40.8, 45.626
+
+
+### Köhnəqala (Kohnegala)
+
+Code: AZ503021, Coordinates: 40.896, 45.759
+
+
+### Koxanəbi (Kokhanabi)
+
+Code: AZ503025, Coordinates: 40.871, 45.612
+
+
+### Lazılar (Lazilar)
+
+Code: AZ503094, Coordinates: 40.647, 45.626
+
+
+### Məşədilər (Mashadilar)
+
+Code: AZ503023, Coordinates: 40.847, 45.71
+
+
+### Məşədilər (Mashadilar)
+
+Code: AZ503045, Coordinates: 40.88, 45.753
+
+
+### Məşədiqulular (Mashadilgulular)
+
+Code: AZ503072, Coordinates: 40.672, 45.509
+
+
+### Məşədivəlilər (Mashadivalilar)
+
+Code: AZ503074, Coordinates: 40.687, 45.553
+
+
+### Məsimlər (Masimlar)
+
+Code: AZ503069, Coordinates: 40.695, 45.519
+
+
+### Molla Ayrım (Molla Ayrim)
+
+Code: AZ503028, Coordinates: 40.829, 45.641
+
+
+### Mollalar
+
+Code: AZ503067, Coordinates: 40.707, 45.553
+
+
+### Mülkülü (Mulkulu)
+
+Code: AZ503046, Coordinates: 40.952, 45.508
+
+
+### Muncuqlu (Munjuglu)
+
+Code: AZ503035, Coordinates: 40.797, 45.575
+
+
+### Namxoş (Namkhosh)
+
+Code: AZ503087, Coordinates: 40.738, 45.7
+
+
+### Nəsibli (Nasibli)
+
+Code: AZ503070, Coordinates: 40.681, 45.509
+
+
+### Öskən (Oskan)
+
+Code: AZ503082, Coordinates: 40.708, 45.646
+
+
+### Pələkli (Palakli)
+
+Code: AZ503058, Coordinates: 40.745, 45.575
+
+
+### Papaqçılar (Papagchilar)
+
+Code: AZ503076, Coordinates: 40.671, 45.577
+
+
+### Sadıqlı (Sadigli)
+
+Code: AZ503104, Coordinates: 40.813, 45.686
+
+
+### Səfərli (Safarli)
+
+Code: AZ503068, Coordinates: 40.701, 45.525
+
+
+### Saladınlı (Saladinli)
+
+Code: AZ503097, Coordinates: 40.735, 45.614
+
+
+### Sarıtala (Saritala)
+
+Code: AZ503092, Coordinates: 40.732, 45.718
+
+
+### Şamlıq (Shamlig)
+
+Code: AZ503063, Coordinates: 40.717, 45.548
+
+
+### Şıxheybət (Shikhheybat)
+
+Code: AZ503059, Coordinates: 40.74, 45.555
+
+
+### Sofular
+
+Code: AZ503032, Coordinates: 40.78, 45.625
+
+
+### TOVUZ
+
+Code: AZ503014, Coordinates: 40.994, 45.615
+
+
+### Vahidli
+
+Code: AZ503011, Coordinates: 40.928, 45.587
+
+
+### Yanıqlı (Yanigli)
+
+Code: AZ503022, Coordinates: 40.851, 45.69
+
+
+### Yoğunbulaq (Yoghunbulag)
+
+Code: AZ503091, Coordinates: 40.746, 45.718
+
+
+### Yuxarı Öysüzlü (Yukhari Oysuzlu)
+
+Code: AZ503009, Coordinates: 40.952, 45.578
+
+

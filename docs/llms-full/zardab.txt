@@ -1,0 +1,219 @@
+# Zardab — Azerbaijan Administrative Divisions
+
+> 42 settlements
+> Code: AZ905
+> Coordinates: 40.213, 47.684
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağabağı (Aghabaghi)
+
+Code: AZ905034, Coordinates: 40.109, 47.811
+
+
+### Əlibəyli (Alibeyli)
+
+Code: AZ905020, Coordinates: 40.195, 47.684
+
+
+### Allahqulubağı (Allahgulubaghi)
+
+Code: AZ905019, Coordinates: 40.182, 47.668
+
+
+### Əlvənd (Alvand)
+
+Code: AZ905038, Coordinates: 40.108, 47.875
+
+
+### Aşağı Seyidlər (Ashaghi Seyidlar)
+
+Code: AZ905035, Coordinates: 40.119, 47.863
+
+
+### Bəyimli (Beyimli)
+
+Code: AZ905040, Coordinates: 40.252, 47.824
+
+
+### Bıçaqçı (Bichagchi)
+
+Code: AZ905004, Coordinates: 40.303, 47.472
+
+
+### Birinci Alıcanlı (Birinji Alijanli)
+
+Code: AZ905007, Coordinates: 40.329, 47.63
+
+
+### Böyük Dəkkə (Boyuk Dakka)
+
+Code: AZ905028, Coordinates: 40.188, 47.747
+
+
+### Burunlu
+
+Code: AZ905011, Coordinates: 40.24, 47.521
+
+
+### Çallı (Challi)
+
+Code: AZ905008, Coordinates: 40.315, 47.688
+
+
+### Dəkkəoba (Dakkaoba)
+
+Code: AZ905027, Coordinates: 40.2, 47.747
+
+
+### Dəli Quşçu (Dali Gushchu)
+
+Code: AZ905041, Coordinates: 40.218, 47.751
+
+
+### Gəlmə (Galma)
+
+Code: AZ905021, Coordinates: 40.218, 47.69
+
+
+### Qaravəlli (Garavalli)
+
+Code: AZ905030, Coordinates: 40.169, 47.78
+
+
+### Gödəkqobu (Godakgobu)
+
+Code: AZ905010, Coordinates: 40.243, 47.592
+
+
+### Qoruqbağı (Gorugbaghi)
+
+Code: AZ905014, Coordinates: 40.189, 47.547
+
+
+### Qoşaoba (Goshaoba)
+
+Code: AZ905042, Coordinates: 40.219, 47.719
+
+
+### Hüseynxanlı (Huseynkhanli)
+
+Code: AZ905023, Coordinates: 40.225, 47.666
+
+
+### İkinci Alıcanlı (Ikinji Alijanli)
+
+Code: AZ905003, Coordinates: 40.337, 47.597
+
+
+### İsaqbağı (Isagbaghi)
+
+Code: AZ905029, Coordinates: 40.181, 47.762
+
+
+### Cilovxanlı (Jilovkhanli)
+
+Code: AZ905006, Coordinates: 40.316, 47.604
+
+
+### Kəndəbil (Kandabil)
+
+Code: AZ905033, Coordinates: 40.116, 47.798
+
+
+### Xanməmmədli (Khanmammadli)
+
+Code: AZ905024, Coordinates: 40.235, 47.652
+
+
+### Körpükənd (Korpukend)
+
+Code: AZ905005, Coordinates: 40.267, 47.495
+
+
+### Lələağacı (Lalaaghaji)
+
+Code: AZ905018, Coordinates: 40.187, 47.626
+
+
+### Məlikli (Malikli)
+
+Code: AZ905012, Coordinates: 40.208, 47.53
+
+
+### Məlikumudlu (Malikumudlu)
+
+Code: AZ905009, Coordinates: 40.328, 47.742
+
+
+### Məmmədqasımlı (Mammadgasimli)
+
+Code: AZ905016, Coordinates: 40.202, 47.591
+
+
+### Nəzəralılı (Nazaralili)
+
+Code: AZ905031, Coordinates: 40.15, 47.78
+
+
+### Otmanoba
+
+Code: AZ905039, Coordinates: 40.092, 47.902
+
+
+### Pərvanlı (Parvanli)
+
+Code: AZ905015, Coordinates: 40.188, 47.576
+
+
+### Salahlı (Salahli)
+
+Code: AZ905022, Coordinates: 40.231, 47.69
+
+
+### Sarıqaya (Sarigaya)
+
+Code: AZ905013, Coordinates: 40.188, 47.531
+
+
+### Şəftəhal (Shaftahal)
+
+Code: AZ905036, Coordinates: 40.119, 47.847
+
+
+### Şahhüseynli (Shahhuseynli)
+
+Code: AZ905037, Coordinates: 40.139, 47.876
+
+
+### Şıxbağı (Shikhbaghi)
+
+Code: AZ905032, Coordinates: 40.132, 47.798
+
+
+### Siləyli (Silayli)
+
+Code: AZ905002, Coordinates: 40.363, 47.519
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ905026, Coordinates: 40.205, 47.72
+
+
+### Yarməmmədbağı (Yarmammadbaghi)
+
+Code: AZ905017, Coordinates: 40.182, 47.608
+
+
+### Yuxarı Seyidlər (Yukhari Seyidlar)
+
+Code: AZ905001, Coordinates: 40.349, 47.483
+
+
+### ZƏRDAB (ZARDAB)
+
+Code: AZ905025, Coordinates: 40.216, 47.709
+
+

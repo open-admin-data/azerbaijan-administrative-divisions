@@ -1,0 +1,45 @@
+{
+  "id": "AZ609052",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Baş Güneypəyə",
+    "en": "Bash Guneypeye",
+    "slug": "bash-guneypeye"
+  },
+  "code": {
+    "id": "AZ609052",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ612",
+    "level": 1,
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.097",
+    "lon": "46.704"
+  },
+  "metadata": {},
+  "source": {}
+}

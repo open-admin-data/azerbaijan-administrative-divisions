@@ -1,0 +1,45 @@
+{
+  "id": "AZ609068",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Baş Qərvənd",
+    "en": "Bash Garvand",
+    "slug": "bash-garvand"
+  },
+  "code": {
+    "id": "AZ609068",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ609",
+    "level": 1,
+    "name": {
+      "local": "Ağdam",
+      "en": "Aghdam",
+      "slug": "aghdam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ609",
+      "level": 1,
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.142",
+    "lon": "47.015"
+  },
+  "metadata": {},
+  "source": {}
+}

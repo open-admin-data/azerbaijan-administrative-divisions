@@ -1,0 +1,45 @@
+{
+  "id": "AZ503077",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Abbasqulular",
+    "en": "Abbasgulular",
+    "slug": "abbasgulular"
+  },
+  "code": {
+    "id": "AZ503077",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.679",
+    "lon": "45.575"
+  },
+  "metadata": {},
+  "source": {}
+}

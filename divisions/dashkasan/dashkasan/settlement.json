@@ -1,0 +1,45 @@
+{
+  "id": "AZ506019",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "DAŞKƏSƏN",
+    "en": "DASHKASAN",
+    "slug": "dashkasan"
+  },
+  "code": {
+    "id": "AZ506019",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ506",
+    "level": 1,
+    "name": {
+      "local": "Daşkəsən",
+      "en": "Dashkasan",
+      "slug": "dashkasan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ506",
+      "level": 1,
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.519",
+    "lon": "46.082"
+  },
+  "metadata": {},
+  "source": {}
+}

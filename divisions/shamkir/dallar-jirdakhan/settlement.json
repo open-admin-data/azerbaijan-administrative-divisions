@@ -1,0 +1,45 @@
+{
+  "id": "AZ504035",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dəllər Cırdaxan",
+    "en": "Dallar Jirdakhan",
+    "slug": "dallar-jirdakhan"
+  },
+  "code": {
+    "id": "AZ504035",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ504",
+    "level": 1,
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.896",
+    "lon": "46.076"
+  },
+  "metadata": {},
+  "source": {}
+}

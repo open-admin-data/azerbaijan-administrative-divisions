@@ -1,0 +1,45 @@
+{
+  "id": "AZ401047",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çorçorbinə",
+    "en": "Chorchorbina",
+    "slug": "chorchorbina"
+  },
+  "code": {
+    "id": "AZ401047",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ401",
+    "level": 1,
+    "name": {
+      "local": "Balakən",
+      "en": "Balakan",
+      "slug": "balakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ401",
+      "level": 1,
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.746",
+    "lon": "46.348"
+  },
+  "metadata": {},
+  "source": {}
+}

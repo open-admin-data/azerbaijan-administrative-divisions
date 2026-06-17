@@ -1,0 +1,304 @@
+# Balakan — Azerbaijan Administrative Divisions
+
+> 59 settlements
+> Code: AZ401
+> Coordinates: 41.685, 46.352
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abjit (Abzhit)
+
+Code: AZ401056, Coordinates: 41.712, 46.228
+
+
+### Ağkilsə (Aghkilsa)
+
+Code: AZ401030, Coordinates: 41.691, 46.319
+
+
+### Acılıqbinə (Ajiligbina)
+
+Code: AZ401026, Coordinates: 41.678, 46.26
+
+
+### Əyritala (Ayritala)
+
+Code: AZ401013, Coordinates: 41.652, 46.418
+
+
+### BALAKƏN (BALAKAN)
+
+Code: AZ401041, Coordinates: 41.722, 46.402
+
+
+### Bayrambinə (Bayrambina)
+
+Code: AZ401003, Coordinates: 41.656, 46.251
+
+
+### Beçeqarbinə (Bechegarbina)
+
+Code: AZ401008, Coordinates: 41.635, 46.368
+
+
+### Bedağar (Bedaghar)
+
+Code: AZ401053, Coordinates: 41.696, 46.336
+
+
+### Beretbinə (Beretbina)
+
+Code: AZ401057, Coordinates: 41.644, 46.49
+
+
+### Böyüktala (Boyuktala)
+
+Code: AZ401054, Coordinates: 41.709, 46.369
+
+
+### Çorçorbinə (Chorchorbina)
+
+Code: AZ401047, Coordinates: 41.746, 46.348
+
+
+### Darvazbinə (Darvazbina)
+
+Code: AZ401006, Coordinates: 41.62, 46.307
+
+
+### Qabaqçöl (Gabagchol)
+
+Code: AZ401052, Coordinates: 41.711, 46.264
+
+
+### Qadaşbinə (Gadashbina)
+
+Code: AZ401015, Coordinates: 41.649, 46.457
+
+
+### Qamıştala (Gamishtala)
+
+Code: AZ401018, Coordinates: 41.631, 46.439
+
+
+### Qarahacılı (Garahajili)
+
+Code: AZ401010, Coordinates: 41.615, 46.401
+
+
+### Qaracabinə (Garajabina)
+
+Code: AZ401020, Coordinates: 41.667, 46.447
+
+
+### Gərəkli (Garakli)
+
+Code: AZ401001, Coordinates: 41.755, 46.323
+
+
+### Qaravəli (Garavali)
+
+Code: AZ401016, Coordinates: 41.644, 46.437
+
+
+### Qasbinə (Gasbina)
+
+Code: AZ401002, Coordinates: 41.698, 46.434
+
+
+### Qaysa (Gaysa)
+
+Code: AZ401055, Coordinates: 41.703, 46.244
+
+
+### Qazbölük (Gazboluk)
+
+Code: AZ401027, Coordinates: 41.681, 46.232
+
+
+### Qazma (Gazma)
+
+Code: AZ401037, Coordinates: 41.69, 46.367
+
+
+### Göyəmtala (Goyamtala)
+
+Code: AZ401059, Coordinates: 41.611, 46.329
+
+
+### Göyrüclük (Goyrujluk)
+
+Code: AZ401045, Coordinates: 41.731, 46.299
+
+
+### Qullar (Gullar)
+
+Code: AZ401042, Coordinates: 41.733, 46.432
+
+
+### Gülüzanbinə (Guluzanbina)
+
+Code: AZ401005, Coordinates: 41.651, 46.342
+
+
+### Hənifə (Hanifa)
+
+Code: AZ401038, Coordinates: 41.709, 46.402
+
+
+### Hetovlar
+
+Code: AZ401036, Coordinates: 41.704, 46.332
+
+
+### İsaxlıgirmə (Isakhligirma)
+
+Code: AZ401028, Coordinates: 41.671, 46.248
+
+
+### İtitala
+
+Code: AZ401007, Coordinates: 41.581, 46.368
+
+
+### Cederovtala (Jederovtala)
+
+Code: AZ401032, Coordinates: 41.704, 46.318
+
+
+### Cillik (Jillik)
+
+Code: AZ401050, Coordinates: 41.69, 46.339
+
+
+### Cincartala (Jinjartala)
+
+Code: AZ401004, Coordinates: 41.666, 46.352
+
+
+### Katex (Katekh)
+
+Code: AZ401021, Coordinates: 41.647, 46.55
+
+
+### Xalatala (Khalatala)
+
+Code: AZ401023, Coordinates: 41.725, 46.284
+
+
+### Kilsəbuqov (Kilsabugov)
+
+Code: AZ401031, Coordinates: 41.697, 46.305
+
+
+### Kortala
+
+Code: AZ401009, Coordinates: 41.619, 46.386
+
+
+### Mahamalar
+
+Code: AZ401040, Coordinates: 41.738, 46.392
+
+
+### Məlikzadə (Malikzada)
+
+Code: AZ401034, Coordinates: 41.672, 46.355
+
+
+### Mazımçay (Mazimchay)
+
+Code: AZ401044, Coordinates: 41.806, 46.344
+
+
+### Mazımqarışan (Mazimgarishan)
+
+Code: AZ401058, Coordinates: 41.64, 46.269
+
+
+### Mazımüstü (Mazimustu)
+
+Code: AZ401048, Coordinates: 41.74, 46.339
+
+
+### Meşəşambul (Meshashambul)
+
+Code: AZ401024, Coordinates: 41.707, 46.284
+
+
+### Mollaçıbinə (Mollachibina)
+
+Code: AZ401019, Coordinates: 41.644, 46.457
+
+
+### Murğuztala (Murghuztala)
+
+Code: AZ401012, Coordinates: 41.658, 46.413
+
+
+### Öküzovtala (Okuzovtala)
+
+Code: AZ401049, Coordinates: 41.676, 46.335
+
+
+### Pirqax (Pirgakh)
+
+Code: AZ401014, Coordinates: 41.649, 46.423
+
+
+### Poştbinə (Poshtbina)
+
+Code: AZ401046, Coordinates: 41.777, 46.333
+
+
+### Püştətala (Pushtatala)
+
+Code: AZ401017, Coordinates: 41.635, 46.417
+
+
+### Roçəhməd (Rochahmad)
+
+Code: AZ401011, Coordinates: 41.652, 46.395
+
+
+### Sarıbulaq (Saribulag)
+
+Code: AZ401029, Coordinates: 41.676, 46.296
+
+
+### Şambul (Shambul)
+
+Code: AZ401025, Coordinates: 41.693, 46.264
+
+
+### Şambulbinə (Shambulbina)
+
+Code: AZ401033, Coordinates: 41.668, 46.321
+
+
+### Şərif (Sharif)
+
+Code: AZ401022, Coordinates: 41.729, 46.243
+
+
+### Solban
+
+Code: AZ401043, Coordinates: 41.732, 46.453
+
+
+### Talalar
+
+Code: AZ401035, Coordinates: 41.713, 46.345
+
+
+### Tülü (Tulu)
+
+Code: AZ401039, Coordinates: 41.724, 46.367
+
+
+### Yeni Şərif (Yeni Sharif)
+
+Code: AZ401051, Coordinates: 41.745, 46.267
+
+

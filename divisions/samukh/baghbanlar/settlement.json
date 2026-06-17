@@ -1,0 +1,45 @@
+{
+  "id": "AZ507034",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Bağbanlar",
+    "en": "Baghbanlar",
+    "slug": "baghbanlar"
+  },
+  "code": {
+    "id": "AZ507034",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ507",
+    "level": 1,
+    "name": {
+      "local": "Samux",
+      "en": "Samukh",
+      "slug": "samukh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.718",
+    "lon": "46.416"
+  },
+  "metadata": {},
+  "source": {}
+}

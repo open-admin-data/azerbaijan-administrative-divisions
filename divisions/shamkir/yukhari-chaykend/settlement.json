@@ -1,0 +1,45 @@
+{
+  "id": "AZ504054",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Çaykənd",
+    "en": "Yukhari Chaykend",
+    "slug": "yukhari-chaykend"
+  },
+  "code": {
+    "id": "AZ504054",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ504",
+    "level": 1,
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.643",
+    "lon": "45.951"
+  },
+  "metadata": {},
+  "source": {}
+}

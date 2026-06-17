@@ -1,0 +1,45 @@
+{
+  "id": "AZ303097",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çartəpə",
+    "en": "Chartepe",
+    "slug": "chartepe"
+  },
+  "code": {
+    "id": "AZ303097",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.439",
+    "lon": "48.492"
+  },
+  "metadata": {},
+  "source": {}
+}

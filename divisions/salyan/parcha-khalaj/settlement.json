@@ -1,0 +1,45 @@
+{
+  "id": "AZ809002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Parça Xələc",
+    "en": "Parcha Khalaj",
+    "slug": "parcha-khalaj"
+  },
+  "code": {
+    "id": "AZ809002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.715",
+    "lon": "48.976"
+  },
+  "metadata": {},
+  "source": {}
+}

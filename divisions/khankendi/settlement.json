@@ -1,0 +1,92 @@
+[
+  {
+    "id": "AZ704002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərkicahan",
+      "en": "Karkijahan",
+      "slug": "karkijahan"
+    },
+    "code": {
+      "id": "AZ704002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ704",
+      "level": 1,
+      "name": {
+        "local": "Xankəndi",
+        "en": "Khankendi",
+        "slug": "khankendi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ704",
+        "level": 1,
+        "name": {
+          "local": "Xankəndi",
+          "en": "Khankendi",
+          "slug": "khankendi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.802",
+      "lon": "46.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ704001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "XANKƏNDİ",
+      "en": "KHANKENDI",
+      "slug": "khankendi"
+    },
+    "code": {
+      "id": "AZ704001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ704",
+      "level": 1,
+      "name": {
+        "local": "Xankəndi",
+        "en": "Khankendi",
+        "slug": "khankendi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ704",
+        "level": 1,
+        "name": {
+          "local": "Xankəndi",
+          "en": "Khankendi",
+          "slug": "khankendi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.815",
+      "lon": "46.751"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

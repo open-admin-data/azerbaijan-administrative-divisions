@@ -1,0 +1,94 @@
+# Absheron — Azerbaijan Administrative Divisions
+
+> 17 settlements
+> Code: AZ308
+> Coordinates: 40.493, 49.725
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Aşağı Güzdək (Ashaghi Guzdek)
+
+Code: AZ308011, Coordinates: 40.48, 49.666
+
+
+### Digah
+
+Code: AZ308002, Coordinates: 40.492, 49.876
+
+
+### Fatmayı (Fatmayi)
+
+Code: AZ308012, Coordinates: 40.53, 49.847
+
+
+### Qobu (Gobu)
+
+Code: AZ308008, Coordinates: 40.4, 49.715
+
+
+### Qobustan (Gobustan)
+
+Code: AZ308016, Coordinates: 40.498, 49.495
+
+
+### Görədil (Goradil)
+
+Code: AZ308004, Coordinates: 40.544, 49.836
+
+
+### Güzdək (Guzdek)
+
+Code: AZ308009, Coordinates: 40.372, 49.677
+
+
+### Hökməli (Hokmali)
+
+Code: AZ308007, Coordinates: 40.437, 49.715
+
+
+### Ceyranbatan (Jeyranbatan)
+
+Code: AZ308013, Coordinates: 40.543, 49.666
+
+
+### XIRDALAN (KHIRDALAN)
+
+Code: AZ308006, Coordinates: 40.454, 49.741
+
+
+### Məmmədli (Mammadli)
+
+Code: AZ308001, Coordinates: 40.504, 49.91
+
+
+### Masazır (Masazir)
+
+Code: AZ308014, Coordinates: 40.476, 49.764
+
+
+### Mehdiabad
+
+Code: AZ308003, Coordinates: 40.497, 49.846
+
+
+### Novxanı (Novkhani)
+
+Code: AZ308005, Coordinates: 40.539, 49.784
+
+
+### Pirəkəşkül (Pirekeshkul)
+
+Code: AZ308015, Coordinates: 40.527, 49.498
+
+
+### Saray
+
+Code: AZ308010, Coordinates: 40.532, 49.71
+
+
+### Şəfəq (Shafag)
+
+Code: AZ308016, Coordinates: 40.557, 49.586
+
+

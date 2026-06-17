@@ -1,0 +1,19 @@
+# Sumgayit — Azerbaijan Administrative Divisions
+
+> 2 settlements
+> Code: AZ309
+> Coordinates: 40.594, 49.641
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Hacı Zeynalabdin (Haji  Zeynalabdin)
+
+Code: AZ309002, Coordinates: 40.62, 49.56
+
+
+### Corat (Jorat)
+
+Code: AZ309001, Coordinates: 40.568, 49.722
+
+

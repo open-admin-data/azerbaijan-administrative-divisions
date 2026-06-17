@@ -1,0 +1,45 @@
+{
+  "id": "AZ100210",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sahil",
+    "en": "Sahil",
+    "slug": "sahil"
+  },
+  "code": {
+    "id": "AZ100210",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1002",
+    "level": 1,
+    "name": {
+      "local": "Qaradağ",
+      "en": "Garadagh",
+      "slug": "garadagh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1002",
+      "level": 1,
+      "name": {
+        "local": "Qaradağ",
+        "en": "Garadagh",
+        "slug": "garadagh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.224",
+    "lon": "49.574"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,434 @@
+# Zangilan — Azerbaijan Administrative Divisions
+
+> 85 settlements
+> Code: AZ604
+> Coordinates: 39.11, 46.639
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağ oyuq (Agh oyug)
+
+Code: AZ604082, Coordinates: 39.106, 46.666
+
+
+### Ağakişilər (Aghakishilar)
+
+Code: AZ604022, Coordinates: 39.221, 46.658
+
+
+### Ağbənd (Aghbend)
+
+Code: AZ604074, Coordinates: 38.895, 46.569
+
+
+### Ağbiz (Aghbiz)
+
+Code: AZ604023, Coordinates: 39.21, 46.627
+
+
+### Ağkənd (Aghkend)
+
+Code: AZ604001, Coordinates: 39.191, 46.454
+
+
+### Aladin
+
+Code: AZ604032, Coordinates: 39.151, 46.628
+
+
+### Əmirxanlı (Amirkhanli)
+
+Code: AZ604072, Coordinates: 38.939, 46.591
+
+
+### Aşağı Gəyəli (Ashaghi Gayali)
+
+Code: AZ604040, Coordinates: 39.146, 46.504
+
+
+### Aşağı Yeməzli (Ashaghi Yemazli)
+
+Code: AZ604024, Coordinates: 39.203, 46.608
+
+
+### Babaylı (Babayli)
+
+Code: AZ604016, Coordinates: 39.17, 46.783
+
+
+### Baharlı (Baharli)
+
+Code: AZ604069, Coordinates: 39.019, 46.674
+
+
+### Bartaz
+
+Code: AZ604075, Coordinates: 38.981, 46.587
+
+
+### Bartaz
+
+Code: AZ604080, Coordinates: 38.956, 46.646
+
+
+### Beşdəli (Beshdali)
+
+Code: AZ604045, Coordinates: 39.097, 46.601
+
+
+### Birinci Ağalı (Birinji Aghali)
+
+Code: AZ604008, Coordinates: 39.185, 46.753
+
+
+### Birinci Alıbəyli (Birinji Alibeyli)
+
+Code: AZ604012, Coordinates: 39.163, 46.74
+
+
+### Böyük Gilətağ (Boyuk Gilatagh)
+
+Code: AZ604029, Coordinates: 39.17, 46.619
+
+
+### Bürünlü (Burunlu)
+
+Code: AZ604038, Coordinates: 39.16, 46.514
+
+
+### Çöpədərə (Chopadere)
+
+Code: AZ604076, Coordinates: 39.006, 46.639
+
+
+### Dəlləkli (Dallakli)
+
+Code: AZ604070, Coordinates: 38.988, 46.657
+
+
+### Dərə Gilətağ (Dere Gilatagh)
+
+Code: AZ604035, Coordinates: 39.153, 46.613
+
+
+### Dərəli (Dereli)
+
+Code: AZ604084, Coordinates: 39.197, 46.452
+
+
+### Qaradərə (Garadere)
+
+Code: AZ604067, Coordinates: 39.029, 46.656
+
+
+### Qaragöl (Garagol)
+
+Code: AZ604042, Coordinates: 39.124, 46.541
+
+
+### Qaragöz (Garagoz)
+
+Code: AZ604068, Coordinates: 39.022, 46.653
+
+
+### Qarqulu (Gargulu)
+
+Code: AZ604071, Coordinates: 38.976, 46.641
+
+
+### Qazançı (Gazanchi)
+
+Code: AZ604002, Coordinates: 39.186, 46.436
+
+
+### Genlik
+
+Code: AZ604047, Coordinates: 39.109, 46.634
+
+
+### Qıraq Müşlan (Girag Mushlan)
+
+Code: AZ604057, Coordinates: 39.066, 46.679
+
+
+### Günqışlaq (Gungishlag)
+
+Code: AZ604005, Coordinates: 39.166, 46.45
+
+
+### Quyudərə Xəştab (Guyudere Khashtab)
+
+Code: AZ604028, Coordinates: 39.174, 46.56
+
+
+### Hacallı (Hajalli)
+
+Code: AZ604021, Coordinates: 39.116, 46.804
+
+
+### Həkəri (Hakari)
+
+Code: AZ604083, Coordinates: 39.124, 46.811
+
+
+### Havalı (Havali)
+
+Code: AZ604019, Coordinates: 39.149, 46.833
+
+
+### İçəri Müşlan (Icheri Mushlan)
+
+Code: AZ604054, Coordinates: 39.073, 46.699
+
+
+### İkinci Ağalı (Ikinji Aghali)
+
+Code: AZ604009, Coordinates: 39.179, 46.764
+
+
+### İkinci Alıbəyli (Ikinji Alibeyli)
+
+Code: AZ604013, Coordinates: 39.155, 46.749
+
+
+### İsgəndərbəyli (Isgandarbeyli)
+
+Code: AZ604030, Coordinates: 39.189, 46.644
+
+
+### Cahangirbəyli (Jahangirbeyli)
+
+Code: AZ604060, Coordinates: 39.053, 46.735
+
+
+### Canbar (Janbar)
+
+Code: AZ604006, Coordinates: 39.157, 46.474
+
+
+### Keçikli (Kechikli)
+
+Code: AZ604043, Coordinates: 39.098, 46.573
+
+
+### Xumarlı (Khumarli)
+
+Code: AZ604015, Coordinates: 39.144, 46.777
+
+
+### Xurama (Khurama)
+
+Code: AZ604063, Coordinates: 39.086, 46.774
+
+
+### Kolluqışlaq (Kollugishlag)
+
+Code: AZ604050, Coordinates: 39.068, 46.526
+
+
+### Malatkeşin (Malatkeshin)
+
+Code: AZ604048, Coordinates: 39.101, 46.65
+
+
+### Məlikli (Malikli)
+
+Code: AZ604055, Coordinates: 39.072, 46.687
+
+
+### Məmmədbəyli (Mammadbeyli)
+
+Code: AZ604017, Coordinates: 39.161, 46.806
+
+
+### Məşədiismayıllı (Mashadiismayilli)
+
+Code: AZ604052, Coordinates: 39.069, 46.595
+
+
+### Mincivan (Minjivan)
+
+Code: AZ604079, Coordinates: 39.03, 46.722
+
+
+### Mirzəhəsənli (Mirzahasanli)
+
+Code: AZ604033, Coordinates: 39.156, 46.646
+
+
+### Muğanlı (Mughanli)
+
+Code: AZ604031, Coordinates: 39.158, 46.653
+
+
+### Muğanlı (Mughanli)
+
+Code: AZ604062, Coordinates: 39.092, 46.777
+
+
+### Nəcəflər (Najaflar)
+
+Code: AZ604077, Coordinates: 39.115, 46.511
+
+
+### Ördəkli (Ordakli)
+
+Code: AZ604066, Coordinates: 39.039, 46.642
+
+
+### Orta Yeməzli (Orta Yemazli)
+
+Code: AZ604026, Coordinates: 39.196, 46.594
+
+
+### Pirveys
+
+Code: AZ604004, Coordinates: 39.162, 46.465
+
+
+### Rəbənd (Raband)
+
+Code: AZ604011, Coordinates: 39.174, 46.732
+
+
+### Rəzdərə (Razdere)
+
+Code: AZ604051, Coordinates: 39.066, 46.563
+
+
+### Sarıqışlaq (Sarigishlag)
+
+Code: AZ604046, Coordinates: 39.111, 46.616
+
+
+### Sarıl (Saril)
+
+Code: AZ604014, Coordinates: 39.152, 46.761
+
+
+### Sarılı Xəştab (Sarili Khashtab)
+
+Code: AZ604025, Coordinates: 39.211, 46.591
+
+
+### Seyidlər (Seyidlar)
+
+Code: AZ604037, Coordinates: 39.199, 46.512
+
+
+### Şəfibəyli (Shafibeyli)
+
+Code: AZ604053, Coordinates: 39.066, 46.612
+
+
+### Şamlı (Shamli)
+
+Code: AZ604036, Coordinates: 39.149, 46.615
+
+
+### Şərifan (Sharifan)
+
+Code: AZ604020, Coordinates: 39.134, 46.799
+
+
+### Şərikan (Sharikan)
+
+Code: AZ604078, Coordinates: 39.177, 46.504
+
+
+### Şatarız (Shatariz)
+
+Code: AZ604044, Coordinates: 39.09, 46.55
+
+
+### Şayıflı (Shayifli)
+
+Code: AZ604039, Coordinates: 39.138, 46.522
+
+
+### Sobu
+
+Code: AZ604065, Coordinates: 39.03, 46.587
+
+
+### Tağlı (Taghli)
+
+Code: AZ604085, Coordinates: 39.125, 46.598
+
+
+### Tatar
+
+Code: AZ604059, Coordinates: 39.059, 46.72
+
+
+### Tiri
+
+Code: AZ604064, Coordinates: 39.035, 46.754
+
+
+### Turabad
+
+Code: AZ604061, Coordinates: 39.044, 46.718
+
+
+### Üçüncü Ağalı (Uchunju Aghali)
+
+Code: AZ604010, Coordinates: 39.175, 46.771
+
+
+### Üdgün (Udgun)
+
+Code: AZ604058, Coordinates: 39.056, 46.691
+
+
+### Vəliqulubəyli (Valigulubeyli)
+
+Code: AZ604081, Coordinates: 39.028, 46.741
+
+
+### Vənədli (Vanadli)
+
+Code: AZ604034, Coordinates: 39.153, 46.637
+
+
+### Vejnəli (Vezhnali)
+
+Code: AZ604073, Coordinates: 38.931, 46.548
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ604007, Coordinates: 39.19, 46.725
+
+
+### Yuxarı Gəyəli (Yukhari Gayali)
+
+Code: AZ604003, Coordinates: 39.182, 46.473
+
+
+### Yuxarı Yeməzli (Yukhari Yemazli)
+
+Code: AZ604027, Coordinates: 39.194, 46.571
+
+
+### Yusiflər (Yusiflar)
+
+Code: AZ604041, Coordinates: 39.121, 46.518
+
+
+### Zəngilan (Zangilan)
+
+Code: AZ604056, Coordinates: 39.068, 46.695
+
+
+### ZƏNGİLAN (ZANGILAN)
+
+Code: AZ604049, Coordinates: 39.082, 46.659
+
+
+### Zərnəli (Zarnali)
+
+Code: AZ604018, Coordinates: 39.151, 46.826
+
+

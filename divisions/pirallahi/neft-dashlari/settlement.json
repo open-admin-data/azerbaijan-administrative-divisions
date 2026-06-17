@@ -1,0 +1,45 @@
+{
+  "id": "AZ101203",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Neft Daşları",
+    "en": "Neft Dashlari",
+    "slug": "neft-dashlari"
+  },
+  "code": {
+    "id": "AZ101203",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1012",
+    "level": 1,
+    "name": {
+      "local": "Pirallahı",
+      "en": "Pirallahi",
+      "slug": "pirallahi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1012",
+      "level": 1,
+      "name": {
+        "local": "Pirallahı",
+        "en": "Pirallahi",
+        "slug": "pirallahi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.24",
+    "lon": "50.854"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ907035",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Ağcüyür",
+    "en": "Aghjuyur",
+    "slug": "aghjuyur"
+  },
+  "code": {
+    "id": "AZ907035",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.914",
+    "lon": "48.194"
+  },
+  "metadata": {},
+  "source": {}
+}

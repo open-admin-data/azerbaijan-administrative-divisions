@@ -1,0 +1,379 @@
+# Aghdash — Azerbaijan Administrative Divisions
+
+> 74 settlements
+> Code: AZ903
+> Coordinates: 40.608, 47.441
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abad
+
+Code: AZ903027, Coordinates: 40.467, 47.335
+
+
+### AĞDAŞ (AGHDASH)
+
+Code: AZ903050, Coordinates: 40.644, 47.475
+
+
+### Ağcaqovaq (Aghjagovag)
+
+Code: AZ903020, Coordinates: 40.584, 47.234
+
+
+### Ağzıbir (Aghzibir)
+
+Code: AZ903023, Coordinates: 40.41, 47.391
+
+
+### Əmirarx (Amirarkh)
+
+Code: AZ903035, Coordinates: 40.556, 47.379
+
+
+### Əmirmahmud (Amirmahmud)
+
+Code: AZ903066, Coordinates: 40.598, 47.557
+
+
+### Ərəb (Arab)
+
+Code: AZ903019, Coordinates: 40.671, 47.581
+
+
+### Ərəbocağı (Arabojaghi)
+
+Code: AZ903013, Coordinates: 40.733, 47.402
+
+
+### Ərəbşəki (Arabshaki)
+
+Code: AZ903051, Coordinates: 40.565, 47.241
+
+
+### Aşağı Ağcayazı (Ashaghi Aghjayazi)
+
+Code: AZ903015, Coordinates: 40.694, 47.507
+
+
+### Aşağı Qəsil (Ashaghi Gasil)
+
+Code: AZ903060, Coordinates: 40.621, 47.504
+
+
+### Aşağı Qobuüstü (Ashaghi Gobuustu)
+
+Code: AZ903003, Coordinates: 40.7, 47.302
+
+
+### Aşağı Ləki (Ashaghi Laki)
+
+Code: AZ903031, Coordinates: 40.51, 47.414
+
+
+### Aşağı Nemətabad (Ashaghi Nematabad)
+
+Code: AZ903002, Coordinates: 40.683, 47.302
+
+
+### Aşağı Zeynəddin (Ashaghi Zeynaddin)
+
+Code: AZ903047, Coordinates: 40.654, 47.433
+
+
+### Bəylik (Beylik)
+
+Code: AZ903072, Coordinates: 40.607, 47.505
+
+
+### Binələr (Binalar)
+
+Code: AZ903036, Coordinates: 40.577, 47.394
+
+
+### Birinci Aral (Birinji Aral)
+
+Code: AZ903062, Coordinates: 40.603, 47.59
+
+
+### Bulaqotağı (Bulagotaghi)
+
+Code: AZ903054, Coordinates: 40.661, 47.527
+
+
+### Davudlu
+
+Code: AZ903037, Coordinates: 40.593, 47.402
+
+
+### Dəhnəxəlil (Dehnekhalil)
+
+Code: AZ903016, Coordinates: 40.679, 47.521
+
+
+### Eymur
+
+Code: AZ903052, Coordinates: 40.548, 47.248
+
+
+### Qaradağlı (Garadaghli)
+
+Code: AZ903048, Coordinates: 40.628, 47.446
+
+
+### Qaradeyin (Garadeyin)
+
+Code: AZ903053, Coordinates: 40.522, 47.287
+
+
+### Qarağan Saatlı (Garaghan Saatli)
+
+Code: AZ903067, Coordinates: 40.603, 47.549
+
+
+### Qarağan Sədi (Garaghan Sadi)
+
+Code: AZ903058, Coordinates: 40.642, 47.534
+
+
+### Qarağan Şıxlar (Garaghan Shikhlar)
+
+Code: AZ903059, Coordinates: 40.649, 47.538
+
+
+### Qaraoğlan (Garaoghlan)
+
+Code: AZ903025, Coordinates: 40.444, 47.357
+
+
+### Qarasuqumlaq (Garasugumlag)
+
+Code: AZ903044, Coordinates: 40.651, 47.38
+
+
+### Qəribli (Garibli)
+
+Code: AZ903043, Coordinates: 40.62, 47.29
+
+
+### Qobuüstü (Gobuustu)
+
+Code: AZ903004, Coordinates: 40.713, 47.306
+
+
+### Qolqəti (Golgati)
+
+Code: AZ903071, Coordinates: 40.672, 47.472
+
+
+### Qoşaqovaq (Goshagovag)
+
+Code: AZ903012, Coordinates: 40.716, 47.447
+
+
+### Qulbəndə (Gulbanda)
+
+Code: AZ903057, Coordinates: 40.632, 47.517
+
+
+### Gürcüva (Gurjuva)
+
+Code: AZ903049, Coordinates: 40.619, 47.484
+
+
+### Güvəkənd (Guvakend)
+
+Code: AZ903034, Coordinates: 40.558, 47.394
+
+
+### Hacılar (Hajilar)
+
+Code: AZ903006, Coordinates: 40.722, 47.341
+
+
+### Hapıtlı (Hapitli)
+
+Code: AZ903028, Coordinates: 40.492, 47.393
+
+
+### Hüşün (Hushun)
+
+Code: AZ903017, Coordinates: 40.682, 47.557
+
+
+### İkinci Aral (Ikinji Aral)
+
+Code: AZ903074, Coordinates: 40.597, 47.58
+
+
+### Cardam (Jardam)
+
+Code: AZ903069, Coordinates: 40.573, 47.513
+
+
+### Cücük (Jujuk)
+
+Code: AZ903041, Coordinates: 40.605, 47.436
+
+
+### Cüvə (Juva)
+
+Code: AZ903009, Coordinates: 40.691, 47.419
+
+
+### Xınaxlı (Khinakhli)
+
+Code: AZ903021, Coordinates: 40.356, 47.463
+
+
+### Xosrov (Khosrov)
+
+Code: AZ903065, Coordinates: 40.631, 47.581
+
+
+### Korarx (Korarkh)
+
+Code: AZ903010, Coordinates: 40.684, 47.44
+
+
+### Kotanarx (Kotanarkh)
+
+Code: AZ903039, Coordinates: 40.589, 47.488
+
+
+### Kotavan
+
+Code: AZ903022, Coordinates: 40.371, 47.431
+
+
+### Kükəl (Kukal)
+
+Code: AZ903018, Coordinates: 40.671, 47.56
+
+
+### Ləki (Laki)
+
+Code: AZ903032, Coordinates: 40.552, 47.427
+
+
+### Malay
+
+Code: AZ903042, Coordinates: 40.605, 47.373
+
+
+### Mürsəl (Mursal)
+
+Code: AZ903073, Coordinates: 40.624, 47.397
+
+
+### Nehrəxəlil (Nehrakhalil)
+
+Code: AZ903038, Coordinates: 40.571, 47.447
+
+
+### Orta Qəsil (Orta Gasil)
+
+Code: AZ903056, Coordinates: 40.639, 47.511
+
+
+### Orta Ləki (Orta Laki)
+
+Code: AZ903030, Coordinates: 40.518, 47.42
+
+
+### Ovçulu (Ovchulu)
+
+Code: AZ903026, Coordinates: 40.451, 47.436
+
+
+### Pirəyir (Pirayir)
+
+Code: AZ903040, Coordinates: 40.608, 47.457
+
+
+### Pirəzə (Piraza)
+
+Code: AZ903024, Coordinates: 40.415, 47.345
+
+
+### Pirkəkə (Pirkaka)
+
+Code: AZ903007, Coordinates: 40.711, 47.395
+
+
+### Sadavat
+
+Code: AZ903064, Coordinates: 40.626, 47.572
+
+
+### Şəkili (Shakili)
+
+Code: AZ903011, Coordinates: 40.694, 47.466
+
+
+### Şəmsabad (Shamsabad)
+
+Code: AZ903063, Coordinates: 40.617, 47.562
+
+
+### Şıxlı (Shikhli)
+
+Code: AZ903008, Coordinates: 40.665, 47.373
+
+
+### Şordəhnə (Shordehne)
+
+Code: AZ903061, Coordinates: 40.619, 47.531
+
+
+### Tatlar
+
+Code: AZ903046, Coordinates: 40.649, 47.418
+
+
+### Tofiqi (Tofigi)
+
+Code: AZ903068, Coordinates: 40.578, 47.543
+
+
+### Türyançay (Turyanchay)
+
+Code: AZ903070, Coordinates: 40.705, 47.543
+
+
+### Yeniarx (Yeniarkh)
+
+Code: AZ903045, Coordinates: 40.651, 47.405
+
+
+### Yenicə (Yenija)
+
+Code: AZ903033, Coordinates: 40.542, 47.487
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ903001, Coordinates: 40.678, 47.268
+
+
+### Yuxarı Ağcayazı (Yukhari Aghjayazi)
+
+Code: AZ903014, Coordinates: 40.702, 47.517
+
+
+### Yuxarı Qəsil (Yukhari Gasil)
+
+Code: AZ903055, Coordinates: 40.65, 47.517
+
+
+### Yuxarı Ləki (Yukhari Laki)
+
+Code: AZ903029, Coordinates: 40.528, 47.427
+
+
+### Yuxarı Nemətabad (Yukhari Nematabad)
+
+Code: AZ903005, Coordinates: 40.713, 47.318
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "AZ100704",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Zığ",
+    "en": "Zigh",
+    "slug": "zigh"
+  },
+  "code": {
+    "id": "AZ100704",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1007",
+    "level": 1,
+    "name": {
+      "local": "Suraxanı",
+      "en": "Surakhani",
+      "slug": "surakhani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1007",
+      "level": 1,
+      "name": {
+        "local": "Suraxanı",
+        "en": "Surakhani",
+        "slug": "surakhani"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.369",
+    "lon": "49.987"
+  },
+  "metadata": {},
+  "source": {}
+}

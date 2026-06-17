@@ -1,0 +1,45 @@
+{
+  "id": "AZ303109",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Çaydüzü",
+    "en": "Chayduzu",
+    "slug": "chayduzu"
+  },
+  "code": {
+    "id": "AZ303109",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.465",
+    "lon": "48.646"
+  },
+  "metadata": {},
+  "source": {}
+}

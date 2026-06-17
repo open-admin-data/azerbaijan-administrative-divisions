@@ -1,0 +1,254 @@
+# Dashkasan — Azerbaijan Administrative Divisions
+
+> 49 settlements
+> Code: AZ506
+> Coordinates: 40.483, 46.061
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əhmədli (Ahmadli)
+
+Code: AZ506003, Coordinates: 40.515, 45.915
+
+
+### Əhmədli (Ahmadli)
+
+Code: AZ506025, Coordinates: 40.47, 46.151
+
+
+### Alaxançallı (Alakhanchalli)
+
+Code: AZ506033, Coordinates: 40.383, 46.095
+
+
+### Almalı (Almali)
+
+Code: AZ506035, Coordinates: 40.416, 46.189
+
+
+### Alunitdağ (Alunitdagh)
+
+Code: AZ506045, Coordinates: 40.52, 46.053
+
+
+### Əmirvar (Amirvar)
+
+Code: AZ506002, Coordinates: 40.52, 45.93
+
+
+### Aşağı Daşkəsən (Ashaghi Dashkasan)
+
+Code: AZ506018, Coordinates: 40.527, 46.097
+
+
+### Astaf
+
+Code: AZ506012, Coordinates: 40.466, 45.863
+
+
+### Bayan
+
+Code: AZ506017, Coordinates: 40.553, 46.153
+
+
+### Çanaqçı (Chanagchi)
+
+Code: AZ506031, Coordinates: 40.413, 46.132
+
+
+### Çaykənd (Chaykend)
+
+Code: AZ506013, Coordinates: 40.62, 46.094
+
+
+### Çıraqlı (Chiragli)
+
+Code: AZ506040, Coordinates: 40.419, 46.224
+
+
+### Çovdar (Chovdar)
+
+Code: AZ506014, Coordinates: 40.614, 46.108
+
+
+### Dardərə (Dardere)
+
+Code: AZ506026, Coordinates: 40.46, 46.14
+
+
+### Daşkəsən (Dashkasan)
+
+Code: AZ506048, Coordinates: 40.523, 46.106
+
+
+### DAŞKƏSƏN (DASHKASAN)
+
+Code: AZ506019, Coordinates: 40.519, 46.082
+
+
+### Dəstəfur (Dastafur)
+
+Code: AZ506041, Coordinates: 40.443, 46.172
+
+
+### Dəvrallı (Davralli)
+
+Code: AZ506004, Coordinates: 40.513, 45.906
+
+
+### Qabaqtəpə (Gabagtepe)
+
+Code: AZ506008, Coordinates: 40.479, 45.907
+
+
+### Gəlinqaya (Galingaya)
+
+Code: AZ506009, Coordinates: 40.477, 45.881
+
+
+### Qaraqullar (Garagullar)
+
+Code: AZ506029, Coordinates: 40.429, 46.087
+
+
+### Qaratağlar (Garataghlar)
+
+Code: AZ506030, Coordinates: 40.416, 46.11
+
+
+### Qazaxlı (Gazakhli)
+
+Code: AZ506005, Coordinates: 40.506, 45.929
+
+
+### Qazaxyolçular (Gazakhyolchular)
+
+Code: AZ506024, Coordinates: 40.461, 46.072
+
+
+### Qıyıqlı (Giyigli)
+
+Code: AZ506042, Coordinates: 40.454, 46.187
+
+
+### Güneykənd (Guneykend)
+
+Code: AZ506007, Coordinates: 40.494, 45.9
+
+
+### Gurbulaq (Gurbulag)
+
+Code: AZ506001, Coordinates: 40.526, 45.967
+
+
+### Quşçu (Gushchu)
+
+Code: AZ506016, Coordinates: 40.551, 46.095
+
+
+### Quşçu (Gushchu)
+
+Code: AZ506049, Coordinates: 40.558, 46.09
+
+
+### Quşçu Körpüsü (Gushchu Korpusu)
+
+Code: AZ506047, Coordinates: 40.546, 46.119
+
+
+### Quytul (Guytul)
+
+Code: AZ506015, Coordinates: 40.618, 46.034
+
+
+### Kəmərqaya (Kamargaya)
+
+Code: AZ506044, Coordinates: 40.545, 46.069
+
+
+### Xoşbulaq (Khoshbulag)
+
+Code: AZ506022, Coordinates: 40.467, 46.008
+
+
+### Kollu
+
+Code: AZ506039, Coordinates: 40.428, 46.199
+
+
+### Mollahəsənli (Mollahasanli)
+
+Code: AZ506020, Coordinates: 40.486, 46.103
+
+
+### Muşavaq (Mushavag)
+
+Code: AZ506028, Coordinates: 40.445, 46.127
+
+
+### Pirverdilər (Pirverdilar)
+
+Code: AZ506046, Coordinates: 40.472, 45.907
+
+
+### Rəsullu (Rasullu)
+
+Code: AZ506010, Coordinates: 40.466, 45.91
+
+
+### Şahkərəm (Shahkaram)
+
+Code: AZ506032, Coordinates: 40.405, 46.109
+
+
+### Şahvələdli (Shahvaladli)
+
+Code: AZ506027, Coordinates: 40.463, 46.165
+
+
+### Suqovuşan (Sugovushan)
+
+Code: AZ506038, Coordinates: 40.411, 46.164
+
+
+### Tapan
+
+Code: AZ506006, Coordinates: 40.492, 45.886
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ506011, Coordinates: 40.46, 45.932
+
+
+### Yolqullar (Yolgullar)
+
+Code: AZ506037, Coordinates: 40.421, 46.158
+
+
+### Yuxarı Daşkəsən (Yukhari Dashkasan)
+
+Code: AZ506021, Coordinates: 40.493, 46.072
+
+
+### Zağalı (Zaghali)
+
+Code: AZ506023, Coordinates: 40.459, 46.064
+
+
+### Zəylik (Zaylik)
+
+Code: AZ506043, Coordinates: 40.552, 46.009
+
+
+### Zinzahal
+
+Code: AZ506036, Coordinates: 40.421, 46.175
+
+
+### Zivlan
+
+Code: AZ506034, Coordinates: 40.38, 46.128
+
+

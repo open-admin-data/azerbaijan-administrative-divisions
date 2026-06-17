@@ -1,0 +1,45 @@
+{
+  "id": "AZ702015",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Quşçular",
+    "en": "Yukhari Gushchular",
+    "slug": "yukhari-gushchular"
+  },
+  "code": {
+    "id": "AZ702015",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ702",
+    "level": 1,
+    "name": {
+      "local": "Şuşa",
+      "en": "Shusha",
+      "slug": "shusha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.835",
+    "lon": "46.812"
+  },
+  "metadata": {},
+  "source": {}
+}

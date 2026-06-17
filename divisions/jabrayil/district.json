@@ -1,0 +1,33 @@
+{
+  "id": "AZ605",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cəbrayıl",
+    "en": "Jabrayil",
+    "slug": "jabrayil"
+  },
+  "code": {
+    "id": "AZ605",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 97
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.354",
+    "lon": "47.012"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/jabrayil/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

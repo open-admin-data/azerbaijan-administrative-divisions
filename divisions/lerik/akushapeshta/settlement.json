@@ -1,0 +1,45 @@
+{
+  "id": "AZ803131",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Akuşəpeştə",
+    "en": "Akushapeshta",
+    "slug": "akushapeshta"
+  },
+  "code": {
+    "id": "AZ803131",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.66",
+    "lon": "48.604"
+  },
+  "metadata": {},
+  "source": {}
+}

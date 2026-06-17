@@ -1,0 +1,44 @@
+# Nakhchivan — Azerbaijan Administrative Divisions
+
+> 7 settlements
+> Code: AZ104
+> Coordinates: 39.192, 45.4
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Əliabad (Aliabad)
+
+Code: AZ104007, Coordinates: 39.23, 45.394
+
+
+### Bulqan (Bulgan)
+
+Code: AZ104002, Coordinates: 39.184, 45.384
+
+
+### Qaraçuq (Garachug)
+
+Code: AZ104003, Coordinates: 39.19, 45.376
+
+
+### Qaraxanbəyli (Garakhanbeyli)
+
+Code: AZ104001, Coordinates: 39.191, 45.392
+
+
+### Hacıniyyət (Hajiniyyat)
+
+Code: AZ104005, Coordinates: 39.176, 45.418
+
+
+### NAXÇIVAN (NAKHCHIVAN)
+
+Code: AZ104006, Coordinates: 39.206, 45.41
+
+
+### Tumbul
+
+Code: AZ104004, Coordinates: 39.167, 45.424
+
+

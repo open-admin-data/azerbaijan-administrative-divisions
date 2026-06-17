@@ -1,0 +1,33 @@
+{
+  "id": "AZ406",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Qəbələ",
+    "en": "Gabala",
+    "slug": "gabala"
+  },
+  "code": {
+    "id": "AZ406",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 64
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.903",
+    "lon": "47.776"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/gabala/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

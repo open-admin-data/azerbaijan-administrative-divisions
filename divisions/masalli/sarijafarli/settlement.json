@@ -1,0 +1,45 @@
+{
+  "id": "AZ805008",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Sarıcəfərli",
+    "en": "Sarijafarli",
+    "slug": "sarijafarli"
+  },
+  "code": {
+    "id": "AZ805008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ805",
+    "level": 1,
+    "name": {
+      "local": "Masallı",
+      "en": "Masalli",
+      "slug": "masalli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ805",
+      "level": 1,
+      "name": {
+        "local": "Masallı",
+        "en": "Masalli",
+        "slug": "masalli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.079",
+    "lon": "48.661"
+  },
+  "metadata": {},
+  "source": {}
+}

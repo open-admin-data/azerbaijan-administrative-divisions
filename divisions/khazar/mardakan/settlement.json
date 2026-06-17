@@ -1,0 +1,45 @@
+{
+  "id": "AZ100302",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Mərdəkan",
+    "en": "Mardakan",
+    "slug": "mardakan"
+  },
+  "code": {
+    "id": "AZ100302",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1003",
+    "level": 1,
+    "name": {
+      "local": "Xəzər",
+      "en": "Khazar",
+      "slug": "khazar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.483",
+    "lon": "50.146"
+  },
+  "metadata": {},
+  "source": {}
+}

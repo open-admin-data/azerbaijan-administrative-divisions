@@ -1,0 +1,45 @@
+{
+  "id": "AZ100304",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Binə",
+    "en": "Bina",
+    "slug": "bina"
+  },
+  "code": {
+    "id": "AZ100304",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1003",
+    "level": 1,
+    "name": {
+      "local": "Xəzər",
+      "en": "Khazar",
+      "slug": "khazar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.444",
+    "lon": "50.102"
+  },
+  "metadata": {},
+  "source": {}
+}

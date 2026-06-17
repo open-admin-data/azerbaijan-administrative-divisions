@@ -1,0 +1,244 @@
+# Ordubad — Azerbaijan Administrative Divisions
+
+> 47 settlements
+> Code: AZ107
+> Coordinates: 38.996, 45.931
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağdərə (Aghdere)
+
+Code: AZ107012, Coordinates: 39.11, 45.916
+
+
+### Ağrı (Aghri)
+
+Code: AZ107034, Coordinates: 38.925, 45.928
+
+
+### Ələhi (Alahi)
+
+Code: AZ107016, Coordinates: 39.174, 45.892
+
+
+### Anabad
+
+Code: AZ107041, Coordinates: 38.932, 46.038
+
+
+### Anaqut (Anagut)
+
+Code: AZ107028, Coordinates: 38.981, 45.965
+
+
+### Aşağı Əndəmic (Ashaghi Andamij)
+
+Code: AZ107043, Coordinates: 38.927, 46.019
+
+
+### Aşağı Əylis (Ashaghi Aylis)
+
+Code: AZ107037, Coordinates: 38.926, 45.989
+
+
+### Aza
+
+Code: AZ107021, Coordinates: 38.93, 45.826
+
+
+### Azadkənd (Azadkend)
+
+Code: AZ107019, Coordinates: 38.918, 45.822
+
+
+### Baş Dizə (Bash Diza)
+
+Code: AZ107025, Coordinates: 38.989, 45.824
+
+
+### Başkənd (Bashkend)
+
+Code: AZ107031, Coordinates: 38.961, 45.931
+
+
+### Behrud
+
+Code: AZ107004, Coordinates: 39.075, 45.866
+
+
+### Biləv (Bilav)
+
+Code: AZ107003, Coordinates: 39.077, 45.852
+
+
+### Bist
+
+Code: AZ107014, Coordinates: 39.15, 45.881
+
+
+### Çənnəb (Channab)
+
+Code: AZ107009, Coordinates: 39.017, 45.906
+
+
+### Darkənd (Darkend)
+
+Code: AZ107020, Coordinates: 38.93, 45.818
+
+
+### Dəstə (Dasta)
+
+Code: AZ107036, Coordinates: 38.886, 45.909
+
+
+### Dırnıs (Dirnis)
+
+Code: AZ107027, Coordinates: 38.989, 45.975
+
+
+### Dizə (Diza)
+
+Code: AZ107033, Coordinates: 38.932, 45.925
+
+
+### Düylün (Duylun)
+
+Code: AZ107026, Coordinates: 38.955, 45.888
+
+
+### Gənzə (Ganza)
+
+Code: AZ107040, Coordinates: 38.942, 46.05
+
+
+### Gilançay (Gilanchay)
+
+Code: AZ107002, Coordinates: 39.01, 45.82
+
+
+### Qoruqlar (Goruglar)
+
+Code: AZ107029, Coordinates: 38.967, 45.938
+
+
+### Qoşadizə (Goshadiza)
+
+Code: AZ107024, Coordinates: 38.953, 45.832
+
+
+### Kələki (Kalaki)
+
+Code: AZ107010, Coordinates: 39.004, 45.981
+
+
+### Kələntər Dizə (Kalantar Diza)
+
+Code: AZ107022, Coordinates: 38.94, 45.83
+
+
+### Xanağa (Khanagha)
+
+Code: AZ107035, Coordinates: 38.914, 45.926
+
+
+### Xurs (Khurs)
+
+Code: AZ107017, Coordinates: 39.205, 45.901
+
+
+### Kilit
+
+Code: AZ107046, Coordinates: 38.88, 46.129
+
+
+### Kotam
+
+Code: AZ107045, Coordinates: 38.891, 46.054
+
+
+### Məzrə (Mazra)
+
+Code: AZ107007, Coordinates: 39.056, 45.923
+
+
+### Nəsirvaz (Nasirvaz)
+
+Code: AZ107015, Coordinates: 39.169, 45.925
+
+
+### Nürgüt (Nurgut)
+
+Code: AZ107018, Coordinates: 39.223, 45.9
+
+
+### Nüsnüs (Nusnus)
+
+Code: AZ107039, Coordinates: 38.957, 46.024
+
+
+### ORDUBAD
+
+Code: AZ107044, Coordinates: 38.904, 46.021
+
+
+### Parağa (Paragha)
+
+Code: AZ107005, Coordinates: 39.076, 45.895
+
+
+### Parağaçay (Paraghachay)
+
+Code: AZ107006, Coordinates: 39.097, 45.937
+
+
+### Pəzməri (Pazmari)
+
+Code: AZ107001, Coordinates: 39.031, 46.013
+
+
+### Sabirkənd (Sabirkend)
+
+Code: AZ107023, Coordinates: 38.95, 45.826
+
+
+### Şəhriyar (Shahriyar)
+
+Code: AZ107047, Coordinates: 38.879, 46.005
+
+
+### Tivi
+
+Code: AZ107013, Coordinates: 39.126, 45.896
+
+
+### Unus
+
+Code: AZ107011, Coordinates: 39.012, 45.983
+
+
+### Üstüpü (Ustupu)
+
+Code: AZ107008, Coordinates: 39.031, 45.91
+
+
+### Vələver (Valaver)
+
+Code: AZ107030, Coordinates: 38.955, 45.933
+
+
+### Vənənd (Vanand)
+
+Code: AZ107032, Coordinates: 38.944, 45.926
+
+
+### Yuxarı Əndəmic (Yukhari Andamij)
+
+Code: AZ107042, Coordinates: 38.939, 46.019
+
+
+### Yuxarı Əylis (Yukhari Aylis)
+
+Code: AZ107038, Coordinates: 38.95, 45.984
+
+

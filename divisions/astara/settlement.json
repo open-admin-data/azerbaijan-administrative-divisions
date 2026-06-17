@@ -1,0 +1,4142 @@
+[
+  {
+    "id": "AZ801057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əkbərməhəllə",
+      "en": "Akbarmahalla",
+      "slug": "akbarmahalla"
+    },
+    "code": {
+      "id": "AZ801057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.591",
+      "lon": "48.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alaşa",
+      "en": "Alasha",
+      "slug": "alasha"
+    },
+    "code": {
+      "id": "AZ801042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.456",
+      "lon": "48.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Anbuba",
+      "en": "Anbuba",
+      "slug": "anbuba"
+    },
+    "code": {
+      "id": "AZ801052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.602",
+      "lon": "48.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərçivan",
+      "en": "Archivan",
+      "slug": "archivan"
+    },
+    "code": {
+      "id": "AZ801033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.502",
+      "lon": "48.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Artupa",
+      "en": "Artupa",
+      "slug": "artupa"
+    },
+    "code": {
+      "id": "AZ801043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.47",
+      "lon": "48.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Asxanakəran",
+      "en": "Askhanakaran",
+      "slug": "askhanakaran"
+    },
+    "code": {
+      "id": "AZ801058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.575",
+      "lon": "48.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ASTARA",
+      "en": "ASTARA",
+      "slug": "astara"
+    },
+    "code": {
+      "id": "AZ801049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.479",
+      "lon": "48.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avyarud",
+      "en": "Avyarud",
+      "slug": "avyarud"
+    },
+    "code": {
+      "id": "AZ801069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.506",
+      "lon": "48.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azaru",
+      "en": "Azaru",
+      "slug": "azaru"
+    },
+    "code": {
+      "id": "AZ801064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.575",
+      "lon": "48.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Şahağac",
+      "en": "Bala Shahaghaj",
+      "slug": "bala-shahaghaj"
+    },
+    "code": {
+      "id": "AZ801003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.618",
+      "lon": "48.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəlbay",
+      "en": "Balbay",
+      "slug": "balbay"
+    },
+    "code": {
+      "id": "AZ801059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.568",
+      "lon": "48.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bili",
+      "en": "Bili",
+      "slug": "bili"
+    },
+    "code": {
+      "id": "AZ801021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.601",
+      "lon": "48.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binabəy",
+      "en": "Binabey",
+      "slug": "binabey"
+    },
+    "code": {
+      "id": "AZ801011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.588",
+      "lon": "48.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bio",
+      "en": "Bio",
+      "slug": "bio"
+    },
+    "code": {
+      "id": "AZ801090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.607",
+      "lon": "48.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bursut",
+      "en": "Bursut",
+      "slug": "bursut"
+    },
+    "code": {
+      "id": "AZ801086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.581",
+      "lon": "48.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Burzubənd",
+      "en": "Burzuband",
+      "slug": "burzuband"
+    },
+    "code": {
+      "id": "AZ801082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.54",
+      "lon": "48.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çayoba",
+      "en": "Chayoba",
+      "slug": "chayoba"
+    },
+    "code": {
+      "id": "AZ801001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.623",
+      "lon": "48.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çükəş",
+      "en": "Chukash",
+      "slug": "chukash"
+    },
+    "code": {
+      "id": "AZ801077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.541",
+      "lon": "48.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çüvaş",
+      "en": "Chuvash",
+      "slug": "chuvash"
+    },
+    "code": {
+      "id": "AZ801020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.593",
+      "lon": "48.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəstor",
+      "en": "Dastor",
+      "slug": "dastor"
+    },
+    "code": {
+      "id": "AZ801055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.584",
+      "lon": "48.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Deqadi",
+      "en": "Degadi",
+      "slug": "degadi"
+    },
+    "code": {
+      "id": "AZ801035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.517",
+      "lon": "48.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diqo",
+      "en": "Digo",
+      "slug": "digo"
+    },
+    "code": {
+      "id": "AZ801070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.506",
+      "lon": "48.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dolu",
+      "en": "Dolu",
+      "slug": "dolu"
+    },
+    "code": {
+      "id": "AZ801066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.535",
+      "lon": "48.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dürriyə",
+      "en": "Durriya",
+      "slug": "durriya"
+    },
+    "code": {
+      "id": "AZ801074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.538",
+      "lon": "48.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qamışoba",
+      "en": "Gamishoba",
+      "slug": "gamishoba"
+    },
+    "code": {
+      "id": "AZ801002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.631",
+      "lon": "48.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qanqalaş",
+      "en": "Gangalash",
+      "slug": "gangalash"
+    },
+    "code": {
+      "id": "AZ801024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.581",
+      "lon": "48.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qapıçıməhəllə",
+      "en": "Gapichimahalla",
+      "slug": "gapichimahalla"
+    },
+    "code": {
+      "id": "AZ801047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.454",
+      "lon": "48.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Giləparqo",
+      "en": "Gilapargo",
+      "slug": "gilapargo"
+    },
+    "code": {
+      "id": "AZ801028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.594",
+      "lon": "48.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Giləşə",
+      "en": "Gilasha",
+      "slug": "gilasha"
+    },
+    "code": {
+      "id": "AZ801018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.592",
+      "lon": "48.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hamoşam",
+      "en": "Hamosham",
+      "slug": "hamosham"
+    },
+    "code": {
+      "id": "AZ801062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.563",
+      "lon": "48.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsin",
+      "en": "Hasin",
+      "slug": "hasin"
+    },
+    "code": {
+      "id": "AZ801089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.582",
+      "lon": "48.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kakalos",
+      "en": "Kakalos",
+      "slug": "kakalos"
+    },
+    "code": {
+      "id": "AZ801005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.613",
+      "lon": "48.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kamlakan",
+      "en": "Kamlakan",
+      "slug": "kamlakan"
+    },
+    "code": {
+      "id": "AZ801092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.552",
+      "lon": "48.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xıçaso",
+      "en": "Khichaso",
+      "slug": "khichaso"
+    },
+    "code": {
+      "id": "AZ801079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.553",
+      "lon": "48.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kijəbə",
+      "en": "Kizhaba",
+      "slug": "kizhaba"
+    },
+    "code": {
+      "id": "AZ801087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.539",
+      "lon": "48.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Klınbi",
+      "en": "Klinbi",
+      "slug": "klinbi"
+    },
+    "code": {
+      "id": "AZ801061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.559",
+      "lon": "48.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolatan",
+      "en": "Kolatan",
+      "slug": "kolatan"
+    },
+    "code": {
+      "id": "AZ801004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.6",
+      "lon": "48.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lələkəpeştə",
+      "en": "Lalakapeshta",
+      "slug": "lalakapeshta"
+    },
+    "code": {
+      "id": "AZ801007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.597",
+      "lon": "48.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Liəzi",
+      "en": "Liazi",
+      "slug": "liazi"
+    },
+    "code": {
+      "id": "AZ801016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.597",
+      "lon": "48.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lobir",
+      "en": "Lobir",
+      "slug": "lobir"
+    },
+    "code": {
+      "id": "AZ801025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.58",
+      "lon": "48.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lomin",
+      "en": "Lomin",
+      "slug": "lomin"
+    },
+    "code": {
+      "id": "AZ801075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.519",
+      "lon": "48.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Marzəsə",
+      "en": "Marzasa",
+      "slug": "marzasa"
+    },
+    "code": {
+      "id": "AZ801022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.602",
+      "lon": "48.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məsçitməhəllə",
+      "en": "Maschitmahalla",
+      "slug": "maschitmahalla"
+    },
+    "code": {
+      "id": "AZ801048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.454",
+      "lon": "48.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maşxan",
+      "en": "Mashkhan",
+      "slug": "mashkhan"
+    },
+    "code": {
+      "id": "AZ801031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.545",
+      "lon": "48.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Miki",
+      "en": "Miki",
+      "slug": "miki"
+    },
+    "code": {
+      "id": "AZ801027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.586",
+      "lon": "48.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Motalayataq",
+      "en": "Motalayatag",
+      "slug": "motalayatag"
+    },
+    "code": {
+      "id": "AZ801056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.594",
+      "lon": "48.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Noyabud",
+      "en": "Noyabud",
+      "slug": "noyabud"
+    },
+    "code": {
+      "id": "AZ801081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.531",
+      "lon": "48.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovala",
+      "en": "Ovala",
+      "slug": "ovala"
+    },
+    "code": {
+      "id": "AZ801078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.556",
+      "lon": "48.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ojakəran",
+      "en": "Ozhakaran",
+      "slug": "ozhakaran"
+    },
+    "code": {
+      "id": "AZ801085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.53",
+      "lon": "48.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pəlikəş",
+      "en": "Palikash",
+      "slug": "palikash"
+    },
+    "code": {
+      "id": "AZ801071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.519",
+      "lon": "48.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pensər",
+      "en": "Pensar",
+      "slug": "pensar"
+    },
+    "code": {
+      "id": "AZ801006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.609",
+      "lon": "48.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Reqloba",
+      "en": "Regloba",
+      "slug": "regloba"
+    },
+    "code": {
+      "id": "AZ801065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.552",
+      "lon": "48.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rinə",
+      "en": "Rina",
+      "slug": "rina"
+    },
+    "code": {
+      "id": "AZ801019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.593",
+      "lon": "48.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rıvadila",
+      "en": "Rivadila",
+      "slug": "rivadila"
+    },
+    "code": {
+      "id": "AZ801060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.566",
+      "lon": "48.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rudəkənar",
+      "en": "Rudakanar",
+      "slug": "rudakanar"
+    },
+    "code": {
+      "id": "AZ801046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.452",
+      "lon": "48.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səlivə",
+      "en": "Saliva",
+      "slug": "saliva"
+    },
+    "code": {
+      "id": "AZ801036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.511",
+      "lon": "48.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səncərədi",
+      "en": "Sanjaradi",
+      "slug": "sanjaradi"
+    },
+    "code": {
+      "id": "AZ801041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.468",
+      "lon": "48.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərək",
+      "en": "Sarak",
+      "slug": "sarak"
+    },
+    "code": {
+      "id": "AZ801034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.498",
+      "lon": "48.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sekəşan",
+      "en": "Sekashan",
+      "slug": "sekashan"
+    },
+    "code": {
+      "id": "AZ801051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.478",
+      "lon": "48.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Seləkəran",
+      "en": "Selakaran",
+      "slug": "selakaran"
+    },
+    "code": {
+      "id": "AZ801044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.469",
+      "lon": "48.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şağlazüzə",
+      "en": "Shaghlazuza",
+      "slug": "shaghlazuza"
+    },
+    "code": {
+      "id": "AZ801013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.578",
+      "lon": "48.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şahağac",
+      "en": "Shahaghaj",
+      "slug": "shahaghaj"
+    },
+    "code": {
+      "id": "AZ801009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.592",
+      "lon": "48.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəmətük",
+      "en": "Shamatuk",
+      "slug": "shamatuk"
+    },
+    "code": {
+      "id": "AZ801014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.558",
+      "lon": "48.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəvqo",
+      "en": "Shavgo",
+      "slug": "shavgo"
+    },
+    "code": {
+      "id": "AZ801068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.518",
+      "lon": "48.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxəməhlə",
+      "en": "Shikhamahla",
+      "slug": "shikhamahla"
+    },
+    "code": {
+      "id": "AZ801010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.573",
+      "lon": "48.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şıxımpeştə",
+      "en": "Shikhimpeshta",
+      "slug": "shikhimpeshta"
+    },
+    "code": {
+      "id": "AZ801053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.601",
+      "lon": "48.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şiyəkəran",
+      "en": "Shiyakaran",
+      "slug": "shiyakaran"
+    },
+    "code": {
+      "id": "AZ801032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.556",
+      "lon": "48.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şümrüd",
+      "en": "Shumrud",
+      "slug": "shumrud"
+    },
+    "code": {
+      "id": "AZ801073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.539",
+      "lon": "48.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şuvaş",
+      "en": "Shuvash",
+      "slug": "shuvash"
+    },
+    "code": {
+      "id": "AZ801040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.464",
+      "lon": "48.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şuvi",
+      "en": "Shuvi",
+      "slug": "shuvi"
+    },
+    "code": {
+      "id": "AZ801037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.49",
+      "lon": "48.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sibiyyət",
+      "en": "Sibiyyat",
+      "slug": "sibiyyat"
+    },
+    "code": {
+      "id": "AZ801067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.531",
+      "lon": "48.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sığaloni",
+      "en": "Sighaloni",
+      "slug": "sighaloni"
+    },
+    "code": {
+      "id": "AZ801017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.605",
+      "lon": "48.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sıhəkəran",
+      "en": "Sihakaran",
+      "slug": "sihakaran"
+    },
+    "code": {
+      "id": "AZ801023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.613",
+      "lon": "48.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sım",
+      "en": "Sim",
+      "slug": "sim"
+    },
+    "code": {
+      "id": "AZ801080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.493",
+      "lon": "48.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sipiyaəlfətik",
+      "en": "Sipiyaalfatik",
+      "slug": "sipiyaalfatik"
+    },
+    "code": {
+      "id": "AZ801029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.567",
+      "lon": "48.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sipiyəpart",
+      "en": "Sipiyapart",
+      "slug": "sipiyapart"
+    },
+    "code": {
+      "id": "AZ801076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.535",
+      "lon": "48.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siyakeş",
+      "en": "Siyakesh",
+      "slug": "siyakesh"
+    },
+    "code": {
+      "id": "AZ801088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.586",
+      "lon": "48.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siyaku",
+      "en": "Siyaku",
+      "slug": "siyaku"
+    },
+    "code": {
+      "id": "AZ801012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.592",
+      "lon": "48.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siyətük",
+      "en": "Siyatuk",
+      "slug": "siyatuk"
+    },
+    "code": {
+      "id": "AZ801039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.477",
+      "lon": "48.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Suparibağ",
+      "en": "Suparibagh",
+      "slug": "suparibagh"
+    },
+    "code": {
+      "id": "AZ801045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.461",
+      "lon": "48.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Taxtanəkəran",
+      "en": "Takhtanakaran",
+      "slug": "takhtanakaran"
+    },
+    "code": {
+      "id": "AZ801084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.589",
+      "lon": "48.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təngərüd",
+      "en": "Tangarud",
+      "slug": "tangarud"
+    },
+    "code": {
+      "id": "AZ801008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.568",
+      "lon": "48.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toradi",
+      "en": "Toradi",
+      "slug": "toradi"
+    },
+    "code": {
+      "id": "AZ801063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.569",
+      "lon": "48.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tüləküvan",
+      "en": "Tulakuvan",
+      "slug": "tulakuvan"
+    },
+    "code": {
+      "id": "AZ801030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.545",
+      "lon": "48.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vaqadi",
+      "en": "Vagadi",
+      "slug": "vagadi"
+    },
+    "code": {
+      "id": "AZ801026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.577",
+      "lon": "48.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vaqo",
+      "en": "Vago",
+      "slug": "vago"
+    },
+    "code": {
+      "id": "AZ801015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.601",
+      "lon": "48.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vənəşikəş",
+      "en": "Vanashikash",
+      "slug": "vanashikash"
+    },
+    "code": {
+      "id": "AZ801083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.539",
+      "lon": "48.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vəznəş",
+      "en": "Vaznash",
+      "slug": "vaznash"
+    },
+    "code": {
+      "id": "AZ801038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.483",
+      "lon": "48.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Viləparqo",
+      "en": "Vilapargo",
+      "slug": "vilapargo"
+    },
+    "code": {
+      "id": "AZ801054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.594",
+      "lon": "48.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Viləşə",
+      "en": "Vilasha",
+      "slug": "vilasha"
+    },
+    "code": {
+      "id": "AZ801091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.607",
+      "lon": "48.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vovada",
+      "en": "Vovada",
+      "slug": "vovada"
+    },
+    "code": {
+      "id": "AZ801072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.515",
+      "lon": "48.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ801050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Züngüləş",
+      "en": "Zungulash",
+      "slug": "zungulash"
+    },
+    "code": {
+      "id": "AZ801050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ801",
+      "level": 1,
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ801",
+        "level": 1,
+        "name": {
+          "local": "Astara",
+          "en": "Astara",
+          "slug": "astara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.451",
+      "lon": "48.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

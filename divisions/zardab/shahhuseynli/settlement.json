@@ -1,0 +1,45 @@
+{
+  "id": "AZ905037",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şahhüseynli",
+    "en": "Shahhuseynli",
+    "slug": "shahhuseynli"
+  },
+  "code": {
+    "id": "AZ905037",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ905",
+    "level": 1,
+    "name": {
+      "local": "Zərdab",
+      "en": "Zardab",
+      "slug": "zardab"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ905",
+      "level": 1,
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.139",
+    "lon": "47.876"
+  },
+  "metadata": {},
+  "source": {}
+}

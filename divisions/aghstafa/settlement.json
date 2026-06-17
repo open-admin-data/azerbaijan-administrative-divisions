@@ -1,0 +1,1757 @@
+[
+  {
+    "id": "AZ502036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağgöl",
+      "en": "Aghgol",
+      "slug": "aghgol"
+    },
+    "code": {
+      "id": "AZ502036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.406",
+      "lon": "45.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "AĞSTAFA",
+      "en": "AGHSTAFA",
+      "slug": "aghstafa"
+    },
+    "code": {
+      "id": "AZ502019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.116",
+      "lon": "45.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Göycəli",
+      "en": "Ashaghi Goyjali",
+      "slug": "ashaghi-goyjali"
+    },
+    "code": {
+      "id": "AZ502020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.117",
+      "lon": "45.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Kəsəmən",
+      "en": "Ashaghi Kasaman",
+      "slug": "ashaghi-kasaman"
+    },
+    "code": {
+      "id": "AZ502017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.153",
+      "lon": "45.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Kəsik",
+      "en": "Boyuk Kesik",
+      "slug": "boyuk-kesik"
+    },
+    "code": {
+      "id": "AZ502001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.389",
+      "lon": "45.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağ Kəsəmən",
+      "en": "Dagh Kasaman",
+      "slug": "dagh-kasaman"
+    },
+    "code": {
+      "id": "AZ502009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.096",
+      "lon": "45.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düzqışlaq",
+      "en": "Duzgishlag",
+      "slug": "duzgishlag"
+    },
+    "code": {
+      "id": "AZ502011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.155",
+      "lon": "45.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eynallı",
+      "en": "Eynalli",
+      "slug": "eynalli"
+    },
+    "code": {
+      "id": "AZ502022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.069",
+      "lon": "45.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaçaq Kərəm",
+      "en": "Gachag Karam",
+      "slug": "gachag-karam"
+    },
+    "code": {
+      "id": "AZ502037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.123",
+      "lon": "45.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarahəsənli",
+      "en": "Garahasanli",
+      "slug": "garahasanli"
+    },
+    "code": {
+      "id": "AZ502010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.143",
+      "lon": "45.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarayazı",
+      "en": "Garayazi",
+      "slug": "garayazi"
+    },
+    "code": {
+      "id": "AZ502004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.306",
+      "lon": "45.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qıraq Kəsəmən",
+      "en": "Girag Kasaman",
+      "slug": "girag-kasaman"
+    },
+    "code": {
+      "id": "AZ502028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.214",
+      "lon": "45.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırılı",
+      "en": "Girili",
+      "slug": "girili"
+    },
+    "code": {
+      "id": "AZ502030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.094",
+      "lon": "45.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göycəli",
+      "en": "Goyjali",
+      "slug": "goyjali"
+    },
+    "code": {
+      "id": "AZ502023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.04",
+      "lon": "45.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həsənsu",
+      "en": "Hasansu",
+      "slug": "hasansu"
+    },
+    "code": {
+      "id": "AZ502021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.084",
+      "lon": "45.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Həzi Aslanov",
+      "en": "Hezi Aslanov",
+      "slug": "hezi-aslanov"
+    },
+    "code": {
+      "id": "AZ502005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.285",
+      "lon": "45.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ceyrançöl",
+      "en": "Jeyranchol",
+      "slug": "jeyranchol"
+    },
+    "code": {
+      "id": "AZ502008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.3",
+      "lon": "45.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xətai",
+      "en": "Khatai",
+      "slug": "khatai"
+    },
+    "code": {
+      "id": "AZ502018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.127",
+      "lon": "45.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xılxına",
+      "en": "Khilkhina",
+      "slug": "khilkhina"
+    },
+    "code": {
+      "id": "AZ502014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.173",
+      "lon": "45.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köçəsgər",
+      "en": "Kochasgar",
+      "slug": "kochasgar"
+    },
+    "code": {
+      "id": "AZ502029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.057",
+      "lon": "45.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köçvəlili",
+      "en": "Kochvalili",
+      "slug": "kochvalili"
+    },
+    "code": {
+      "id": "AZ502003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.335",
+      "lon": "45.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Köhnəqışlaq",
+      "en": "Kohnegishlag",
+      "slug": "kohnegishlag"
+    },
+    "code": {
+      "id": "AZ502031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.993",
+      "lon": "45.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolayır",
+      "en": "Kolayir",
+      "slug": "kolayir"
+    },
+    "code": {
+      "id": "AZ502012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.167",
+      "lon": "45.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolxəlfəli",
+      "en": "Kolkhalfali",
+      "slug": "kolkhalfali"
+    },
+    "code": {
+      "id": "AZ502026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.204",
+      "lon": "45.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollacəfərli",
+      "en": "Mollajafarli",
+      "slug": "mollajafarli"
+    },
+    "code": {
+      "id": "AZ502013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.161",
+      "lon": "45.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muğanlı",
+      "en": "Mughanli",
+      "slug": "mughanli"
+    },
+    "code": {
+      "id": "AZ502002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.345",
+      "lon": "45.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirili",
+      "en": "Pirili",
+      "slug": "pirili"
+    },
+    "code": {
+      "id": "AZ502025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.206",
+      "lon": "45.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poylu",
+      "en": "Poylu",
+      "slug": "poylu"
+    },
+    "code": {
+      "id": "AZ502015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.157",
+      "lon": "45.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poylu",
+      "en": "Poylu",
+      "slug": "poylu"
+    },
+    "code": {
+      "id": "AZ502027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.229",
+      "lon": "45.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sadıqlı",
+      "en": "Sadigli",
+      "slug": "sadigli"
+    },
+    "code": {
+      "id": "AZ502035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.37",
+      "lon": "45.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saloğlu",
+      "en": "Saloghlu",
+      "slug": "saloghlu"
+    },
+    "code": {
+      "id": "AZ502007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.277",
+      "lon": "45.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəkərli",
+      "en": "Shakarli",
+      "slug": "shakarli"
+    },
+    "code": {
+      "id": "AZ502034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.171",
+      "lon": "45.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soyuqbulaq",
+      "en": "Soyugbulag",
+      "slug": "soyugbulag"
+    },
+    "code": {
+      "id": "AZ502006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.322",
+      "lon": "45.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soyuqbulaqlar",
+      "en": "Soyugbulaglar",
+      "slug": "soyugbulaglar"
+    },
+    "code": {
+      "id": "AZ502039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.304",
+      "lon": "45.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tatlı",
+      "en": "Tatli",
+      "slug": "tatli"
+    },
+    "code": {
+      "id": "AZ502024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.024",
+      "lon": "45.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vurğun",
+      "en": "Vurghun",
+      "slug": "vurghun"
+    },
+    "code": {
+      "id": "AZ502033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.093",
+      "lon": "45.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yaradullu",
+      "en": "Yaradullu",
+      "slug": "yaradullu"
+    },
+    "code": {
+      "id": "AZ502032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.02",
+      "lon": "45.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenigün",
+      "en": "Yenigun",
+      "slug": "yenigun"
+    },
+    "code": {
+      "id": "AZ502038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.12",
+      "lon": "45.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ502016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zəlimxan",
+      "en": "Zalimkhan",
+      "slug": "zalimkhan"
+    },
+    "code": {
+      "id": "AZ502016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ502",
+      "level": 1,
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ502",
+        "level": 1,
+        "name": {
+          "local": "Ağstafa",
+          "en": "Aghstafa",
+          "slug": "aghstafa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.17",
+      "lon": "45.479"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

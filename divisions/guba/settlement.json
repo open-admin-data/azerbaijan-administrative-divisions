@@ -1,0 +1,7067 @@
+[
+  {
+    "id": "AZ303014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adur",
+      "en": "Adur",
+      "slug": "adur"
+    },
+    "code": {
+      "id": "AZ303014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.123",
+      "lon": "48.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303054",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afurca",
+      "en": "Afurja",
+      "slug": "afurja"
+    },
+    "code": {
+      "id": "AZ303054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.164",
+      "lon": "48.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303107",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağbil",
+      "en": "Aghbil",
+      "slug": "aghbil"
+    },
+    "code": {
+      "id": "AZ303107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.425",
+      "lon": "48.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alekseyevka",
+      "en": "Alekseyevka",
+      "slug": "alekseyevka"
+    },
+    "code": {
+      "id": "AZ303101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.378",
+      "lon": "48.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlibəyqışlaq",
+      "en": "Alibeygishlag",
+      "slug": "alibeygishlag"
+    },
+    "code": {
+      "id": "AZ303106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.414",
+      "lon": "48.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alıc",
+      "en": "Alij",
+      "slug": "alij"
+    },
+    "code": {
+      "id": "AZ303024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.252",
+      "lon": "48.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlik",
+      "en": "Alik",
+      "slug": "alik"
+    },
+    "code": {
+      "id": "AZ303016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.176",
+      "lon": "48.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303112",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əliməmmədoba",
+      "en": "Alimammadoba",
+      "slug": "alimammadoba"
+    },
+    "code": {
+      "id": "AZ303112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.451",
+      "lon": "48.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303093",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alpan",
+      "en": "Alpan",
+      "slug": "alpan"
+    },
+    "code": {
+      "id": "AZ303093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.385",
+      "lon": "48.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303067",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Amsar",
+      "en": "Amsar",
+      "slug": "amsar"
+    },
+    "code": {
+      "id": "AZ303067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.327",
+      "lon": "48.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303119",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Amsarqışlaq",
+      "en": "Amsargishlag",
+      "slug": "amsargishlag"
+    },
+    "code": {
+      "id": "AZ303119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.38",
+      "lon": "48.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303065",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərməki",
+      "en": "Armaki",
+      "slug": "armaki"
+    },
+    "code": {
+      "id": "AZ303065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.279",
+      "lon": "48.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303127",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərməkiqışlaq",
+      "en": "Armakigishlag",
+      "slug": "armakigishlag"
+    },
+    "code": {
+      "id": "AZ303127",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.424",
+      "lon": "48.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303130",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Xuc",
+      "en": "Ashaghi  Khuj",
+      "slug": "ashaghi-khuj"
+    },
+    "code": {
+      "id": "AZ303130",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.441",
+      "lon": "48.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303142",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Atuc",
+      "en": "Ashaghi Atuj",
+      "slug": "ashaghi-atuj"
+    },
+    "code": {
+      "id": "AZ303142",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.446",
+      "lon": "48.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Tüləkəran",
+      "en": "Ashaghi Tulakaran",
+      "slug": "ashaghi-tulakaran"
+    },
+    "code": {
+      "id": "AZ303027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.268",
+      "lon": "48.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303066",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əski İqrığ",
+      "en": "Aski Igrigh",
+      "slug": "aski-igrigh"
+    },
+    "code": {
+      "id": "AZ303066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.322",
+      "lon": "48.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303085",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aspərəsti",
+      "en": "Asparasti",
+      "slug": "asparasti"
+    },
+    "code": {
+      "id": "AZ303085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.272",
+      "lon": "48.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303050",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atuc",
+      "en": "Atuj",
+      "slug": "atuj"
+    },
+    "code": {
+      "id": "AZ303050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.109",
+      "lon": "48.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303048",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aydınkənd",
+      "en": "Aydinkend",
+      "slug": "aydinkend"
+    },
+    "code": {
+      "id": "AZ303048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.126",
+      "lon": "48.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303156",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bad",
+      "en": "Bad",
+      "slug": "bad"
+    },
+    "code": {
+      "id": "AZ303156",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.244",
+      "lon": "48.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303122",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağbanlı",
+      "en": "Baghbanli",
+      "slug": "baghbanli"
+    },
+    "code": {
+      "id": "AZ303122",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.38",
+      "lon": "48.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303057",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağçalı",
+      "en": "Baghchali",
+      "slug": "baghchali"
+    },
+    "code": {
+      "id": "AZ303057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.236",
+      "lon": "48.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303116",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bərğov",
+      "en": "Barghov",
+      "slug": "barghov"
+    },
+    "code": {
+      "id": "AZ303116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.358",
+      "lon": "48.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303120",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Barlı",
+      "en": "Barli",
+      "slug": "barli"
+    },
+    "code": {
+      "id": "AZ303120",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.404",
+      "lon": "48.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303099",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Nügədi",
+      "en": "Birinji Nughadi",
+      "slug": "birinji-nughadi"
+    },
+    "code": {
+      "id": "AZ303099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.327",
+      "lon": "48.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303141",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Buduq",
+      "en": "Budug",
+      "slug": "budug"
+    },
+    "code": {
+      "id": "AZ303141",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.183",
+      "lon": "48.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çarxaçu",
+      "en": "Charkhachu",
+      "slug": "charkhachu"
+    },
+    "code": {
+      "id": "AZ303003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.948",
+      "lon": "48.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303097",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çartəpə",
+      "en": "Chartepe",
+      "slug": "chartepe"
+    },
+    "code": {
+      "id": "AZ303097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.439",
+      "lon": "48.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303109",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaydüzü",
+      "en": "Chayduzu",
+      "slug": "chayduzu"
+    },
+    "code": {
+      "id": "AZ303109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.465",
+      "lon": "48.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303145",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çayqışlaq",
+      "en": "Chaygishlag",
+      "slug": "chaygishlag"
+    },
+    "code": {
+      "id": "AZ303145",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.237",
+      "lon": "48.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303078",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çiçi",
+      "en": "Chichi",
+      "slug": "chichi"
+    },
+    "code": {
+      "id": "AZ303078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.214",
+      "lon": "48.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303144",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağlı",
+      "en": "Daghli",
+      "slug": "daghli"
+    },
+    "code": {
+      "id": "AZ303144",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.369",
+      "lon": "48.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303140",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dağüstü",
+      "en": "Daghustu",
+      "slug": "daghustu"
+    },
+    "code": {
+      "id": "AZ303140",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.193",
+      "lon": "48.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303149",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dalaqo",
+      "en": "Dalago",
+      "slug": "dalago"
+    },
+    "code": {
+      "id": "AZ303149",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.16",
+      "lon": "48.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dalıqaya",
+      "en": "Daligaya",
+      "slug": "daligaya"
+    },
+    "code": {
+      "id": "AZ303022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.173",
+      "lon": "48.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303126",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəlləkli",
+      "en": "Dallakli",
+      "slug": "dallakli"
+    },
+    "code": {
+      "id": "AZ303126",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.408",
+      "lon": "48.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dərk",
+      "en": "Dark",
+      "slug": "dark"
+    },
+    "code": {
+      "id": "AZ303009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.083",
+      "lon": "48.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303108",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Davudoba",
+      "en": "Davudoba",
+      "slug": "davudoba"
+    },
+    "code": {
+      "id": "AZ303108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.441",
+      "lon": "48.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303143",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəhnə",
+      "en": "Dehne",
+      "slug": "dehne"
+    },
+    "code": {
+      "id": "AZ303143",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.271",
+      "lon": "48.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303092",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digah",
+      "en": "Digah",
+      "slug": "digah"
+    },
+    "code": {
+      "id": "AZ303092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.39",
+      "lon": "48.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303052",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fırıq",
+      "en": "Firig",
+      "slug": "firig"
+    },
+    "code": {
+      "id": "AZ303052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.146",
+      "lon": "48.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qəçrəş",
+      "en": "Gachrash",
+      "slug": "gachrash"
+    },
+    "code": {
+      "id": "AZ303033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.322",
+      "lon": "48.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303089",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gədik",
+      "en": "Gadik",
+      "slug": "gadik"
+    },
+    "code": {
+      "id": "AZ303089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.303",
+      "lon": "48.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303148",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gədikqışlaq",
+      "en": "Gadikgishlag",
+      "slug": "gadikgishlag"
+    },
+    "code": {
+      "id": "AZ303148",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.327",
+      "lon": "48.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303123",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qacar Zeyid",
+      "en": "Gajar Zeyid",
+      "slug": "gajar-zeyid"
+    },
+    "code": {
+      "id": "AZ303123",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.373",
+      "lon": "48.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303096",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qələdüz",
+      "en": "Galaduz",
+      "slug": "galaduz"
+    },
+    "code": {
+      "id": "AZ303096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.351",
+      "lon": "48.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303157",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalagah",
+      "en": "Galagah",
+      "slug": "galagah"
+    },
+    "code": {
+      "id": "AZ303157",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.247",
+      "lon": "48.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qalayxudat",
+      "en": "Galaykhudat",
+      "slug": "galaykhudat"
+    },
+    "code": {
+      "id": "AZ303019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.199",
+      "lon": "48.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303060",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qamqam",
+      "en": "Gamgam",
+      "slug": "gamgam"
+    },
+    "code": {
+      "id": "AZ303060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.263",
+      "lon": "48.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303135",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qənidərə",
+      "en": "Ganidere",
+      "slug": "ganidere"
+    },
+    "code": {
+      "id": "AZ303135",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.222",
+      "lon": "48.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303111",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gənclər",
+      "en": "Ganjlar",
+      "slug": "ganjlar"
+    },
+    "code": {
+      "id": "AZ303111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.479",
+      "lon": "48.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303124",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaraçay",
+      "en": "Garachay",
+      "slug": "garachay"
+    },
+    "code": {
+      "id": "AZ303124",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.356",
+      "lon": "48.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəray",
+      "en": "Garay",
+      "slug": "garay"
+    },
+    "code": {
+      "id": "AZ303041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.331",
+      "lon": "48.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarxun",
+      "en": "Garkhun",
+      "slug": "garkhun"
+    },
+    "code": {
+      "id": "AZ303013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.121",
+      "lon": "48.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarovulüstü",
+      "en": "Garovulustu",
+      "slug": "garovulustu"
+    },
+    "code": {
+      "id": "AZ303044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.041",
+      "lon": "48.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303088",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qasımqışlaq",
+      "en": "Gasimgishlag",
+      "slug": "gasimgishlag"
+    },
+    "code": {
+      "id": "AZ303088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.27",
+      "lon": "48.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qayadalı",
+      "en": "Gayadali",
+      "slug": "gayadali"
+    },
+    "code": {
+      "id": "AZ303010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.124",
+      "lon": "48.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qımıl",
+      "en": "Gimil",
+      "slug": "gimil"
+    },
+    "code": {
+      "id": "AZ303036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.294",
+      "lon": "48.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qımılqazma",
+      "en": "Gimilgazma",
+      "slug": "gimilgazma"
+    },
+    "code": {
+      "id": "AZ303037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.287",
+      "lon": "48.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303154",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qımılqışlaq",
+      "en": "Gimilgishlag",
+      "slug": "gimilgishlag"
+    },
+    "code": {
+      "id": "AZ303154",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.469",
+      "lon": "48.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırmızı Qəsəbə",
+      "en": "Girmizi Gasaba",
+      "slug": "girmizi-gasaba"
+    },
+    "code": {
+      "id": "AZ303103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.371",
+      "lon": "48.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303133",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gömürdəhnə",
+      "en": "Gomurdehne",
+      "slug": "gomurdehne"
+    },
+    "code": {
+      "id": "AZ303133",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.106",
+      "lon": "48.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qonaqkənd",
+      "en": "Gonagkend",
+      "slug": "gonagkend"
+    },
+    "code": {
+      "id": "AZ303046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.073",
+      "lon": "48.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303084",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qorxmazoba",
+      "en": "Gorkhmazoba",
+      "slug": "gorkhmazoba"
+    },
+    "code": {
+      "id": "AZ303084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.267",
+      "lon": "48.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qrız",
+      "en": "Griz",
+      "slug": "griz"
+    },
+    "code": {
+      "id": "AZ303018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.214",
+      "lon": "48.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qrızdəhnə",
+      "en": "Grizdehne",
+      "slug": "grizdehne"
+    },
+    "code": {
+      "id": "AZ303020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.237",
+      "lon": "48.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303098",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "QUBA",
+      "en": "GUBA",
+      "slug": "guba"
+    },
+    "code": {
+      "id": "AZ303098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.361",
+      "lon": "48.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303053",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güləzi",
+      "en": "Gulazi",
+      "slug": "gulazi"
+    },
+    "code": {
+      "id": "AZ303053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.161",
+      "lon": "48.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gültəpə",
+      "en": "Gultepe",
+      "slug": "gultepe"
+    },
+    "code": {
+      "id": "AZ303030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.293",
+      "lon": "48.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303070",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Güneyməhlə",
+      "en": "Guneymehle",
+      "slug": "guneymehle"
+    },
+    "code": {
+      "id": "AZ303070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.262",
+      "lon": "48.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303055",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gürdəh",
+      "en": "Gurdah",
+      "slug": "gurdah"
+    },
+    "code": {
+      "id": "AZ303055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.177",
+      "lon": "48.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303059",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıağalar",
+      "en": "Hajiaghalar",
+      "slug": "hajiaghalar"
+    },
+    "code": {
+      "id": "AZ303059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.246",
+      "lon": "48.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303129",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıqaib",
+      "en": "Hajigaib",
+      "slug": "hajigaib"
+    },
+    "code": {
+      "id": "AZ303129",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.427",
+      "lon": "48.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303110",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıhüseynli",
+      "en": "Hajihuseynli",
+      "slug": "hajihuseynli"
+    },
+    "code": {
+      "id": "AZ303110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.452",
+      "lon": "48.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Haputlu",
+      "en": "Haputlu",
+      "slug": "haputlu"
+    },
+    "code": {
+      "id": "AZ303015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.144",
+      "lon": "48.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303147",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İbrahimhaput",
+      "en": "İbrahimhaput",
+      "slug": "ibrahimhaput"
+    },
+    "code": {
+      "id": "AZ303147",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.347",
+      "lon": "48.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303090",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İdrisiqışlaq",
+      "en": "Idrisigishlag",
+      "slug": "idrisigishlag"
+    },
+    "code": {
+      "id": "AZ303090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.325",
+      "lon": "48.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303125",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İqrığ",
+      "en": "Igrigh",
+      "slug": "igrigh"
+    },
+    "code": {
+      "id": "AZ303125",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.364",
+      "lon": "48.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303068",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Nügədi",
+      "en": "Ikinji Nughadi",
+      "slug": "ikinji-nughadi"
+    },
+    "code": {
+      "id": "AZ303068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.319",
+      "lon": "48.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303086",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsnov",
+      "en": "Isnov",
+      "slug": "isnov"
+    },
+    "code": {
+      "id": "AZ303086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.265",
+      "lon": "48.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303151",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İsnovqışlaq",
+      "en": "Isnovgishlag",
+      "slug": "isnovgishlag"
+    },
+    "code": {
+      "id": "AZ303151",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.343",
+      "lon": "48.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İspik",
+      "en": "Ispik",
+      "slug": "ispik"
+    },
+    "code": {
+      "id": "AZ303032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.309",
+      "lon": "48.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303155",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cadarı",
+      "en": "Jadari",
+      "slug": "jadari"
+    },
+    "code": {
+      "id": "AZ303155",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.254",
+      "lon": "48.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303117",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cağacıq",
+      "en": "Jaghajig",
+      "slug": "jaghajig"
+    },
+    "code": {
+      "id": "AZ303117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.344",
+      "lon": "48.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cek",
+      "en": "Jek",
+      "slug": "jek"
+    },
+    "code": {
+      "id": "AZ303017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.194",
+      "lon": "48.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cimi",
+      "en": "Jimi",
+      "slug": "jimi"
+    },
+    "code": {
+      "id": "AZ303045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.054",
+      "lon": "48.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303062",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cindar",
+      "en": "Jindar",
+      "slug": "jindar"
+    },
+    "code": {
+      "id": "AZ303062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.259",
+      "lon": "48.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303153",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kələbağ",
+      "en": "Kalabagh",
+      "slug": "kalabagh"
+    },
+    "code": {
+      "id": "AZ303153",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.244",
+      "lon": "48.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303082",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kələnov",
+      "en": "Kalanov",
+      "slug": "kalanov"
+    },
+    "code": {
+      "id": "AZ303082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.248",
+      "lon": "48.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaltan",
+      "en": "Khaltan",
+      "slug": "khaltan"
+    },
+    "code": {
+      "id": "AZ303004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.974",
+      "lon": "48.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303137",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanəgah",
+      "en": "Khanagah",
+      "slug": "khanagah"
+    },
+    "code": {
+      "id": "AZ303137",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.221",
+      "lon": "48.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303134",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanagahyolu",
+      "en": "Khanagahyolu",
+      "slug": "khanagahyolu"
+    },
+    "code": {
+      "id": "AZ303134",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.166",
+      "lon": "48.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303075",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaruşa",
+      "en": "Kharusha",
+      "slug": "kharusha"
+    },
+    "code": {
+      "id": "AZ303075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.29",
+      "lon": "48.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaşı",
+      "en": "Khashi",
+      "slug": "khashi"
+    },
+    "code": {
+      "id": "AZ303042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.026",
+      "lon": "48.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303083",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaspolad",
+      "en": "Khaspolad",
+      "slug": "khaspolad"
+    },
+    "code": {
+      "id": "AZ303083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.255",
+      "lon": "48.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303139",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xınalıq",
+      "en": "Khinalig",
+      "slug": "khinalig"
+    },
+    "code": {
+      "id": "AZ303139",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.179",
+      "lon": "48.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303049",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xırt",
+      "en": "Khirt",
+      "slug": "khirt"
+    },
+    "code": {
+      "id": "AZ303049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.128",
+      "lon": "48.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303091",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xucbala",
+      "en": "Khujbala",
+      "slug": "khujbala"
+    },
+    "code": {
+      "id": "AZ303091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.415",
+      "lon": "48.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303073",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küçeyi",
+      "en": "Kucheyi",
+      "slug": "kucheyi"
+    },
+    "code": {
+      "id": "AZ303073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.328",
+      "lon": "48.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303051",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kunxırt",
+      "en": "Kunkhirt",
+      "slug": "kunkhirt"
+    },
+    "code": {
+      "id": "AZ303051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.145",
+      "lon": "48.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küpçal",
+      "en": "Kupchal",
+      "slug": "kupchal"
+    },
+    "code": {
+      "id": "AZ303034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.332",
+      "lon": "48.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303113",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küpçalqışlaq",
+      "en": "Kupchalgishlag",
+      "slug": "kupchalgishlag"
+    },
+    "code": {
+      "id": "AZ303113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.433",
+      "lon": "48.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303094",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kürkün",
+      "en": "Kurkun",
+      "slug": "kurkun"
+    },
+    "code": {
+      "id": "AZ303094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.373",
+      "lon": "48.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küsnət",
+      "en": "Kusnat",
+      "slug": "kusnat"
+    },
+    "code": {
+      "id": "AZ303038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.275",
+      "lon": "48.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Küsnətqazma",
+      "en": "Kusnatgazma",
+      "slug": "kusnatgazma"
+    },
+    "code": {
+      "id": "AZ303039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.271",
+      "lon": "48.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303087",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahmudqışlaq",
+      "en": "Mahmudgishlag",
+      "slug": "mahmudgishlag"
+    },
+    "code": {
+      "id": "AZ303087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.264",
+      "lon": "48.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303056",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məckəxacə",
+      "en": "Majkakhaja",
+      "slug": "majkakhaja"
+    },
+    "code": {
+      "id": "AZ303056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.24",
+      "lon": "48.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303128",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəqasım",
+      "en": "Mirzagasim",
+      "slug": "mirzagasim"
+    },
+    "code": {
+      "id": "AZ303128",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.417",
+      "lon": "48.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303118",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəqışlaq",
+      "en": "Mirzagishlag",
+      "slug": "mirzagishlag"
+    },
+    "code": {
+      "id": "AZ303118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.366",
+      "lon": "48.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirzəməmmədkənd",
+      "en": "Mirzamammadkend",
+      "slug": "mirzamammadkend"
+    },
+    "code": {
+      "id": "AZ303102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.379",
+      "lon": "48.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Möhüc",
+      "en": "Mohuj",
+      "slug": "mohuj"
+    },
+    "code": {
+      "id": "AZ303031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.299",
+      "lon": "48.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muçu",
+      "en": "Muchu",
+      "slug": "muchu"
+    },
+    "code": {
+      "id": "AZ303001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.931",
+      "lon": "48.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nohurdüzü",
+      "en": "Nohurduzu",
+      "slug": "nohurduzu"
+    },
+    "code": {
+      "id": "AZ303047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.089",
+      "lon": "48.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303063",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nöydün",
+      "en": "Noydun",
+      "slug": "noydun"
+    },
+    "code": {
+      "id": "AZ303063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.264",
+      "lon": "48.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nütəh",
+      "en": "Nutah",
+      "slug": "nutah"
+    },
+    "code": {
+      "id": "AZ303005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.995",
+      "lon": "48.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303132",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ördüc",
+      "en": "Orduj",
+      "slug": "orduj"
+    },
+    "code": {
+      "id": "AZ303132",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.106",
+      "lon": "48.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303152",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Xuc",
+      "en": "Orta Khuj",
+      "slug": "orta-khuj"
+    },
+    "code": {
+      "id": "AZ303152",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.441",
+      "lon": "48.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303115",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paşaoba",
+      "en": "Pashaoba",
+      "slug": "pashaoba"
+    },
+    "code": {
+      "id": "AZ303115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.339",
+      "lon": "48.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303072",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pirvahid",
+      "en": "Pirvahid",
+      "slug": "pirvahid"
+    },
+    "code": {
+      "id": "AZ303072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.328",
+      "lon": "48.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Puçuq",
+      "en": "Puchug",
+      "slug": "puchug"
+    },
+    "code": {
+      "id": "AZ303043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.063",
+      "lon": "48.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303069",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Püstəqasım",
+      "en": "Pustagasim",
+      "slug": "pustagasim"
+    },
+    "code": {
+      "id": "AZ303069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.282",
+      "lon": "48.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rəngdar",
+      "en": "Rangdar",
+      "slug": "rangdar"
+    },
+    "code": {
+      "id": "AZ303002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.933",
+      "lon": "48.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303079",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Raziyələr",
+      "en": "Raziyalar",
+      "slug": "raziyalar"
+    },
+    "code": {
+      "id": "AZ303079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.221",
+      "lon": "48.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303150",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ruçuq",
+      "en": "Ruchug",
+      "slug": "ruchug"
+    },
+    "code": {
+      "id": "AZ303150",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.124",
+      "lon": "48.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rük",
+      "en": "Ruk",
+      "slug": "ruk"
+    },
+    "code": {
+      "id": "AZ303012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.142",
+      "lon": "48.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303061",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rustov",
+      "en": "Rustov",
+      "slug": "rustov"
+    },
+    "code": {
+      "id": "AZ303061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.249",
+      "lon": "48.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303077",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səbətlər",
+      "en": "Sabatlar",
+      "slug": "sabatlar"
+    },
+    "code": {
+      "id": "AZ303077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.226",
+      "lon": "48.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303064",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şuduq",
+      "en": "Shudug",
+      "slug": "shudug"
+    },
+    "code": {
+      "id": "AZ303064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.251",
+      "lon": "48.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303080",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sırt Çiçi",
+      "en": "Sirt Chichi",
+      "slug": "sirt-chichi"
+    },
+    "code": {
+      "id": "AZ303080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.227",
+      "lon": "48.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303071",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sofikənd",
+      "en": "Sofikend",
+      "slug": "sofikend"
+    },
+    "code": {
+      "id": "AZ303071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.285",
+      "lon": "48.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Söhüb",
+      "en": "Sohub",
+      "slug": "sohub"
+    },
+    "code": {
+      "id": "AZ303011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.148",
+      "lon": "48.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Susay",
+      "en": "Susay",
+      "slug": "susay"
+    },
+    "code": {
+      "id": "AZ303040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.308",
+      "lon": "48.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303131",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Susayqışlaq",
+      "en": "Susaygishlag",
+      "slug": "susaygishlag"
+    },
+    "code": {
+      "id": "AZ303131",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.47",
+      "lon": "48.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303076",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talabı",
+      "en": "Talabi",
+      "slug": "talabi"
+    },
+    "code": {
+      "id": "AZ303076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.266",
+      "lon": "48.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303074",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talabıqışlaq",
+      "en": "Talabigishlag",
+      "slug": "talabigishlag"
+    },
+    "code": {
+      "id": "AZ303074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.317",
+      "lon": "48.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Talış",
+      "en": "Talish",
+      "slug": "talish"
+    },
+    "code": {
+      "id": "AZ303008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.094",
+      "lon": "48.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303136",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Təngəaltı",
+      "en": "Tangaalti",
+      "slug": "tangaalti"
+    },
+    "code": {
+      "id": "AZ303136",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.207",
+      "lon": "48.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303100",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Timiryazev",
+      "en": "Timiryazev",
+      "slug": "timiryazev"
+    },
+    "code": {
+      "id": "AZ303100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.366",
+      "lon": "48.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303138",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toxmar",
+      "en": "Tokhmar",
+      "slug": "tokhmar"
+    },
+    "code": {
+      "id": "AZ303138",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.264",
+      "lon": "48.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tülər",
+      "en": "Tular",
+      "slug": "tular"
+    },
+    "code": {
+      "id": "AZ303025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.265",
+      "lon": "48.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçgün",
+      "en": "Uchgun",
+      "slug": "uchgun"
+    },
+    "code": {
+      "id": "AZ303035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.325",
+      "lon": "48.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Utuq",
+      "en": "Utug",
+      "slug": "utug"
+    },
+    "code": {
+      "id": "AZ303006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.993",
+      "lon": "48.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303095",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Uzunmeşə",
+      "en": "Uzunmesha",
+      "slug": "uzunmesha"
+    },
+    "code": {
+      "id": "AZ303095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.356",
+      "lon": "48.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303114",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vəlvələ",
+      "en": "Valvala",
+      "slug": "valvala"
+    },
+    "code": {
+      "id": "AZ303114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.337",
+      "lon": "48.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vladimirovka",
+      "en": "Vladimirovka",
+      "slug": "vladimirovka"
+    },
+    "code": {
+      "id": "AZ303104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.397",
+      "lon": "48.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303146",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yalavanc",
+      "en": "Yalavanj",
+      "slug": "yalavanj"
+    },
+    "code": {
+      "id": "AZ303146",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.218",
+      "lon": "49.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303058",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yekdar",
+      "en": "Yekdar",
+      "slug": "yekdar"
+    },
+    "code": {
+      "id": "AZ303058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.231",
+      "lon": "48.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ303028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.281",
+      "lon": "48.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yerfi",
+      "en": "Yerfi",
+      "slug": "yerfi"
+    },
+    "code": {
+      "id": "AZ303007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.098",
+      "lon": "48.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Tüləkəran",
+      "en": "Yukhari  Tulakaran",
+      "slug": "yukhari-tulakaran"
+    },
+    "code": {
+      "id": "AZ303029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.265",
+      "lon": "48.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Digah",
+      "en": "Yukhari Digah",
+      "slug": "yukhari-digah"
+    },
+    "code": {
+      "id": "AZ303026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.269",
+      "lon": "48.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303121",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərdabi",
+      "en": "Zardabi",
+      "slug": "zardabi"
+    },
+    "code": {
+      "id": "AZ303121",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.397",
+      "lon": "48.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303081",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərqava",
+      "en": "Zargava",
+      "slug": "zargava"
+    },
+    "code": {
+      "id": "AZ303081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.241",
+      "lon": "48.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zeyid",
+      "en": "Zeyid",
+      "slug": "zeyid"
+    },
+    "code": {
+      "id": "AZ303021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.182",
+      "lon": "48.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zıxır",
+      "en": "Zikhir",
+      "slug": "zikhir"
+    },
+    "code": {
+      "id": "AZ303023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.178",
+      "lon": "48.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ303105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zizik",
+      "en": "Zizik",
+      "slug": "zizik"
+    },
+    "code": {
+      "id": "AZ303105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ303",
+        "level": 1,
+        "name": {
+          "local": "Quba",
+          "en": "Guba",
+          "slug": "guba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.391",
+      "lon": "48.576"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

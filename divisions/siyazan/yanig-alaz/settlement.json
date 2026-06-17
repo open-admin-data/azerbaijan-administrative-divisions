@@ -1,0 +1,45 @@
+{
+  "id": "AZ305004",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yanıq Ələz",
+    "en": "Yanig Alaz",
+    "slug": "yanig-alaz"
+  },
+  "code": {
+    "id": "AZ305004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ305",
+    "level": 1,
+    "name": {
+      "local": "Siyəzən",
+      "en": "Siyazan",
+      "slug": "siyazan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ305",
+      "level": 1,
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.956",
+    "lon": "48.984"
+  },
+  "metadata": {},
+  "source": {}
+}

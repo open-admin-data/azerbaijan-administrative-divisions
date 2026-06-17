@@ -1,0 +1,45 @@
+{
+  "id": "AZ602055",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Soyuqbulaq",
+    "en": "Soyugbulag",
+    "slug": "soyugbulag"
+  },
+  "code": {
+    "id": "AZ602055",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.696",
+    "lon": "46.393"
+  },
+  "metadata": {},
+  "source": {}
+}

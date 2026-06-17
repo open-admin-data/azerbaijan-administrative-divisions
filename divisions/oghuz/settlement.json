@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "AZ405034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abdallı",
+      "en": "Abdalli",
+      "slug": "abdalli"
+    },
+    "code": {
+      "id": "AZ405034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.071",
+      "lon": "47.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ərmənət",
+      "en": "Armanat",
+      "slug": "armanat"
+    },
+    "code": {
+      "id": "AZ405009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.063",
+      "lon": "47.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baş Daşağıl",
+      "en": "Bash Dashaghil",
+      "slug": "bash-dashaghil"
+    },
+    "code": {
+      "id": "AZ405001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.167",
+      "lon": "47.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayan",
+      "en": "Bayan",
+      "slug": "bayan"
+    },
+    "code": {
+      "id": "AZ405005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.022",
+      "lon": "47.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Böyük Söyüdlü",
+      "en": "Boyuk Soyudlu",
+      "slug": "boyuk-soyudlu"
+    },
+    "code": {
+      "id": "AZ405030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.867",
+      "lon": "47.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bucaq",
+      "en": "Bujag",
+      "slug": "bujag"
+    },
+    "code": {
+      "id": "AZ405004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.079",
+      "lon": "47.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaldaş",
+      "en": "Chaldash",
+      "slug": "chaldash"
+    },
+    "code": {
+      "id": "AZ405032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.784",
+      "lon": "47.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çayqovuşan",
+      "en": "Chaygovushan",
+      "slug": "chaygovushan"
+    },
+    "code": {
+      "id": "AZ405031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.789",
+      "lon": "47.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəymədağlı",
+      "en": "Daymadaghli",
+      "slug": "daymadaghli"
+    },
+    "code": {
+      "id": "AZ405025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.944",
+      "lon": "47.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəymədərə",
+      "en": "Daymadere",
+      "slug": "daymadere"
+    },
+    "code": {
+      "id": "AZ405023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.951",
+      "lon": "47.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Filfili",
+      "en": "Filfili",
+      "slug": "filfili"
+    },
+    "code": {
+      "id": "AZ405008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.116",
+      "lon": "47.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabaldır",
+      "en": "Garabaldir",
+      "slug": "garabaldir"
+    },
+    "code": {
+      "id": "AZ405019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.979",
+      "lon": "47.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabulaq",
+      "en": "Garabulag",
+      "slug": "garabulag"
+    },
+    "code": {
+      "id": "AZ405029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.874",
+      "lon": "47.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qumlaq",
+      "en": "Gumlag",
+      "slug": "gumlag"
+    },
+    "code": {
+      "id": "AZ405006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.023",
+      "lon": "47.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hallavar",
+      "en": "Hallavar",
+      "slug": "hallavar"
+    },
+    "code": {
+      "id": "AZ405033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.036",
+      "lon": "47.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Calut",
+      "en": "Jalut",
+      "slug": "jalut"
+    },
+    "code": {
+      "id": "AZ405003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.077",
+      "lon": "47.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərimli",
+      "en": "Karimli",
+      "slug": "karimli"
+    },
+    "code": {
+      "id": "AZ405020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.975",
+      "lon": "47.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaçmaz",
+      "en": "Khachmaz",
+      "slug": "khachmaz"
+    },
+    "code": {
+      "id": "AZ405014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.042",
+      "lon": "47.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaçmazqışlaq",
+      "en": "Khachmazgishlag",
+      "slug": "khachmazgishlag"
+    },
+    "code": {
+      "id": "AZ405028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.984",
+      "lon": "47.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xalxal",
+      "en": "Khalkhal",
+      "slug": "khalkhal"
+    },
+    "code": {
+      "id": "AZ405010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.078",
+      "lon": "47.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xalxalqışlaq",
+      "en": "Khalkhalgishlag",
+      "slug": "khalkhalgishlag"
+    },
+    "code": {
+      "id": "AZ405011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.046",
+      "lon": "47.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollalı",
+      "en": "Mollali",
+      "slug": "mollali"
+    },
+    "code": {
+      "id": "AZ405027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.966",
+      "lon": "47.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Muxas",
+      "en": "Mukhas",
+      "slug": "mukhas"
+    },
+    "code": {
+      "id": "AZ405002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.103",
+      "lon": "47.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "OĞUZ",
+      "en": "OGHUZ",
+      "slug": "oghuz"
+    },
+    "code": {
+      "id": "AZ405007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.069",
+      "lon": "47.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Padar",
+      "en": "Padar",
+      "slug": "padar"
+    },
+    "code": {
+      "id": "AZ405022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.961",
+      "lon": "47.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şirvanlı",
+      "en": "Shirvanli",
+      "slug": "shirvanli"
+    },
+    "code": {
+      "id": "AZ405012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.018",
+      "lon": "47.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sincan",
+      "en": "Sinjan",
+      "slug": "sinjan"
+    },
+    "code": {
+      "id": "AZ405024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.943",
+      "lon": "47.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tərkeş",
+      "en": "Tarkesh",
+      "slug": "tarkesh"
+    },
+    "code": {
+      "id": "AZ405026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.927",
+      "lon": "47.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tayıflı",
+      "en": "Tayifli",
+      "slug": "tayifli"
+    },
+    "code": {
+      "id": "AZ405013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.006",
+      "lon": "47.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Top",
+      "en": "Top",
+      "slug": "top"
+    },
+    "code": {
+      "id": "AZ405016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.94",
+      "lon": "47.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yaqublu",
+      "en": "Yagublu",
+      "slug": "yagublu"
+    },
+    "code": {
+      "id": "AZ405017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.924",
+      "lon": "47.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yemişanlı",
+      "en": "Yemishanli",
+      "slug": "yemishanli"
+    },
+    "code": {
+      "id": "AZ405021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.979",
+      "lon": "47.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yenikənd",
+      "en": "Yenikend",
+      "slug": "yenikend"
+    },
+    "code": {
+      "id": "AZ405018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.924",
+      "lon": "47.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ405015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zərrab",
+      "en": "Zarrab",
+      "slug": "zarrab"
+    },
+    "code": {
+      "id": "AZ405015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ405",
+      "level": 1,
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ405",
+        "level": 1,
+        "name": {
+          "local": "Oğuz",
+          "en": "Oghuz",
+          "slug": "oghuz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.939",
+      "lon": "47.418"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

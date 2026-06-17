@@ -1,0 +1,33 @@
+{
+  "id": "AZ906",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kürdəmir",
+    "en": "Kurdamir",
+    "slug": "kurdamir"
+  },
+  "code": {
+    "id": "AZ906",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 62
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.256",
+    "lon": "48.203"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/kurdamir/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

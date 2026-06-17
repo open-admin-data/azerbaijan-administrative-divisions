@@ -1,0 +1,319 @@
+# Kurdamir — Azerbaijan Administrative Divisions
+
+> 62 settlements
+> Code: AZ906
+> Coordinates: 40.256, 48.203
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Axtaçı (Akhtachi)
+
+Code: AZ906015, Coordinates: 40.054, 48.298
+
+
+### Axtaçı Qarabucaq (Akhtachi Garabujag)
+
+Code: AZ906016, Coordinates: 40.043, 48.322
+
+
+### Ərəb Qubalı (Arab Gubali)
+
+Code: AZ906020, Coordinates: 40.158, 48.41
+
+
+### Ərəbxana (Arabkhana)
+
+Code: AZ906005, Coordinates: 40.158, 48.058
+
+
+### Ərşəli (Arshali)
+
+Code: AZ906058, Coordinates: 40.271, 48.341
+
+
+### Atakişili (Atakishili)
+
+Code: AZ906037, Coordinates: 40.349, 48.172
+
+
+### Bağman (Baghman)
+
+Code: AZ906044, Coordinates: 40.365, 48.342
+
+
+### Bala Kəngərli (Bala Kangarli)
+
+Code: AZ906046, Coordinates: 40.452, 48.276
+
+
+### Beyi
+
+Code: AZ906012, Coordinates: 40.095, 48.228
+
+
+### Böyük Kəngərli (Boyuk Kangarli)
+
+Code: AZ906050, Coordinates: 40.439, 48.337
+
+
+### Çərtəyəz (Chartayaz)
+
+Code: AZ906006, Coordinates: 40.143, 48.059
+
+
+### Çöhranlı (Chohranli)
+
+Code: AZ906026, Coordinates: 40.283, 48.191
+
+
+### Çöl Ərəb (Chol Arab)
+
+Code: AZ906024, Coordinates: 40.18, 48.093
+
+
+### Çöl Qubalı (Chol Gubali)
+
+Code: AZ906054, Coordinates: 40.16, 48.39
+
+
+### Dayıkazımlı (Dayikazimli)
+
+Code: AZ906017, Coordinates: 40.085, 48.304
+
+
+### Dəyirmanlı (Dayirmanli)
+
+Code: AZ906039, Coordinates: 40.387, 48.158
+
+
+### Qağacılı (Gaghajili)
+
+Code: AZ906041, Coordinates: 40.377, 48.152
+
+
+### Qarabucaq (Garabujag)
+
+Code: AZ906033, Coordinates: 40.388, 48.037
+
+
+### Qarabucaq (Garabujag)
+
+Code: AZ906062, Coordinates: 40.426, 48.06
+
+
+### Qaraqocalı (Garagojali)
+
+Code: AZ906060, Coordinates: 40.373, 48.187
+
+
+### Qaramahmudlu (Garamahmudlu)
+
+Code: AZ906052, Coordinates: 40.147, 48.038
+
+
+### Qarasaqqal (Garasaggal)
+
+Code: AZ906045, Coordinates: 40.379, 48.295
+
+
+### Qarasu (Garasu)
+
+Code: AZ906061, Coordinates: 40.318, 47.994
+
+
+### Garıs Əyribənd (Garis Ayriband)
+
+Code: AZ906057, Coordinates: 40.345, 48.378
+
+
+### Qoçulu (Gochulu)
+
+Code: AZ906018, Coordinates: 40.089, 48.326
+
+
+### Qocalı (Gojali)
+
+Code: AZ906013, Coordinates: 40.067, 48.26
+
+
+### Qurdbayram (Gurdbayram)
+
+Code: AZ906032, Coordinates: 40.512, 48.091
+
+
+### Quşlar (Gushlar)
+
+Code: AZ906009, Coordinates: 40.086, 48.141
+
+
+### İsmayıllı (Ismayilli)
+
+Code: AZ906056, Coordinates: 40.424, 48.339
+
+
+### Carlı (Jarli)
+
+Code: AZ906010, Coordinates: 40.083, 48.163
+
+
+### Cəyli (Jayli)
+
+Code: AZ906048, Coordinates: 40.431, 48.264
+
+
+### Karrar
+
+Code: AZ906027, Coordinates: 40.281, 48.366
+
+
+### Karrar
+
+Code: AZ906031, Coordinates: 40.307, 48.26
+
+
+### Xəlsə (Khalsa)
+
+Code: AZ906011, Coordinates: 40.079, 48.223
+
+
+### Xınıslı (Khinisli)
+
+Code: AZ906030, Coordinates: 40.325, 48.285
+
+
+### Xırdapay (Khirdapay)
+
+Code: AZ906042, Coordinates: 40.364, 48.153
+
+
+### Köhünlü (Kohunlu)
+
+Code: AZ906003, Coordinates: 40.129, 47.985
+
+
+### KÜRDƏMİR (KURDAMIR)
+
+Code: AZ906043, Coordinates: 40.341, 48.15
+
+
+### Məhərrəmli (Maharramli)
+
+Code: AZ906021, Coordinates: 40.168, 48.354
+
+
+### Mehdili
+
+Code: AZ906055, Coordinates: 40.076, 48.314
+
+
+### Mollakənd (Mollakend)
+
+Code: AZ906007, Coordinates: 40.119, 48.1
+
+
+### Muğanlı (Mughanli)
+
+Code: AZ906029, Coordinates: 40.319, 48.324
+
+
+### Muradxan (Muradkhan)
+
+Code: AZ906023, Coordinates: 40.188, 48.148
+
+
+### Mürtülü (Murtulu)
+
+Code: AZ906038, Coordinates: 40.378, 48.173
+
+
+### Öyləqulu (Oylagulu)
+
+Code: AZ906019, Coordinates: 40.106, 48.331
+
+
+### Pirəköcə (Pirakoja)
+
+Code: AZ906014, Coordinates: 40.063, 48.279
+
+
+### Pirili
+
+Code: AZ906022, Coordinates: 40.175, 48.252
+
+
+### Şahbəyli (Shahbeyli)
+
+Code: AZ906049, Coordinates: 40.437, 48.284
+
+
+### Şahsevən (Shahsevan)
+
+Code: AZ906035, Coordinates: 40.365, 48.198
+
+
+### Şıxımlı (Shikhimli)
+
+Code: AZ906036, Coordinates: 40.362, 48.181
+
+
+### Şilyan (Shilyan)
+
+Code: AZ906053, Coordinates: 40.322, 48.023
+
+
+### Şüşün (Shushun)
+
+Code: AZ906004, Coordinates: 40.137, 48.006
+
+
+### Sığırlı (Sighirli)
+
+Code: AZ906028, Coordinates: 40.261, 48.418
+
+
+### Sor Sor
+
+Code: AZ906025, Coordinates: 40.239, 48.127
+
+
+### Sovla
+
+Code: AZ906002, Coordinates: 40.1, 47.957
+
+
+### Söyüdlər (Soyudlar)
+
+Code: AZ906001, Coordinates: 40.101, 47.937
+
+
+### Təklə (Takla)
+
+Code: AZ906051, Coordinates: 40.455, 48.169
+
+
+### Topalhəsənli (Topalhasanli)
+
+Code: AZ906034, Coordinates: 40.384, 48.196
+
+
+### Türkədi (Turkadi)
+
+Code: AZ906008, Coordinates: 40.094, 48.116
+
+
+### Ucarlı (Ujarli)
+
+Code: AZ906047, Coordinates: 40.452, 48.25
+
+
+### Yeni Şıxımlı (Yeni Shikhimli)
+
+Code: AZ906059, Coordinates: 40.307, 48.195
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ906040, Coordinates: 40.379, 48.136
+
+

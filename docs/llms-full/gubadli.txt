@@ -1,0 +1,479 @@
+# Gubadli — Azerbaijan Administrative Divisions
+
+> 94 settlements
+> Code: AZ603
+> Coordinates: 39.335, 46.613
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abdalanlı (Abdalanli)
+
+Code: AZ603004, Coordinates: 39.412, 46.547
+
+
+### Əbilcə (Abilja)
+
+Code: AZ603057, Coordinates: 39.221, 46.707
+
+
+### Əfəndilər (Afandilar)
+
+Code: AZ603068, Coordinates: 39.331, 46.7
+
+
+### Alaqurşaq (Alagurshag)
+
+Code: AZ603079, Coordinates: 39.248, 46.729
+
+
+### Əliquluuşağı (Aliguluushaghi)
+
+Code: AZ603024, Coordinates: 39.452, 46.475
+
+
+### Altınca (Altinja)
+
+Code: AZ603082, Coordinates: 39.221, 46.678
+
+
+### Armudlu
+
+Code: AZ603086, Coordinates: 39.46, 46.685
+
+
+### Aşağı Cibikli (Ashaghi Jibikli)
+
+Code: AZ603032, Coordinates: 39.357, 46.463
+
+
+### Aşağı Xocamsaqlı (Ashaghi Khojamsagli)
+
+Code: AZ603043, Coordinates: 39.315, 46.553
+
+
+### Aşağı Mollu (Ashaghi Mollu)
+
+Code: AZ603064, Coordinates: 39.305, 46.696
+
+
+### Əyin (Ayin)
+
+Code: AZ603033, Coordinates: 39.349, 46.487
+
+
+### Bəxtiyarlı (Bakhtiyarli)
+
+Code: AZ603006, Coordinates: 39.387, 46.538
+
+
+### Balahəsənli (Balahasanli)
+
+Code: AZ603080, Coordinates: 39.428, 46.529
+
+
+### Balasoltanlı (Balasoltanli)
+
+Code: AZ603020, Coordinates: 39.361, 46.679
+
+
+### Ballıqaya (Balligaya)
+
+Code: AZ603051, Coordinates: 39.248, 46.655
+
+
+### Başarat (Basharat)
+
+Code: AZ603078, Coordinates: 39.466, 46.726
+
+
+### Boyunəkər (Boyunakar)
+
+Code: AZ603050, Coordinates: 39.247, 46.64
+
+
+### Çərəli (Charali)
+
+Code: AZ603049, Coordinates: 39.252, 46.614
+
+
+### Çardaqlı (Chardagli)
+
+Code: AZ603010, Coordinates: 39.348, 46.518
+
+
+### Çaytumas (Chaytumas)
+
+Code: AZ603065, Coordinates: 39.305, 46.711
+
+
+### Dəmirçilər (Damirchilar)
+
+Code: AZ603039, Coordinates: 39.317, 46.6
+
+
+### Davudlu
+
+Code: AZ603084, Coordinates: 39.44, 46.429
+
+
+### Deşdahat (Deshdahat)
+
+Code: AZ603089, Coordinates: 39.503, 46.698
+
+
+### Diləli Müskənli (Dilali Muskanli)
+
+Code: AZ603062, Coordinates: 39.305, 46.645
+
+
+### Dondarlı (Dondarli)
+
+Code: AZ603040, Coordinates: 39.308, 46.608
+
+
+### Eyvazlı (Eyvazli)
+
+Code: AZ603037, Coordinates: 39.435, 46.395
+
+
+### Fərcan (Farjan)
+
+Code: AZ603046, Coordinates: 39.274, 46.562
+
+
+### Qədili (Gadili)
+
+Code: AZ603036, Coordinates: 39.429, 46.409
+
+
+### Qarağac (Garaghaj)
+
+Code: AZ603016, Coordinates: 39.396, 46.649
+
+
+### Qaraqoyunlu (Garagoyunlu)
+
+Code: AZ603076, Coordinates: 39.179, 46.687
+
+
+### Qaraimanlı (Garaimanli)
+
+Code: AZ603017, Coordinates: 39.394, 46.664
+
+
+### Qaracallı (Garajalli)
+
+Code: AZ603013, Coordinates: 39.417, 46.638
+
+
+### Qarakişilər (Garakishilar)
+
+Code: AZ603012, Coordinates: 39.436, 46.63
+
+
+### Qaralar (Garalar)
+
+Code: AZ603072, Coordinates: 39.225, 46.721
+
+
+### Qayalı (Gayali)
+
+Code: AZ603007, Coordinates: 39.388, 46.566
+
+
+### Qəzyan (Gazyan)
+
+Code: AZ603063, Coordinates: 39.292, 46.665
+
+
+### Qilican (Gilijan)
+
+Code: AZ603081, Coordinates: 39.206, 46.712
+
+
+### Qiyaslı (Giyasli)
+
+Code: AZ603077, Coordinates: 39.173, 46.706
+
+
+### Göyər Abbas (Goyar Abbas)
+
+Code: AZ603029, Coordinates: 39.385, 46.456
+
+
+### Göyərcik (Goyarjik)
+
+Code: AZ603028, Coordinates: 39.4, 46.479
+
+
+### Göyyal (Goyyal)
+
+Code: AZ603047, Coordinates: 39.275, 46.571
+
+
+### QUBADLI (GUBADLI)
+
+Code: AZ603011, Coordinates: 39.345, 46.58
+
+
+### Qundanlı (Gundanli)
+
+Code: AZ603092, Coordinates: 39.43, 46.488
+
+
+### Gürcülü (Gurjulu)
+
+Code: AZ603025, Coordinates: 39.428, 46.462
+
+
+### Həkəri (Hakari)
+
+Code: AZ603093, Coordinates: 39.47, 46.634
+
+
+### Hal
+
+Code: AZ603054, Coordinates: 39.275, 46.676
+
+
+### Həmzəli (Hamzali)
+
+Code: AZ603066, Coordinates: 39.315, 46.707
+
+
+### Hərtiz (Hartiz)
+
+Code: AZ603045, Coordinates: 39.281, 46.59
+
+
+### Hat
+
+Code: AZ603088, Coordinates: 39.49, 46.712
+
+
+### Hüseynuşağı (Huseynushaghi)
+
+Code: AZ603091, Coordinates: 39.245, 46.716
+
+
+### İşıqlı (Ishigli)
+
+Code: AZ603015, Coordinates: 39.401, 46.659
+
+
+### Cılfır (Jilfir)
+
+Code: AZ603027, Coordinates: 39.411, 46.48
+
+
+### Kavdadıq (Kavdadig)
+
+Code: AZ603055, Coordinates: 39.238, 46.71
+
+
+### Xələc (Khalaj)
+
+Code: AZ603009, Coordinates: 39.365, 46.531
+
+
+### Xallava (Khallava)
+
+Code: AZ603030, Coordinates: 39.378, 46.487
+
+
+### Xəndək (Khandak)
+
+Code: AZ603014, Coordinates: 39.415, 46.651
+
+
+### Xanlıq (Khanlig)
+
+Code: AZ603060, Coordinates: 39.271, 46.716
+
+
+### Xıdırlı (Khidirli)
+
+Code: AZ603003, Coordinates: 39.421, 46.538
+
+
+### Xocahan (Khojahan)
+
+Code: AZ603059, Coordinates: 39.191, 46.718
+
+
+### Xocik (Khojik)
+
+Code: AZ603022, Coordinates: 39.35, 46.685
+
+
+### Kürd Mahruzlu (Kurd Mahruzlu)
+
+Code: AZ603073, Coordinates: 39.214, 46.735
+
+
+### Ləpəxeyranlı (Lapakheyranli)
+
+Code: AZ603005, Coordinates: 39.394, 46.544
+
+
+### Mahmudlu
+
+Code: AZ603008, Coordinates: 39.37, 46.572
+
+
+### Mahruzlu
+
+Code: AZ603071, Coordinates: 39.23, 46.72
+
+
+### Məlikəhmədli (Malikahmadli)
+
+Code: AZ603001, Coordinates: 39.45, 46.514
+
+
+### Məmər (Mamar)
+
+Code: AZ603053, Coordinates: 39.252, 46.694
+
+
+### Mərdanlı (Mardanli)
+
+Code: AZ603023, Coordinates: 39.336, 46.695
+
+
+### Məzrə (Mazra)
+
+Code: AZ603035, Coordinates: 39.41, 46.411
+
+
+### Mehrili
+
+Code: AZ603044, Coordinates: 39.303, 46.559
+
+
+### Milanlı (Milanli)
+
+Code: AZ603087, Coordinates: 39.488, 46.729
+
+
+### Mirlər (Mirlar)
+
+Code: AZ603041, Coordinates: 39.301, 46.635
+
+
+### Mollabürhan (Mollaburhan)
+
+Code: AZ603021, Coordinates: 39.354, 46.669
+
+
+### Mollalı (Mollali)
+
+Code: AZ603052, Coordinates: 39.245, 46.667
+
+
+### Muğanlı (Mughanli)
+
+Code: AZ603070, Coordinates: 39.238, 46.73
+
+
+### Muradxanlı (Muradkhanli)
+
+Code: AZ603085, Coordinates: 39.455, 46.626
+
+
+### Novlu
+
+Code: AZ603026, Coordinates: 39.416, 46.447
+
+
+### Padar
+
+Code: AZ603018, Coordinates: 39.381, 46.67
+
+
+### Poladlı (Poladli)
+
+Code: AZ603042, Coordinates: 39.312, 46.579
+
+
+### Saldaş (Saldash)
+
+Code: AZ603048, Coordinates: 39.255, 46.582
+
+
+### Saray
+
+Code: AZ603061, Coordinates: 39.311, 46.632
+
+
+### Sarıyataq (Sariyatag)
+
+Code: AZ603019, Coordinates: 39.379, 46.659
+
+
+### Seləli (Selali)
+
+Code: AZ603075, Coordinates: 39.2, 46.736
+
+
+### Seytas
+
+Code: AZ603034, Coordinates: 39.386, 46.422
+
+
+### Tarovlu
+
+Code: AZ603083, Coordinates: 39.333, 46.533
+
+
+### Tatar
+
+Code: AZ603094, Coordinates: 39.161, 46.706
+
+
+### Teymur Müskənli (Teymur Muskanli)
+
+Code: AZ603002, Coordinates: 39.428, 46.504
+
+
+### Tinli
+
+Code: AZ603058, Coordinates: 39.2, 46.713
+
+
+### Ulaşlı (Ulashli)
+
+Code: AZ603056, Coordinates: 39.227, 46.705
+
+
+### Yuxarı Cibikli (Yukhari Jibikli)
+
+Code: AZ603031, Coordinates: 39.368, 46.439
+
+
+### Yuxarı Xocamsaqlı (Yukhari Khojamsagli)
+
+Code: AZ603038, Coordinates: 39.319, 46.566
+
+
+### Yuxarı Mollu (Yukhari Mollu)
+
+Code: AZ603069, Coordinates: 39.329, 46.686
+
+
+### Yusifbəyli (Yusifbeyli)
+
+Code: AZ603067, Coordinates: 39.32, 46.704
+
+
+### Zilanlı (Zilanli)
+
+Code: AZ603074, Coordinates: 39.206, 46.735
+
+
+### Zor
+
+Code: AZ603090, Coordinates: 39.304, 46.549
+
+

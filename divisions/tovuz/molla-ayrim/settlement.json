@@ -1,0 +1,45 @@
+{
+  "id": "AZ503028",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Molla Ayrım",
+    "en": "Molla Ayrim",
+    "slug": "molla-ayrim"
+  },
+  "code": {
+    "id": "AZ503028",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ503",
+    "level": 1,
+    "name": {
+      "local": "Tovuz",
+      "en": "Tovuz",
+      "slug": "tovuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ503",
+      "level": 1,
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.829",
+    "lon": "45.641"
+  },
+  "metadata": {},
+  "source": {}
+}

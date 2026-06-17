@@ -1,0 +1,45 @@
+{
+  "id": "AZ702004",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Səfixanlar",
+    "en": "Safikhanlar",
+    "slug": "safikhanlar"
+  },
+  "code": {
+    "id": "AZ702004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ702",
+    "level": 1,
+    "name": {
+      "local": "Şuşa",
+      "en": "Shusha",
+      "slug": "shusha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ702",
+      "level": 1,
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.755",
+    "lon": "46.613"
+  },
+  "metadata": {},
+  "source": {}
+}

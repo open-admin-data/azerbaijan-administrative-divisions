@@ -1,0 +1,45 @@
+{
+  "id": "AZ108004",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarabağlar",
+    "en": "Garabaghlar",
+    "slug": "garabaghlar"
+  },
+  "code": {
+    "id": "AZ108004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ108",
+    "level": 1,
+    "name": {
+      "local": "Kəngərli",
+      "en": "Kangarli",
+      "slug": "kangarli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.426",
+    "lon": "45.198"
+  },
+  "metadata": {},
+  "source": {}
+}

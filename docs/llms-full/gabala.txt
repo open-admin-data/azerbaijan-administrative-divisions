@@ -1,0 +1,329 @@
+# Gabala — Azerbaijan Administrative Divisions
+
+> 64 settlements
+> Code: AZ406
+> Coordinates: 40.903, 47.776
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abrıx (Abrikh)
+
+Code: AZ406003, Coordinates: 41.037, 47.74
+
+
+### Əmirvan (Amirvan)
+
+Code: AZ406055, Coordinates: 40.829, 47.896
+
+
+### Aydınqışlaq (Aydingishlag)
+
+Code: AZ406033, Coordinates: 40.921, 47.818
+
+
+### Bayramkoxalı (Bayramkokhali)
+
+Code: AZ406054, Coordinates: 40.791, 47.772
+
+
+### Bəyli (Beyli)
+
+Code: AZ406011, Coordinates: 40.816, 47.613
+
+
+### Bılıx (Bilikh)
+
+Code: AZ406050, Coordinates: 40.82, 47.847
+
+
+### Böyük Əmili (Boyuk Amili)
+
+Code: AZ406021, Coordinates: 40.858, 47.744
+
+
+### Böyük Pirəli (Boyuk Pirali)
+
+Code: AZ406032, Coordinates: 40.91, 47.791
+
+
+### Bum
+
+Code: AZ406005, Coordinates: 41.012, 47.778
+
+
+### Bunud
+
+Code: AZ406044, Coordinates: 40.916, 47.987
+
+
+### Çarxana (Charkhana)
+
+Code: AZ406017, Coordinates: 40.837, 47.707
+
+
+### Çuxur Qəbələ (Chukhur Gabala)
+
+Code: AZ406019, Coordinates: 40.889, 47.696
+
+
+### Dandıx (Dandikh)
+
+Code: AZ406002, Coordinates: 41.022, 47.698
+
+
+### Daşca (Dashja)
+
+Code: AZ406035, Coordinates: 40.944, 47.796
+
+
+### Dizaxlı (Dizakhli)
+
+Code: AZ406064, Coordinates: 40.849, 47.679
+
+
+### QƏBƏLƏ (GABALA)
+
+Code: AZ406039, Coordinates: 40.982, 47.849
+
+
+### Qəmərvan (Gamarvan)
+
+Code: AZ406007, Coordinates: 41.06, 47.8
+
+
+### Qaradeyin (Garadeyin)
+
+Code: AZ406013, Coordinates: 40.819, 47.67
+
+
+### Quşlar (Gushlar)
+
+Code: AZ406012, Coordinates: 40.828, 47.627
+
+
+### Hacıalılı (Hajialili)
+
+Code: AZ406023, Coordinates: 40.841, 47.73
+
+
+### Həmzəli (Hamzali)
+
+Code: AZ406006, Coordinates: 40.997, 47.802
+
+
+### Həzrə (Hazra)
+
+Code: AZ406045, Coordinates: 40.911, 47.97
+
+
+### İmamlı (Imamli)
+
+Code: AZ406038, Coordinates: 40.944, 47.746
+
+
+### Cığatelli (Jighatelli)
+
+Code: AZ406037, Coordinates: 40.973, 47.779
+
+
+### Corlu (Jorlu)
+
+Code: AZ406030, Coordinates: 40.931, 47.725
+
+
+### Xırxatala (Khirkhatala)
+
+Code: AZ406036, Coordinates: 40.961, 47.764
+
+
+### Kiçik Əmili (Kichik Amili)
+
+Code: AZ406046, Coordinates: 40.85, 47.783
+
+
+### Kiçik Pirəli (Kichik Pirali)
+
+Code: AZ406031, Coordinates: 40.917, 47.771
+
+
+### Kötüklü (Kotuklu)
+
+Code: AZ406061, Coordinates: 40.988, 47.696
+
+
+### Kürd (Kurd)
+
+Code: AZ406014, Coordinates: 40.805, 47.691
+
+
+### Küsnət (Kusnat)
+
+Code: AZ406009, Coordinates: 41.024, 47.903
+
+
+### Laza
+
+Code: AZ406008, Coordinates: 41.047, 47.913
+
+
+### Məlikli (Malikli)
+
+Code: AZ406052, Coordinates: 40.798, 47.848
+
+
+### Mamaylı (Mamayli)
+
+Code: AZ406015, Coordinates: 40.82, 47.739
+
+
+### Məmmədağalı (Mammadaghali)
+
+Code: AZ406056, Coordinates: 40.864, 47.984
+
+
+### Mıxlıqovaq (Mikhligovag)
+
+Code: AZ406057, Coordinates: 40.985, 47.716
+
+
+### Mirzəbəyli (Mirzabeyli)
+
+Code: AZ406029, Coordinates: 40.917, 47.723
+
+
+### Mollaşıxalı (Mollashikhali)
+
+Code: AZ406048, Coordinates: 40.839, 47.807
+
+
+### Nic (Nij)
+
+Code: AZ406028, Coordinates: 40.932, 47.656
+
+
+### Nohurqışlaq (Nohurgishlag)
+
+Code: AZ406040, Coordinates: 40.944, 47.906
+
+
+### Ovcullu (Ovjullu)
+
+Code: AZ406016, Coordinates: 40.827, 47.758
+
+
+### Sarıhacallı (Sarihajalli)
+
+Code: AZ406063, Coordinates: 40.838, 47.656
+
+
+### Savalan
+
+Code: AZ406010, Coordinates: 40.784, 47.612
+
+
+### Seyidqışlaq (Seyidgishlag)
+
+Code: AZ406042, Coordinates: 40.916, 47.933
+
+
+### Şəfili (Shafili)
+
+Code: AZ406018, Coordinates: 40.841, 47.693
+
+
+### Şamlı (Shamli)
+
+Code: AZ406022, Coordinates: 40.848, 47.722
+
+
+### Siləyli (Silayli)
+
+Code: AZ406053, Coordinates: 40.785, 47.839
+
+
+### Sırt Yengicə (Sirt Yengija)
+
+Code: AZ406062, Coordinates: 40.862, 47.821
+
+
+### Solquca (Solguja)
+
+Code: AZ406001, Coordinates: 41.033, 47.68
+
+
+### Soltannuxa (Soltannukha)
+
+Code: AZ406024, Coordinates: 40.888, 47.779
+
+
+### Tikanlı (Tikanli)
+
+Code: AZ406004, Coordinates: 41.03, 47.77
+
+
+### Topbağ (Topbagh)
+
+Code: AZ406051, Coordinates: 40.821, 47.823
+
+
+### Tövlə (Tovla)
+
+Code: AZ406020, Coordinates: 40.884, 47.731
+
+
+### Tüntül (Tuntul)
+
+Code: AZ406041, Coordinates: 40.918, 47.876
+
+
+### Uludaş (Uludash)
+
+Code: AZ406058, Coordinates: 40.98, 47.741
+
+
+### Vəndam (Vandam)
+
+Code: AZ406043, Coordinates: 40.945, 47.95
+
+
+### Yemişanlı (Yemishanli)
+
+Code: AZ406059, Coordinates: 40.965, 47.72
+
+
+### Yengicə (Yengija)
+
+Code: AZ406025, Coordinates: 40.875, 47.855
+
+
+### Yeni Dizaxlı (Yeni Dizakhli)
+
+Code: AZ406027, Coordinates: 40.858, 47.677
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ406049, Coordinates: 40.83, 47.833
+
+
+### Zalam
+
+Code: AZ406047, Coordinates: 40.849, 47.818
+
+
+### Zarağan (Zaraghan)
+
+Code: AZ406034, Coordinates: 40.94, 47.814
+
+
+### Zərgərli (Zargarli)
+
+Code: AZ406060, Coordinates: 40.995, 47.775
+
+
+### Zirik
+
+Code: AZ406026, Coordinates: 40.857, 47.658
+
+

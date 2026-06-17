@@ -1,0 +1,45 @@
+{
+  "id": "AZ910018",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İkinci Udullu",
+    "en": "Ikinji  Udullu",
+    "slug": "ikinji-udullu"
+  },
+  "code": {
+    "id": "AZ910018",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ910",
+    "level": 1,
+    "name": {
+      "local": "Hacıqabul",
+      "en": "Hajigabul",
+      "slug": "hajigabul"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.309",
+    "lon": "48.843"
+  },
+  "metadata": {},
+  "source": {}
+}

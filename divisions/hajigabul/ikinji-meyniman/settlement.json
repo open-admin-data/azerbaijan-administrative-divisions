@@ -1,0 +1,45 @@
+{
+  "id": "AZ910008",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İkinci Meyniman",
+    "en": "Ikinji  Meyniman",
+    "slug": "ikinji-meyniman"
+  },
+  "code": {
+    "id": "AZ910008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ910",
+    "level": 1,
+    "name": {
+      "local": "Hacıqabul",
+      "en": "Hajigabul",
+      "slug": "hajigabul"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ910",
+      "level": 1,
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.044",
+    "lon": "48.749"
+  },
+  "metadata": {},
+  "source": {}
+}

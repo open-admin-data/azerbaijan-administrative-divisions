@@ -1,0 +1,45 @@
+{
+  "id": "AZ602066",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Fətəlipəyə",
+    "en": "Fatalipeye",
+    "slug": "fatalipeye"
+  },
+  "code": {
+    "id": "AZ602066",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.604",
+    "lon": "46.572"
+  },
+  "metadata": {},
+  "source": {}
+}

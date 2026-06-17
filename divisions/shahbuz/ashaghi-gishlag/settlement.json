@@ -1,0 +1,45 @@
+{
+  "id": "AZ105022",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Qışlaq",
+    "en": "Ashaghi Gishlag",
+    "slug": "ashaghi-gishlag"
+  },
+  "code": {
+    "id": "AZ105022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ105",
+    "level": 1,
+    "name": {
+      "local": "Şahbuz",
+      "en": "Shahbuz",
+      "slug": "shahbuz"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ105",
+      "level": 1,
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.466",
+    "lon": "45.702"
+  },
+  "metadata": {},
+  "source": {}
+}

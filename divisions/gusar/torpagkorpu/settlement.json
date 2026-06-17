@@ -1,0 +1,45 @@
+{
+  "id": "AZ301077",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Torpaqkörpü",
+    "en": "Torpagkorpu",
+    "slug": "torpagkorpu"
+  },
+  "code": {
+    "id": "AZ301077",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.707",
+    "lon": "48.541"
+  },
+  "metadata": {},
+  "source": {}
+}

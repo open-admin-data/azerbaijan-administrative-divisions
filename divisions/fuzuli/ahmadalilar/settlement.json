@@ -1,0 +1,45 @@
+{
+  "id": "AZ606048",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Əhmədalılar",
+    "en": "Ahmadalilar",
+    "slug": "ahmadalilar"
+  },
+  "code": {
+    "id": "AZ606048",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.43",
+    "lon": "47.331"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,64 @@
+# Kangarli — Azerbaijan Administrative Divisions
+
+> 11 settlements
+> Code: AZ108
+> Coordinates: 39.386, 45.194
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Böyükdüz (Boyukduz)
+
+Code: AZ108008, Coordinates: 39.284, 45.233
+
+
+### Çalxanqala (Chalkhangala)
+
+Code: AZ108006, Coordinates: 39.446, 45.277
+
+
+### Qabıllı (Gabilli)
+
+Code: AZ108001, Coordinates: 39.429, 45.11
+
+
+### Qarabağlar (Garabaghlar)
+
+Code: AZ108004, Coordinates: 39.426, 45.198
+
+
+### Qıvraq (Givrag)
+
+Code: AZ108002, Coordinates: 39.402, 45.116
+
+
+### Xıncab (Khinjab)
+
+Code: AZ108007, Coordinates: 39.399, 45.276
+
+
+### Xok (Khok)
+
+Code: AZ108009, Coordinates: 39.375, 45.171
+
+
+### Şahtaxtı (Shahtakhti)
+
+Code: AZ108003, Coordinates: 39.372, 45.095
+
+
+### Təzəkənd (Tezekend)
+
+Code: AZ108010, Coordinates: 39.395, 45.298
+
+
+### Yeni Kərki (Yeni Karki)
+
+Code: AZ108011, Coordinates: 39.31, 45.217
+
+
+### Yurdçu (Yurdchu)
+
+Code: AZ108005, Coordinates: 39.408, 45.148
+
+

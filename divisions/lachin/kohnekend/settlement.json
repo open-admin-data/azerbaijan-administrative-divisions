@@ -1,0 +1,45 @@
+{
+  "id": "AZ602112",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Köhnəkənd",
+    "en": "Kohnekend",
+    "slug": "kohnekend"
+  },
+  "code": {
+    "id": "AZ602112",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ602",
+    "level": 1,
+    "name": {
+      "local": "Laçın",
+      "en": "Lachin",
+      "slug": "lachin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ602",
+      "level": 1,
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.634",
+    "lon": "46.706"
+  },
+  "metadata": {},
+  "source": {}
+}

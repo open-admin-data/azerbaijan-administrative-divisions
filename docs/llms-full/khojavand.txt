@@ -1,0 +1,424 @@
+# Khojavand — Azerbaijan Administrative Divisions
+
+> 83 settlements
+> Code: AZ703
+> Coordinates: 39.647, 46.987
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Ağbulaq (Aghbulag)
+
+Code: AZ703005, Coordinates: 39.556, 47.082
+
+
+### Ağbulaq (Aghbulag)
+
+Code: AZ703065, Coordinates: 39.746, 46.913
+
+
+### Ağdam (Aghdam)
+
+Code: AZ703052, Coordinates: 39.556, 46.951
+
+
+### Ağcakənd (Aghjakend)
+
+Code: AZ703047, Coordinates: 39.499, 46.883
+
+
+### Ağkənd (Aghkend)
+
+Code: AZ703072, Coordinates: 39.821, 47.019
+
+
+### Axullu (Akhullu)
+
+Code: AZ703004, Coordinates: 39.568, 47.089
+
+
+### Əmiranlar (Amiranlar)
+
+Code: AZ703041, Coordinates: 39.8, 47.136
+
+
+### Arakül (Arakul)
+
+Code: AZ703036, Coordinates: 39.442, 46.994
+
+
+### Arpadüzü (Arpaduzu)
+
+Code: AZ703063, Coordinates: 39.752, 46.953
+
+
+### Arpagədik (Arpagadik)
+
+Code: AZ703050, Coordinates: 39.559, 46.706
+
+
+### Ataqut (Atagut)
+
+Code: AZ703031, Coordinates: 39.572, 46.963
+
+
+### Avdur
+
+Code: AZ703028, Coordinates: 39.844, 46.939
+
+
+### Azıx (Azikh)
+
+Code: AZ703055, Coordinates: 39.619, 46.978
+
+
+### Binə (Bina)
+
+Code: AZ703051, Coordinates: 39.586, 46.906
+
+
+### Binədərəsi (Binaderesi)
+
+Code: AZ703045, Coordinates: 39.455, 47.012
+
+
+### Böyük Tağlar (Boyuk Taghlar)
+
+Code: AZ703057, Coordinates: 39.619, 46.953
+
+
+### Bulutan
+
+Code: AZ703007, Coordinates: 39.537, 47.083
+
+
+### Bünyadlı (Bunyadli)
+
+Code: AZ703035, Coordinates: 39.412, 46.982
+
+
+### Çağadüz (Chaghaduz)
+
+Code: AZ703058, Coordinates: 39.693, 46.896
+
+
+### Çaylaqqala (Chaylaggala)
+
+Code: AZ703049, Coordinates: 39.546, 46.769
+
+
+### Çinarlı (Chinarli)
+
+Code: AZ703038, Coordinates: 39.511, 47.018
+
+
+### Çiraquz (Chiraguz)
+
+Code: AZ703001, Coordinates: 39.577, 47.014
+
+
+### Çörəkli (Chorakli)
+
+Code: AZ703068, Coordinates: 39.845, 46.959
+
+
+### Dağdöşü (Daghdoshu)
+
+Code: AZ703076, Coordinates: 39.507, 47.032
+
+
+### Daşbaşı (Dashbashi)
+
+Code: AZ703046, Coordinates: 39.464, 46.957
+
+
+### Dərəkənd (Derekend)
+
+Code: AZ703078, Coordinates: 39.498, 46.967
+
+
+### Dolanlar
+
+Code: AZ703034, Coordinates: 39.446, 46.831
+
+
+### Düdükçü (Dudukchu)
+
+Code: AZ703002, Coordinates: 39.576, 47.051
+
+
+### Edilli
+
+Code: AZ703003, Coordinates: 39.561, 47.073
+
+
+### Edişə (Edisha)
+
+Code: AZ703009, Coordinates: 39.525, 47.003
+
+
+### Qağartsi (Gaghartsi)
+
+Code: AZ703073, Coordinates: 39.817, 46.94
+
+
+### Qaradağlı (Garadaghli)
+
+Code: AZ703027, Coordinates: 39.797, 46.978
+
+
+### Qarakənd (Garakend)
+
+Code: AZ703013, Coordinates: 39.846, 47.024
+
+
+### Qarazəmi (Garazami)
+
+Code: AZ703062, Coordinates: 39.734, 46.993
+
+
+### Qarqar (Gargar)
+
+Code: AZ703042, Coordinates: 39.705, 46.961
+
+
+### Qarıtəpə (Garitepe)
+
+Code: AZ703074, Coordinates: 39.813, 46.944
+
+
+### Gavahın (Gavahin)
+
+Code: AZ703064, Coordinates: 39.766, 46.913
+
+
+### Qırmızı Bazar (Girmizi Bazar)
+
+Code: AZ703024, Coordinates: 39.678, 46.944
+
+
+### Qırmızıqaya (Girmizigaya)
+
+Code: AZ703080, Coordinates: 39.54, 47.023
+
+
+### Qoçbəyli (Gochbeyli)
+
+Code: AZ703081, Coordinates: 39.507, 47.064
+
+
+### Günəşli (Gunashli)
+
+Code: AZ703012, Coordinates: 39.492, 47.078
+
+
+### Güneyçartar (Guneychartar)
+
+Code: AZ703018, Coordinates: 39.757, 47.017
+
+
+### Güneyxırman (Guneykhirman)
+
+Code: AZ703019, Coordinates: 39.745, 47.037
+
+
+### Quşçular (Gushchular)
+
+Code: AZ703083, Coordinates: 39.495, 47.083
+
+
+### Quzeyçartar (Guzeychartar)
+
+Code: AZ703040, Coordinates: 39.746, 47.012
+
+
+### Quzeyxırman (Guzeykhirman)
+
+Code: AZ703020, Coordinates: 39.737, 47.034
+
+
+### Quzumkənd (Guzumkend)
+
+Code: AZ703061, Coordinates: 39.744, 46.994
+
+
+### Hadrut
+
+Code: AZ703011, Coordinates: 39.52, 47.033
+
+
+### Heşan (Heshan)
+
+Code: AZ703070, Coordinates: 39.846, 46.996
+
+
+### Hünərli (Hunarli)
+
+Code: AZ703054, Coordinates: 39.57, 46.986
+
+
+### Cəmiyyət (Jamiyyat)
+
+Code: AZ703066, Coordinates: 39.79, 46.898
+
+
+### Cilən (Jilan)
+
+Code: AZ703037, Coordinates: 39.436, 46.97
+
+
+### Cütcü (Jutju)
+
+Code: AZ703060, Coordinates: 39.697, 47.026
+
+
+### Kəndxurd (Kendkhurd)
+
+Code: AZ703026, Coordinates: 39.78, 46.964
+
+
+### Xanoba (Khanoba)
+
+Code: AZ703075, Coordinates: 39.765, 47.041
+
+
+### Xərxan (Kharkhan)
+
+Code: AZ703044, Coordinates: 39.723, 46.944
+
+
+### Xırmancıq (Khirmanjig)
+
+Code: AZ703006, Coordinates: 39.544, 47.091
+
+
+### Xocavənd (Khojavand)
+
+Code: AZ703082, Coordinates: 39.79, 47.1
+
+
+### XOCAVƏND (KHOJAVAND)
+
+Code: AZ703015, Coordinates: 39.793, 47.107
+
+
+### Kiş (Kish)
+
+Code: AZ703014, Coordinates: 39.777, 47.022
+
+
+### Köhnə Tağlar (Kohne Taghlar)
+
+Code: AZ703048, Coordinates: 39.51, 46.825
+
+
+### Kuropatkino
+
+Code: AZ703017, Coordinates: 39.837, 47.162
+
+
+### Məlikcanlı (Malikjanli)
+
+Code: AZ703008, Coordinates: 39.528, 47.08
+
+
+### Məmməddərə (Mammaddere)
+
+Code: AZ703053, Coordinates: 39.574, 47.002
+
+
+### Mirikənd (Mirikend)
+
+Code: AZ703067, Coordinates: 39.844, 46.924
+
+
+### Muğanlı (Mughanli)
+
+Code: AZ703016, Coordinates: 39.83, 47.139
+
+
+### Mülküdərə (Mulkudere)
+
+Code: AZ703033, Coordinates: 39.474, 46.932
+
+
+### Müşkapat (Mushkapat)
+
+Code: AZ703025, Coordinates: 39.771, 46.982
+
+
+### Salakətin (Salakatin)
+
+Code: AZ703030, Coordinates: 39.628, 46.996
+
+
+### Şahyeri (Shahyeri)
+
+Code: AZ703079, Coordinates: 39.514, 46.983
+
+
+### Şexer (Shekher)
+
+Code: AZ703029, Coordinates: 39.647, 46.977
+
+
+### Şıx Dursun (Shikh Dursun)
+
+Code: AZ703059, Coordinates: 39.694, 46.945
+
+
+### Sor
+
+Code: AZ703077, Coordinates: 39.489, 47.023
+
+
+### Sos
+
+Code: AZ703021, Coordinates: 39.712, 47.008
+
+
+### Susanlıq (Susanlig)
+
+Code: AZ703032, Coordinates: 39.57, 46.93
+
+
+### Tağaser (Taghaser)
+
+Code: AZ703010, Coordinates: 39.52, 47.011
+
+
+### Tağaverd (Taghavard)
+
+Code: AZ703023, Coordinates: 39.668, 46.909
+
+
+### Tuğ (Tugh)
+
+Code: AZ703039, Coordinates: 39.587, 46.967
+
+
+### Yemişcan (Yemishjan)
+
+Code: AZ703071, Coordinates: 39.831, 47.008
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ703069, Coordinates: 39.85, 46.98
+
+
+### Zərdanaşen (Zardanashen)
+
+Code: AZ703022, Coordinates: 39.669, 46.881
+
+
+### Zavadıx (Zavadikh)
+
+Code: AZ703043, Coordinates: 39.721, 46.955
+
+
+### Zoğalbulaq (Zoghalbulag)
+
+Code: AZ703056, Coordinates: 39.626, 47.002
+
+

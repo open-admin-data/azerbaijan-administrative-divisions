@@ -1,0 +1,45 @@
+{
+  "id": "AZ612002",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "İmarət Qərvənd",
+    "en": "Imarat Garvand",
+    "slug": "imarat-garvand"
+  },
+  "code": {
+    "id": "AZ612002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ612",
+    "level": 1,
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.161",
+    "lon": "46.433"
+  },
+  "metadata": {},
+  "source": {}
+}

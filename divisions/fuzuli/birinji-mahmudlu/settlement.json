@@ -1,0 +1,45 @@
+{
+  "id": "AZ606069",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Birinci Mahmudlu",
+    "en": "Birinji Mahmudlu",
+    "slug": "birinji-mahmudlu"
+  },
+  "code": {
+    "id": "AZ606069",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.543",
+    "lon": "47.559"
+  },
+  "metadata": {},
+  "source": {}
+}

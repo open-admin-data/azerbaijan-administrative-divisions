@@ -1,0 +1,45 @@
+{
+  "id": "AZ508023",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Üçbulaq",
+    "en": "Uchbulag",
+    "slug": "uchbulag"
+  },
+  "code": {
+    "id": "AZ508023",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ508",
+    "level": 1,
+    "name": {
+      "local": "Göygöl",
+      "en": "Goygol",
+      "slug": "goygol"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.517",
+    "lon": "46.285"
+  },
+  "metadata": {},
+  "source": {}
+}

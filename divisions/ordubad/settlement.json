@@ -1,0 +1,2117 @@
+[
+  {
+    "id": "AZ107012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    },
+    "code": {
+      "id": "AZ107012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.11",
+      "lon": "45.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağrı",
+      "en": "Aghri",
+      "slug": "aghri"
+    },
+    "code": {
+      "id": "AZ107034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.925",
+      "lon": "45.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ələhi",
+      "en": "Alahi",
+      "slug": "alahi"
+    },
+    "code": {
+      "id": "AZ107016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.174",
+      "lon": "45.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Anabad",
+      "en": "Anabad",
+      "slug": "anabad"
+    },
+    "code": {
+      "id": "AZ107041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.932",
+      "lon": "46.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Anaqut",
+      "en": "Anagut",
+      "slug": "anagut"
+    },
+    "code": {
+      "id": "AZ107028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.981",
+      "lon": "45.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Əndəmic",
+      "en": "Ashaghi Andamij",
+      "slug": "ashaghi-andamij"
+    },
+    "code": {
+      "id": "AZ107043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.927",
+      "lon": "46.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Əylis",
+      "en": "Ashaghi Aylis",
+      "slug": "ashaghi-aylis"
+    },
+    "code": {
+      "id": "AZ107037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.926",
+      "lon": "45.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aza",
+      "en": "Aza",
+      "slug": "aza"
+    },
+    "code": {
+      "id": "AZ107021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.93",
+      "lon": "45.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azadkənd",
+      "en": "Azadkend",
+      "slug": "azadkend"
+    },
+    "code": {
+      "id": "AZ107019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.918",
+      "lon": "45.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baş Dizə",
+      "en": "Bash Diza",
+      "slug": "bash-diza"
+    },
+    "code": {
+      "id": "AZ107025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.989",
+      "lon": "45.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Başkənd",
+      "en": "Bashkend",
+      "slug": "bashkend"
+    },
+    "code": {
+      "id": "AZ107031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.961",
+      "lon": "45.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Behrud",
+      "en": "Behrud",
+      "slug": "behrud"
+    },
+    "code": {
+      "id": "AZ107004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.075",
+      "lon": "45.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biləv",
+      "en": "Bilav",
+      "slug": "bilav"
+    },
+    "code": {
+      "id": "AZ107003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.077",
+      "lon": "45.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bist",
+      "en": "Bist",
+      "slug": "bist"
+    },
+    "code": {
+      "id": "AZ107014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.15",
+      "lon": "45.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çənnəb",
+      "en": "Channab",
+      "slug": "channab"
+    },
+    "code": {
+      "id": "AZ107009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.017",
+      "lon": "45.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Darkənd",
+      "en": "Darkend",
+      "slug": "darkend"
+    },
+    "code": {
+      "id": "AZ107020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.93",
+      "lon": "45.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəstə",
+      "en": "Dasta",
+      "slug": "dasta"
+    },
+    "code": {
+      "id": "AZ107036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.886",
+      "lon": "45.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dırnıs",
+      "en": "Dirnis",
+      "slug": "dirnis"
+    },
+    "code": {
+      "id": "AZ107027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.989",
+      "lon": "45.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dizə",
+      "en": "Diza",
+      "slug": "diza"
+    },
+    "code": {
+      "id": "AZ107033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.932",
+      "lon": "45.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Düylün",
+      "en": "Duylun",
+      "slug": "duylun"
+    },
+    "code": {
+      "id": "AZ107026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.955",
+      "lon": "45.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gənzə",
+      "en": "Ganza",
+      "slug": "ganza"
+    },
+    "code": {
+      "id": "AZ107040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.942",
+      "lon": "46.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gilançay",
+      "en": "Gilanchay",
+      "slug": "gilanchay"
+    },
+    "code": {
+      "id": "AZ107002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.01",
+      "lon": "45.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoruqlar",
+      "en": "Goruglar",
+      "slug": "goruglar"
+    },
+    "code": {
+      "id": "AZ107029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.967",
+      "lon": "45.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qoşadizə",
+      "en": "Goshadiza",
+      "slug": "goshadiza"
+    },
+    "code": {
+      "id": "AZ107024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.953",
+      "lon": "45.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kələki",
+      "en": "Kalaki",
+      "slug": "kalaki"
+    },
+    "code": {
+      "id": "AZ107010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.004",
+      "lon": "45.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kələntər Dizə",
+      "en": "Kalantar Diza",
+      "slug": "kalantar-diza"
+    },
+    "code": {
+      "id": "AZ107022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.94",
+      "lon": "45.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanağa",
+      "en": "Khanagha",
+      "slug": "khanagha"
+    },
+    "code": {
+      "id": "AZ107035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.914",
+      "lon": "45.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xurs",
+      "en": "Khurs",
+      "slug": "khurs"
+    },
+    "code": {
+      "id": "AZ107017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.205",
+      "lon": "45.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107046",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kilit",
+      "en": "Kilit",
+      "slug": "kilit"
+    },
+    "code": {
+      "id": "AZ107046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.88",
+      "lon": "46.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kotam",
+      "en": "Kotam",
+      "slug": "kotam"
+    },
+    "code": {
+      "id": "AZ107045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.891",
+      "lon": "46.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məzrə",
+      "en": "Mazra",
+      "slug": "mazra"
+    },
+    "code": {
+      "id": "AZ107007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.056",
+      "lon": "45.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nəsirvaz",
+      "en": "Nasirvaz",
+      "slug": "nasirvaz"
+    },
+    "code": {
+      "id": "AZ107015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.169",
+      "lon": "45.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nürgüt",
+      "en": "Nurgut",
+      "slug": "nurgut"
+    },
+    "code": {
+      "id": "AZ107018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.223",
+      "lon": "45.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nüsnüs",
+      "en": "Nusnus",
+      "slug": "nusnus"
+    },
+    "code": {
+      "id": "AZ107039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.957",
+      "lon": "46.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "ORDUBAD",
+      "en": "ORDUBAD",
+      "slug": "ordubad"
+    },
+    "code": {
+      "id": "AZ107044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.904",
+      "lon": "46.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Parağa",
+      "en": "Paragha",
+      "slug": "paragha"
+    },
+    "code": {
+      "id": "AZ107005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.076",
+      "lon": "45.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Parağaçay",
+      "en": "Paraghachay",
+      "slug": "paraghachay"
+    },
+    "code": {
+      "id": "AZ107006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.097",
+      "lon": "45.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pəzməri",
+      "en": "Pazmari",
+      "slug": "pazmari"
+    },
+    "code": {
+      "id": "AZ107001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.031",
+      "lon": "46.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sabirkənd",
+      "en": "Sabirkend",
+      "slug": "sabirkend"
+    },
+    "code": {
+      "id": "AZ107023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.95",
+      "lon": "45.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107047",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəhriyar",
+      "en": "Shahriyar",
+      "slug": "shahriyar"
+    },
+    "code": {
+      "id": "AZ107047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.879",
+      "lon": "46.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tivi",
+      "en": "Tivi",
+      "slug": "tivi"
+    },
+    "code": {
+      "id": "AZ107013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.126",
+      "lon": "45.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Unus",
+      "en": "Unus",
+      "slug": "unus"
+    },
+    "code": {
+      "id": "AZ107011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.012",
+      "lon": "45.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üstüpü",
+      "en": "Ustupu",
+      "slug": "ustupu"
+    },
+    "code": {
+      "id": "AZ107008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.031",
+      "lon": "45.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vələver",
+      "en": "Valaver",
+      "slug": "valaver"
+    },
+    "code": {
+      "id": "AZ107030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.955",
+      "lon": "45.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vənənd",
+      "en": "Vanand",
+      "slug": "vanand"
+    },
+    "code": {
+      "id": "AZ107032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.944",
+      "lon": "45.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Əndəmic",
+      "en": "Yukhari Andamij",
+      "slug": "yukhari-andamij"
+    },
+    "code": {
+      "id": "AZ107042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.939",
+      "lon": "46.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ107038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Əylis",
+      "en": "Yukhari Aylis",
+      "slug": "yukhari-aylis"
+    },
+    "code": {
+      "id": "AZ107038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ107",
+        "level": 1,
+        "name": {
+          "local": "Ordubad",
+          "en": "Ordubad",
+          "slug": "ordubad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.95",
+      "lon": "45.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

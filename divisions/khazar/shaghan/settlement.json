@@ -1,0 +1,45 @@
+{
+  "id": "AZ100308",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Şağan",
+    "en": "Shaghan",
+    "slug": "shaghan"
+  },
+  "code": {
+    "id": "AZ100308",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1003",
+    "level": 1,
+    "name": {
+      "local": "Xəzər",
+      "en": "Khazar",
+      "slug": "khazar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1003",
+      "level": 1,
+      "name": {
+        "local": "Xəzər",
+        "en": "Khazar",
+        "slug": "khazar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.497",
+    "lon": "50.122"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,179 @@
+# Oghuz — Azerbaijan Administrative Divisions
+
+> 34 settlements
+> Code: AZ405
+> Coordinates: 40.99, 47.514
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Settlements
+
+### Abdallı (Abdalli)
+
+Code: AZ405034, Coordinates: 41.071, 47.599
+
+
+### Ərmənət (Armanat)
+
+Code: AZ405009, Coordinates: 41.063, 47.569
+
+
+### Baş Daşağıl (Bash Dashaghil)
+
+Code: AZ405001, Coordinates: 41.167, 47.421
+
+
+### Bayan
+
+Code: AZ405005, Coordinates: 41.022, 47.451
+
+
+### Böyük Söyüdlü (Boyuk Soyudlu)
+
+Code: AZ405030, Coordinates: 40.867, 47.54
+
+
+### Bucaq (Bujag)
+
+Code: AZ405004, Coordinates: 41.079, 47.369
+
+
+### Çaldaş (Chaldash)
+
+Code: AZ405032, Coordinates: 40.784, 47.554
+
+
+### Çayqovuşan (Chaygovushan)
+
+Code: AZ405031, Coordinates: 40.789, 47.576
+
+
+### Dəymədağlı (Daymadaghli)
+
+Code: AZ405025, Coordinates: 40.944, 47.607
+
+
+### Dəymədərə (Daymadere)
+
+Code: AZ405023, Coordinates: 40.951, 47.549
+
+
+### Filfili
+
+Code: AZ405008, Coordinates: 41.116, 47.597
+
+
+### Qarabaldır (Garabaldir)
+
+Code: AZ405019, Coordinates: 40.979, 47.44
+
+
+### Qarabulaq (Garabulag)
+
+Code: AZ405029, Coordinates: 40.874, 47.578
+
+
+### Qumlaq (Gumlag)
+
+Code: AZ405006, Coordinates: 41.023, 47.487
+
+
+### Hallavar
+
+Code: AZ405033, Coordinates: 41.036, 47.485
+
+
+### Calut (Jalut)
+
+Code: AZ405003, Coordinates: 41.077, 47.424
+
+
+### Kərimli (Karimli)
+
+Code: AZ405020, Coordinates: 40.975, 47.483
+
+
+### Xaçmaz (Khachmaz)
+
+Code: AZ405014, Coordinates: 41.042, 47.603
+
+
+### Xaçmazqışlaq (Khachmazgishlag)
+
+Code: AZ405028, Coordinates: 40.984, 47.605
+
+
+### Xalxal (Khalkhal)
+
+Code: AZ405010, Coordinates: 41.078, 47.54
+
+
+### Xalxalqışlaq (Khalkhalgishlag)
+
+Code: AZ405011, Coordinates: 41.046, 47.51
+
+
+### Mollalı (Mollali)
+
+Code: AZ405027, Coordinates: 40.966, 47.634
+
+
+### Muxas (Mukhas)
+
+Code: AZ405002, Coordinates: 41.103, 47.385
+
+
+### OĞUZ (OGHUZ)
+
+Code: AZ405007, Coordinates: 41.069, 47.465
+
+
+### Padar
+
+Code: AZ405022, Coordinates: 40.961, 47.515
+
+
+### Şirvanlı (Shirvanli)
+
+Code: AZ405012, Coordinates: 41.018, 47.503
+
+
+### Sincan (Sinjan)
+
+Code: AZ405024, Coordinates: 40.943, 47.584
+
+
+### Tərkeş (Tarkesh)
+
+Code: AZ405026, Coordinates: 40.927, 47.595
+
+
+### Tayıflı (Tayifli)
+
+Code: AZ405013, Coordinates: 41.006, 47.511
+
+
+### Top
+
+Code: AZ405016, Coordinates: 40.94, 47.426
+
+
+### Yaqublu (Yagublu)
+
+Code: AZ405017, Coordinates: 40.924, 47.461
+
+
+### Yemişanlı (Yemishanli)
+
+Code: AZ405021, Coordinates: 40.979, 47.533
+
+
+### Yenikənd (Yenikend)
+
+Code: AZ405018, Coordinates: 40.924, 47.472
+
+
+### Zərrab (Zarrab)
+
+Code: AZ405015, Coordinates: 40.939, 47.418
+
+

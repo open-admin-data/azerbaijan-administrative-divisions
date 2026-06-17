@@ -1,0 +1,45 @@
+{
+  "id": "AZ609053",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Orta Güneypəyə",
+    "en": "Orta Guneypeye",
+    "slug": "orta-guneypeye"
+  },
+  "code": {
+    "id": "AZ609053",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ612",
+    "level": 1,
+    "name": {
+      "local": "Ağdərə",
+      "en": "Aghdere",
+      "slug": "aghdere"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ612",
+      "level": 1,
+      "name": {
+        "local": "Ağdərə",
+        "en": "Aghdere",
+        "slug": "aghdere"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.092",
+    "lon": "46.727"
+  },
+  "metadata": {},
+  "source": {}
+}

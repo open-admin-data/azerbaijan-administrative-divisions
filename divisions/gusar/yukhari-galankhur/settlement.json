@@ -1,0 +1,45 @@
+{
+  "id": "AZ301047",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Qələnxur",
+    "en": "Yukhari Galankhur",
+    "slug": "yukhari-galankhur"
+  },
+  "code": {
+    "id": "AZ301047",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ301",
+    "level": 1,
+    "name": {
+      "local": "Qusar",
+      "en": "Gusar",
+      "slug": "gusar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ301",
+      "level": 1,
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.492",
+    "lon": "48.129"
+  },
+  "metadata": {},
+  "source": {}
+}

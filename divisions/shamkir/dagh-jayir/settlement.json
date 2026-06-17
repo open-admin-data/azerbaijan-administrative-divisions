@@ -1,0 +1,45 @@
+{
+  "id": "AZ504012",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Dağ Cəyir",
+    "en": "Dagh Jayir",
+    "slug": "dagh-jayir"
+  },
+  "code": {
+    "id": "AZ504012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ504",
+    "level": 1,
+    "name": {
+      "local": "Şəmkir",
+      "en": "Shamkir",
+      "slug": "shamkir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ504",
+      "level": 1,
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.703",
+    "lon": "45.926"
+  },
+  "metadata": {},
+  "source": {}
+}

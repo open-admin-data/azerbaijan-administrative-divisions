@@ -2,81 +2,91 @@
 
 [Home](../)
 
-**74 districts**.
+**84 districts**, **4,587 settlements**.
 
-| # | District | Coordinates | Link |
-|---|----|-------------|------|
-| 1 | Sumqayıt (Sumgait) | 40.601, 49.605 | [Browse](sumgait-az30900002/) |
-| 2 | Abşeron (Absheron) | 40.295, 49.187 | [Browse](absheron-az30800001/) |
-| 3 | Xızı (Khizy) | 40.743, 49.191 | [Browse](khizy-az30600001/) |
-| 4 | Beyləqan (Beylagan) | 39.835, 47.625 | [Browse](beylagan-az60700001/) |
-| 5 | Neftçala (Neftchala) | 39.337, 49.054 | [Browse](neftchala-az80700001/) |
-| 6 | Ucar (Ujar) | 40.416, 47.744 | [Browse](ujar-az90400001/) |
-| 7 | Saatlı (Saatly) | 39.808, 48.455 | [Browse](saatly-az90800001/) |
-| 8 | Bərdə (Barda) | 40.348, 47.17 | [Browse](barda-az61000001/) |
-| 9 | Ağdaş (Agdash) | 40.539, 47.355 | [Browse](agdash-az90300001/) |
-| 10 | Zərdab (Zardab) | 40.238, 47.697 | [Browse](zardab-az90500001/) |
-| 11 | Mingəçevir (Mingechevir) | 40.752, 46.985 | [Browse](mingechevir-az90200002/) |
-| 12 | Şirvan (Shirvan) | 39.948, 48.922 | [Browse](shirvan-az91100002/) |
-| 13 | Sabirabad | 39.864, 48.786 | [Browse](sabirabad-az90900001/) |
-| 14 | Biləsuvar (Bilasuvar) | 39.509, 48.462 | [Browse](bilasuvar-az80800001/) |
-| 15 | Ağcabədi (Agdjabadi) | 39.979, 47.38 | [Browse](agdjabadi-az60800001/) |
-| 16 | Salyan | 39.632, 49.107 | [Browse](salyan-az80900001/) |
-| 17 | Hacıqabul (Hajigabul) | 40.079, 48.929 | [Browse](hajigabul-az91000001/) |
-| 18 | İmişli (Imishly) | 39.848, 47.986 | [Browse](imishly-az90700001/) |
-| 19 | Kürdəmir (Kurdamir) | 40.249, 48.193 | [Browse](kurdamir-az90600001/) |
-| 20 | Göyçay (Goychay) | 40.561, 47.81 | [Browse](goychay-az40800001/) |
-| 21 | Yevlax (Yevlakh) | 40.692, 47.019 | [Browse](yevlakh-az90101002/) |
-| 22 | Bakı (Baku) | 40.128, 49.419 | [Browse](baku-az00000003/) |
-| 23 | Göygöl (Goygol) | 40.553, 46.347 | [Browse](goygol-az50800001/) |
-| 24 | Samux (Samukh) | 40.939, 46.504 | [Browse](samukh-az50700001/) |
-| 25 | Ağstafa (Aghstafa) | 41.218, 45.567 | [Browse](aghstafa-az50200001/) |
-| 26 | Gəncə (Ganja) | 40.681, 46.322 | [Browse](ganja-az20000002/) |
-| 27 | Naftalan | 40.44, 46.776 | [Browse](naftalan-az51000002/) |
-| 28 | Qazax (Gazakh) | 41.179, 45.268 | [Browse](gazakh-az50100001/) |
-| 29 | Goranboy | 40.605, 46.692 | [Browse](goranboy-az50900001/) |
-| 30 | Gədəbəy (Gadabay) | 40.568, 45.672 | [Browse](gadabay-az50500001/) |
-| 31 | Şəmkir (Shamkir) | 40.843, 45.998 | [Browse](shamkir-az50400001/) |
-| 32 | Tovuz | 40.916, 45.664 | [Browse](tovuz-az50300001/) |
-| 33 | Daşkəsən (Dashkasan) | 40.478, 45.986 | [Browse](dashkasan-az50600001/) |
-| 34 | Zəngilan (Zangilan) | 39.05, 46.657 | [Browse](zangilan-az60400001/) |
-| 35 | Laçın (Lachin) | 39.698, 46.315 | [Browse](lachin-az60200001/) |
-| 36 | Kəlbəcər (Kalbajar) | 40.061, 46.311 | [Browse](kalbajar-az60100001/) |
-| 37 | Qubadlı (Gubadly) | 39.301, 46.637 | [Browse](gubadly-az60300001/) |
-| 38 | Lənkəran (Lankaran) | 38.736, 48.767 | [Browse](lankaran-az80201002/) |
-| 39 | Lerik | 38.716, 48.463 | [Browse](lerik-az80300001/) |
-| 40 | Yardımlı (Yardimly) | 38.877, 48.214 | [Browse](yardimly-az80400001/) |
-| 41 | Masallı (Masally) | 38.991, 48.697 | [Browse](masally-az80500001/) |
-| 42 | Astara | 38.501, 48.717 | [Browse](astara-az80100001/) |
-| 43 | Cəlilabad (Jalilabad) | 39.202, 48.448 | [Browse](jalilabad-az80600001/) |
-| 44 | Qobustan (Gobustan) | 40.525, 48.968 | [Browse](gobustan-az30700001/) |
-| 45 | İsmayıllı (Ismayilly) | 40.788, 48.162 | [Browse](ismayilly-az40700001/) |
-| 46 | Ağsu (Aghsu) | 40.536, 48.308 | [Browse](aghsu-az40900001/) |
-| 47 | Şamaxı (Shamakhy) | 40.605, 48.568 | [Browse](shamakhy-az41000001/) |
-| 48 | Şahbuz (Shahbuz) | 39.446, 45.597 | [Browse](shahbuz-az10500001/) |
-| 49 | Culfa (Julfa) | 39.149, 45.667 | [Browse](julfa-az10600001/) |
-| 50 | Sədərək (Sadarak) | 39.68, 44.835 | [Browse](sadarak-az10100001/) |
-| 51 | Babək (Babek) | 39.262, 45.419 | [Browse](babek-az10300001/) |
-| 52 | Ordubad | 39.073, 45.901 | [Browse](ordubad-az10700001/) |
-| 53 | Kəngərli (Kengerli) | 39.409, 45.193 | [Browse](kengerli-az10800001/) |
-| 54 | Naxçıvan (Nakhchivan) | 39.21, 45.385 | [Browse](nakhchivan-az10400002/) |
-| 55 | Şərur (Sharur) | 39.584, 45.054 | [Browse](sharur-az10200001/) |
-| 56 | Xaçmaz (Khachmaz) | 41.617, 48.663 | [Browse](khachmaz-az30200001/) |
-| 57 | Siyəzən (Siyazan) | 41.03, 49.049 | [Browse](siyazan-az30500001/) |
-| 58 | Quba (Guba) | 41.19, 48.327 | [Browse](guba-az30300001/) |
-| 59 | Qusar (Gusar) | 41.442, 48.239 | [Browse](gusar-az30100001/) |
-| 60 | Şabran (Shabran) | 41.113, 48.796 | [Browse](shabran-az30400001/) |
-| 61 | Balakən (Balakan) | 41.728, 46.452 | [Browse](balakan-az40100001/) |
-| 62 | Şəki (Shaki) | 41.12, 47.078 | [Browse](shaki-az40401002/) |
-| 63 | Qəbələ (Gabala) | 40.929, 47.789 | [Browse](gabala-az40600001/) |
-| 64 | Qax (Gakh) | 41.249, 46.759 | [Browse](gakh-az40300001/) |
-| 65 | Zaqatala (Zagatala) | 41.617, 46.763 | [Browse](zagatala-az40200001/) |
-| 66 | Oğuz (Oghuz) | 41.037, 47.462 | [Browse](oghuz-az40500001/) |
-| 67 | Füzuli (Fuzuli) | 39.546, 47.355 | [Browse](fuzuli-az60600001/) |
-| 68 | Şuşa (Shusha) | 39.68, 46.665 | [Browse](shusha-az70200001/) |
-| 69 | Tərtər (Tartar) | 40.257, 46.789 | [Browse](tartar-az61100001/) |
-| 70 | Xocavənd (Khojavand) | 39.629, 46.934 | [Browse](khojavand-az70300001/) |
-| 71 | Ağdam (Aghdam) | 40.008, 46.904 | [Browse](aghdam-az60900001/) |
-| 72 | Xocalı (Khojaly) | 39.824, 46.631 | [Browse](khojaly-az70100001/) |
-| 73 | Cəbrayıl (Jabrayil) | 39.308, 46.964 | [Browse](jabrayil-az60500001/) |
-| 74 | Xankəndi (Khankendi) | 39.827, 46.778 | [Browse](khankendi-az70400002/) |
+| # | District | Settlements | Coordinates | Link |
+|---|----|----|-------------|------|
+| 1 | Binəqədi (Binagadi) | 6 | 40.444, 49.773 | [Browse](binagadi/) |
+| 2 | Qaradağ (Garadagh) | 21 | 40.174, 49.527 | [Browse](garadagh/) |
+| 3 | Xəzər (Khazar) | 8 | 40.451, 50.17 | [Browse](khazar/) |
+| 4 | Xətai (Khatai) | 1 | 40.373, 49.957 | [Browse](khatai/) |
+| 5 | Səbail (Sebail) | 2 | 40.321, 49.818 | [Browse](sebail/) |
+| 6 | Sabunçu (Sabunchu) | 9 | 40.509, 49.958 | [Browse](sabunchu/) |
+| 7 | Suraxanı (Surakhani) | 7 | 40.411, 50.008 | [Browse](surakhani/) |
+| 8 | Sədərək (Sadarak) | 5 | 39.711, 44.904 | [Browse](sadarak/) |
+| 9 | Nizami | 1 | 40.396, 49.896 | [Browse](nizami/) |
+| 10 | Pirallahı (Pirallahi) | 4 | 40.356, 50.526 | [Browse](pirallahi/) |
+| 11 | Şərur (Sharur) | 65 | 39.543, 45.015 | [Browse](sharur/) |
+| 12 | Babək (Babak) | 36 | 39.28, 45.464 | [Browse](babak/) |
+| 13 | Naxçıvan (Nakhchivan) | 7 | 39.192, 45.4 | [Browse](nakhchivan/) |
+| 14 | Şahbuz (Shahbuz) | 24 | 39.436, 45.61 | [Browse](shahbuz/) |
+| 15 | Culfa (Julfa) | 23 | 39.147, 45.701 | [Browse](julfa/) |
+| 16 | Ordubad | 47 | 38.996, 45.931 | [Browse](ordubad/) |
+| 17 | Kəngərli (Kangarli) | 11 | 39.386, 45.194 | [Browse](kangarli/) |
+| 18 | Gəncə (Ganja) | 6 | 40.703, 46.37 | [Browse](ganja/) |
+| 19 | Gəncə (Ganja) | 2 | 40.465, 46.332 | [Browse](ganja/) |
+| 20 | Qusar (Gusar) | 90 | 41.511, 48.368 | [Browse](gusar/) |
+| 21 | Xaçmaz (Khachmaz) | 151 | 41.541, 48.751 | [Browse](khachmaz/) |
+| 22 | Quba (Guba) | 157 | 41.264, 48.564 | [Browse](guba/) |
+| 23 | Şabran (Shabran) | 69 | 41.203, 48.886 | [Browse](shabran/) |
+| 24 | Siyəzən (Siyazan) | 34 | 41.039, 49.054 | [Browse](siyazan/) |
+| 25 | Xızı (Khizi) | 29 | 40.841, 49.13 | [Browse](khizi/) |
+| 26 | Qobustan (Gobustan) | 33 | 40.534, 48.909 | [Browse](gobustan/) |
+| 27 | Abşeron (Absheron) | 17 | 40.493, 49.725 | [Browse](absheron/) |
+| 28 | Sumqayıt (Sumgayit) | 2 | 40.594, 49.641 | [Browse](sumgayit/) |
+| 29 | Balakən (Balakan) | 59 | 41.685, 46.352 | [Browse](balakan/) |
+| 30 | Zaqatala (Zagatala) | 62 | 41.564, 46.603 | [Browse](zagatala/) |
+| 31 | Qax (Gakh) | 59 | 41.386, 46.844 | [Browse](gakh/) |
+| 32 | Şəki (Shaki) | 71 | 41.111, 47.165 | [Browse](shaki/) |
+| 33 | Oğuz (Oghuz) | 34 | 40.99, 47.514 | [Browse](oghuz/) |
+| 34 | Qəbələ (Gabala) | 64 | 40.903, 47.776 | [Browse](gabala/) |
+| 35 | İsmayıllı (Ismayilli) | 108 | 40.773, 48.213 | [Browse](ismayilli/) |
+| 36 | Göyçay (Goychay) | 56 | 40.583, 47.798 | [Browse](goychay/) |
+| 37 | Ağsu (Aghsu) | 80 | 40.548, 48.367 | [Browse](aghsu/) |
+| 38 | Şamaxı (Shamakhi) | 63 | 40.644, 48.629 | [Browse](shamakhi/) |
+| 39 | Qazax (Gazakh) | 34 | 41.115, 45.228 | [Browse](gazakh/) |
+| 40 | Ağstafa (Aghstafa) | 39 | 41.182, 45.395 | [Browse](aghstafa/) |
+| 41 | Tovuz | 104 | 40.815, 45.627 | [Browse](tovuz/) |
+| 42 | Şəmkir (Shamkir) | 66 | 40.813, 46.039 | [Browse](shamkir/) |
+| 43 | Gədəbəy (Gadabey) | 109 | 40.608, 45.654 | [Browse](gadabey/) |
+| 44 | Daşkəsən (Dashkasan) | 49 | 40.483, 46.061 | [Browse](dashkasan/) |
+| 45 | Samux (Samukh) | 35 | 40.839, 46.383 | [Browse](samukh/) |
+| 46 | Göygöl (Goygol) | 45 | 40.58, 46.309 | [Browse](goygol/) |
+| 47 | Goranboy | 87 | 40.6, 46.668 | [Browse](goranboy/) |
+| 48 | Naftalan | 3 | 40.5, 46.815 | [Browse](naftalan/) |
+| 49 | Kəlbəcər (Kalbajar) | 126 | 40.1, 46.122 | [Browse](kalbajar/) |
+| 50 | Laçın (Lachin) | 127 | 39.712, 46.464 | [Browse](lachin/) |
+| 51 | Qubadlı (Gubadli) | 94 | 39.335, 46.613 | [Browse](gubadli/) |
+| 52 | Zəngilan (Zangilan) | 85 | 39.11, 46.639 | [Browse](zangilan/) |
+| 53 | Cəbrayıl (Jabrayil) | 97 | 39.354, 47.012 | [Browse](jabrayil/) |
+| 54 | Füzuli (Fuzuli) | 100 | 39.573, 47.279 | [Browse](fuzuli/) |
+| 55 | Beyləqan (Beylagan) | 42 | 39.76, 47.692 | [Browse](beylagan/) |
+| 56 | Ağcabədi (Aghjabadi) | 46 | 40.038, 47.277 | [Browse](aghjabadi/) |
+| 57 | Ağdam (Aghdam) | 129 | 40.075, 47.004 | [Browse](aghdam/) |
+| 58 | Bərdə (Barda) | 111 | 40.363, 47.17 | [Browse](barda/) |
+| 59 | Tərtər (Tartar) | 50 | 40.354, 46.985 | [Browse](tartar/) |
+| 60 | Ağdərə (Aghdere) | 59 | 40.167, 46.679 | [Browse](aghdere/) |
+| 61 | Xocalı (Khojali) | 52 | 39.864, 46.779 | [Browse](khojali/) |
+| 62 | Şuşa (Shusha) | 39 | 39.754, 46.659 | [Browse](shusha/) |
+| 63 | Xocavənd (Khojavand) | 83 | 39.647, 46.987 | [Browse](khojavand/) |
+| 64 | Xankəndi (Khankendi) | 2 | 39.808, 46.744 | [Browse](khankendi/) |
+| 65 | Astara | 92 | 38.551, 48.741 | [Browse](astara/) |
+| 66 | Lənkəran (Lankaran) | 93 | 38.757, 48.76 | [Browse](lankaran/) |
+| 67 | Lerik | 162 | 38.746, 48.461 | [Browse](lerik/) |
+| 68 | Yardımlı (Yardimli) | 88 | 38.923, 48.283 | [Browse](yardimli/) |
+| 69 | Masallı (Masalli) | 103 | 39.015, 48.674 | [Browse](masalli/) |
+| 70 | Cəlilabad (Jalilabad) | 121 | 39.199, 48.398 | [Browse](jalilabad/) |
+| 71 | Neftçala (Neftchala) | 52 | 39.383, 49.069 | [Browse](neftchala/) |
+| 72 | Biləsuvar (Bilasuvar) | 26 | 39.462, 48.528 | [Browse](bilasuvar/) |
+| 73 | Salyan | 51 | 39.667, 48.983 | [Browse](salyan/) |
+| 74 | Yevlax (Yevlakh) | 50 | 40.637, 47.105 | [Browse](yevlakh/) |
+| 75 | Mingəçevir (Mingachevir) | 1 | 40.773, 46.987 | [Browse](mingachevir/) |
+| 76 | Ağdaş (Aghdash) | 74 | 40.608, 47.441 | [Browse](aghdash/) |
+| 77 | Ucar (Ujar) | 30 | 40.46, 47.706 | [Browse](ujar/) |
+| 78 | Zərdab (Zardab) | 42 | 40.213, 47.684 | [Browse](zardab/) |
+| 79 | Kürdəmir (Kurdamir) | 62 | 40.256, 48.203 | [Browse](kurdamir/) |
+| 80 | İmişli (Imishli) | 51 | 39.858, 48.072 | [Browse](imishli/) |
+| 81 | Saatlı (Saatli) | 44 | 39.902, 48.436 | [Browse](saatli/) |
+| 82 | Sabirabad | 75 | 39.961, 48.656 | [Browse](sabirabad/) |
+| 83 | Hacıqabul (Hajigabul) | 31 | 40.101, 48.893 | [Browse](hajigabul/) |
+| 84 | Şirvan (Shirvan) | 3 | 39.92, 48.917 | [Browse](shirvan/) |

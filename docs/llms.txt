@@ -1,12 +1,13 @@
 # Azerbaijan Administrative Divisions
 
 > Open dataset of Azerbaijan's administrative hierarchy:
-> 74 districts.
+> 84 districts, 4,587 settlements.
 > CC-BY-4.0 licensed.
 
 ## Quick Reference
 
-- Total districts: 74
+- Total districts: 84
+- Total settlements: 4,587
 - Coordinates: included (all levels)
 - Last updated: 2026-06-17
 - License: CC-BY-4.0
@@ -14,168 +15,189 @@
 ## Aggregate Data Files
 
 - [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/data/all-district.json)
+- [All settlements (JSON)](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/data/all-settlement.json)
 - [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/data/all-flat.ndjson)
 - [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/data/hierarchy.json)
 - [JSON Schema](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/data/schema.json)
 
 ## Browse by District
 
-- [Sumgait](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/sumgait-az30900002/) — 
-- [Absheron](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/absheron-az30800001/) — 
-- [Khizy](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khizy-az30600001/) — 
-- [Beylagan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/beylagan-az60700001/) — 
-- [Neftchala](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/neftchala-az80700001/) — 
-- [Ujar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/ujar-az90400001/) — 
-- [Saatly](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/saatly-az90800001/) — 
-- [Barda](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/barda-az61000001/) — 
-- [Agdash](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/agdash-az90300001/) — 
-- [Zardab](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/zardab-az90500001/) — 
-- [Mingechevir](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/mingechevir-az90200002/) — 
-- [Shirvan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shirvan-az91100002/) — 
-- [Sabirabad](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/sabirabad-az90900001/) — 
-- [Bilasuvar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/bilasuvar-az80800001/) — 
-- [Agdjabadi](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/agdjabadi-az60800001/) — 
-- [Salyan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/salyan-az80900001/) — 
-- [Hajigabul](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/hajigabul-az91000001/) — 
-- [Imishly](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/imishly-az90700001/) — 
-- [Kurdamir](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/kurdamir-az90600001/) — 
-- [Goychay](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/goychay-az40800001/) — 
-- [Yevlakh](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/yevlakh-az90101002/) — 
-- [Baku](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/baku-az00000003/) — 
-- [Goygol](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/goygol-az50800001/) — 
-- [Samukh](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/samukh-az50700001/) — 
-- [Aghstafa](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/aghstafa-az50200001/) — 
-- [Ganja](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/ganja-az20000002/) — 
-- [Naftalan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/naftalan-az51000002/) — 
-- [Gazakh](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gazakh-az50100001/) — 
-- [Goranboy](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/goranboy-az50900001/) — 
-- [Gadabay](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gadabay-az50500001/) — 
-- [Shamkir](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shamkir-az50400001/) — 
-- [Tovuz](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/tovuz-az50300001/) — 
-- [Dashkasan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/dashkasan-az50600001/) — 
-- [Zangilan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/zangilan-az60400001/) — 
-- [Lachin](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/lachin-az60200001/) — 
-- [Kalbajar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/kalbajar-az60100001/) — 
-- [Gubadly](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gubadly-az60300001/) — 
-- [Lankaran](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/lankaran-az80201002/) — 
-- [Lerik](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/lerik-az80300001/) — 
-- [Yardimly](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/yardimly-az80400001/) — 
-- [Masally](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/masally-az80500001/) — 
-- [Astara](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/astara-az80100001/) — 
-- [Jalilabad](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/jalilabad-az80600001/) — 
-- [Gobustan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gobustan-az30700001/) — 
-- [Ismayilly](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/ismayilly-az40700001/) — 
-- [Aghsu](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/aghsu-az40900001/) — 
-- [Shamakhy](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shamakhy-az41000001/) — 
-- [Shahbuz](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shahbuz-az10500001/) — 
-- [Julfa](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/julfa-az10600001/) — 
-- [Sadarak](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/sadarak-az10100001/) — 
-- [Babek](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/babek-az10300001/) — 
-- [Ordubad](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/ordubad-az10700001/) — 
-- [Kengerli](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/kengerli-az10800001/) — 
-- [Nakhchivan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/nakhchivan-az10400002/) — 
-- [Sharur](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/sharur-az10200001/) — 
-- [Khachmaz](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khachmaz-az30200001/) — 
-- [Siyazan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/siyazan-az30500001/) — 
-- [Guba](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/guba-az30300001/) — 
-- [Gusar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gusar-az30100001/) — 
-- [Shabran](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shabran-az30400001/) — 
-- [Balakan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/balakan-az40100001/) — 
-- [Shaki](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shaki-az40401002/) — 
-- [Gabala](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gabala-az40600001/) — 
-- [Gakh](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gakh-az40300001/) — 
-- [Zagatala](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/zagatala-az40200001/) — 
-- [Oghuz](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/oghuz-az40500001/) — 
-- [Fuzuli](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/fuzuli-az60600001/) — 
-- [Shusha](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shusha-az70200001/) — 
-- [Tartar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/tartar-az61100001/) — 
-- [Khojavand](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khojavand-az70300001/) — 
-- [Aghdam](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/aghdam-az60900001/) — 
-- [Khojaly](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khojaly-az70100001/) — 
-- [Jabrayil](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/jabrayil-az60500001/) — 
-- [Khankendi](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khankendi-az70400002/) — 
+- [Binagadi](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/binagadi/) — 6 settlements
+- [Garadagh](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/garadagh/) — 21 settlements
+- [Khazar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khazar/) — 8 settlements
+- [Khatai](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khatai/) — 1 settlements
+- [Sebail](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/sebail/) — 2 settlements
+- [Sabunchu](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/sabunchu/) — 9 settlements
+- [Surakhani](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/surakhani/) — 7 settlements
+- [Sadarak](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/sadarak/) — 5 settlements
+- [Nizami](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/nizami/) — 1 settlements
+- [Pirallahi](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/pirallahi/) — 4 settlements
+- [Sharur](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/sharur/) — 65 settlements
+- [Babak](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/babak/) — 36 settlements
+- [Nakhchivan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/nakhchivan/) — 7 settlements
+- [Shahbuz](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shahbuz/) — 24 settlements
+- [Julfa](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/julfa/) — 23 settlements
+- [Ordubad](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/ordubad/) — 47 settlements
+- [Kangarli](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/kangarli/) — 11 settlements
+- [Ganja](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/ganja/) — 6 settlements
+- [Ganja](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/ganja/) — 2 settlements
+- [Gusar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gusar/) — 90 settlements
+- [Khachmaz](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khachmaz/) — 151 settlements
+- [Guba](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/guba/) — 157 settlements
+- [Shabran](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shabran/) — 69 settlements
+- [Siyazan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/siyazan/) — 34 settlements
+- [Khizi](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khizi/) — 29 settlements
+- [Gobustan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gobustan/) — 33 settlements
+- [Absheron](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/absheron/) — 17 settlements
+- [Sumgayit](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/sumgayit/) — 2 settlements
+- [Balakan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/balakan/) — 59 settlements
+- [Zagatala](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/zagatala/) — 62 settlements
+- [Gakh](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gakh/) — 59 settlements
+- [Shaki](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shaki/) — 71 settlements
+- [Oghuz](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/oghuz/) — 34 settlements
+- [Gabala](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gabala/) — 64 settlements
+- [Ismayilli](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/ismayilli/) — 108 settlements
+- [Goychay](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/goychay/) — 56 settlements
+- [Aghsu](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/aghsu/) — 80 settlements
+- [Shamakhi](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shamakhi/) — 63 settlements
+- [Gazakh](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gazakh/) — 34 settlements
+- [Aghstafa](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/aghstafa/) — 39 settlements
+- [Tovuz](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/tovuz/) — 104 settlements
+- [Shamkir](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shamkir/) — 66 settlements
+- [Gadabey](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gadabey/) — 109 settlements
+- [Dashkasan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/dashkasan/) — 49 settlements
+- [Samukh](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/samukh/) — 35 settlements
+- [Goygol](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/goygol/) — 45 settlements
+- [Goranboy](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/goranboy/) — 87 settlements
+- [Naftalan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/naftalan/) — 3 settlements
+- [Kalbajar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/kalbajar/) — 126 settlements
+- [Lachin](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/lachin/) — 127 settlements
+- [Gubadli](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/gubadli/) — 94 settlements
+- [Zangilan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/zangilan/) — 85 settlements
+- [Jabrayil](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/jabrayil/) — 97 settlements
+- [Fuzuli](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/fuzuli/) — 100 settlements
+- [Beylagan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/beylagan/) — 42 settlements
+- [Aghjabadi](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/aghjabadi/) — 46 settlements
+- [Aghdam](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/aghdam/) — 129 settlements
+- [Barda](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/barda/) — 111 settlements
+- [Tartar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/tartar/) — 50 settlements
+- [Aghdere](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/aghdere/) — 59 settlements
+- [Khojali](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khojali/) — 52 settlements
+- [Shusha](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shusha/) — 39 settlements
+- [Khojavand](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khojavand/) — 83 settlements
+- [Khankendi](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/khankendi/) — 2 settlements
+- [Astara](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/astara/) — 92 settlements
+- [Lankaran](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/lankaran/) — 93 settlements
+- [Lerik](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/lerik/) — 162 settlements
+- [Yardimli](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/yardimli/) — 88 settlements
+- [Masalli](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/masalli/) — 103 settlements
+- [Jalilabad](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/jalilabad/) — 121 settlements
+- [Neftchala](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/neftchala/) — 52 settlements
+- [Bilasuvar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/bilasuvar/) — 26 settlements
+- [Salyan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/salyan/) — 51 settlements
+- [Yevlakh](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/yevlakh/) — 50 settlements
+- [Mingachevir](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/mingachevir/) — 1 settlements
+- [Aghdash](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/aghdash/) — 74 settlements
+- [Ujar](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/ujar/) — 30 settlements
+- [Zardab](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/zardab/) — 42 settlements
+- [Kurdamir](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/kurdamir/) — 62 settlements
+- [Imishli](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/imishli/) — 51 settlements
+- [Saatli](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/saatli/) — 44 settlements
+- [Sabirabad](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/sabirabad/) — 75 settlements
+- [Hajigabul](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/hajigabul/) — 31 settlements
+- [Shirvan](https://github.com/open-admin-data/azerbaijan-administrative-divisions/tree/main/divisions/shirvan/) — 3 settlements
 
 ## Per-District Full Data
 
-- [Sumgait](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/sumgait-az30900002.txt)
-- [Absheron](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/absheron-az30800001.txt)
-- [Khizy](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khizy-az30600001.txt)
-- [Beylagan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/beylagan-az60700001.txt)
-- [Neftchala](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/neftchala-az80700001.txt)
-- [Ujar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/ujar-az90400001.txt)
-- [Saatly](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/saatly-az90800001.txt)
-- [Barda](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/barda-az61000001.txt)
-- [Agdash](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/agdash-az90300001.txt)
-- [Zardab](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/zardab-az90500001.txt)
-- [Mingechevir](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/mingechevir-az90200002.txt)
-- [Shirvan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shirvan-az91100002.txt)
-- [Sabirabad](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/sabirabad-az90900001.txt)
-- [Bilasuvar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/bilasuvar-az80800001.txt)
-- [Agdjabadi](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/agdjabadi-az60800001.txt)
-- [Salyan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/salyan-az80900001.txt)
-- [Hajigabul](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/hajigabul-az91000001.txt)
-- [Imishly](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/imishly-az90700001.txt)
-- [Kurdamir](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/kurdamir-az90600001.txt)
-- [Goychay](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/goychay-az40800001.txt)
-- [Yevlakh](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/yevlakh-az90101002.txt)
-- [Baku](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/baku-az00000003.txt)
-- [Goygol](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/goygol-az50800001.txt)
-- [Samukh](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/samukh-az50700001.txt)
-- [Aghstafa](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/aghstafa-az50200001.txt)
-- [Ganja](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/ganja-az20000002.txt)
-- [Naftalan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/naftalan-az51000002.txt)
-- [Gazakh](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gazakh-az50100001.txt)
-- [Goranboy](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/goranboy-az50900001.txt)
-- [Gadabay](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gadabay-az50500001.txt)
-- [Shamkir](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shamkir-az50400001.txt)
-- [Tovuz](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/tovuz-az50300001.txt)
-- [Dashkasan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/dashkasan-az50600001.txt)
-- [Zangilan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/zangilan-az60400001.txt)
-- [Lachin](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/lachin-az60200001.txt)
-- [Kalbajar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/kalbajar-az60100001.txt)
-- [Gubadly](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gubadly-az60300001.txt)
-- [Lankaran](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/lankaran-az80201002.txt)
-- [Lerik](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/lerik-az80300001.txt)
-- [Yardimly](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/yardimly-az80400001.txt)
-- [Masally](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/masally-az80500001.txt)
-- [Astara](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/astara-az80100001.txt)
-- [Jalilabad](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/jalilabad-az80600001.txt)
-- [Gobustan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gobustan-az30700001.txt)
-- [Ismayilly](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/ismayilly-az40700001.txt)
-- [Aghsu](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/aghsu-az40900001.txt)
-- [Shamakhy](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shamakhy-az41000001.txt)
-- [Shahbuz](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shahbuz-az10500001.txt)
-- [Julfa](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/julfa-az10600001.txt)
-- [Sadarak](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/sadarak-az10100001.txt)
-- [Babek](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/babek-az10300001.txt)
-- [Ordubad](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/ordubad-az10700001.txt)
-- [Kengerli](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/kengerli-az10800001.txt)
-- [Nakhchivan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/nakhchivan-az10400002.txt)
-- [Sharur](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/sharur-az10200001.txt)
-- [Khachmaz](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khachmaz-az30200001.txt)
-- [Siyazan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/siyazan-az30500001.txt)
-- [Guba](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/guba-az30300001.txt)
-- [Gusar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gusar-az30100001.txt)
-- [Shabran](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shabran-az30400001.txt)
-- [Balakan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/balakan-az40100001.txt)
-- [Shaki](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shaki-az40401002.txt)
-- [Gabala](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gabala-az40600001.txt)
-- [Gakh](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gakh-az40300001.txt)
-- [Zagatala](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/zagatala-az40200001.txt)
-- [Oghuz](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/oghuz-az40500001.txt)
-- [Fuzuli](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/fuzuli-az60600001.txt)
-- [Shusha](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shusha-az70200001.txt)
-- [Tartar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/tartar-az61100001.txt)
-- [Khojavand](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khojavand-az70300001.txt)
-- [Aghdam](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/aghdam-az60900001.txt)
-- [Khojaly](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khojaly-az70100001.txt)
-- [Jabrayil](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/jabrayil-az60500001.txt)
-- [Khankendi](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khankendi-az70400002.txt)
+- [Binagadi](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/binagadi.txt)
+- [Garadagh](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/garadagh.txt)
+- [Khazar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khazar.txt)
+- [Khatai](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khatai.txt)
+- [Sebail](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/sebail.txt)
+- [Sabunchu](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/sabunchu.txt)
+- [Surakhani](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/surakhani.txt)
+- [Sadarak](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/sadarak.txt)
+- [Nizami](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/nizami.txt)
+- [Pirallahi](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/pirallahi.txt)
+- [Sharur](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/sharur.txt)
+- [Babak](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/babak.txt)
+- [Nakhchivan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/nakhchivan.txt)
+- [Shahbuz](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shahbuz.txt)
+- [Julfa](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/julfa.txt)
+- [Ordubad](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/ordubad.txt)
+- [Kangarli](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/kangarli.txt)
+- [Ganja](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/ganja.txt)
+- [Ganja](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/ganja.txt)
+- [Gusar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gusar.txt)
+- [Khachmaz](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khachmaz.txt)
+- [Guba](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/guba.txt)
+- [Shabran](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shabran.txt)
+- [Siyazan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/siyazan.txt)
+- [Khizi](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khizi.txt)
+- [Gobustan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gobustan.txt)
+- [Absheron](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/absheron.txt)
+- [Sumgayit](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/sumgayit.txt)
+- [Balakan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/balakan.txt)
+- [Zagatala](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/zagatala.txt)
+- [Gakh](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gakh.txt)
+- [Shaki](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shaki.txt)
+- [Oghuz](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/oghuz.txt)
+- [Gabala](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gabala.txt)
+- [Ismayilli](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/ismayilli.txt)
+- [Goychay](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/goychay.txt)
+- [Aghsu](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/aghsu.txt)
+- [Shamakhi](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shamakhi.txt)
+- [Gazakh](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gazakh.txt)
+- [Aghstafa](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/aghstafa.txt)
+- [Tovuz](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/tovuz.txt)
+- [Shamkir](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shamkir.txt)
+- [Gadabey](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gadabey.txt)
+- [Dashkasan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/dashkasan.txt)
+- [Samukh](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/samukh.txt)
+- [Goygol](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/goygol.txt)
+- [Goranboy](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/goranboy.txt)
+- [Naftalan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/naftalan.txt)
+- [Kalbajar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/kalbajar.txt)
+- [Lachin](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/lachin.txt)
+- [Gubadli](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/gubadli.txt)
+- [Zangilan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/zangilan.txt)
+- [Jabrayil](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/jabrayil.txt)
+- [Fuzuli](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/fuzuli.txt)
+- [Beylagan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/beylagan.txt)
+- [Aghjabadi](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/aghjabadi.txt)
+- [Aghdam](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/aghdam.txt)
+- [Barda](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/barda.txt)
+- [Tartar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/tartar.txt)
+- [Aghdere](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/aghdere.txt)
+- [Khojali](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khojali.txt)
+- [Shusha](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shusha.txt)
+- [Khojavand](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khojavand.txt)
+- [Khankendi](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/khankendi.txt)
+- [Astara](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/astara.txt)
+- [Lankaran](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/lankaran.txt)
+- [Lerik](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/lerik.txt)
+- [Yardimli](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/yardimli.txt)
+- [Masalli](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/masalli.txt)
+- [Jalilabad](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/jalilabad.txt)
+- [Neftchala](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/neftchala.txt)
+- [Bilasuvar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/bilasuvar.txt)
+- [Salyan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/salyan.txt)
+- [Yevlakh](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/yevlakh.txt)
+- [Mingachevir](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/mingachevir.txt)
+- [Aghdash](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/aghdash.txt)
+- [Ujar](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/ujar.txt)
+- [Zardab](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/zardab.txt)
+- [Kurdamir](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/kurdamir.txt)
+- [Imishli](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/imishli.txt)
+- [Saatli](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/saatli.txt)
+- [Sabirabad](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/sabirabad.txt)
+- [Hajigabul](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/hajigabul.txt)
+- [Shirvan](https://raw.githubusercontent.com/open-admin-data/azerbaijan-administrative-divisions/main/docs/llms-full/shirvan.txt)
 
 ## Schema Fields
 
 - id: Unique identifier
-- level: 1 (district)
+- level: 1 (district), 2 (settlement)
 - name: Local and English names with URL slug
 - code: Government codes
 - parent: Reference to parent division

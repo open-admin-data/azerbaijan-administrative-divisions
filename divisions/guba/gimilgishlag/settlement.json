@@ -1,0 +1,45 @@
+{
+  "id": "AZ303154",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qımılqışlaq",
+    "en": "Gimilgishlag",
+    "slug": "gimilgishlag"
+  },
+  "code": {
+    "id": "AZ303154",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ303",
+    "level": 1,
+    "name": {
+      "local": "Quba",
+      "en": "Guba",
+      "slug": "guba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ303",
+      "level": 1,
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.469",
+    "lon": "48.7"
+  },
+  "metadata": {},
+  "source": {}
+}

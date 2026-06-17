@@ -1,0 +1,45 @@
+{
+  "id": "AZ107042",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Əndəmic",
+    "en": "Yukhari Andamij",
+    "slug": "yukhari-andamij"
+  },
+  "code": {
+    "id": "AZ107042",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ107",
+    "level": 1,
+    "name": {
+      "local": "Ordubad",
+      "en": "Ordubad",
+      "slug": "ordubad"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ107",
+      "level": 1,
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.939",
+    "lon": "46.019"
+  },
+  "metadata": {},
+  "source": {}
+}

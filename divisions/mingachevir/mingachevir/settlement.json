@@ -1,0 +1,45 @@
+{
+  "id": "AZ902001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "MİNGƏÇEVİR",
+    "en": "MINGACHEVIR",
+    "slug": "mingachevir"
+  },
+  "code": {
+    "id": "AZ902001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ902",
+    "level": 1,
+    "name": {
+      "local": "Mingəçevir",
+      "en": "Mingachevir",
+      "slug": "mingachevir"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ902",
+      "level": 1,
+      "name": {
+        "local": "Mingəçevir",
+        "en": "Mingachevir",
+        "slug": "mingachevir"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.773",
+    "lon": "46.987"
+  },
+  "metadata": {},
+  "source": {}
+}

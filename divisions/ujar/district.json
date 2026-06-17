@@ -1,0 +1,33 @@
+{
+  "id": "AZ904",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ucar",
+    "en": "Ujar",
+    "slug": "ujar"
+  },
+  "code": {
+    "id": "AZ904",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.46",
+    "lon": "47.706"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/ujar/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

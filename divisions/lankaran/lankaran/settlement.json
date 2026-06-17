@@ -1,0 +1,45 @@
+{
+  "id": "AZ802030",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "LƏNKƏRAN",
+    "en": "LANKARAN",
+    "slug": "lankaran"
+  },
+  "code": {
+    "id": "AZ802030",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ802",
+    "level": 1,
+    "name": {
+      "local": "Lənkəran",
+      "en": "Lankaran",
+      "slug": "lankaran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ802",
+      "level": 1,
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.758",
+    "lon": "48.85"
+  },
+  "metadata": {},
+  "source": {}
+}

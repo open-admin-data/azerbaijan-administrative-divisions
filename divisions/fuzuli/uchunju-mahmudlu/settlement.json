@@ -1,0 +1,45 @@
+{
+  "id": "AZ606016",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Üçüncü Mahmudlu",
+    "en": "Uchunju Mahmudlu",
+    "slug": "uchunju-mahmudlu"
+  },
+  "code": {
+    "id": "AZ606016",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.583",
+    "lon": "47.223"
+  },
+  "metadata": {},
+  "source": {}
+}

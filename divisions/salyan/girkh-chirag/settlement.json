@@ -1,0 +1,45 @@
+{
+  "id": "AZ809042",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qırx Çıraq",
+    "en": "Girkh Chirag",
+    "slug": "girkh-chirag"
+  },
+  "code": {
+    "id": "AZ809042",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.685",
+    "lon": "49.018"
+  },
+  "metadata": {},
+  "source": {}
+}

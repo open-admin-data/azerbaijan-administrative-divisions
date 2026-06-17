@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "AZ501013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abbasbəyli",
+      "en": "Abbasbeyli",
+      "slug": "abbasbeyli"
+    },
+    "code": {
+      "id": "AZ501013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.08",
+      "lon": "45.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağköynək",
+      "en": "Aghkoynak",
+      "slug": "aghkoynak"
+    },
+    "code": {
+      "id": "AZ501033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.081",
+      "lon": "45.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alpout",
+      "en": "Alpout",
+      "slug": "alpout"
+    },
+    "code": {
+      "id": "AZ501012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.088",
+      "lon": "45.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Əskipara",
+      "en": "Ashaghi Askipara",
+      "slug": "ashaghi-askipara"
+    },
+    "code": {
+      "id": "AZ501035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.076",
+      "lon": "45.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Salahlı",
+      "en": "Ashaghi Salahli",
+      "slug": "ashaghi-salahli"
+    },
+    "code": {
+      "id": "AZ501030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.21",
+      "lon": "45.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bağanıs Ayrım",
+      "en": "Baghanis Ayrim",
+      "slug": "baghanis-ayrim"
+    },
+    "code": {
+      "id": "AZ501016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.096",
+      "lon": "45.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Çaylı",
+      "en": "Bala Chayli",
+      "slug": "bala-chayli"
+    },
+    "code": {
+      "id": "AZ501011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.101",
+      "lon": "45.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bala Cəfərli",
+      "en": "Bala Jafarli",
+      "slug": "bala-jafarli"
+    },
+    "code": {
+      "id": "AZ501022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.018",
+      "lon": "45.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Barxudarlı",
+      "en": "Barkhudarli",
+      "slug": "barkhudarli"
+    },
+    "code": {
+      "id": "AZ501031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.998",
+      "lon": "45.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birinci Şıxlı",
+      "en": "Birinji Shikhli",
+      "slug": "birinji-shikhli"
+    },
+    "code": {
+      "id": "AZ501002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.283",
+      "lon": "45.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaylı",
+      "en": "Chayli",
+      "slug": "chayli"
+    },
+    "code": {
+      "id": "AZ501008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.125",
+      "lon": "45.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dəmirçilər",
+      "en": "Damirchilar",
+      "slug": "damirchilar"
+    },
+    "code": {
+      "id": "AZ501010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.089",
+      "lon": "45.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Daş Salahlı",
+      "en": "Dash Salahli",
+      "slug": "dash-salahli"
+    },
+    "code": {
+      "id": "AZ501007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.139",
+      "lon": "45.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fərəhli",
+      "en": "Farahli",
+      "slug": "farahli"
+    },
+    "code": {
+      "id": "AZ501014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.103",
+      "lon": "45.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarapapaq",
+      "en": "Garapapag",
+      "slug": "garapapag"
+    },
+    "code": {
+      "id": "AZ501032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.08",
+      "lon": "45.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qaymaqlı",
+      "en": "Gaymagli",
+      "slug": "gaymagli"
+    },
+    "code": {
+      "id": "AZ501005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.223",
+      "lon": "45.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "QAZAX",
+      "en": "GAZAKH",
+      "slug": "gazakh"
+    },
+    "code": {
+      "id": "AZ501034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.088",
+      "lon": "45.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qazaxbəyli",
+      "en": "Gazakhbeyli",
+      "slug": "gazakhbeyli"
+    },
+    "code": {
+      "id": "AZ501028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.161",
+      "lon": "45.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılhacılı",
+      "en": "Gizilhajili",
+      "slug": "gizilhajili"
+    },
+    "code": {
+      "id": "AZ501020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.066",
+      "lon": "45.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçu Ayrım",
+      "en": "Gushchu Ayrim",
+      "slug": "gushchu-ayrim"
+    },
+    "code": {
+      "id": "AZ501015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.091",
+      "lon": "45.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hüseynbəyli",
+      "en": "Huseynbeyli",
+      "slug": "huseynbeyli"
+    },
+    "code": {
+      "id": "AZ501025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.113",
+      "lon": "45.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "İkinci Şıxlı",
+      "en": "İkinji Shikhli",
+      "slug": "ikinji-shikhli"
+    },
+    "code": {
+      "id": "AZ501001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.314",
+      "lon": "45.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cəfərli",
+      "en": "Jafarli",
+      "slug": "jafarli"
+    },
+    "code": {
+      "id": "AZ501021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.033",
+      "lon": "45.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Canalı",
+      "en": "Janali",
+      "slug": "janali"
+    },
+    "code": {
+      "id": "AZ501026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.118",
+      "lon": "45.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kəmərli",
+      "en": "Kamarli",
+      "slug": "kamarli"
+    },
+    "code": {
+      "id": "AZ501006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.208",
+      "lon": "45.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xanlıqlar",
+      "en": "Khanliglar",
+      "slug": "khanliglar"
+    },
+    "code": {
+      "id": "AZ501024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.07",
+      "lon": "45.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xeyrimli",
+      "en": "Kheyrimli",
+      "slug": "kheyrimli"
+    },
+    "code": {
+      "id": "AZ501019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.05",
+      "lon": "45.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kosalar",
+      "en": "Kosalar",
+      "slug": "kosalar"
+    },
+    "code": {
+      "id": "AZ501027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.134",
+      "lon": "45.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Məzəm",
+      "en": "Mazam",
+      "slug": "mazam"
+    },
+    "code": {
+      "id": "AZ501018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.067",
+      "lon": "45.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Orta Salahlı",
+      "en": "Orta Salahli",
+      "slug": "orta-salahli"
+    },
+    "code": {
+      "id": "AZ501029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.189",
+      "lon": "45.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sofulu",
+      "en": "Sofulu",
+      "slug": "sofulu"
+    },
+    "code": {
+      "id": "AZ501023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.002",
+      "lon": "45.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ürkməzli",
+      "en": "Urkmazli",
+      "slug": "urkmazli"
+    },
+    "code": {
+      "id": "AZ501009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.104",
+      "lon": "45.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Əskipara",
+      "en": "Yukhari Askipara",
+      "slug": "yukhari-askipara"
+    },
+    "code": {
+      "id": "AZ501017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.064",
+      "lon": "45.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ501003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuxarı Salahlı",
+      "en": "Yukhari Salahli",
+      "slug": "yukhari-salahli"
+    },
+    "code": {
+      "id": "AZ501003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ501",
+      "level": 1,
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ501",
+        "level": 1,
+        "name": {
+          "local": "Qazax",
+          "en": "Gazakh",
+          "slug": "gazakh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.242",
+      "lon": "45.266"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

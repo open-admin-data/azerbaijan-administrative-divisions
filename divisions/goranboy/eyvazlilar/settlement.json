@@ -1,0 +1,45 @@
+{
+  "id": "AZ509082",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Eyvazlılar",
+    "en": "Eyvazlilar",
+    "slug": "eyvazlilar"
+  },
+  "code": {
+    "id": "AZ509082",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ509",
+    "level": 1,
+    "name": {
+      "local": "Goranboy",
+      "en": "Goranboy",
+      "slug": "goranboy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ509",
+      "level": 1,
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.616",
+    "lon": "46.878"
+  },
+  "metadata": {},
+  "source": {}
+}

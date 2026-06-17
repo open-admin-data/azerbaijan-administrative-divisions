@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AZ100106",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "28 May",
+      "en": "28 May",
+      "slug": "28-may"
+    },
+    "code": {
+      "id": "AZ100106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1001",
+      "level": 1,
+      "name": {
+        "local": "Binəqədi",
+        "en": "Binagadi",
+        "slug": "binagadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1001",
+        "level": 1,
+        "name": {
+          "local": "Binəqədi",
+          "en": "Binagadi",
+          "slug": "binagadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.461",
+      "lon": "49.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100103",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biləcəri",
+      "en": "Bilajari",
+      "slug": "bilajari"
+    },
+    "code": {
+      "id": "AZ100103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1001",
+      "level": 1,
+      "name": {
+        "local": "Binəqədi",
+        "en": "Binagadi",
+        "slug": "binagadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1001",
+        "level": 1,
+        "name": {
+          "local": "Binəqədi",
+          "en": "Binagadi",
+          "slug": "binagadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.438",
+      "lon": "49.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100101",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binəqədi",
+      "en": "Binagadi",
+      "slug": "binagadi"
+    },
+    "code": {
+      "id": "AZ100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1001",
+      "level": 1,
+      "name": {
+        "local": "Binəqədi",
+        "en": "Binagadi",
+        "slug": "binagadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1001",
+        "level": 1,
+        "name": {
+          "local": "Binəqədi",
+          "en": "Binagadi",
+          "slug": "binagadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.471",
+      "lon": "49.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100105",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xocəsən",
+      "en": "Khojasan",
+      "slug": "khojasan"
+    },
+    "code": {
+      "id": "AZ100105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1001",
+      "level": 1,
+      "name": {
+        "local": "Binəqədi",
+        "en": "Binagadi",
+        "slug": "binagadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1001",
+        "level": 1,
+        "name": {
+          "local": "Binəqədi",
+          "en": "Binagadi",
+          "slug": "binagadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.422",
+      "lon": "49.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100104",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "M.Ə.Rəsulzadə",
+      "en": "M.A.Rasulzada",
+      "slug": "marasulzada"
+    },
+    "code": {
+      "id": "AZ100104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1001",
+      "level": 1,
+      "name": {
+        "local": "Binəqədi",
+        "en": "Binagadi",
+        "slug": "binagadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1001",
+        "level": 1,
+        "name": {
+          "local": "Binəqədi",
+          "en": "Binagadi",
+          "slug": "binagadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.434",
+      "lon": "49.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ100102",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sulutəpə",
+      "en": "Sulutepe",
+      "slug": "sulutepe"
+    },
+    "code": {
+      "id": "AZ100102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ1001",
+      "level": 1,
+      "name": {
+        "local": "Binəqədi",
+        "en": "Binagadi",
+        "slug": "binagadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ1001",
+        "level": 1,
+        "name": {
+          "local": "Binəqədi",
+          "en": "Binagadi",
+          "slug": "binagadi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.436",
+      "lon": "49.759"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

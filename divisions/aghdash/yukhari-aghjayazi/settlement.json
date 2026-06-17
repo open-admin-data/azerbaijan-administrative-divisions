@@ -1,0 +1,45 @@
+{
+  "id": "AZ903014",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Yuxarı Ağcayazı",
+    "en": "Yukhari Aghjayazi",
+    "slug": "yukhari-aghjayazi"
+  },
+  "code": {
+    "id": "AZ903014",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.702",
+    "lon": "47.517"
+  },
+  "metadata": {},
+  "source": {}
+}

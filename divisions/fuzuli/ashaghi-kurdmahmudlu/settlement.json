@@ -1,0 +1,45 @@
+{
+  "id": "AZ606056",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Kürdmahmudlu",
+    "en": "Ashaghi  Kurdmahmudlu",
+    "slug": "ashaghi-kurdmahmudlu"
+  },
+  "code": {
+    "id": "AZ606056",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ606",
+    "level": 1,
+    "name": {
+      "local": "Füzuli",
+      "en": "Fuzuli",
+      "slug": "fuzuli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ606",
+      "level": 1,
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.59",
+    "lon": "47.473"
+  },
+  "metadata": {},
+  "source": {}
+}

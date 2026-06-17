@@ -1,0 +1,45 @@
+{
+  "id": "AZ610092",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qaradəmirçi",
+    "en": "Garadamirchi",
+    "slug": "garadamirchi"
+  },
+  "code": {
+    "id": "AZ610092",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ610",
+    "level": 1,
+    "name": {
+      "local": "Bərdə",
+      "en": "Barda",
+      "slug": "barda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ610",
+      "level": 1,
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.264",
+    "lon": "47.191"
+  },
+  "metadata": {},
+  "source": {}
+}

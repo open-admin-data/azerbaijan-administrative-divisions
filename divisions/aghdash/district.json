@@ -1,0 +1,33 @@
+{
+  "id": "AZ903",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ağdaş",
+    "en": "Aghdash",
+    "slug": "aghdash"
+  },
+  "code": {
+    "id": "AZ903",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "settlement": 74
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.608",
+    "lon": "47.441"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/aghdash/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

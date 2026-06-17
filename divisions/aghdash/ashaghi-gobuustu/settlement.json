@@ -1,0 +1,45 @@
+{
+  "id": "AZ903003",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Aşağı Qobuüstü",
+    "en": "Ashaghi Gobuustu",
+    "slug": "ashaghi-gobuustu"
+  },
+  "code": {
+    "id": "AZ903003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ903",
+    "level": 1,
+    "name": {
+      "local": "Ağdaş",
+      "en": "Aghdash",
+      "slug": "aghdash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ903",
+      "level": 1,
+      "name": {
+        "local": "Ağdaş",
+        "en": "Aghdash",
+        "slug": "aghdash"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.7",
+    "lon": "47.302"
+  },
+  "metadata": {},
+  "source": {}
+}

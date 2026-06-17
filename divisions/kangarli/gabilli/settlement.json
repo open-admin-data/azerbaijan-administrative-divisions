@@ -1,0 +1,45 @@
+{
+  "id": "AZ108001",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qabıllı",
+    "en": "Gabilli",
+    "slug": "gabilli"
+  },
+  "code": {
+    "id": "AZ108001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ108",
+    "level": 1,
+    "name": {
+      "local": "Kəngərli",
+      "en": "Kangarli",
+      "slug": "kangarli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ108",
+      "level": 1,
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kangarli",
+        "slug": "kangarli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.429",
+    "lon": "45.11"
+  },
+  "metadata": {},
+  "source": {}
+}

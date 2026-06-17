@@ -1,0 +1,45 @@
+{
+  "id": "AZ907016",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Məhəmmədli",
+    "en": "Mahammadli",
+    "slug": "mahammadli"
+  },
+  "code": {
+    "id": "AZ907016",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ907",
+    "level": 1,
+    "name": {
+      "local": "İmişli",
+      "en": "Imishli",
+      "slug": "imishli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ907",
+      "level": 1,
+      "name": {
+        "local": "İmişli",
+        "en": "Imishli",
+        "slug": "imishli"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.828",
+    "lon": "48.023"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "AZ308006",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "XIRDALAN",
+    "en": "KHIRDALAN",
+    "slug": "khirdalan"
+  },
+  "code": {
+    "id": "AZ308006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ308",
+    "level": 1,
+    "name": {
+      "local": "Abşeron",
+      "en": "Absheron",
+      "slug": "absheron"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ308",
+      "level": 1,
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.454",
+    "lon": "49.741"
+  },
+  "metadata": {},
+  "source": {}
+}

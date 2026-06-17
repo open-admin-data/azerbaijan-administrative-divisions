@@ -1,0 +1,45 @@
+{
+  "id": "AZ100103",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Biləcəri",
+    "en": "Bilajari",
+    "slug": "bilajari"
+  },
+  "code": {
+    "id": "AZ100103",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ1001",
+    "level": 1,
+    "name": {
+      "local": "Binəqədi",
+      "en": "Binagadi",
+      "slug": "binagadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ1001",
+      "level": 1,
+      "name": {
+        "local": "Binəqədi",
+        "en": "Binagadi",
+        "slug": "binagadi"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.438",
+    "lon": "49.808"
+  },
+  "metadata": {},
+  "source": {}
+}

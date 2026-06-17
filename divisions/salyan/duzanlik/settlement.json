@@ -1,0 +1,45 @@
+{
+  "id": "AZ809012",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Düzənlik",
+    "en": "Duzanlik",
+    "slug": "duzanlik"
+  },
+  "code": {
+    "id": "AZ809012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ809",
+    "level": 1,
+    "name": {
+      "local": "Salyan",
+      "en": "Salyan",
+      "slug": "salyan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ809",
+      "level": 1,
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.843",
+    "lon": "49.042"
+  },
+  "metadata": {},
+  "source": {}
+}

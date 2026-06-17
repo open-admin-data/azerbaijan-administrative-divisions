@@ -1,0 +1,2027 @@
+[
+  {
+    "id": "AZ508037",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ağdağ",
+      "en": "Aghdagh",
+      "slug": "aghdagh"
+    },
+    "code": {
+      "id": "AZ508037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.561",
+      "lon": "46.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508001",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əlimədədli",
+      "en": "Alimadadli",
+      "slug": "alimadadli"
+    },
+    "code": {
+      "id": "AZ508001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.763",
+      "lon": "46.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508042",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşağı Zurnabad",
+      "en": "Ashaghi  Zurnabad",
+      "slug": "ashaghi-zurnabad"
+    },
+    "code": {
+      "id": "AZ508042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.536",
+      "lon": "46.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508025",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aşıqlı",
+      "en": "Ashigli",
+      "slug": "ashigli"
+    },
+    "code": {
+      "id": "AZ508025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.542",
+      "lon": "46.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508031",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Əzgilli",
+      "en": "Azgilli",
+      "slug": "azgilli"
+    },
+    "code": {
+      "id": "AZ508031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.41",
+      "lon": "46.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508036",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bəhrambağ",
+      "en": "Bahrambagh",
+      "slug": "bahrambagh"
+    },
+    "code": {
+      "id": "AZ508036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.665",
+      "lon": "46.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508003",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balçılı",
+      "en": "Balchili",
+      "slug": "balchili"
+    },
+    "code": {
+      "id": "AZ508003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.684",
+      "lon": "46.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508022",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bənövşəli",
+      "en": "Banovshali",
+      "slug": "banovshali"
+    },
+    "code": {
+      "id": "AZ508022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.497",
+      "lon": "46.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508019",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaykənd",
+      "en": "Chaykend",
+      "slug": "chaykend"
+    },
+    "code": {
+      "id": "AZ508019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.469",
+      "lon": "46.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508033",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Çaylı",
+      "en": "Chayli",
+      "slug": "chayli"
+    },
+    "code": {
+      "id": "AZ508033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.59",
+      "lon": "46.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508010",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Damcılı",
+      "en": "Damjili",
+      "slug": "damjili"
+    },
+    "code": {
+      "id": "AZ508010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.626",
+      "lon": "46.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508005",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Danayeri",
+      "en": "Danayeri",
+      "slug": "danayeri"
+    },
+    "code": {
+      "id": "AZ508005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.622",
+      "lon": "46.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508030",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dozular",
+      "en": "Dozular",
+      "slug": "dozular"
+    },
+    "code": {
+      "id": "AZ508030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.535",
+      "lon": "46.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508035",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Firuzabad",
+      "en": "Firuzabad",
+      "slug": "firuzabad"
+    },
+    "code": {
+      "id": "AZ508035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.61",
+      "lon": "46.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508015",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gəncə",
+      "en": "Ganja",
+      "slug": "ganja"
+    },
+    "code": {
+      "id": "AZ508015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.53",
+      "lon": "46.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508020",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qarabulaq",
+      "en": "Garabulag",
+      "slug": "garabulag"
+    },
+    "code": {
+      "id": "AZ508020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.46",
+      "lon": "46.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508007",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qırıqlı",
+      "en": "Girigli",
+      "slug": "girigli"
+    },
+    "code": {
+      "id": "AZ508007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.661",
+      "lon": "46.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508045",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılqaya",
+      "en": "Gizilgaya",
+      "slug": "gizilgaya"
+    },
+    "code": {
+      "id": "AZ508045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.64",
+      "lon": "46.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508009",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Qızılca",
+      "en": "Gizilja",
+      "slug": "gizilja"
+    },
+    "code": {
+      "id": "AZ508009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.629",
+      "lon": "46.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508039",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Göyçəkənd",
+      "en": "Goychakend",
+      "slug": "goychakend"
+    },
+    "code": {
+      "id": "AZ508039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.503",
+      "lon": "46.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508026",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "GÖYGÖL",
+      "en": "GOYGOL",
+      "slug": "goygol"
+    },
+    "code": {
+      "id": "AZ508026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.584",
+      "lon": "46.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508021",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşçu",
+      "en": "Gushchu",
+      "slug": "gushchu"
+    },
+    "code": {
+      "id": "AZ508021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.473",
+      "lon": "46.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508002",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quşqara",
+      "en": "Gushgara",
+      "slug": "gushgara"
+    },
+    "code": {
+      "id": "AZ508002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.716",
+      "lon": "46.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508006",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Haçaqaya",
+      "en": "Hachagaya",
+      "slug": "hachagaya"
+    },
+    "code": {
+      "id": "AZ508006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.655",
+      "lon": "46.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508028",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Hacıməlik",
+      "en": "Hajimalik",
+      "slug": "hajimalik"
+    },
+    "code": {
+      "id": "AZ508028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.632",
+      "lon": "46.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508038",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cümşüdlü",
+      "en": "Jumshudlu",
+      "slug": "jumshudlu"
+    },
+    "code": {
+      "id": "AZ508038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.667",
+      "lon": "46.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508013",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kərəmli",
+      "en": "Karamli",
+      "slug": "karamli"
+    },
+    "code": {
+      "id": "AZ508013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.555",
+      "lon": "46.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508024",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keşkü",
+      "en": "Keshku",
+      "slug": "keshku"
+    },
+    "code": {
+      "id": "AZ508024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.535",
+      "lon": "46.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508034",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Xaqani",
+      "en": "Khagani",
+      "slug": "khagani"
+    },
+    "code": {
+      "id": "AZ508034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.709",
+      "lon": "46.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508027",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mollacəlilli",
+      "en": "Mollajalilli",
+      "slug": "mollajalilli"
+    },
+    "code": {
+      "id": "AZ508027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.593",
+      "lon": "46.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508041",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nadil",
+      "en": "Nadil",
+      "slug": "nadil"
+    },
+    "code": {
+      "id": "AZ508041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.739",
+      "lon": "46.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508029",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pənahlılar",
+      "en": "Panahlilar",
+      "slug": "panahlilar"
+    },
+    "code": {
+      "id": "AZ508029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.553",
+      "lon": "46.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508044",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Səmədli",
+      "en": "Samadli",
+      "slug": "samadli"
+    },
+    "code": {
+      "id": "AZ508044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.717",
+      "lon": "46.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508032",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sarısu",
+      "en": "Sarisu",
+      "slug": "sarisu"
+    },
+    "code": {
+      "id": "AZ508032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.445",
+      "lon": "46.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508008",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sərkar",
+      "en": "Sarkar",
+      "slug": "sarkar"
+    },
+    "code": {
+      "id": "AZ508008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.647",
+      "lon": "46.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508014",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Şəhriyar",
+      "en": "Shahriyar",
+      "slug": "shahriyar"
+    },
+    "code": {
+      "id": "AZ508014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.524",
+      "lon": "46.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508018",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toğanalı",
+      "en": "Toghanali",
+      "slug": "toghanali"
+    },
+    "code": {
+      "id": "AZ508018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.425",
+      "lon": "46.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508012",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Topalhəsənli",
+      "en": "Topalhasanli",
+      "slug": "topalhasanli"
+    },
+    "code": {
+      "id": "AZ508012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.559",
+      "lon": "46.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508017",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tulallar",
+      "en": "Tulallar",
+      "slug": "tulallar"
+    },
+    "code": {
+      "id": "AZ508017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.442",
+      "lon": "46.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508023",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçbulaq",
+      "en": "Uchbulag",
+      "slug": "uchbulag"
+    },
+    "code": {
+      "id": "AZ508023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.517",
+      "lon": "46.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508004",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Üçtəpə",
+      "en": "Uchtepe",
+      "slug": "uchtepe"
+    },
+    "code": {
+      "id": "AZ508004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.631",
+      "lon": "46.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508011",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yalqışlaq",
+      "en": "Yalgishlag",
+      "slug": "yalgishlag"
+    },
+    "code": {
+      "id": "AZ508011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.612",
+      "lon": "46.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508043",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Qızılca",
+      "en": "Yeni Gizilja",
+      "slug": "yeni-gizilja"
+    },
+    "code": {
+      "id": "AZ508043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.645",
+      "lon": "46.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508040",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeni Zod",
+      "en": "Yeni Zod",
+      "slug": "yeni-zod"
+    },
+    "code": {
+      "id": "AZ508040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.486",
+      "lon": "46.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AZ508016",
+    "level": 2,
+    "level_name": {
+      "local": "Yaşayış məntəqəsi",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zurnabad",
+      "en": "Zurnabad",
+      "slug": "zurnabad"
+    },
+    "code": {
+      "id": "AZ508016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AZ508",
+      "level": 1,
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AZ508",
+        "level": 1,
+        "name": {
+          "local": "Göygöl",
+          "en": "Goygol",
+          "slug": "goygol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.5",
+      "lon": "46.241"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

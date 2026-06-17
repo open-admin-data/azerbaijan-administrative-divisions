@@ -1,0 +1,45 @@
+{
+  "id": "AZ403058",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Qarameşə",
+    "en": "Garamesha",
+    "slug": "garamesha"
+  },
+  "code": {
+    "id": "AZ403058",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ403",
+    "level": 1,
+    "name": {
+      "local": "Qax",
+      "en": "Gakh",
+      "slug": "gakh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ403",
+      "level": 1,
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.423",
+    "lon": "46.827"
+  },
+  "metadata": {},
+  "source": {}
+}

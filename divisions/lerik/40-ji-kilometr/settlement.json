@@ -1,0 +1,45 @@
+{
+  "id": "AZ803157",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "40-cı kilometr",
+    "en": "40-ji kilometr",
+    "slug": "40-ji-kilometr"
+  },
+  "code": {
+    "id": "AZ803157",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ803",
+    "level": 1,
+    "name": {
+      "local": "Lerik",
+      "en": "Lerik",
+      "slug": "lerik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ803",
+      "level": 1,
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.8",
+    "lon": "48.534"
+  },
+  "metadata": {},
+  "source": {}
+}

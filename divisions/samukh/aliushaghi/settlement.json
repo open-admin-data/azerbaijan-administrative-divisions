@@ -1,0 +1,45 @@
+{
+  "id": "AZ507005",
+  "level": 2,
+  "level_name": {
+    "local": "Yaşayış məntəqəsi",
+    "en": "Settlement"
+  },
+  "name": {
+    "local": "Alıuşağı",
+    "en": "Aliushaghi",
+    "slug": "aliushaghi"
+  },
+  "code": {
+    "id": "AZ507005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AZ507",
+    "level": 1,
+    "name": {
+      "local": "Samux",
+      "en": "Samukh",
+      "slug": "samukh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AZ507",
+      "level": 1,
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.695",
+    "lon": "46.476"
+  },
+  "metadata": {},
+  "source": {}
+}
