@@ -1,0 +1,31 @@
+{
+  "id": "AZ30400001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Şabran",
+    "en": "Shabran",
+    "slug": "shabran-az30400001"
+  },
+  "code": {
+    "id": "AZ30400001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.113",
+    "lon": "48.796"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/shabran-az30400001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

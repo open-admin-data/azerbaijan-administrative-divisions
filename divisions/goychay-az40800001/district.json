@@ -1,0 +1,31 @@
+{
+  "id": "AZ40800001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Göyçay",
+    "en": "Goychay",
+    "slug": "goychay-az40800001"
+  },
+  "code": {
+    "id": "AZ40800001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.561",
+    "lon": "47.81"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/goychay-az40800001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

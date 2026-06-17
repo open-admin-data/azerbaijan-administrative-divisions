@@ -1,0 +1,31 @@
+{
+  "id": "AZ60600001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Füzuli",
+    "en": "Fuzuli",
+    "slug": "fuzuli-az60600001"
+  },
+  "code": {
+    "id": "AZ60600001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.546",
+    "lon": "47.355"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/fuzuli-az60600001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "AZ10700001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ordubad",
+    "en": "Ordubad",
+    "slug": "ordubad-az10700001"
+  },
+  "code": {
+    "id": "AZ10700001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.073",
+    "lon": "45.901"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/ordubad-az10700001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

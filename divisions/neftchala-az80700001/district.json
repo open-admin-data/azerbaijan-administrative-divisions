@@ -1,0 +1,31 @@
+{
+  "id": "AZ80700001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Neftçala",
+    "en": "Neftchala",
+    "slug": "neftchala-az80700001"
+  },
+  "code": {
+    "id": "AZ80700001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.337",
+    "lon": "49.054"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/neftchala-az80700001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

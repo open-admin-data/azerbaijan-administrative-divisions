@@ -1,0 +1,31 @@
+{
+  "id": "AZ91100002",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Şirvan",
+    "en": "Shirvan",
+    "slug": "shirvan-az91100002"
+  },
+  "code": {
+    "id": "AZ91100002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.948",
+    "lon": "48.922"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/shirvan-az91100002/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

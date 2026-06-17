@@ -1,0 +1,31 @@
+{
+  "id": "AZ80600001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cəlilabad",
+    "en": "Jalilabad",
+    "slug": "jalilabad-az80600001"
+  },
+  "code": {
+    "id": "AZ80600001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.202",
+    "lon": "48.448"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/jalilabad-az80600001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

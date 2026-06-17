@@ -1,0 +1,31 @@
+{
+  "id": "AZ61000001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bərdə",
+    "en": "Barda",
+    "slug": "barda-az61000001"
+  },
+  "code": {
+    "id": "AZ61000001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.348",
+    "lon": "47.17"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/barda-az61000001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

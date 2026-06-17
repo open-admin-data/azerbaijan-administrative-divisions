@@ -1,0 +1,31 @@
+{
+  "id": "AZ40600001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Qəbələ",
+    "en": "Gabala",
+    "slug": "gabala-az40600001"
+  },
+  "code": {
+    "id": "AZ40600001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.929",
+    "lon": "47.789"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/gabala-az40600001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

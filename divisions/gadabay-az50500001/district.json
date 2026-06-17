@@ -1,0 +1,31 @@
+{
+  "id": "AZ50500001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gədəbəy",
+    "en": "Gadabay",
+    "slug": "gadabay-az50500001"
+  },
+  "code": {
+    "id": "AZ50500001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.568",
+    "lon": "45.672"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/gadabay-az50500001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "AZ10100001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sədərək",
+    "en": "Sadarak",
+    "slug": "sadarak-az10100001"
+  },
+  "code": {
+    "id": "AZ10100001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.68",
+    "lon": "44.835"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/sadarak-az10100001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

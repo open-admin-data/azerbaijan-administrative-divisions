@@ -1,0 +1,2 @@
+# Data from Open Admin Data (https://openadmindata.org/az/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/azerbaijan-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.district,zip_codes,geo.lat,geo.lon,source_url

@@ -1,0 +1,31 @@
+{
+  "id": "AZ40200001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zaqatala",
+    "en": "Zagatala",
+    "slug": "zagatala-az40200001"
+  },
+  "code": {
+    "id": "AZ40200001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.617",
+    "lon": "46.763"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/zagatala-az40200001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

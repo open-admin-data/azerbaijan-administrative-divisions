@@ -1,0 +1,31 @@
+{
+  "id": "AZ40500001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Oğuz",
+    "en": "Oghuz",
+    "slug": "oghuz-az40500001"
+  },
+  "code": {
+    "id": "AZ40500001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.037",
+    "lon": "47.462"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/oghuz-az40500001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "AZ61100001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tərtər",
+    "en": "Tartar",
+    "slug": "tartar-az61100001"
+  },
+  "code": {
+    "id": "AZ61100001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.257",
+    "lon": "46.789"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/tartar-az61100001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

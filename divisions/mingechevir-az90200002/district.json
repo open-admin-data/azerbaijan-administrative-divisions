@@ -1,0 +1,31 @@
+{
+  "id": "AZ90200002",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mingəçevir",
+    "en": "Mingechevir",
+    "slug": "mingechevir-az90200002"
+  },
+  "code": {
+    "id": "AZ90200002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.752",
+    "lon": "46.985"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/mingechevir-az90200002/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

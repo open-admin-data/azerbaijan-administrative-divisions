@@ -1,0 +1,31 @@
+{
+  "id": "AZ30900002",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sumqayıt",
+    "en": "Sumgait",
+    "slug": "sumgait-az30900002"
+  },
+  "code": {
+    "id": "AZ30900002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.601",
+    "lon": "49.605"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/sumgait-az30900002/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

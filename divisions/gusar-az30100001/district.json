@@ -1,0 +1,31 @@
+{
+  "id": "AZ30100001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Qusar",
+    "en": "Gusar",
+    "slug": "gusar-az30100001"
+  },
+  "code": {
+    "id": "AZ30100001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.442",
+    "lon": "48.239"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/gusar-az30100001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

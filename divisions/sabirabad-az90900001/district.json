@@ -1,0 +1,31 @@
+{
+  "id": "AZ90900001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sabirabad",
+    "en": "Sabirabad",
+    "slug": "sabirabad-az90900001"
+  },
+  "code": {
+    "id": "AZ90900001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.864",
+    "lon": "48.786"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/sabirabad-az90900001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

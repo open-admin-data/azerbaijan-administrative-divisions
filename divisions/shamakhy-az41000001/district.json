@@ -1,0 +1,31 @@
+{
+  "id": "AZ41000001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Şamaxı",
+    "en": "Shamakhy",
+    "slug": "shamakhy-az41000001"
+  },
+  "code": {
+    "id": "AZ41000001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.605",
+    "lon": "48.568"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/shamakhy-az41000001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

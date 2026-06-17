@@ -1,0 +1,31 @@
+{
+  "id": "AZ80500001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Masallı",
+    "en": "Masally",
+    "slug": "masally-az80500001"
+  },
+  "code": {
+    "id": "AZ80500001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.991",
+    "lon": "48.697"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/masally-az80500001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

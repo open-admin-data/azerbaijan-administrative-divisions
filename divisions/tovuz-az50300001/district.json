@@ -1,0 +1,31 @@
+{
+  "id": "AZ50300001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tovuz",
+    "en": "Tovuz",
+    "slug": "tovuz-az50300001"
+  },
+  "code": {
+    "id": "AZ50300001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.916",
+    "lon": "45.664"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/tovuz-az50300001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "AZ50600001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Daşkəsən",
+    "en": "Dashkasan",
+    "slug": "dashkasan-az50600001"
+  },
+  "code": {
+    "id": "AZ50600001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.478",
+    "lon": "45.986"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/dashkasan-az50600001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

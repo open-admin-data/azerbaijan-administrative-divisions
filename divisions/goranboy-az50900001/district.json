@@ -1,0 +1,31 @@
+{
+  "id": "AZ50900001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Goranboy",
+    "en": "Goranboy",
+    "slug": "goranboy-az50900001"
+  },
+  "code": {
+    "id": "AZ50900001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.605",
+    "lon": "46.692"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/goranboy-az50900001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

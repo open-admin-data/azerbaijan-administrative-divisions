@@ -1,0 +1,31 @@
+{
+  "id": "AZ30700001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Qobustan",
+    "en": "Gobustan",
+    "slug": "gobustan-az30700001"
+  },
+  "code": {
+    "id": "AZ30700001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.525",
+    "lon": "48.968"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/gobustan-az30700001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

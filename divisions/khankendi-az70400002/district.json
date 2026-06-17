@@ -1,0 +1,31 @@
+{
+  "id": "AZ70400002",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xankəndi",
+    "en": "Khankendi",
+    "slug": "khankendi-az70400002"
+  },
+  "code": {
+    "id": "AZ70400002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.827",
+    "lon": "46.778"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/khankendi-az70400002/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

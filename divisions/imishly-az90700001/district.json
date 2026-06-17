@@ -1,0 +1,31 @@
+{
+  "id": "AZ90700001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "İmişli",
+    "en": "Imishly",
+    "slug": "imishly-az90700001"
+  },
+  "code": {
+    "id": "AZ90700001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.848",
+    "lon": "47.986"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/imishly-az90700001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

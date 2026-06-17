@@ -1,0 +1,31 @@
+{
+  "id": "AZ70100001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xocalı",
+    "en": "Khojaly",
+    "slug": "khojaly-az70100001"
+  },
+  "code": {
+    "id": "AZ70100001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.824",
+    "lon": "46.631"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/khojaly-az70100001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "AZ10800001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kəngərli",
+    "en": "Kengerli",
+    "slug": "kengerli-az10800001"
+  },
+  "code": {
+    "id": "AZ10800001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.409",
+    "lon": "45.193"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/kengerli-az10800001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

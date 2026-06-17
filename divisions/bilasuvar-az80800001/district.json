@@ -1,0 +1,31 @@
+{
+  "id": "AZ80800001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Biləsuvar",
+    "en": "Bilasuvar",
+    "slug": "bilasuvar-az80800001"
+  },
+  "code": {
+    "id": "AZ80800001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.509",
+    "lon": "48.462"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/bilasuvar-az80800001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

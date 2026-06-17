@@ -1,0 +1,31 @@
+{
+  "id": "AZ40900001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ağsu",
+    "en": "Aghsu",
+    "slug": "aghsu-az40900001"
+  },
+  "code": {
+    "id": "AZ40900001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.536",
+    "lon": "48.308"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/aghsu-az40900001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

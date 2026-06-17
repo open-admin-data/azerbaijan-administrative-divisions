@@ -1,0 +1,31 @@
+{
+  "id": "AZ60900001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ağdam",
+    "en": "Aghdam",
+    "slug": "aghdam-az60900001"
+  },
+  "code": {
+    "id": "AZ60900001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.008",
+    "lon": "46.904"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/aghdam-az60900001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

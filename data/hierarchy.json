@@ -1,0 +1,893 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/az/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/azerbaijan-administrative-divisions",
+  "data": [
+    {
+      "id": "AZ30900002",
+      "name": {
+        "local": "Sumqayıt",
+        "en": "Sumgait",
+        "slug": "sumgait-az30900002"
+      },
+      "code": {
+        "id": "AZ30900002",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ30800001",
+      "name": {
+        "local": "Abşeron",
+        "en": "Absheron",
+        "slug": "absheron-az30800001"
+      },
+      "code": {
+        "id": "AZ30800001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ30600001",
+      "name": {
+        "local": "Xızı",
+        "en": "Khizy",
+        "slug": "khizy-az30600001"
+      },
+      "code": {
+        "id": "AZ30600001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ60700001",
+      "name": {
+        "local": "Beyləqan",
+        "en": "Beylagan",
+        "slug": "beylagan-az60700001"
+      },
+      "code": {
+        "id": "AZ60700001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ80700001",
+      "name": {
+        "local": "Neftçala",
+        "en": "Neftchala",
+        "slug": "neftchala-az80700001"
+      },
+      "code": {
+        "id": "AZ80700001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ90400001",
+      "name": {
+        "local": "Ucar",
+        "en": "Ujar",
+        "slug": "ujar-az90400001"
+      },
+      "code": {
+        "id": "AZ90400001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ90800001",
+      "name": {
+        "local": "Saatlı",
+        "en": "Saatly",
+        "slug": "saatly-az90800001"
+      },
+      "code": {
+        "id": "AZ90800001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ61000001",
+      "name": {
+        "local": "Bərdə",
+        "en": "Barda",
+        "slug": "barda-az61000001"
+      },
+      "code": {
+        "id": "AZ61000001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ90300001",
+      "name": {
+        "local": "Ağdaş",
+        "en": "Agdash",
+        "slug": "agdash-az90300001"
+      },
+      "code": {
+        "id": "AZ90300001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ90500001",
+      "name": {
+        "local": "Zərdab",
+        "en": "Zardab",
+        "slug": "zardab-az90500001"
+      },
+      "code": {
+        "id": "AZ90500001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ90200002",
+      "name": {
+        "local": "Mingəçevir",
+        "en": "Mingechevir",
+        "slug": "mingechevir-az90200002"
+      },
+      "code": {
+        "id": "AZ90200002",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ91100002",
+      "name": {
+        "local": "Şirvan",
+        "en": "Shirvan",
+        "slug": "shirvan-az91100002"
+      },
+      "code": {
+        "id": "AZ91100002",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ90900001",
+      "name": {
+        "local": "Sabirabad",
+        "en": "Sabirabad",
+        "slug": "sabirabad-az90900001"
+      },
+      "code": {
+        "id": "AZ90900001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ80800001",
+      "name": {
+        "local": "Biləsuvar",
+        "en": "Bilasuvar",
+        "slug": "bilasuvar-az80800001"
+      },
+      "code": {
+        "id": "AZ80800001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ60800001",
+      "name": {
+        "local": "Ağcabədi",
+        "en": "Agdjabadi",
+        "slug": "agdjabadi-az60800001"
+      },
+      "code": {
+        "id": "AZ60800001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ80900001",
+      "name": {
+        "local": "Salyan",
+        "en": "Salyan",
+        "slug": "salyan-az80900001"
+      },
+      "code": {
+        "id": "AZ80900001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ91000001",
+      "name": {
+        "local": "Hacıqabul",
+        "en": "Hajigabul",
+        "slug": "hajigabul-az91000001"
+      },
+      "code": {
+        "id": "AZ91000001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ90700001",
+      "name": {
+        "local": "İmişli",
+        "en": "Imishly",
+        "slug": "imishly-az90700001"
+      },
+      "code": {
+        "id": "AZ90700001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ90600001",
+      "name": {
+        "local": "Kürdəmir",
+        "en": "Kurdamir",
+        "slug": "kurdamir-az90600001"
+      },
+      "code": {
+        "id": "AZ90600001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ40800001",
+      "name": {
+        "local": "Göyçay",
+        "en": "Goychay",
+        "slug": "goychay-az40800001"
+      },
+      "code": {
+        "id": "AZ40800001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ90101002",
+      "name": {
+        "local": "Yevlax",
+        "en": "Yevlakh",
+        "slug": "yevlakh-az90101002"
+      },
+      "code": {
+        "id": "AZ90101002",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ00000003",
+      "name": {
+        "local": "Bakı",
+        "en": "Baku",
+        "slug": "baku-az00000003"
+      },
+      "code": {
+        "id": "AZ00000003",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ50800001",
+      "name": {
+        "local": "Göygöl",
+        "en": "Goygol",
+        "slug": "goygol-az50800001"
+      },
+      "code": {
+        "id": "AZ50800001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ50700001",
+      "name": {
+        "local": "Samux",
+        "en": "Samukh",
+        "slug": "samukh-az50700001"
+      },
+      "code": {
+        "id": "AZ50700001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ50200001",
+      "name": {
+        "local": "Ağstafa",
+        "en": "Aghstafa",
+        "slug": "aghstafa-az50200001"
+      },
+      "code": {
+        "id": "AZ50200001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ20000002",
+      "name": {
+        "local": "Gəncə",
+        "en": "Ganja",
+        "slug": "ganja-az20000002"
+      },
+      "code": {
+        "id": "AZ20000002",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ51000002",
+      "name": {
+        "local": "Naftalan",
+        "en": "Naftalan",
+        "slug": "naftalan-az51000002"
+      },
+      "code": {
+        "id": "AZ51000002",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ50100001",
+      "name": {
+        "local": "Qazax",
+        "en": "Gazakh",
+        "slug": "gazakh-az50100001"
+      },
+      "code": {
+        "id": "AZ50100001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ50900001",
+      "name": {
+        "local": "Goranboy",
+        "en": "Goranboy",
+        "slug": "goranboy-az50900001"
+      },
+      "code": {
+        "id": "AZ50900001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ50500001",
+      "name": {
+        "local": "Gədəbəy",
+        "en": "Gadabay",
+        "slug": "gadabay-az50500001"
+      },
+      "code": {
+        "id": "AZ50500001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ50400001",
+      "name": {
+        "local": "Şəmkir",
+        "en": "Shamkir",
+        "slug": "shamkir-az50400001"
+      },
+      "code": {
+        "id": "AZ50400001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ50300001",
+      "name": {
+        "local": "Tovuz",
+        "en": "Tovuz",
+        "slug": "tovuz-az50300001"
+      },
+      "code": {
+        "id": "AZ50300001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ50600001",
+      "name": {
+        "local": "Daşkəsən",
+        "en": "Dashkasan",
+        "slug": "dashkasan-az50600001"
+      },
+      "code": {
+        "id": "AZ50600001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ60400001",
+      "name": {
+        "local": "Zəngilan",
+        "en": "Zangilan",
+        "slug": "zangilan-az60400001"
+      },
+      "code": {
+        "id": "AZ60400001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ60200001",
+      "name": {
+        "local": "Laçın",
+        "en": "Lachin",
+        "slug": "lachin-az60200001"
+      },
+      "code": {
+        "id": "AZ60200001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ60100001",
+      "name": {
+        "local": "Kəlbəcər",
+        "en": "Kalbajar",
+        "slug": "kalbajar-az60100001"
+      },
+      "code": {
+        "id": "AZ60100001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ60300001",
+      "name": {
+        "local": "Qubadlı",
+        "en": "Gubadly",
+        "slug": "gubadly-az60300001"
+      },
+      "code": {
+        "id": "AZ60300001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ80201002",
+      "name": {
+        "local": "Lənkəran",
+        "en": "Lankaran",
+        "slug": "lankaran-az80201002"
+      },
+      "code": {
+        "id": "AZ80201002",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ80300001",
+      "name": {
+        "local": "Lerik",
+        "en": "Lerik",
+        "slug": "lerik-az80300001"
+      },
+      "code": {
+        "id": "AZ80300001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ80400001",
+      "name": {
+        "local": "Yardımlı",
+        "en": "Yardimly",
+        "slug": "yardimly-az80400001"
+      },
+      "code": {
+        "id": "AZ80400001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ80500001",
+      "name": {
+        "local": "Masallı",
+        "en": "Masally",
+        "slug": "masally-az80500001"
+      },
+      "code": {
+        "id": "AZ80500001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ80100001",
+      "name": {
+        "local": "Astara",
+        "en": "Astara",
+        "slug": "astara-az80100001"
+      },
+      "code": {
+        "id": "AZ80100001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ80600001",
+      "name": {
+        "local": "Cəlilabad",
+        "en": "Jalilabad",
+        "slug": "jalilabad-az80600001"
+      },
+      "code": {
+        "id": "AZ80600001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ30700001",
+      "name": {
+        "local": "Qobustan",
+        "en": "Gobustan",
+        "slug": "gobustan-az30700001"
+      },
+      "code": {
+        "id": "AZ30700001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ40700001",
+      "name": {
+        "local": "İsmayıllı",
+        "en": "Ismayilly",
+        "slug": "ismayilly-az40700001"
+      },
+      "code": {
+        "id": "AZ40700001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ40900001",
+      "name": {
+        "local": "Ağsu",
+        "en": "Aghsu",
+        "slug": "aghsu-az40900001"
+      },
+      "code": {
+        "id": "AZ40900001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ41000001",
+      "name": {
+        "local": "Şamaxı",
+        "en": "Shamakhy",
+        "slug": "shamakhy-az41000001"
+      },
+      "code": {
+        "id": "AZ41000001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ10500001",
+      "name": {
+        "local": "Şahbuz",
+        "en": "Shahbuz",
+        "slug": "shahbuz-az10500001"
+      },
+      "code": {
+        "id": "AZ10500001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ10600001",
+      "name": {
+        "local": "Culfa",
+        "en": "Julfa",
+        "slug": "julfa-az10600001"
+      },
+      "code": {
+        "id": "AZ10600001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ10100001",
+      "name": {
+        "local": "Sədərək",
+        "en": "Sadarak",
+        "slug": "sadarak-az10100001"
+      },
+      "code": {
+        "id": "AZ10100001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ10300001",
+      "name": {
+        "local": "Babək",
+        "en": "Babek",
+        "slug": "babek-az10300001"
+      },
+      "code": {
+        "id": "AZ10300001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ10700001",
+      "name": {
+        "local": "Ordubad",
+        "en": "Ordubad",
+        "slug": "ordubad-az10700001"
+      },
+      "code": {
+        "id": "AZ10700001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ10800001",
+      "name": {
+        "local": "Kəngərli",
+        "en": "Kengerli",
+        "slug": "kengerli-az10800001"
+      },
+      "code": {
+        "id": "AZ10800001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ10400002",
+      "name": {
+        "local": "Naxçıvan",
+        "en": "Nakhchivan",
+        "slug": "nakhchivan-az10400002"
+      },
+      "code": {
+        "id": "AZ10400002",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ10200001",
+      "name": {
+        "local": "Şərur",
+        "en": "Sharur",
+        "slug": "sharur-az10200001"
+      },
+      "code": {
+        "id": "AZ10200001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ30200001",
+      "name": {
+        "local": "Xaçmaz",
+        "en": "Khachmaz",
+        "slug": "khachmaz-az30200001"
+      },
+      "code": {
+        "id": "AZ30200001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ30500001",
+      "name": {
+        "local": "Siyəzən",
+        "en": "Siyazan",
+        "slug": "siyazan-az30500001"
+      },
+      "code": {
+        "id": "AZ30500001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ30300001",
+      "name": {
+        "local": "Quba",
+        "en": "Guba",
+        "slug": "guba-az30300001"
+      },
+      "code": {
+        "id": "AZ30300001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ30100001",
+      "name": {
+        "local": "Qusar",
+        "en": "Gusar",
+        "slug": "gusar-az30100001"
+      },
+      "code": {
+        "id": "AZ30100001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ30400001",
+      "name": {
+        "local": "Şabran",
+        "en": "Shabran",
+        "slug": "shabran-az30400001"
+      },
+      "code": {
+        "id": "AZ30400001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ40100001",
+      "name": {
+        "local": "Balakən",
+        "en": "Balakan",
+        "slug": "balakan-az40100001"
+      },
+      "code": {
+        "id": "AZ40100001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ40401002",
+      "name": {
+        "local": "Şəki",
+        "en": "Shaki",
+        "slug": "shaki-az40401002"
+      },
+      "code": {
+        "id": "AZ40401002",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ40600001",
+      "name": {
+        "local": "Qəbələ",
+        "en": "Gabala",
+        "slug": "gabala-az40600001"
+      },
+      "code": {
+        "id": "AZ40600001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ40300001",
+      "name": {
+        "local": "Qax",
+        "en": "Gakh",
+        "slug": "gakh-az40300001"
+      },
+      "code": {
+        "id": "AZ40300001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ40200001",
+      "name": {
+        "local": "Zaqatala",
+        "en": "Zagatala",
+        "slug": "zagatala-az40200001"
+      },
+      "code": {
+        "id": "AZ40200001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ40500001",
+      "name": {
+        "local": "Oğuz",
+        "en": "Oghuz",
+        "slug": "oghuz-az40500001"
+      },
+      "code": {
+        "id": "AZ40500001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ60600001",
+      "name": {
+        "local": "Füzuli",
+        "en": "Fuzuli",
+        "slug": "fuzuli-az60600001"
+      },
+      "code": {
+        "id": "AZ60600001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ70200001",
+      "name": {
+        "local": "Şuşa",
+        "en": "Shusha",
+        "slug": "shusha-az70200001"
+      },
+      "code": {
+        "id": "AZ70200001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ61100001",
+      "name": {
+        "local": "Tərtər",
+        "en": "Tartar",
+        "slug": "tartar-az61100001"
+      },
+      "code": {
+        "id": "AZ61100001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ70300001",
+      "name": {
+        "local": "Xocavənd",
+        "en": "Khojavand",
+        "slug": "khojavand-az70300001"
+      },
+      "code": {
+        "id": "AZ70300001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ60900001",
+      "name": {
+        "local": "Ağdam",
+        "en": "Aghdam",
+        "slug": "aghdam-az60900001"
+      },
+      "code": {
+        "id": "AZ60900001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ70100001",
+      "name": {
+        "local": "Xocalı",
+        "en": "Khojaly",
+        "slug": "khojaly-az70100001"
+      },
+      "code": {
+        "id": "AZ70100001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ60500001",
+      "name": {
+        "local": "Cəbrayıl",
+        "en": "Jabrayil",
+        "slug": "jabrayil-az60500001"
+      },
+      "code": {
+        "id": "AZ60500001",
+        "iso": null
+      }
+    },
+    {
+      "id": "AZ70400002",
+      "name": {
+        "local": "Xankəndi",
+        "en": "Khankendi",
+        "slug": "khankendi-az70400002"
+      },
+      "code": {
+        "id": "AZ70400002",
+        "iso": null
+      }
+    }
+  ]
+}

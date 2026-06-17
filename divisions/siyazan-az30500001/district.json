@@ -1,0 +1,31 @@
+{
+  "id": "AZ30500001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Siyəzən",
+    "en": "Siyazan",
+    "slug": "siyazan-az30500001"
+  },
+  "code": {
+    "id": "AZ30500001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.03",
+    "lon": "49.049"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/siyazan-az30500001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

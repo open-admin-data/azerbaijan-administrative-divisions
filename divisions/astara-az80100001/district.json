@@ -1,0 +1,31 @@
+{
+  "id": "AZ80100001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Astara",
+    "en": "Astara",
+    "slug": "astara-az80100001"
+  },
+  "code": {
+    "id": "AZ80100001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.501",
+    "lon": "48.717"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/astara-az80100001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

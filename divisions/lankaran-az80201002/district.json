@@ -1,0 +1,31 @@
+{
+  "id": "AZ80201002",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lənkəran",
+    "en": "Lankaran",
+    "slug": "lankaran-az80201002"
+  },
+  "code": {
+    "id": "AZ80201002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.736",
+    "lon": "48.767"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/lankaran-az80201002/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}

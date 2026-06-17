@@ -1,0 +1,31 @@
+{
+  "id": "AZ50200001",
+  "level": 1,
+  "level_name": {
+    "local": "Rayon",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ağstafa",
+    "en": "Aghstafa",
+    "slug": "aghstafa-az50200001"
+  },
+  "code": {
+    "id": "AZ50200001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.218",
+    "lon": "45.567"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/az/districts/aghstafa-az50200001/",
+    "api": "https://openadmindata.org/api/az/"
+  }
+}
